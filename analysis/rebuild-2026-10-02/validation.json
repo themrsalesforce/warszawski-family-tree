@@ -1,0 +1,53 @@
+{
+  "page_count": 200,
+  "baseline_pages": 236,
+  "reduction": 36,
+  "register_entries": 183,
+  "household_entries": 57,
+  "graph_nodes": 61,
+  "coverage_pass": true,
+  "contents_targets": [
+    3,
+    5,
+    14,
+    24,
+    35,
+    42,
+    49,
+    61,
+    87,
+    99,
+    135,
+    144,
+    153,
+    174,
+    194
+  ],
+  "contents_hotspots_exact": true,
+  "duplicate_ids": {
+    "persons": [],
+    "open_questions": [],
+    "research_leads": []
+  },
+  "bad_links": [],
+  "out_of_page_text": [],
+  "reading_print_text_difference_pages": [],
+  "overlap_candidates": [],
+  "fonts": {
+    "Reading": {
+      "all_fonts_embedded": true,
+      "font_rows": 18,
+      "poppler_output": "name                                 type              encoding         emb sub uni object ID\n------------------------------------ ----------------- ---------------- --- --- --- ---------\nAAAAAA+OpenSans                      TrueType          WinAnsi          yes yes yes      3  0\nCharterBT-Italic                     Type 1            WinAnsi          yes no  no       7  0\nCharterBT-Roman                      Type 1            WinAnsi          yes no  no      10  0\nAAAAAA+OpenSans-Light                TrueType          WinAnsi          yes yes yes     13  0\nOpen Sans Light                      CID TrueType      Identity-H       yes no  yes    805  0\nCharterBT-Roman                      Type 1            WinAnsi          yes no  no      44  0\nAAAAAA+OpenSans-Light                TrueType          WinAnsi          yes yes yes    202  0\nCharterBT-Roman                      Type 1            WinAnsi          yes no  no      21  0\nAAAAAA+OpenSans                      TrueType          WinAnsi          yes yes yes    105  0\nCharterBT-Italic                     Type 1            WinAnsi          yes no  no     109  0\nAAAAAA+OpenSans-Light                TrueType          WinAnsi          yes yes yes    110  0\nAAAAAA+OpenSans-Light                TrueType          WinAnsi          yes yes yes    119  0\nCharterBT-Bold                       Type 1            WinAnsi          yes no  no     125  0\nAAAAAA+OpenSans-Light                TrueType          WinAnsi          yes yes yes    129  0\nCharterBT-Bold                       Type 1            WinAnsi          yes no  no     203  0\nAAAAAA+OpenSans                      TrueType          WinAnsi          yes yes yes    489  0\nCharterBT-Italic                     Type 1            WinAnsi          yes no  no     497  0\nAAAAAA+OpenSans-Light                TrueType          WinAnsi          yes yes yes    493  0\n"
+    },
+    "Print": {
+      "all_fonts_embedded": true,
+      "font_rows": 19,
+      "poppler_output": "name                                 type              encoding         emb sub uni object ID\n------------------------------------ ----------------- ---------------- --- --- --- ---------\nOpen Sans Light                      CID TrueType      Identity-H       yes no  yes     28  0\nAAAAAA+OpenSans                      TrueType          WinAnsi          yes yes yes      6  0\nCharterBT-Italic                     Type 1            WinAnsi          yes no  no      10  0\nCharterBT-Roman                      Type 1            WinAnsi          yes no  no      13  0\nAAAAAA+OpenSans-Light                TrueType          WinAnsi          yes yes yes     16  0\nOpen Sans Light                      CID TrueType      Identity-H       yes no  yes     49  0\nCharterBT-Roman                      Type 1            WinAnsi          yes no  no      58  0\nAAAAAA+OpenSans-Light                TrueType          WinAnsi          yes yes yes     59  0\nCharterBT-Roman                      Type 1            WinAnsi          yes no  no     132  0\nAAAAAA+OpenSans                      TrueType          WinAnsi          yes yes yes    336  0\nCharterBT-Italic                     Type 1            WinAnsi          yes no  no     340  0\nAAAAAA+OpenSans-Light                TrueType          WinAnsi          yes yes yes    341  0\nAAAAAA+OpenSans-Light                TrueType          WinAnsi          yes yes yes    138  0\nCharterBT-Bold                       Type 1            WinAnsi          yes no  no     135  0\nAAAAAA+OpenSans-Light                TrueType          WinAnsi          yes yes yes    412  0\nCharterBT-Bold                       Type 1            WinAnsi          yes no  no     648  0\nAAAAAA+OpenSans                      TrueType          WinAnsi          yes yes yes    950  0\nCharterBT-Italic                     Type 1            WinAnsi          yes no  no     958  0\nAAAAAA+OpenSans-Light                TrueType          WinAnsi          yes yes yes    954  0\n"
+    }
+  },
+  "rendered_reading_pages": 200,
+  "rendered_print_pages": 200,
+  "physical_printer_proof": "Not performed",
+  "source_permissions": "Unresolved where indicated; this is a private family review edition",
+  "precise_Ilana_birth_field": "Deliberately blank pending owner review"
+}

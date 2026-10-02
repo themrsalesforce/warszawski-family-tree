@@ -1,0 +1,798 @@
+[
+  {
+    "name": "Joe Warszawski and Lori (Leah) Warszawski",
+    "text": "Core family\nChildren recorded: Ilana Marinovsky; Aliya Andrusier; Shoshy (Shoshana) Chaikin; Yechiel Warszawski;\nMaimi Inglis; Shimon Warszawski; Chaya Brocha Katz; Simcha Warszawski; Hadassa Miriam Hirsch.\nSources: S013, S015, S017, S019, S011, S012, S024, S008, S020, S035, S032, S033, S009, S010, S014, S016, S018, S021, S022,\nS023, S056, S030, S072, S007, S051, S001, S002, S004, S005",
+    "classification": "Core family",
+    "id": "H001",
+    "baseline_name": "Joe Warszawski and Lori (Leah) Warszawski",
+    "baseline_page": 152,
+    "source_ids": [
+      "S001",
+      "S002",
+      "S004",
+      "S005",
+      "S007",
+      "S008",
+      "S009",
+      "S010",
+      "S011",
+      "S012",
+      "S013",
+      "S014",
+      "S015",
+      "S016",
+      "S017",
+      "S018",
+      "S019",
+      "S020",
+      "S021",
+      "S022",
+      "S023",
+      "S024",
+      "S030",
+      "S032",
+      "S033",
+      "S035",
+      "S051",
+      "S056",
+      "S072"
+    ]
+  },
+  {
+    "name": "Berta (Bertha) Warszawski and Szyman (Shimon) Warszawski",
+    "text": "Core family\nChildren recorded: Joe Warszawski.\nBerta’s birth surname Zelkind is documented by her father’s notice.\nSources: S013, S043, S035, S032, S033, S031, S034, S009, S010, S016, S058, S056, S057, S030, S073, S068, S072, S071, S007,\nS052, S040, S050, S001, S004, S005, S042",
+    "classification": "Core family",
+    "id": "H002",
+    "baseline_name": "Berta (Bertha) Warszawski and Szyman (Shimon) Warszawski",
+    "baseline_page": 152,
+    "source_ids": [
+      "S001",
+      "S004",
+      "S005",
+      "S007",
+      "S009",
+      "S010",
+      "S013",
+      "S016",
+      "S030",
+      "S031",
+      "S032",
+      "S033",
+      "S034",
+      "S035",
+      "S040",
+      "S042",
+      "S043",
+      "S050",
+      "S052",
+      "S056",
+      "S057",
+      "S058",
+      "S068",
+      "S071",
+      "S072",
+      "S073"
+    ]
+  },
+  {
+    "name": "Lawrence (Larry) Hersh and Ileen (Ilene, Gabby) Hersh",
+    "text": "Core family\nChildren recorded: Lori (Leah) Warszawski; Susanne Greenberg; Marcy Hirsch.\nSources: S036, S032, S033, S066, S030, S039, S037, S062, S065, S038, S069, S051, S064, S001, S004, S006, S089, S042",
+    "classification": "Core family",
+    "id": "H003",
+    "baseline_name": "Lawrence (Larry) Hersh and Ileen (Ilene, Gabby) Hersh",
+    "baseline_page": 152,
+    "source_ids": [
+      "S001",
+      "S004",
+      "S006",
+      "S030",
+      "S032",
+      "S033",
+      "S036",
+      "S037",
+      "S038",
+      "S039",
+      "S042",
+      "S051",
+      "S062",
+      "S064",
+      "S065",
+      "S066",
+      "S069",
+      "S089"
+    ]
+  },
+  {
+    "name": "Ilana Marinovsky and Shmaya Marinovsky",
+    "text": "Core family · family knowledge\nChildren recorded: Molly Marinovsky; Rocky Marinovsky; Isaac Marinovsky; Bella Marinovsky.\nNo public engagement or wedding notice found yet.\nSources: S030\nWedding on 28 February 2012 is family-reported [S030, S001]; an original announcement remains unidentified.",
+    "classification": "Core family · family knowledge",
+    "id": "H004",
+    "baseline_name": "Ilana Marinovsky and Shmaya Marinovsky",
+    "baseline_page": 153,
+    "source_ids": [
+      "S001",
+      "S030"
+    ]
+  },
+  {
+    "name": "Aliya Andrusier and Shmuel Yaakov Andrusier",
+    "text": "Core family · family knowledge\nChildren recorded: Ari Andrusier; Sholom Andrusier; Chana Andrusier.\nSources: S009, S030, S105, S001",
+    "classification": "Core family · family knowledge",
+    "id": "H005",
+    "baseline_name": "Aliya Andrusier and Shmuel Yaakov Andrusier",
+    "baseline_page": 153,
+    "source_ids": [
+      "S001",
+      "S009",
+      "S030",
+      "S105"
+    ]
+  },
+  {
+    "name": "Shoshy (Shoshana) Chaikin and Shmuel Chaikin",
+    "text": "Core family\nChildren recorded: Ella Chaikin; Abie Chaikin; Mika Chaikin.\nElla, Abie and Mika in the order the family listed them; not a confirmed birth order.\nSources: S030",
+    "classification": "Core family",
+    "id": "H006",
+    "baseline_name": "Shoshy (Shoshana) Chaikin and Shmuel Chaikin",
+    "baseline_page": 153,
+    "source_ids": [
+      "S030"
+    ]
+  },
+  {
+    "name": "Maimi Inglis and Dovid Inglis",
+    "text": "Core family · family knowledge\nChildren recorded: Noah Inglis.\nMaimi is the fifth of Joe and Lori’s nine children, confirmed by the family on 1 October 2026.\nSources: S020, S022, S030, S105, S002, S001",
+    "classification": "Core family · family knowledge",
+    "id": "H007",
+    "baseline_name": "Maimi Inglis and Dovid Inglis",
+    "baseline_page": 153,
+    "source_ids": [
+      "S001",
+      "S002",
+      "S020",
+      "S022",
+      "S030",
+      "S105"
+    ]
+  },
+  {
+    "name": "Shimon Warszawski and Mushky Warszawski",
+    "text": "Core family · family knowledge\nChildren recorded: Yisrael Warszawski; Sarah Warszawski; Menachem Warszawski.\nOther children not found in public notices.\nSources: S030",
+    "classification": "Core family · family knowledge",
+    "id": "H008",
+    "baseline_name": "Shimon Warszawski and Mushky Warszawski",
+    "baseline_page": 154,
+    "source_ids": [
+      "S030"
+    ]
+  },
+  {
+    "name": "Chaya Brocha Katz and Dovi Katz",
+    "text": "Core family\nChildren recorded: Nesya Katz.\nBaby girl announcement, 3 December 2025 [S024]; identification with this household and Nesya remains unconfirmed. The unnamed notice is not an additional child.\nSources: S024 (unnamed announcement); S030, S105 (Nesya, family roster).",
+    "classification": "Core family",
+    "id": "H009",
+    "baseline_name": "Chaya Brocha Katz and Dovi Katz",
+    "baseline_page": 154,
+    "source_ids": [
+      "S024",
+      "S030",
+      "S105"
+    ]
+  },
+  {
+    "name": "Hadassa Miriam Hirsch and Doni Hirsch",
+    "text": "Core family · family knowledge\nChildren recorded: Baila Hirsch; Shaina Hirsch.\nLori is Laurel Ruth Hersh in the contemporary notice; Hirsch is a reported family variant. No family link between the two Hirsch families is assumed.\nSources: S015; S030, S105 (children); S032 (Lori name).",
+    "classification": "Core family · family knowledge",
+    "id": "H010",
+    "baseline_name": "Hadassa Miriam Hirsch and Doni Hirsch",
+    "baseline_page": 154,
+    "source_ids": [
+      "S015",
+      "S030",
+      "S032",
+      "S105"
+    ]
+  },
+  {
+    "name": "Mordechi (Mordechai) Zelkind and Elka Zelkind",
+    "text": "Core family\nChildren recorded: Berta (Bertha) Warszawski; Gail Zelkind; Maria Komisarchik; Celya Elin.\nSources: S043, S044, S045, S046, S033, S031, S034, S058, S030, S071, S054, S055, S053, S052, S041, S050, S004, S042",
+    "classification": "Core family",
+    "id": "H011",
+    "baseline_name": "Mordechi (Mordechai) Zelkind and Elka Zelkind",
+    "baseline_page": 154,
+    "source_ids": [
+      "S004",
+      "S030",
+      "S031",
+      "S033",
+      "S034",
+      "S041",
+      "S042",
+      "S043",
+      "S044",
+      "S045",
+      "S046",
+      "S050",
+      "S052",
+      "S053",
+      "S054",
+      "S055",
+      "S058",
+      "S071"
+    ]
+  },
+  {
+    "name": "Susanne Greenberg and Seth Greenberg",
+    "text": "Core family · obituary household allocation\nChildren recorded: Koby Greenberg; Dylan Greenberg.\nSources: S030, S051",
+    "classification": "Core family · obituary household allocation",
+    "id": "H012",
+    "baseline_name": "Susanne Greenberg and Seth Greenberg",
+    "baseline_page": 155,
+    "source_ids": [
+      "S030",
+      "S051"
+    ]
+  },
+  {
+    "name": "Victor Garson and Pearl (Adelstein) Garson",
+    "text": "Core family\nChildren recorded: Rosamond (Garson) Simon; Ileen (Ilene, Gabby) Hersh; Rochelle (Garson) Horwich.\nSources: S070 (daughters and reported births); S064, S102 (later married-name notices); S063/W01 (marriage only)",
+    "classification": "Core family",
+    "id": "H013",
+    "baseline_name": "Victor Garson and Pearl (Adelstein) Garson",
+    "baseline_page": 155,
+    "source_ids": [
+      "S063",
+      "S064",
+      "S070",
+      "S102",
+      "W01"
+    ]
+  },
+  {
+    "name": "Solomon and Rachael",
+    "text": "Victor’s parents · Their surnames are not established\nChildren recorded: Victor Garson.\nSources: S101, S102, S066, S070, S067, S062, S063, S064",
+    "classification": "Victor’s parents · Their surnames are not established",
+    "id": "H014",
+    "baseline_name": "Solomon and Rachael",
+    "baseline_page": 155,
+    "source_ids": [
+      "S062",
+      "S063",
+      "S064",
+      "S066",
+      "S067",
+      "S070",
+      "S101",
+      "S102"
+    ]
+  },
+  {
+    "name": "Auguste Garson and Francoise Armandine Goujot",
+    "text": "Unlinked research household · co parents marriage not established\nChildren recorded: Armandine Garson.\nSources: S084, S090, S085",
+    "classification": "Unlinked research household · co parents marriage not established",
+    "id": "H015",
+    "baseline_name": "Auguste Garson and Francoise Armandine Goujot",
+    "baseline_page": 155,
+    "source_ids": [
+      "S084",
+      "S085",
+      "S090"
+    ]
+  },
+  {
+    "name": "Charles Alphonse Garson and Juliette Honorine Boclin",
+    "text": "Unlinked research household\nChildren recorded: Marcel Alphonse Garson.\nSources: S082",
+    "classification": "Unlinked research household",
+    "id": "H016",
+    "baseline_name": "Charles Alphonse Garson and Juliette Honorine Boclin",
+    "baseline_page": 155,
+    "source_ids": [
+      "S082"
+    ]
+  },
+  {
+    "name": "Marius Gabriel Garson and Marie Guden",
+    "text": "Unlinked research household\nChildren recorded: Aline Garson.\nSources: S083, S104",
+    "classification": "Unlinked research household",
+    "id": "H017",
+    "baseline_name": "Marius Gabriel Garson and Marie Guden",
+    "baseline_page": 156,
+    "source_ids": [
+      "S083",
+      "S104"
+    ]
+  },
+  {
+    "name": "Aline Garson and Edouard Adolphe Godenne",
+    "text": "Unlinked research household\nChildren recorded: none supplied for this group.\nSources: S083, S104",
+    "classification": "Unlinked research household",
+    "id": "H018",
+    "baseline_name": "Aline Garson and Edouard Adolphe Godenne",
+    "baseline_page": 156,
+    "source_ids": [
+      "S083",
+      "S104"
+    ]
+  },
+  {
+    "name": "Leon Jules Garson and Marie Marthe Therese Rollet",
+    "text": "Unlinked research household\nChildren recorded: none supplied for this group.\nSources: S080",
+    "classification": "Unlinked research household",
+    "id": "H019",
+    "baseline_name": "Leon Jules Garson and Marie Marthe Therese Rollet",
+    "baseline_page": 156,
+    "source_ids": [
+      "S080"
+    ]
+  },
+  {
+    "name": "Jacob (Judith's 1949 abstract; Larry's father by sibling evidence) and Leah / Lee Yanowitz (Judith's 1949 abstract; combined sibling evidence)",
+    "text": "Core family\nChildren recorded: Lawrence (Larry) Hersh; Judith Dratler (nee Herskowitz) - 'Judy'.\nThree further daughters (names not given in the 1984 interview, all younger than Larry, one younger than\nJudy) perished with their parents; recorded on the parents' facts, no stub persons.\nSources: S036, S032, S033, S103, S066, S030, S039, S037, S038, S069, S051, S006, S089, S042\nJudith's 1949 marriage abstract names her father Jacob and gives her mother's maiden name as Lee Yanowitz. Her 2025 obituary explicitly names Lawrence Hersh as her brother; together these support Larry's parental names, with Lee/Leah and Yanowitz/Janowitz variants retained. The uncle and lost sisters remain unidentified [S132, S103, S089].",
+    "classification": "Core family",
+    "id": "H020",
+    "baseline_name": "Mr. Hersh(kovitz) of Khust (Larry's father) and Leah Hersh nee Janowitz (Larry's mother)",
+    "baseline_page": 156,
+    "source_ids": [
+      "S006",
+      "S030",
+      "S032",
+      "S033",
+      "S036",
+      "S037",
+      "S038",
+      "S039",
+      "S042",
+      "S051",
+      "S066",
+      "S069",
+      "S089",
+      "S103",
+      "S132"
+    ]
+  },
+  {
+    "name": "Jacques Desire Garson (I) and Marie Elisabeth Gauthier",
+    "text": "Unlinked research household\nChildren recorded: Marie Francoise Julienne Garson.\nSources: S094",
+    "classification": "Unlinked research household",
+    "id": "H021",
+    "baseline_name": "Jacques Desire Garson (I) and Marie Elisabeth Gauthier",
+    "baseline_page": 157,
+    "source_ids": [
+      "S094"
+    ]
+  },
+  {
+    "name": "Jacques Desire Garson (II) and Catherine Fournier",
+    "text": "Unlinked research household\nChildren recorded: none supplied for this group.\nSources: S094",
+    "classification": "Unlinked research household",
+    "id": "H022",
+    "baseline_name": "Jacques Desire Garson (II) and Catherine Fournier",
+    "baseline_page": 157,
+    "source_ids": [
+      "S094"
+    ]
+  },
+  {
+    "name": "Charles Mathurin Poytreneaut and Marie Francoise Julienne Garson",
+    "text": "Unlinked research household\nChildren recorded: none supplied for this group.\nSources: S094",
+    "classification": "Unlinked research household",
+    "id": "H023",
+    "baseline_name": "Charles Mathurin Poytreneaut and Marie Francoise Julienne Garson",
+    "baseline_page": 157,
+    "source_ids": [
+      "S094"
+    ]
+  },
+  {
+    "name": "Ferdinand Garson and Marie Louise Gertrude Bezerat",
+    "text": "Unlinked research household\nChildren recorded: Hippolyte Garson; Clarisse Garson; Sophie Garson; Germain Garson; Louise Garson\n(1832); Adelaide Garson.\nSources: S094",
+    "classification": "Unlinked research household",
+    "id": "H024",
+    "baseline_name": "Ferdinand Garson and Marie Louise Gertrude Bezerat",
+    "baseline_page": 157,
+    "source_ids": [
+      "S094"
+    ]
+  },
+  {
+    "name": "Eugene Garson and Virginie Gouillard",
+    "text": "Unlinked research household\nChildren recorded: Eugene Garson (fils); Napoleon Garson.\nSources: S094, S093",
+    "classification": "Unlinked research household",
+    "id": "H025",
+    "baseline_name": "Eugene Garson and Virginie Gouillard",
+    "baseline_page": 157,
+    "source_ids": [
+      "S093",
+      "S094"
+    ]
+  },
+  {
+    "name": "Jacques Louis Garson and Adele (Augustine) Albert",
+    "text": "Unlinked research household\nChildren recorded: Augustine Aline Garson; Adele Augustine Garson; Louis Jacques Garson (1847); Adele\nGarson (1849, Fontenay); Adele Marie Garson; Louise Garson (1852).\nSources: S095, S096, S094",
+    "classification": "Unlinked research household",
+    "id": "H026",
+    "baseline_name": "Jacques Louis Garson and Adele (Augustine) Albert",
+    "baseline_page": 158,
+    "source_ids": [
+      "S094",
+      "S095",
+      "S096"
+    ]
+  },
+  {
+    "name": "Desire Lamoureux Garson and Marie Francoise Zoe Vallois",
+    "text": "Unlinked research household\nChildren recorded: Louise Zoe Garson; Eugenie Garson.\nSources: S097, S094, S106",
+    "classification": "Unlinked research household",
+    "id": "H027",
+    "baseline_name": "Desire Lamoureux Garson and Marie Francoise Zoe Vallois",
+    "baseline_page": 158,
+    "source_ids": [
+      "S094",
+      "S097",
+      "S106"
+    ]
+  },
+  {
+    "name": "Desire Lamoureux Garson and Hyppolite Barbe Julie Sauvage",
+    "text": "Unlinked research household\nChildren recorded: Desire Garson (fils); Louise Garson (1837); Augustine Garson (1843); Adeline Garson;\nAdele Garson (1849, Tigery).\nSources: S106",
+    "classification": "Unlinked research household",
+    "id": "H028",
+    "baseline_name": "Desire Lamoureux Garson and Hyppolite Barbe Julie Sauvage",
+    "baseline_page": 158,
+    "source_ids": [
+      "S106"
+    ]
+  },
+  {
+    "name": "Barthelemy Lahire and Louise Zoe Garson",
+    "text": "Unlinked research household\nChildren recorded: none supplied for this group.\nSources: S094",
+    "classification": "Unlinked research household",
+    "id": "H029",
+    "baseline_name": "Barthelemy Lahire and Louise Zoe Garson",
+    "baseline_page": 158,
+    "source_ids": [
+      "S094"
+    ]
+  },
+  {
+    "name": "Jean Charles Rousseau and Eugenie Garson",
+    "text": "Unlinked research household\nChildren recorded: none supplied for this group.\nSources: S094",
+    "classification": "Unlinked research household",
+    "id": "H030",
+    "baseline_name": "Jean Charles Rousseau and Eugenie Garson",
+    "baseline_page": 158,
+    "source_ids": [
+      "S094"
+    ]
+  },
+  {
+    "name": "Antoine Auguste Forret and Louise Garson (1837)",
+    "text": "Unlinked research household\nChildren recorded: none supplied for this group.\nSources: S094",
+    "classification": "Unlinked research household",
+    "id": "H031",
+    "baseline_name": "Antoine Auguste Forret and Louise Garson (1837)",
+    "baseline_page": 159,
+    "source_ids": [
+      "S094"
+    ]
+  },
+  {
+    "name": "Napoleon Garson and Louise Rosalie Cornu",
+    "text": "Unlinked research household\nChildren recorded: none supplied for this group.\nSources: S093",
+    "classification": "Unlinked research household",
+    "id": "H032",
+    "baseline_name": "Napoleon Garson and Louise Rosalie Cornu",
+    "baseline_page": 159,
+    "source_ids": [
+      "S093"
+    ]
+  },
+  {
+    "name": "Gregoire Goudot and Augustine Aline Garson",
+    "text": "Unlinked research household\nChildren recorded: none supplied for this group.\nSources: S096, S094",
+    "classification": "Unlinked research household",
+    "id": "H033",
+    "baseline_name": "Gregoire Goudot and Augustine Aline Garson",
+    "baseline_page": 159,
+    "source_ids": [
+      "S094",
+      "S096"
+    ]
+  },
+  {
+    "name": "Dominique Gabriel Bonte and Adele Augustine Garson",
+    "text": "Unlinked research household\nChildren recorded: none supplied for this group.\nSources: S094",
+    "classification": "Unlinked research household",
+    "id": "H034",
+    "baseline_name": "Dominique Gabriel Bonte and Adele Augustine Garson",
+    "baseline_page": 159,
+    "source_ids": [
+      "S094"
+    ]
+  },
+  {
+    "name": "Antoine Joseph Garson and Caroline Valentine Lamperiere",
+    "text": "Unlinked research household · same person bridge inferred\nChildren recorded: Auguste Garson.\nThe 1864 birth names these parents; identification of that Auguste with Armandine’s 1893 father remains\nan age-match inference.\nSources: S094, S084, S090, S091",
+    "classification": "Unlinked research household · same person bridge inferred",
+    "id": "H035",
+    "baseline_name": "Antoine Joseph Garson and Caroline Valentine Lamperiere",
+    "baseline_page": 159,
+    "source_ids": [
+      "S084",
+      "S090",
+      "S091",
+      "S094"
+    ]
+  },
+  {
+    "name": "Antoine Joseph Garson and Cesarine Antoinette Clairat",
+    "text": "Unlinked research household\nChildren recorded: Cesar Garson.\nSources: S094, S090, S091",
+    "classification": "Unlinked research household",
+    "id": "H036",
+    "baseline_name": "Antoine Joseph Garson and Cesarine Antoinette Clairat",
+    "baseline_page": 160,
+    "source_ids": [
+      "S090",
+      "S091",
+      "S094"
+    ]
+  },
+  {
+    "name": "Emile Leonard Garson and Louise Gauthier",
+    "text": "Unlinked research household\nChildren recorded: Florent Emile Garson.\nSources: S092",
+    "classification": "Unlinked research household",
+    "id": "H037",
+    "baseline_name": "Emile Leonard Garson and Louise Gauthier",
+    "baseline_page": 160,
+    "source_ids": [
+      "S092"
+    ]
+  },
+  {
+    "name": "Rabbi Meyer Kogen (Cleveland, candidate) and Esther (Reiter) Kogen",
+    "text": "Unlinked research household\nChildren recorded: Rabbi David C. Kogen; Naomi (Kogen) Spiegelman; Leo Kogen.\nSources: S100, S099, S087, S086, S088",
+    "classification": "Unlinked research household",
+    "id": "H038",
+    "baseline_name": "Rabbi Meyer Kogen (Cleveland, candidate) and Esther (Reiter) Kogen",
+    "baseline_page": 160,
+    "source_ids": [
+      "S086",
+      "S087",
+      "S088",
+      "S099",
+      "S100"
+    ]
+  },
+  {
+    "name": "Naomi (Kogen) Spiegelman and Rabbi Marvin Spiegelman",
+    "text": "Unlinked research household\nChildren recorded: none supplied for this group.\nSources: S100, S099",
+    "classification": "Unlinked research household",
+    "id": "H039",
+    "baseline_name": "Naomi (Kogen) Spiegelman and Rabbi Marvin Spiegelman",
+    "baseline_page": 160,
+    "source_ids": [
+      "S099",
+      "S100"
+    ]
+  },
+  {
+    "name": "Leo Garson (Cleveland) and Ida Garson",
+    "text": "Unlinked research household\nChildren recorded: none supplied for this group.\nSources: S101",
+    "classification": "Unlinked research household",
+    "id": "H040",
+    "baseline_name": "Leo Garson (Cleveland) and Ida Garson",
+    "baseline_page": 160,
+    "source_ids": [
+      "S101"
+    ]
+  },
+  {
+    "name": "Sanford Simon and Rosamond (Garson) Simon",
+    "text": "Core family\nChildren recorded: none supplied for this group.\nSources: S102, S070, S064",
+    "classification": "Core family",
+    "id": "H041",
+    "baseline_name": "Sanford Simon and Rosamond (Garson) Simon",
+    "baseline_page": 161,
+    "source_ids": [
+      "S064",
+      "S070",
+      "S102"
+    ]
+  },
+  {
+    "name": "Phillip Dratler and Judith Dratler (nee Herskowitz) - 'Judy'",
+    "text": "Core family\nChildren recorded: Leigh (Dratler) Wasserman; Jay Dratler.\nSources: S036, S032, S033, S103, S066, S030, S039, S037, S038, S069, S051, S006, S089, S042\nPhilip Dratler and Judith Herskovitz in original 1949 abstract; wedding 20 November 1949, certification 22 November [S132]. Phillip/Herskowitz are later obituary spellings [S103].",
+    "classification": "Core family",
+    "id": "H042",
+    "baseline_name": "Phillip Dratler and Judith Dratler (nee Herskowitz) - 'Judy'",
+    "baseline_page": 161,
+    "source_ids": [
+      "S006",
+      "S030",
+      "S032",
+      "S033",
+      "S036",
+      "S037",
+      "S038",
+      "S039",
+      "S042",
+      "S051",
+      "S066",
+      "S069",
+      "S089",
+      "S103",
+      "S132"
+    ]
+  },
+  {
+    "name": "Leigh (Dratler) Wasserman and Mark Wasserman",
+    "text": "Core family\nChildren recorded: none supplied for this group.\nSources: S103",
+    "classification": "Core family",
+    "id": "H043",
+    "baseline_name": "Leigh (Dratler) Wasserman and Mark Wasserman",
+    "baseline_page": 161,
+    "source_ids": [
+      "S103"
+    ]
+  },
+  {
+    "name": "Jean Baptiste Godenne and Emma Marie Van den driessche (reading conflict)",
+    "text": "Unlinked research household\nChildren recorded: Edouard Adolphe Godenne.\nSources: S083, S104",
+    "classification": "Unlinked research household",
+    "id": "H044",
+    "baseline_name": "Jean Baptiste Godenne and Emma Marie Van den driessche (reading conflict)",
+    "baseline_page": 161,
+    "source_ids": [
+      "S083",
+      "S104"
+    ]
+  },
+  {
+    "name": "Joseph Warszavski and Rochel Goldberg",
+    "text": "Core family · indexed parentage unconfirmed\nChildren recorded: Szyman (Shimon) Warszawski.\nSources: S040",
+    "classification": "Core family · indexed parentage unconfirmed",
+    "id": "H045",
+    "baseline_name": "Joseph Warszavski and Rochel Goldberg",
+    "baseline_page": 161,
+    "source_ids": [
+      "S040"
+    ]
+  },
+  {
+    "name": "Isac Kaga and Tsilya Gershon",
+    "text": "Core family · indexed parentage unconfirmed\nChildren recorded: Elka Zelkind.\nSources: S041",
+    "classification": "Core family · indexed parentage unconfirmed",
+    "id": "H046",
+    "baseline_name": "Isac Kaga and Tsilya Gershon",
+    "baseline_page": 162,
+    "source_ids": [
+      "S041"
+    ]
+  },
+  {
+    "name": "Maria Komisarchik and Isaak Komisarchik",
+    "text": "Core family · grandchildren household allocation inferred\nChildren recorded: Dimitry Komisarchik; Kira Komisarchik.\nSources: S050",
+    "classification": "Core family · grandchildren household allocation inferred",
+    "id": "H047",
+    "baseline_name": "Maria Komisarchik and Isaak Komisarchik",
+    "baseline_page": 162,
+    "source_ids": [
+      "S050"
+    ]
+  },
+  {
+    "name": "Celya Elin and Matvey Elin",
+    "text": "Core family · grandchildren household allocation inferred\nChildren recorded: Inna Elin; Boris Elin.\nSources: S050",
+    "classification": "Core family · grandchildren household allocation inferred",
+    "id": "H048",
+    "baseline_name": "Celya Elin and Matvey Elin",
+    "baseline_page": 162,
+    "source_ids": [
+      "S050"
+    ]
+  },
+  {
+    "name": "Jacques Desire Garson (II) and Marie Ursule Breton",
+    "text": "Unlinked research household\nChildren recorded: Desire Lamoureux Garson; Theodore (Jacques) Garson.\nFerdinand’s father is documented, but this overlay does not infer his mother from his brothers.\nSources: S094, S106",
+    "classification": "Unlinked research household",
+    "id": "H049",
+    "baseline_name": "Jacques Desire Garson (II) and Marie Ursule Breton",
+    "baseline_page": 162,
+    "source_ids": [
+      "S094",
+      "S106"
+    ]
+  },
+  {
+    "name": "Julia Maria Garson",
+    "text": "Unlinked research household · parent group marriage not asserted\nChildren recorded: Marcel Eugene Jules Garson; Charlotte Garson; Leon Jules Garson.\nSources: S077, S080, S076, S079, S078",
+    "classification": "Unlinked research household · parent group marriage not asserted",
+    "id": "H050",
+    "baseline_name": "Julia Maria Garson",
+    "baseline_page": 162,
+    "source_ids": [
+      "S076",
+      "S077",
+      "S078",
+      "S079",
+      "S080"
+    ]
+  },
+  {
+    "name": "Louise Garson",
+    "text": "Unlinked research household · parent group marriage not asserted\nChildren recorded: Gustave Garson.\nSources: S081",
+    "classification": "Unlinked research household · parent group marriage not asserted",
+    "id": "H051",
+    "baseline_name": "Louise Garson",
+    "baseline_page": 163,
+    "source_ids": [
+      "S081"
+    ]
+  },
+  {
+    "name": "Jacques Desire Garson (II)",
+    "text": "Unlinked research household · parent group marriage not asserted\nChildren recorded: Ferdinand Garson.\nSources: S094",
+    "classification": "Unlinked research household · parent group marriage not asserted",
+    "id": "H052",
+    "baseline_name": "Jacques Desire Garson (II)",
+    "baseline_page": 163,
+    "source_ids": [
+      "S094"
+    ]
+  },
+  {
+    "name": "Jean Charles Albert",
+    "text": "Unlinked research household · parent group marriage not asserted\nChildren recorded: Adele (Augustine) Albert.\nSources: S096",
+    "classification": "Unlinked research household · parent group marriage not asserted",
+    "id": "H053",
+    "baseline_name": "Jean Charles Albert",
+    "baseline_page": 163,
+    "source_ids": [
+      "S096"
+    ]
+  },
+  {
+    "name": "Francoise Garson",
+    "text": "Unlinked research household · parent group marriage not asserted\nChildren recorded: Louise Rosalie Cornu.\nSources: S093",
+    "classification": "Unlinked research household · parent group marriage not asserted",
+    "id": "H054",
+    "baseline_name": "Francoise Garson",
+    "baseline_page": 163,
+    "source_ids": [
+      "S093"
+    ]
+  },
+  {
+    "name": "Rochelle (Garson) Horwich and Irving Horwich",
+    "text": "Core family · original notice household\nChildren recorded: Joyce Vesper; Roger Horwich; Russell Horwich.\nSources: S110",
+    "classification": "Core family · original notice household",
+    "id": "H055",
+    "baseline_name": "Rochelle (Garson) Horwich and Irving Horwich",
+    "baseline_page": 163,
+    "source_ids": [
+      "S110"
+    ]
+  },
+  {
+    "name": "Joyce Vesper and Kerry Vesper",
+    "text": "Core family · original notice household\nChildren recorded: none supplied for this group.\nSources: S110",
+    "classification": "Core family · original notice household",
+    "id": "H056",
+    "baseline_name": "Joyce Vesper and Kerry Vesper",
+    "baseline_page": 164,
+    "source_ids": [
+      "S110"
+    ]
+  },
+  {
+    "name": "Russell Horwich and Joan Rubin",
+    "text": "Core family · original notice household\nChildren recorded: none supplied for this group.\nSources: S110",
+    "classification": "Core family · original notice household",
+    "id": "H057",
+    "baseline_name": "Russell Horwich and Joan Rubin",
+    "baseline_page": 164,
+    "source_ids": [
+      "S110"
+    ]
+  }
+]

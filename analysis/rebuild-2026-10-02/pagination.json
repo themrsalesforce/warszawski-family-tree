@@ -1,0 +1,3044 @@
+{
+  "page_count": 200,
+  "sections": [
+    {
+      "name": "register",
+      "title": "The family register",
+      "first": 100,
+      "pages": 36
+    },
+    {
+      "name": "households",
+      "title": "The recorded households",
+      "first": 136,
+      "pages": 9
+    },
+    {
+      "name": "story-notes",
+      "title": "Notes to the stories",
+      "first": 145,
+      "pages": 9
+    },
+    {
+      "name": "sources",
+      "title": "Source catalogue",
+      "first": 154,
+      "pages": 21
+    }
+  ],
+  "appendix_first": 175,
+  "index_first": 195,
+  "positions": {
+    "P001": {
+      "page": 100,
+      "y": 200.0,
+      "name": "Joe Warszawski"
+    },
+    "P002": {
+      "page": 100,
+      "y": 358.2,
+      "name": "Berta (Bertha) Warszawski"
+    },
+    "P003": {
+      "page": 101,
+      "y": 85,
+      "name": "Lawrence (Larry) Hersh"
+    },
+    "P004": {
+      "page": 101,
+      "y": 315.2,
+      "name": "Ileen (Ilene, Gabby) Hersh"
+    },
+    "P005": {
+      "page": 101,
+      "y": 473.4,
+      "name": "Lori (Leah) Warszawski"
+    },
+    "P006": {
+      "page": 102,
+      "y": 85,
+      "name": "Ilana Marinovsky"
+    },
+    "P007": {
+      "page": 102,
+      "y": 243.2,
+      "name": "Shmaya Marinovsky"
+    },
+    "P008": {
+      "page": 102,
+      "y": 356.4,
+      "name": "Aliya Andrusier"
+    },
+    "P009": {
+      "page": 102,
+      "y": 469.59999999999997,
+      "name": "Shmuel Yaakov Andrusier"
+    },
+    "P010": {
+      "page": 102,
+      "y": 582.8,
+      "name": "Shoshy (Shoshana) Chaikin"
+    },
+    "P011": {
+      "page": 103,
+      "y": 85,
+      "name": "Shmuel Chaikin"
+    },
+    "P012": {
+      "page": 103,
+      "y": 198.2,
+      "name": "Ella Chaikin"
+    },
+    "P013": {
+      "page": 103,
+      "y": 281.4,
+      "name": "Abie Chaikin"
+    },
+    "P014": {
+      "page": 103,
+      "y": 364.59999999999997,
+      "name": "Mika Chaikin"
+    },
+    "P015": {
+      "page": 103,
+      "y": 447.79999999999995,
+      "name": "Yechiel Warszawski"
+    },
+    "P016": {
+      "page": 103,
+      "y": 546.0,
+      "name": "Maimi Inglis"
+    },
+    "P017": {
+      "page": 104,
+      "y": 85,
+      "name": "Dovid Inglis"
+    },
+    "P018": {
+      "page": 104,
+      "y": 183.2,
+      "name": "Shimon Warszawski"
+    },
+    "P019": {
+      "page": 104,
+      "y": 341.4,
+      "name": "Mushky Warszawski"
+    },
+    "P020": {
+      "page": 104,
+      "y": 469.59999999999997,
+      "name": "Baby girl (name not published)"
+    },
+    "P021": {
+      "page": 104,
+      "y": 582.8,
+      "name": "Chaya Brocha Katz"
+    },
+    "P022": {
+      "page": 105,
+      "y": 85,
+      "name": "Dovi Katz"
+    },
+    "P023": {
+      "page": 105,
+      "y": 183.2,
+      "name": "Nesya Katz"
+    },
+    "P024": {
+      "page": 105,
+      "y": 266.4,
+      "name": "Simcha Warszawski"
+    },
+    "P025": {
+      "page": 105,
+      "y": 364.59999999999997,
+      "name": "Hadassa Miriam Hirsch"
+    },
+    "P026": {
+      "page": 105,
+      "y": 492.79999999999995,
+      "name": "Doni Hirsch"
+    },
+    "P027": {
+      "page": 106,
+      "y": 85,
+      "name": "Szyman (Shimon) Warszawski"
+    },
+    "P028": {
+      "page": 106,
+      "y": 243.2,
+      "name": "Mordechi (Mordechai) Zelkind"
+    },
+    "P029": {
+      "page": 106,
+      "y": 371.4,
+      "name": "Elka Zelkind"
+    },
+    "P030": {
+      "page": 106,
+      "y": 514.5999999999999,
+      "name": "Susanne Greenberg"
+    },
+    "P031": {
+      "page": 107,
+      "y": 85,
+      "name": "Marcy Hirsch"
+    },
+    "P032": {
+      "page": 107,
+      "y": 168.2,
+      "name": "Seth Greenberg"
+    },
+    "P033": {
+      "page": 107,
+      "y": 266.4,
+      "name": "Gail Zelkind"
+    },
+    "P034": {
+      "page": 107,
+      "y": 364.59999999999997,
+      "name": "Victor Garson"
+    },
+    "P035": {
+      "page": 108,
+      "y": 85,
+      "name": "Pearl (Adelstein) Garson"
+    },
+    "P036": {
+      "page": 108,
+      "y": 288.2,
+      "name": "Solomon (Victor’s father)"
+    },
+    "P037": {
+      "page": 108,
+      "y": 401.4,
+      "name": "Rachael (Victor’s mother)"
+    },
+    "P038": {
+      "page": 108,
+      "y": 499.59999999999997,
+      "name": "Rosamond (Garson) Simon"
+    },
+    "P039": {
+      "page": 109,
+      "y": 85,
+      "name": "Rochelle (Garson) Horwich"
+    },
+    "P040": {
+      "page": 109,
+      "y": 228.2,
+      "name": "Julia Maria Garson"
+    },
+    "P041": {
+      "page": 109,
+      "y": 356.4,
+      "name": "Marcel Eugene Jules Garson"
+    },
+    "P042": {
+      "page": 109,
+      "y": 469.59999999999997,
+      "name": "Charlotte Garson"
+    },
+    "P043": {
+      "page": 109,
+      "y": 567.8,
+      "name": "Auguste Garson"
+    },
+    "P044": {
+      "page": 110,
+      "y": 85,
+      "name": "Francoise Armandine Goujot"
+    },
+    "P045": {
+      "page": 110,
+      "y": 198.2,
+      "name": "Armandine Garson"
+    },
+    "P046": {
+      "page": 110,
+      "y": 311.4,
+      "name": "Louise Garson"
+    },
+    "P047": {
+      "page": 110,
+      "y": 409.59999999999997,
+      "name": "Gustave Garson"
+    },
+    "P048": {
+      "page": 110,
+      "y": 507.79999999999995,
+      "name": "Charles Alphonse Garson"
+    },
+    "P049": {
+      "page": 110,
+      "y": 606.0,
+      "name": "Juliette Honorine Boclin"
+    },
+    "P050": {
+      "page": 111,
+      "y": 85,
+      "name": "Marcel Alphonse Garson"
+    },
+    "P051": {
+      "page": 111,
+      "y": 183.2,
+      "name": "Marius Gabriel Garson"
+    },
+    "P052": {
+      "page": 111,
+      "y": 296.4,
+      "name": "Marie Guden"
+    },
+    "P053": {
+      "page": 111,
+      "y": 394.59999999999997,
+      "name": "Aline Garson"
+    },
+    "P054": {
+      "page": 111,
+      "y": 507.79999999999995,
+      "name": "Edouard Adolphe Godenne"
+    },
+    "P055": {
+      "page": 112,
+      "y": 85,
+      "name": "Leon Jules Garson"
+    },
+    "P056": {
+      "page": 112,
+      "y": 213.2,
+      "name": "Marie Marthe Therese Rollet"
+    },
+    "P057": {
+      "page": 112,
+      "y": 296.4,
+      "name": "Rabbi Meyer Kogen (Cleveland, candidate)"
+    },
+    "P058": {
+      "page": 112,
+      "y": 454.59999999999997,
+      "name": "Jacob (Judith's 1949 abstract; Larry's father by sibling evidence)"
+    },
+    "P059": {
+      "page": 113,
+      "y": 85,
+      "name": "Leah / Lee Yanowitz (Judith's 1949 abstract; combined sibling evidence)"
+    },
+    "P060": {
+      "page": 113,
+      "y": 273.2,
+      "name": "Judith Dratler (nee Herskowitz) - 'Judy'"
+    },
+    "P061": {
+      "page": 113,
+      "y": 491.4,
+      "name": "Uncle Janowitz of Cleveland"
+    },
+    "P062": {
+      "page": 114,
+      "y": 85,
+      "name": "Jacques Desire Garson (I)"
+    },
+    "P063": {
+      "page": 114,
+      "y": 213.2,
+      "name": "Marie Elisabeth Gauthier"
+    },
+    "P064": {
+      "page": 114,
+      "y": 326.4,
+      "name": "Jacques Desire Garson (II)"
+    },
+    "P065": {
+      "page": 114,
+      "y": 469.59999999999997,
+      "name": "Catherine Fournier"
+    },
+    "P066": {
+      "page": 114,
+      "y": 567.8,
+      "name": "Marie Francoise Julienne Garson"
+    },
+    "P067": {
+      "page": 115,
+      "y": 85,
+      "name": "Charles Mathurin Poytreneaut"
+    },
+    "P068": {
+      "page": 115,
+      "y": 198.2,
+      "name": "Ferdinand Garson"
+    },
+    "P069": {
+      "page": 115,
+      "y": 341.4,
+      "name": "Marie Louise Gertrude Bezerat"
+    },
+    "P070": {
+      "page": 115,
+      "y": 454.59999999999997,
+      "name": "Theodore (Jacques) Garson"
+    },
+    "P071": {
+      "page": 116,
+      "y": 85,
+      "name": "Desire Lamoureux Garson"
+    },
+    "P072": {
+      "page": 116,
+      "y": 258.2,
+      "name": "Marie Francoise Zoe Vallois"
+    },
+    "P073": {
+      "page": 116,
+      "y": 371.4,
+      "name": "Hyppolite Barbe Julie Sauvage"
+    },
+    "P074": {
+      "page": 116,
+      "y": 499.59999999999997,
+      "name": "Eugene Garson"
+    },
+    "P075": {
+      "page": 117,
+      "y": 85,
+      "name": "Virginie Gouillard"
+    },
+    "P076": {
+      "page": 117,
+      "y": 198.2,
+      "name": "Jacques Louis Garson"
+    },
+    "P077": {
+      "page": 117,
+      "y": 341.4,
+      "name": "Adele (Augustine) Albert"
+    },
+    "P078": {
+      "page": 117,
+      "y": 484.59999999999997,
+      "name": "Jean Charles Albert"
+    },
+    "P079": {
+      "page": 117,
+      "y": 582.8,
+      "name": "Hippolyte Garson"
+    },
+    "P080": {
+      "page": 118,
+      "y": 85,
+      "name": "Clarisse Garson"
+    },
+    "P081": {
+      "page": 118,
+      "y": 183.2,
+      "name": "Sophie Garson"
+    },
+    "P082": {
+      "page": 118,
+      "y": 296.4,
+      "name": "Germain Garson"
+    },
+    "P083": {
+      "page": 118,
+      "y": 394.59999999999997,
+      "name": "Louise Garson (1832)"
+    },
+    "P084": {
+      "page": 118,
+      "y": 492.79999999999995,
+      "name": "Adelaide Garson"
+    },
+    "P085": {
+      "page": 118,
+      "y": 591.0,
+      "name": "Louise Zoe Garson"
+    },
+    "P086": {
+      "page": 119,
+      "y": 85,
+      "name": "Eugenie Garson"
+    },
+    "P087": {
+      "page": 119,
+      "y": 198.2,
+      "name": "Desire Garson (fils)"
+    },
+    "P088": {
+      "page": 119,
+      "y": 296.4,
+      "name": "Louise Garson (1837)"
+    },
+    "P089": {
+      "page": 119,
+      "y": 409.59999999999997,
+      "name": "Augustine Garson (1843)"
+    },
+    "P090": {
+      "page": 119,
+      "y": 507.79999999999995,
+      "name": "Adeline Garson"
+    },
+    "P091": {
+      "page": 120,
+      "y": 85,
+      "name": "Adele Garson (1849, Tigery)"
+    },
+    "P092": {
+      "page": 120,
+      "y": 198.2,
+      "name": "Barthelemy Lahire"
+    },
+    "P093": {
+      "page": 120,
+      "y": 281.4,
+      "name": "Jean Charles Rousseau"
+    },
+    "P094": {
+      "page": 120,
+      "y": 379.59999999999997,
+      "name": "Antoine Auguste Forret"
+    },
+    "P095": {
+      "page": 120,
+      "y": 477.79999999999995,
+      "name": "Eugene Garson (fils)"
+    },
+    "P096": {
+      "page": 120,
+      "y": 576.0,
+      "name": "Napoleon Garson"
+    },
+    "P097": {
+      "page": 121,
+      "y": 85,
+      "name": "Louise Rosalie Cornu"
+    },
+    "P098": {
+      "page": 121,
+      "y": 183.2,
+      "name": "Francoise Garson"
+    },
+    "P099": {
+      "page": 121,
+      "y": 281.4,
+      "name": "Emmanuel Louis"
+    },
+    "P100": {
+      "page": 121,
+      "y": 379.59999999999997,
+      "name": "Augustine Aline Garson"
+    },
+    "P101": {
+      "page": 121,
+      "y": 492.79999999999995,
+      "name": "Gregoire Goudot"
+    },
+    "P102": {
+      "page": 121,
+      "y": 591.0,
+      "name": "Adele Augustine Garson"
+    },
+    "P103": {
+      "page": 122,
+      "y": 85,
+      "name": "Dominique Gabriel Bonte"
+    },
+    "P104": {
+      "page": 122,
+      "y": 183.2,
+      "name": "Louis Jacques Garson (1847)"
+    },
+    "P105": {
+      "page": 122,
+      "y": 281.4,
+      "name": "Adele Garson (1849, Fontenay)"
+    },
+    "P106": {
+      "page": 122,
+      "y": 394.59999999999997,
+      "name": "Adele Marie Garson"
+    },
+    "P107": {
+      "page": 122,
+      "y": 507.79999999999995,
+      "name": "Louise Garson (1852)"
+    },
+    "P108": {
+      "page": 123,
+      "y": 85,
+      "name": "Antoine Joseph Garson"
+    },
+    "P109": {
+      "page": 123,
+      "y": 213.2,
+      "name": "Caroline Valentine Lamperiere"
+    },
+    "P110": {
+      "page": 123,
+      "y": 356.4,
+      "name": "Cesarine Antoinette Clairat"
+    },
+    "P111": {
+      "page": 123,
+      "y": 454.59999999999997,
+      "name": "Cesar Garson"
+    },
+    "P112": {
+      "page": 123,
+      "y": 567.8,
+      "name": "Emile Leonard Garson"
+    },
+    "P113": {
+      "page": 124,
+      "y": 85,
+      "name": "Louise Gauthier"
+    },
+    "P114": {
+      "page": 124,
+      "y": 183.2,
+      "name": "Florent Emile Garson"
+    },
+    "P115": {
+      "page": 124,
+      "y": 281.4,
+      "name": "Edmond Garson (1870)"
+    },
+    "P116": {
+      "page": 124,
+      "y": 379.59999999999997,
+      "name": "Esther (Reiter) Kogen"
+    },
+    "P117": {
+      "page": 124,
+      "y": 552.8,
+      "name": "Rabbi David C. Kogen"
+    },
+    "P118": {
+      "page": 125,
+      "y": 85,
+      "name": "Naomi (Kogen) Spiegelman"
+    },
+    "P119": {
+      "page": 125,
+      "y": 198.2,
+      "name": "Rabbi Marvin Spiegelman"
+    },
+    "P120": {
+      "page": 125,
+      "y": 281.4,
+      "name": "Leo Kogen"
+    },
+    "P121": {
+      "page": 125,
+      "y": 394.59999999999997,
+      "name": "Jacob Eshel"
+    },
+    "P122": {
+      "page": 125,
+      "y": 477.79999999999995,
+      "name": "Yetta Pietrokowski"
+    },
+    "P123": {
+      "page": 125,
+      "y": 546.0,
+      "name": "Tzipora Kroitblat"
+    },
+    "P124": {
+      "page": 126,
+      "y": 85,
+      "name": "Leo Garson (Cleveland)"
+    },
+    "P125": {
+      "page": 126,
+      "y": 198.2,
+      "name": "Ida Garson"
+    },
+    "P126": {
+      "page": 126,
+      "y": 296.4,
+      "name": "Sanford Simon"
+    },
+    "P127": {
+      "page": 126,
+      "y": 394.59999999999997,
+      "name": "Phillip Dratler"
+    },
+    "P128": {
+      "page": 126,
+      "y": 507.79999999999995,
+      "name": "Leigh (Dratler) Wasserman"
+    },
+    "P129": {
+      "page": 126,
+      "y": 606.0,
+      "name": "Jay Dratler"
+    },
+    "P130": {
+      "page": 127,
+      "y": 85,
+      "name": "Mark Wasserman"
+    },
+    "P131": {
+      "page": 127,
+      "y": 168.2,
+      "name": "Jean Baptiste Godenne"
+    },
+    "P132": {
+      "page": 127,
+      "y": 266.4,
+      "name": "Emma Marie Van den driessche (reading conflict)"
+    },
+    "P133": {
+      "page": 127,
+      "y": 364.59999999999997,
+      "name": "Joseph Warszavski"
+    },
+    "P134": {
+      "page": 127,
+      "y": 462.79999999999995,
+      "name": "Rochel Goldberg"
+    },
+    "P135": {
+      "page": 127,
+      "y": 561.0,
+      "name": "Isac Kaga"
+    },
+    "P136": {
+      "page": 128,
+      "y": 85,
+      "name": "Tsilya Gershon"
+    },
+    "P137": {
+      "page": 128,
+      "y": 183.2,
+      "name": "Benyamin Warszawski"
+    },
+    "P138": {
+      "page": 128,
+      "y": 266.4,
+      "name": "Maria Komisarchik"
+    },
+    "P139": {
+      "page": 128,
+      "y": 379.59999999999997,
+      "name": "Celya Elin"
+    },
+    "P140": {
+      "page": 128,
+      "y": 477.79999999999995,
+      "name": "Isaak Komisarchik"
+    },
+    "P141": {
+      "page": 128,
+      "y": 576.0,
+      "name": "Matvey Elin"
+    },
+    "P142": {
+      "page": 129,
+      "y": 85,
+      "name": "Dimitry Komisarchik"
+    },
+    "P143": {
+      "page": 129,
+      "y": 183.2,
+      "name": "Kira Komisarchik"
+    },
+    "P144": {
+      "page": 129,
+      "y": 281.4,
+      "name": "Inna Elin"
+    },
+    "P145": {
+      "page": 129,
+      "y": 379.59999999999997,
+      "name": "Boris Elin"
+    },
+    "P146": {
+      "page": 129,
+      "y": 477.79999999999995,
+      "name": "Harry Allen"
+    },
+    "P147": {
+      "page": 129,
+      "y": 576.0,
+      "name": "Sydney Allen"
+    },
+    "P148": {
+      "page": 130,
+      "y": 85,
+      "name": "Edward Allen"
+    },
+    "P149": {
+      "page": 130,
+      "y": 183.2,
+      "name": "Louis Allen"
+    },
+    "P150": {
+      "page": 130,
+      "y": 281.4,
+      "name": "Howard Allen"
+    },
+    "P151": {
+      "page": 130,
+      "y": 364.59999999999997,
+      "name": "Rose (Adelstein) Alliance Karr"
+    },
+    "P152": {
+      "page": 130,
+      "y": 462.79999999999995,
+      "name": "Koby Greenberg"
+    },
+    "P153": {
+      "page": 130,
+      "y": 561.0,
+      "name": "Dylan Greenberg"
+    },
+    "P154": {
+      "page": 131,
+      "y": 85,
+      "name": "Molly Marinovsky"
+    },
+    "P155": {
+      "page": 131,
+      "y": 168.2,
+      "name": "Rocky Marinovsky"
+    },
+    "P156": {
+      "page": 131,
+      "y": 251.39999999999998,
+      "name": "Isaac Marinovsky"
+    },
+    "P157": {
+      "page": 131,
+      "y": 334.59999999999997,
+      "name": "Bella Marinovsky"
+    },
+    "P158": {
+      "page": 131,
+      "y": 417.79999999999995,
+      "name": "Ari Andrusier"
+    },
+    "P159": {
+      "page": 131,
+      "y": 500.99999999999994,
+      "name": "Sholom Andrusier"
+    },
+    "P160": {
+      "page": 131,
+      "y": 584.1999999999999,
+      "name": "Chana Andrusier"
+    },
+    "P161": {
+      "page": 132,
+      "y": 85,
+      "name": "Yisrael Warszawski"
+    },
+    "P162": {
+      "page": 132,
+      "y": 168.2,
+      "name": "Sarah Warszawski"
+    },
+    "P163": {
+      "page": 132,
+      "y": 251.39999999999998,
+      "name": "Menachem Warszawski"
+    },
+    "P164": {
+      "page": 132,
+      "y": 334.59999999999997,
+      "name": "Baila Hirsch"
+    },
+    "P165": {
+      "page": 132,
+      "y": 417.79999999999995,
+      "name": "Shaina Hirsch"
+    },
+    "P166": {
+      "page": 132,
+      "y": 500.99999999999994,
+      "name": "Noah Inglis"
+    },
+    "P167": {
+      "page": 132,
+      "y": 584.1999999999999,
+      "name": "Marie Ursule Breton"
+    },
+    "P168": {
+      "page": 133,
+      "y": 85,
+      "name": "Irving Horwich"
+    },
+    "P169": {
+      "page": 133,
+      "y": 168.2,
+      "name": "Joyce Vesper"
+    },
+    "P170": {
+      "page": 133,
+      "y": 251.39999999999998,
+      "name": "Kerry Vesper"
+    },
+    "P171": {
+      "page": 133,
+      "y": 334.59999999999997,
+      "name": "Roger Horwich"
+    },
+    "P172": {
+      "page": 133,
+      "y": 417.79999999999995,
+      "name": "Russell Horwich"
+    },
+    "P173": {
+      "page": 133,
+      "y": 500.99999999999994,
+      "name": "Joan Rubin"
+    },
+    "P174": {
+      "page": 133,
+      "y": 584.1999999999999,
+      "name": "Jacob (Rochelle’s grandson)"
+    },
+    "P175": {
+      "page": 134,
+      "y": 85,
+      "name": "Ian (Rochelle’s grandson)"
+    },
+    "P176": {
+      "page": 134,
+      "y": 168.2,
+      "name": "Brian (Rochelle’s grandson)"
+    },
+    "P177": {
+      "page": 134,
+      "y": 251.39999999999998,
+      "name": "Arye Kogen (1960 notice)"
+    },
+    "P178": {
+      "page": 134,
+      "y": 349.59999999999997,
+      "name": "Jennie Levine"
+    },
+    "P179": {
+      "page": 134,
+      "y": 432.79999999999995,
+      "name": "Ruth Sachnoff"
+    },
+    "P180": {
+      "page": 134,
+      "y": 516.0,
+      "name": "Yehudit Asedman"
+    },
+    "P181": {
+      "page": 134,
+      "y": 599.2,
+      "name": "Shoshana Levovsky"
+    },
+    "P182": {
+      "page": 135,
+      "y": 85,
+      "name": "Tzipora Pelech"
+    },
+    "P183": {
+      "page": 135,
+      "y": 168.2,
+      "name": "Yitzchak Reiter"
+    },
+    "H001": {
+      "page": 136,
+      "y": 200.0,
+      "name": "Joe Warszawski and Lori (Leah) Warszawski"
+    },
+    "H002": {
+      "page": 136,
+      "y": 305.5,
+      "name": "Berta (Bertha) Warszawski and Szyman (Shimon) Warszawski"
+    },
+    "H003": {
+      "page": 136,
+      "y": 396.0,
+      "name": "Lawrence (Larry) Hersh and Ileen (Ilene, Gabby) Hersh"
+    },
+    "H004": {
+      "page": 136,
+      "y": 459.5,
+      "name": "Ilana Marinovsky and Shmaya Marinovsky"
+    },
+    "H005": {
+      "page": 136,
+      "y": 568.0,
+      "name": "Aliya Andrusier and Shmuel Yaakov Andrusier"
+    },
+    "H006": {
+      "page": 137,
+      "y": 85,
+      "name": "Shoshy (Shoshana) Chaikin and Shmuel Chaikin"
+    },
+    "H007": {
+      "page": 137,
+      "y": 163.5,
+      "name": "Maimi Inglis and Dovid Inglis"
+    },
+    "H008": {
+      "page": 137,
+      "y": 242.0,
+      "name": "Shimon Warszawski and Mushky Warszawski"
+    },
+    "H009": {
+      "page": 137,
+      "y": 320.5,
+      "name": "Chaya Brocha Katz and Dovi Katz"
+    },
+    "H010": {
+      "page": 137,
+      "y": 414.0,
+      "name": "Hadassa Miriam Hirsch and Doni Hirsch"
+    },
+    "H011": {
+      "page": 137,
+      "y": 507.5,
+      "name": "Mordechi (Mordechai) Zelkind and Elka Zelkind"
+    },
+    "H012": {
+      "page": 137,
+      "y": 586.0,
+      "name": "Susanne Greenberg and Seth Greenberg"
+    },
+    "H013": {
+      "page": 138,
+      "y": 85,
+      "name": "Victor Garson and Pearl (Adelstein) Garson"
+    },
+    "H014": {
+      "page": 138,
+      "y": 163.5,
+      "name": "Solomon and Rachael"
+    },
+    "H015": {
+      "page": 138,
+      "y": 227.0,
+      "name": "Auguste Garson and Francoise Armandine Goujot"
+    },
+    "H016": {
+      "page": 138,
+      "y": 305.5,
+      "name": "Charles Alphonse Garson and Juliette Honorine Boclin"
+    },
+    "H017": {
+      "page": 138,
+      "y": 369.0,
+      "name": "Marius Gabriel Garson and Marie Guden"
+    },
+    "H018": {
+      "page": 138,
+      "y": 432.5,
+      "name": "Aline Garson and Edouard Adolphe Godenne"
+    },
+    "H019": {
+      "page": 138,
+      "y": 511.0,
+      "name": "Leon Jules Garson and Marie Marthe Therese Rollet"
+    },
+    "H020": {
+      "page": 139,
+      "y": 85,
+      "name": "Jacob (Judith's 1949 abstract; Larry's father by sibling evidence) and Leah / Lee Yanowitz (Judith's 1949 abstract; combined sibling evidence)"
+    },
+    "H021": {
+      "page": 139,
+      "y": 255.0,
+      "name": "Jacques Desire Garson (I) and Marie Elisabeth Gauthier"
+    },
+    "H022": {
+      "page": 139,
+      "y": 318.5,
+      "name": "Jacques Desire Garson (II) and Catherine Fournier"
+    },
+    "H023": {
+      "page": 139,
+      "y": 397.0,
+      "name": "Charles Mathurin Poytreneaut and Marie Francoise Julienne Garson"
+    },
+    "H024": {
+      "page": 139,
+      "y": 475.5,
+      "name": "Ferdinand Garson and Marie Louise Gertrude Bezerat"
+    },
+    "H025": {
+      "page": 139,
+      "y": 554.0,
+      "name": "Eugene Garson and Virginie Gouillard"
+    },
+    "H026": {
+      "page": 140,
+      "y": 85,
+      "name": "Jacques Louis Garson and Adele (Augustine) Albert"
+    },
+    "H027": {
+      "page": 140,
+      "y": 178.5,
+      "name": "Desire Lamoureux Garson and Marie Francoise Zoe Vallois"
+    },
+    "H028": {
+      "page": 140,
+      "y": 242.0,
+      "name": "Desire Lamoureux Garson and Hyppolite Barbe Julie Sauvage"
+    },
+    "H029": {
+      "page": 140,
+      "y": 320.5,
+      "name": "Barthelemy Lahire and Louise Zoe Garson"
+    },
+    "H030": {
+      "page": 140,
+      "y": 399.0,
+      "name": "Jean Charles Rousseau and Eugenie Garson"
+    },
+    "H031": {
+      "page": 140,
+      "y": 477.5,
+      "name": "Antoine Auguste Forret and Louise Garson (1837)"
+    },
+    "H032": {
+      "page": 140,
+      "y": 556.0,
+      "name": "Napoleon Garson and Louise Rosalie Cornu"
+    },
+    "H033": {
+      "page": 141,
+      "y": 85,
+      "name": "Gregoire Goudot and Augustine Aline Garson"
+    },
+    "H034": {
+      "page": 141,
+      "y": 163.5,
+      "name": "Dominique Gabriel Bonte and Adele Augustine Garson"
+    },
+    "H035": {
+      "page": 141,
+      "y": 242.0,
+      "name": "Antoine Joseph Garson and Caroline Valentine Lamperiere"
+    },
+    "H036": {
+      "page": 141,
+      "y": 335.5,
+      "name": "Antoine Joseph Garson and Cesarine Antoinette Clairat"
+    },
+    "H037": {
+      "page": 141,
+      "y": 399.0,
+      "name": "Emile Leonard Garson and Louise Gauthier"
+    },
+    "H038": {
+      "page": 141,
+      "y": 462.5,
+      "name": "Rabbi Meyer Kogen (Cleveland, candidate) and Esther (Reiter) Kogen"
+    },
+    "H039": {
+      "page": 141,
+      "y": 541.0,
+      "name": "Naomi (Kogen) Spiegelman and Rabbi Marvin Spiegelman"
+    },
+    "H040": {
+      "page": 141,
+      "y": 619.5,
+      "name": "Leo Garson (Cleveland) and Ida Garson"
+    },
+    "H041": {
+      "page": 142,
+      "y": 85,
+      "name": "Sanford Simon and Rosamond (Garson) Simon"
+    },
+    "H042": {
+      "page": 142,
+      "y": 148.5,
+      "name": "Phillip Dratler and Judith Dratler (nee Herskowitz) - 'Judy'"
+    },
+    "H043": {
+      "page": 142,
+      "y": 242.0,
+      "name": "Leigh (Dratler) Wasserman and Mark Wasserman"
+    },
+    "H044": {
+      "page": 142,
+      "y": 305.5,
+      "name": "Jean Baptiste Godenne and Emma Marie Van den driessche (reading conflict)"
+    },
+    "H045": {
+      "page": 142,
+      "y": 369.0,
+      "name": "Joseph Warszavski and Rochel Goldberg"
+    },
+    "H046": {
+      "page": 142,
+      "y": 432.5,
+      "name": "Isac Kaga and Tsilya Gershon"
+    },
+    "H047": {
+      "page": 142,
+      "y": 496.0,
+      "name": "Maria Komisarchik and Isaak Komisarchik"
+    },
+    "H048": {
+      "page": 142,
+      "y": 574.5,
+      "name": "Celya Elin and Matvey Elin"
+    },
+    "H049": {
+      "page": 143,
+      "y": 85,
+      "name": "Jacques Desire Garson (II) and Marie Ursule Breton"
+    },
+    "H050": {
+      "page": 143,
+      "y": 178.5,
+      "name": "Julia Maria Garson"
+    },
+    "H051": {
+      "page": 143,
+      "y": 257.0,
+      "name": "Louise Garson"
+    },
+    "H052": {
+      "page": 143,
+      "y": 335.5,
+      "name": "Jacques Desire Garson (II)"
+    },
+    "H053": {
+      "page": 143,
+      "y": 414.0,
+      "name": "Jean Charles Albert"
+    },
+    "H054": {
+      "page": 143,
+      "y": 492.5,
+      "name": "Francoise Garson"
+    },
+    "H055": {
+      "page": 143,
+      "y": 571.0,
+      "name": "Rochelle (Garson) Horwich and Irving Horwich"
+    },
+    "H056": {
+      "page": 144,
+      "y": 85,
+      "name": "Joyce Vesper and Kerry Vesper"
+    },
+    "H057": {
+      "page": 144,
+      "y": 163.5,
+      "name": "Russell Horwich and Joan Rubin"
+    },
+    "N001": {
+      "page": 145,
+      "y": 200.0,
+      "name": "Reading this family history"
+    },
+    "N002": {
+      "page": 145,
+      "y": 246.0,
+      "name": "The places and the generations"
+    },
+    "N003": {
+      "page": 145,
+      "y": 292.0,
+      "name": "The tailor of Cedar Center"
+    },
+    "N004": {
+      "page": 145,
+      "y": 338.0,
+      "name": "Szyman in the Cleveland Jewish News"
+    },
+    "N005": {
+      "page": 145,
+      "y": 384.0,
+      "name": "Shimon ben Zisl"
+    },
+    "N006": {
+      "page": 145,
+      "y": 430.0,
+      "name": "Berta called Grammy"
+    },
+    "N007": {
+      "page": 145,
+      "y": 476.0,
+      "name": "Berta in the cemetery record"
+    },
+    "N008": {
+      "page": 145,
+      "y": 522.0,
+      "name": "The Zelkinds of Babruysk"
+    },
+    "N009": {
+      "page": 145,
+      "y": 568.0,
+      "name": "Portraits carried in stone"
+    },
+    "N010": {
+      "page": 145,
+      "y": 614.0,
+      "name": "The family remembers Mordechi"
+    },
+    "N011": {
+      "page": 146,
+      "y": 85,
+      "name": "Zeidy Larry"
+    },
+    "N012": {
+      "page": 146,
+      "y": 160.0,
+      "name": "A young portrait of Larry"
+    },
+    "N013": {
+      "page": 146,
+      "y": 220.5,
+      "name": "Larry tells his childhood and war"
+    },
+    "N014": {
+      "page": 146,
+      "y": 281.0,
+      "name": "Auschwitz and Warsaw"
+    },
+    "N015": {
+      "page": 146,
+      "y": 341.5,
+      "name": "From the camps to Cleveland"
+    },
+    "N016": {
+      "page": 146,
+      "y": 402.0,
+      "name": "Bread for the ghetto"
+    },
+    "N017": {
+      "page": 146,
+      "y": 462.5,
+      "name": "The Altalena in Larry’s memory"
+    },
+    "N018": {
+      "page": 146,
+      "y": 537.5,
+      "name": "A voice for remembrance"
+    },
+    "N019": {
+      "page": 146,
+      "y": 598.0,
+      "name": "Let us try again for a center"
+    },
+    "N020": {
+      "page": 146,
+      "y": 644.0,
+      "name": "The card that made him an American"
+    },
+    "N021": {
+      "page": 147,
+      "y": 85,
+      "name": "Ileen called Gabby"
+    },
+    "N022": {
+      "page": 147,
+      "y": 131.0,
+      "name": "The Garsons of Paris"
+    },
+    "N023": {
+      "page": 147,
+      "y": 191.5,
+      "name": "Victor’s declaration of intention"
+    },
+    "N024": {
+      "page": 147,
+      "y": 252.0,
+      "name": "Paris in Victor’s childhood"
+    },
+    "N025": {
+      "page": 147,
+      "y": 298.0,
+      "name": "An American twice over"
+    },
+    "N026": {
+      "page": 147,
+      "y": 344.0,
+      "name": "Pearl’s sworn family record"
+    },
+    "N027": {
+      "page": 147,
+      "y": 404.5,
+      "name": "Pearl’s sisters and brothers in print"
+    },
+    "N028": {
+      "page": 147,
+      "y": 465.0,
+      "name": "Victor’s last family notice"
+    },
+    "N029": {
+      "page": 147,
+      "y": 525.5,
+      "name": "Rochelle and Rosamond"
+    },
+    "N030": {
+      "page": 147,
+      "y": 586.0,
+      "name": "Rochelle’s Arizona obituary"
+    },
+    "N031": {
+      "page": 147,
+      "y": 646.5,
+      "name": "Cleveland as they found it"
+    },
+    "N032": {
+      "page": 148,
+      "y": 85,
+      "name": "Zion Memorial Park"
+    },
+    "N033": {
+      "page": 148,
+      "y": 131.0,
+      "name": "The cemetery’s own register"
+    },
+    "N034": {
+      "page": 148,
+      "y": 177.0,
+      "name": "A postwar childhood"
+    },
+    "N035": {
+      "page": 148,
+      "y": 223.0,
+      "name": "Joe and Lori"
+    },
+    "N036": {
+      "page": 148,
+      "y": 269.0,
+      "name": "What a household remembers"
+    },
+    "N037": {
+      "page": 148,
+      "y": 329.5,
+      "name": "Joe’s stone"
+    },
+    "N038": {
+      "page": 148,
+      "y": 390.0,
+      "name": "The nine children"
+    },
+    "N039": {
+      "page": 148,
+      "y": 494.0,
+      "name": "Ilana and Shmaya Marinovsky"
+    },
+    "N040": {
+      "page": 148,
+      "y": 569.0,
+      "name": "Aliya and Shmuel Yaakov Andrusier"
+    },
+    "N041": {
+      "page": 148,
+      "y": 615.0,
+      "name": "Shoshy and Shmuel"
+    },
+    "N042": {
+      "page": 148,
+      "y": 661.0,
+      "name": "Yechiel"
+    },
+    "N043": {
+      "page": 149,
+      "y": 85,
+      "name": "Maimi and Dovid Inglis"
+    },
+    "N044": {
+      "page": 149,
+      "y": 145.5,
+      "name": "Shimon and Mushky Warszawski"
+    },
+    "N045": {
+      "page": 149,
+      "y": 191.5,
+      "name": "Chaya Brocha and Dovi Katz"
+    },
+    "N046": {
+      "page": 149,
+      "y": 237.5,
+      "name": "Simcha"
+    },
+    "N047": {
+      "page": 149,
+      "y": 283.5,
+      "name": "Hadassa and Doni Hirsch"
+    },
+    "N048": {
+      "page": 149,
+      "y": 344.0,
+      "name": "The wider family"
+    },
+    "N049": {
+      "page": 149,
+      "y": 390.0,
+      "name": "JEM preview provenance (individual portraits)"
+    },
+    "N050": {
+      "page": 149,
+      "y": 465.0,
+      "name": "Lori and Aliya at Sunday dollars"
+    },
+    "N051": {
+      "page": 149,
+      "y": 511.0,
+      "name": "Shmaya Marinovsky at Sunday dollars"
+    },
+    "N052": {
+      "page": 149,
+      "y": 557.0,
+      "name": "Where the proven Garson line stops"
+    },
+    "N053": {
+      "page": 149,
+      "y": 617.5,
+      "name": "The Metz question"
+    },
+    "N054": {
+      "page": 150,
+      "y": 85,
+      "name": "Metz as historical context"
+    },
+    "N055": {
+      "page": 150,
+      "y": 145.5,
+      "name": "Julia and her children"
+    },
+    "N056": {
+      "page": 150,
+      "y": 191.5,
+      "name": "Marcel’s birth in 1895"
+    },
+    "N057": {
+      "page": 150,
+      "y": 252.0,
+      "name": "A mother’s legal recognition"
+    },
+    "N058": {
+      "page": 150,
+      "y": 312.5,
+      "name": "Charlotte’s birth in 1898"
+    },
+    "N059": {
+      "page": 150,
+      "y": 373.0,
+      "name": "Leon Jules and his later life"
+    },
+    "N060": {
+      "page": 150,
+      "y": 433.5,
+      "name": "The index and the original act"
+    },
+    "N061": {
+      "page": 150,
+      "y": 494.0,
+      "name": "The Paris households"
+    },
+    "N062": {
+      "page": 150,
+      "y": 540.0,
+      "name": "Aline’s marriage in 1920"
+    },
+    "N063": {
+      "page": 150,
+      "y": 615.0,
+      "name": "Aline and Edouard before the registrar"
+    },
+    "N064": {
+      "page": 150,
+      "y": 661.0,
+      "name": "The parents named in Aline’s act"
+    },
+    "N065": {
+      "page": 151,
+      "y": 85,
+      "name": "Antoine and Caroline"
+    },
+    "N066": {
+      "page": 151,
+      "y": 160.0,
+      "name": "The birth act behind the question"
+    },
+    "N067": {
+      "page": 151,
+      "y": 206.0,
+      "name": "More than one Lamperiere family"
+    },
+    "N068": {
+      "page": 151,
+      "y": 281.0,
+      "name": "Caroline Valentine in the restored records"
+    },
+    "N069": {
+      "page": 151,
+      "y": 327.0,
+      "name": "The country around Tigery"
+    },
+    "N070": {
+      "page": 151,
+      "y": 373.0,
+      "name": "The Garsons of Tigery"
+    },
+    "N071": {
+      "page": 151,
+      "y": 448.0,
+      "name": "Jacques and Louis in the birth register"
+    },
+    "N072": {
+      "page": 151,
+      "y": 494.0,
+      "name": "A father named by his sons"
+    },
+    "N073": {
+      "page": 151,
+      "y": 540.0,
+      "name": "Ferdinand and Desire Lamoureux"
+    },
+    "N074": {
+      "page": 151,
+      "y": 600.5,
+      "name": "Desire Lamoureux marries Julie Sauvage"
+    },
+    "N075": {
+      "page": 151,
+      "y": 646.5,
+      "name": "Louis Jacques and Adele Albert"
+    },
+    "N076": {
+      "page": 152,
+      "y": 85,
+      "name": "Augustine Aline at Lisses"
+    },
+    "N077": {
+      "page": 152,
+      "y": 131.0,
+      "name": "The Kogen question"
+    },
+    "N078": {
+      "page": 152,
+      "y": 191.5,
+      "name": "Esther’s family notice"
+    },
+    "N079": {
+      "page": 152,
+      "y": 237.5,
+      "name": "Rabbi Meyer Kogen in the newspaper"
+    },
+    "N080": {
+      "page": 152,
+      "y": 283.5,
+      "name": "Meyer’s household in the family notice"
+    },
+    "N081": {
+      "page": 152,
+      "y": 344.0,
+      "name": "The uncle in Cleveland"
+    },
+    "N082": {
+      "page": 152,
+      "y": 404.5,
+      "name": "Memorial names and records still unlinked"
+    },
+    "N083": {
+      "page": 152,
+      "y": 479.5,
+      "name": "What could change the next edition"
+    },
+    "N084": {
+      "page": 152,
+      "y": 525.5,
+      "name": "A wartime inquiry from New York"
+    },
+    "N085": {
+      "page": 152,
+      "y": 586.0,
+      "name": "The 1917 welfare inquiry"
+    },
+    "N086": {
+      "page": 152,
+      "y": 632.0,
+      "name": "Kogan households at Parichi"
+    },
+    "N087": {
+      "page": 153,
+      "y": 85,
+      "name": "A 1921 household sheet from Huszt"
+    },
+    "S001": {
+      "page": 154,
+      "y": 215.0,
+      "name": "S001 Family account - Warszawski family list"
+    },
+    "S002": {
+      "page": 154,
+      "y": 319.0,
+      "name": "S002 Family account - correction"
+    },
+    "S003": {
+      "page": 154,
+      "y": 365.0,
+      "name": "S003 Family account - Shoshy and Shmuel's household"
+    },
+    "S004": {
+      "page": 154,
+      "y": 411.0,
+      "name": "S004 Family account - Joe and Lori"
+    },
+    "S005": {
+      "page": 154,
+      "y": 457.0,
+      "name": "S005 Family account - Joe's date of passing"
+    },
+    "S006": {
+      "page": 154,
+      "y": 503.0,
+      "name": "S006 Family account - Shoshy (Lori's parents)"
+    },
+    "S007": {
+      "page": 154,
+      "y": 549.0,
+      "name": "S007 In Memory: Joseph Sam Warszawski - Cleveland Heights High School class of 1978"
+    },
+    "S008": {
+      "page": 154,
+      "y": 611.0,
+      "name": "S008 ChabadInfo Mazal Tov archive: Shmuly Chaikin - Shoshy Warszawski"
+    },
+    "S009": {
+      "page": 155,
+      "y": 85,
+      "name": "S009 L'Chaim: Andrusier - Warszaski"
+    },
+    "S010": {
+      "page": 155,
+      "y": 147.0,
+      "name": "S010 L'Chaim: Warszawski - Chayempour"
+    },
+    "S011": {
+      "page": 155,
+      "y": 209.0,
+      "name": "S011 Baby Girl! - Shimon and Mushkie (nee Chayempour) Warszawski"
+    },
+    "S012": {
+      "page": 155,
+      "y": 271.0,
+      "name": "S012 New Engagement! - Daniel Hirsch to Dassi Warszwaski"
+    },
+    "S013": {
+      "page": 155,
+      "y": 333.0,
+      "name": "S013 L'Chaim: Hirsch - Warszawski"
+    },
+    "S014": {
+      "page": 155,
+      "y": 395.0,
+      "name": "S014 L'Chaim: Hirsch - Warszawski"
+    },
+    "S015": {
+      "page": 155,
+      "y": 457.0,
+      "name": "S015 Wedding: Hirsch - Warszwaski"
+    },
+    "S016": {
+      "page": 155,
+      "y": 519.0,
+      "name": "S016 New Engagement: Dovi Katz - Chaya Warszawski"
+    },
+    "S017": {
+      "page": 155,
+      "y": 595.5,
+      "name": "S017 L'Chaim: Katz - Warszawski"
+    },
+    "S018": {
+      "page": 156,
+      "y": 85,
+      "name": "S018 L'Chaim: Katz - Warszawski"
+    },
+    "S019": {
+      "page": 156,
+      "y": 147.0,
+      "name": "S019 Wedding: Katz - Warszawski"
+    },
+    "S020": {
+      "page": 156,
+      "y": 209.0,
+      "name": "S020 ChabadInfo Mazal Tov archive: Dovid Englis - Maimi Warszawski"
+    },
+    "S021": {
+      "page": 156,
+      "y": 271.0,
+      "name": "S021 Shoshy Warszawski & Shmuly Chaikin - engagement"
+    },
+    "S022": {
+      "page": 156,
+      "y": 333.0,
+      "name": "S022 Dovid Inglis & Maimi Warszawski - engagement"
+    },
+    "S023": {
+      "page": 156,
+      "y": 395.0,
+      "name": "S023 Shimon Warszawski & Mushky Chayempour - engagement"
+    },
+    "S024": {
+      "page": 156,
+      "y": 457.0,
+      "name": "S024 Baby Girl! - Dovi and Chaya Katz"
+    },
+    "S025": {
+      "page": 156,
+      "y": 519.0,
+      "name": "S025 Cleveland Jewish News digital archive access"
+    },
+    "S026": {
+      "page": 156,
+      "y": 581.0,
+      "name": "S026 Another Shaina Hirsch - do not merge"
+    },
+    "S027": {
+      "page": 157,
+      "y": 85,
+      "name": "S027 Houston community mentions Ilana Marinovsky"
+    },
+    "S028": {
+      "page": 157,
+      "y": 161.5,
+      "name": "S028 Yosef Yitzchak Bacher - Moushkie Teleshevsky engagement"
+    },
+    "S029": {
+      "page": 157,
+      "y": 223.5,
+      "name": "S029 Efraim Bacher - Sara Kugel L’Chaim"
+    },
+    "S030": {
+      "page": 157,
+      "y": 285.5,
+      "name": "S030 Family knowledge"
+    },
+    "S031": {
+      "page": 157,
+      "y": 331.5,
+      "name": "S031 Szyman Warszawski obituary"
+    },
+    "S032": {
+      "page": 157,
+      "y": 408.0,
+      "name": "S032 Hersh-Warszawski engagement"
+    },
+    "S033": {
+      "page": 157,
+      "y": 484.5,
+      "name": "S033 Daughter to Warszawskis birth announcement"
+    },
+    "S034": {
+      "page": 157,
+      "y": 575.5,
+      "name": "S034 Mordechi Zelkind monument unveiling"
+    },
+    "S035": {
+      "page": 158,
+      "y": 85,
+      "name": "S035 Joseph Warszawski bar mitzvah announcement"
+    },
+    "S036": {
+      "page": 158,
+      "y": 161.5,
+      "name": "S036 Jewish Survival Legion leader Larry Hersh"
+    },
+    "S037": {
+      "page": 158,
+      "y": 238.0,
+      "name": "S037 Larry H. Holocaust testimony (HVT-341) - catalog synopsis"
+    },
+    "S038": {
+      "page": 158,
+      "y": 314.5,
+      "name": "S038 Larry Hersh - Wall of Heroes memorial"
+    },
+    "S039": {
+      "page": 158,
+      "y": 376.5,
+      "name": "S039 Arie Lawrence Hersh - Cuyahoga naturalization card"
+    },
+    "S040": {
+      "page": 158,
+      "y": 453.0,
+      "name": "S040 Szymon Warszavski - Social Security NUMIDENT index"
+    },
+    "S041": {
+      "page": 158,
+      "y": 529.5,
+      "name": "S041 Elka Kagan Zelkind - Social Security NUMIDENT index"
+    },
+    "S042": {
+      "page": 158,
+      "y": 606.0,
+      "name": "S042 Zion Memorial Park burial register - Warszawski and Zelkind surname results"
+    },
+    "S043": {
+      "page": 159,
+      "y": 85,
+      "name": "S043 Berta Warszawski headstone, Zion Memorial Park"
+    },
+    "S044": {
+      "page": 159,
+      "y": 147.0,
+      "name": "S044 Elka Zelkind headstone portrait and date range"
+    },
+    "S045": {
+      "page": 159,
+      "y": 209.0,
+      "name": "S045 Gail Zelkind headstone dates"
+    },
+    "S046": {
+      "page": 159,
+      "y": 271.0,
+      "name": "S046 Mordukh Zelkind headstone portrait and date range"
+    },
+    "S047": {
+      "page": 159,
+      "y": 333.0,
+      "name": "S047 Zvi Warszawski headstone, Jewishdata item 443207"
+    },
+    "S048": {
+      "page": 159,
+      "y": 379.0,
+      "name": "S048 Benjamin Zelkind headstone, Jewishdata item 271689"
+    },
+    "S049": {
+      "page": 159,
+      "y": 425.0,
+      "name": "S049 Wolf Zelkind headstone, Jewishdata item 377384"
+    },
+    "S050": {
+      "page": 159,
+      "y": 471.0,
+      "name": "S050 Mordukh Zelkind death notice, The Plain Dealer, Sept. 25, 1996, p. B8"
+    },
+    "S051": {
+      "page": 159,
+      "y": 547.5,
+      "name": "S051 Ileen Hersh death notice, The Plain Dealer, May 23, 2009, p. B4"
+    },
+    "S052": {
+      "page": 159,
+      "y": 624.0,
+      "name": "S052 JOWBR burial record: Sam Warszawski (J_OH_0059293)"
+    },
+    "S053": {
+      "page": 160,
+      "y": 85,
+      "name": "S053 JOWBR burial record: Mordukh Zelkind (J_OH_0059681)"
+    },
+    "S054": {
+      "page": 160,
+      "y": 161.5,
+      "name": "S054 JOWBR burial record: Elka Zelkind (J_OH_0059679)"
+    },
+    "S055": {
+      "page": 160,
+      "y": 238.0,
+      "name": "S055 JOWBR burial record: Gail Zelkind (J_OH_0059680)"
+    },
+    "S056": {
+      "page": 160,
+      "y": 314.5,
+      "name": "S056 FindAGrave memorial 273775046 - Joseph Warszawski headstone, Zion Memorial Park"
+    },
+    "S057": {
+      "page": 160,
+      "y": 376.0,
+      "name": "S057 FindAGrave memorial 273716163 - Szyman Warszawski headstone"
+    },
+    "S058": {
+      "page": 160,
+      "y": 422.0,
+      "name": "S058 FindAGrave memorial 273776627 - Berta Warszawski headstone"
+    },
+    "S059": {
+      "page": 160,
+      "y": 468.0,
+      "name": "S059 JOWBR burial records: Metz-Chambiere cemetery - GERSON Aron (1841-1924) and LEVY Caroline GERSON (c.1845-1909)"
+    },
+    "S060": {
+      "page": 160,
+      "y": 545.5,
+      "name": "S060 Yad Vashem Pages of Testimony sweep: 'Arie Hershkowitz' (8 murdered, Carpathian Ruthenia)"
+    },
+    "S061": {
+      "page": 160,
+      "y": 623.0,
+      "name": "S061 Ellis Island manifest search: exact spelling 'Garson' 1892-1924"
+    },
+    "S062": {
+      "page": 161,
+      "y": 85,
+      "name": "S062 Victor Garson - Declaration of Intention, N.D. Ohio No. 28845"
+    },
+    "S064": {
+      "page": 161,
+      "y": 176.0,
+      "name": "S064 Pearl Garson obituary, Cleveland (March 1973)"
+    },
+    "S065": {
+      "page": 161,
+      "y": 252.5,
+      "name": "S065 Ileen G. Hersh obituary (May 2009)"
+    },
+    "S066": {
+      "page": 161,
+      "y": 298.5,
+      "name": "S066 FindAGrave index lines - Garson/Hersh burials"
+    },
+    "S067": {
+      "page": 161,
+      "y": 360.5,
+      "name": "S067 FamilySearch public tree profile LT33-Q47 (Victor Garson)"
+    },
+    "S068": {
+      "page": 161,
+      "y": 422.5,
+      "name": "S068 FamilySearch public tree profile P37L-ZSH (Szyman Warszawski)"
+    },
+    "S069": {
+      "page": 161,
+      "y": 484.5,
+      "name": "S069 Lawrence A. Hersh obituary index, Cleveland (January 5, 2012)"
+    },
+    "S070": {
+      "page": 161,
+      "y": 530.5,
+      "name": "S070 Pearl Garson - Petition for Naturalization, N.D. Ohio, cert 73676"
+    },
+    "S071": {
+      "page": 162,
+      "y": 85,
+      "name": "S071 FamilySearch public tree profile PFRQ-N26 (Berta O Warszawski)"
+    },
+    "S072": {
+      "page": 162,
+      "y": 161.5,
+      "name": "S072 FamilySearch public tree profile PFR3-L61 (Joseph Sam Warszawski)"
+    },
+    "S073": {
+      "page": 162,
+      "y": 238.0,
+      "name": "S073 FamilySearch public tree profiles GT53-LHT + GT53-C2M (Joseph Warszavski, Rochel Goldberg)"
+    },
+    "S074": {
+      "page": 162,
+      "y": 330.0,
+      "name": "S074 FamilySearch public Garson tree ('Mae2019'): Victor LT33-Q47, Solomon LT33-WGS, Rachael LT33-SGY"
+    },
+    "S075": {
+      "page": 162,
+      "y": 422.0,
+      "name": "S075 Herman Garson family - obituary and draft records (separate Russian line)"
+    },
+    "S076": {
+      "page": 162,
+      "y": 468.0,
+      "name": "S076 Acte de naissance N° 5097: Marcel Eugene Jules Garson, Paris 18e, 4 Nov 1895 (Archives de Paris V4E 10322)"
+    },
+    "S077": {
+      "page": 162,
+      "y": 529.5,
+      "name": "S077 Acte de naissance N° 1182: Charlotte Garson, Paris 18e, born 4 Mar 1898, declared 7 Mar 1898 (Archives de Paris V4E 10385, feuillet 66r)"
+    },
+    "S078": {
+      "page": 162,
+      "y": 591.0,
+      "name": "S078 Table decennale, Paris 18e (D1M9 220): Garson entries - Marcel Eugene Jules (4 novembre 1895) and Charlotte (7 mars 1898)"
+    },
+    "S079": {
+      "page": 163,
+      "y": 85,
+      "name": "S079 Acte de reconnaissance N° 3451: Julia Emelina Perpetue (Maria) Garson recognizes Marcel Eugene Jules Garson, Paris 17e, 18 Nov 1895"
+    },
+    "S080": {
+      "page": 163,
+      "y": 146.5,
+      "name": "S080 Acte de naissance N° 197: Leon Jules Garson, Paris 5e, 21 Jan 1897 (born 17 Jan) (Archives de Paris V4E 8397)"
+    },
+    "S081": {
+      "page": 163,
+      "y": 208.0,
+      "name": "S081 Acte de naissance N° 1389: Gustave Garson, Paris 5e, 16 May 1901 (born 13 May)"
+    },
+    "S082": {
+      "page": 163,
+      "y": 254.0,
+      "name": "S082 Acte de naissance N° 1291: Marcel Alphonse Garson, Paris 4e, 1 Oct 1902 (born 29 Sep)"
+    },
+    "S083": {
+      "page": 163,
+      "y": 315.5,
+      "name": "S083 Acte de naissance N° 3542: Aline Garson, Paris 6e, 22 Oct 1894 (born 19 Oct)"
+    },
+    "S084": {
+      "page": 163,
+      "y": 361.5,
+      "name": "S084 Acte de naissance N° 3741: Armandine Garson, Paris 14e, 19 Jun 1893 (born 18 Jun) (Archives de Paris V4E 9609)"
+    },
+    "S085": {
+      "page": 163,
+      "y": 423.0,
+      "name": "S085 Register-end alphabetical table, Paris 14e 1893 (V4E 9609): 'Garson Armandine 3741'"
+    },
+    "S086": {
+      "page": 163,
+      "y": 484.5,
+      "name": "S086 American Jewish Archives - JCF Cleveland 1954-55 file (ms4787.040.014.0989)"
+    },
+    "S087": {
+      "page": 163,
+      "y": 561.0,
+      "name": "S087 American Jewish Archives - BJE/College of Jewish Studies 1955 file (ms4787.017.006.0369)"
+    },
+    "S088": {
+      "page": 164,
+      "y": 85,
+      "name": "S088 kevarim.com: Rabbi Meir Tzvi Kogen grave photo"
+    },
+    "S089": {
+      "page": 164,
+      "y": 147.0,
+      "name": "S089 Oral history interview with Larry Hersh (USHMM RG-50.091.0080, irn505021; NCJW Cleveland Section, interviewer Peggy Nathan, 13 Aug 1984)"
+    },
+    "S090": {
+      "page": 164,
+      "y": 253.5,
+      "name": "S090 Acte de naissance N deg 2022, Paris 6e, 17 aout 1864"
+    },
+    "S091": {
+      "page": 164,
+      "y": 330.0,
+      "name": "S091 Acte de naissance N deg 734, Paris 17e, 30 mars 1868"
+    },
+    "S092": {
+      "page": 164,
+      "y": 406.5,
+      "name": "S092 Acte de naissance N deg 1115, Paris 14e, 14 avril 1869"
+    },
+    "S093": {
+      "page": 164,
+      "y": 483.0,
+      "name": "S093 Acte de mariage N deg 300, Paris 18e, 15 mars 1884"
+    },
+    "S094": {
+      "page": 164,
+      "y": 559.5,
+      "name": "S094 AD91 Tigery registers 1818-1872 (act-level reads)"
+    },
+    "S095": {
+      "page": 164,
+      "y": 621.5,
+      "name": "S095 AD91 Fontenay-le-Vicomte acts 1845-1851"
+    },
+    "S096": {
+      "page": 165,
+      "y": 85,
+      "name": "S096 AD91 Lisses birth act N deg 13/1843 + TD5"
+    },
+    "S097": {
+      "page": 165,
+      "y": 147.0,
+      "name": "S097 Paris 5e death extract transcribed into Tigery register 1851 (act N deg 1)"
+    },
+    "S098": {
+      "page": 165,
+      "y": 209.0,
+      "name": "S098 Paris decennial tables (TD) 1860-1872 sweep, Garson/Lamperiere bands"
+    },
+    "S099": {
+      "page": 165,
+      "y": 285.5,
+      "name": "S099 Rabbi Meyer Kogen death notice, Plain Dealer (Dec 9 1973), CPL Necrology record 582635"
+    },
+    "S100": {
+      "page": 165,
+      "y": 392.0,
+      "name": "S100 Esther Kogen death notice, Cleveland Press (Apr 4 1960), CPL Necrology record 582634"
+    },
+    "S101": {
+      "page": 165,
+      "y": 498.5,
+      "name": "S101 CPL News Index citation entries: Victor Garson 1978, Ida Garson 1987, Leo Garson 1990 (citations only, not obit text)"
+    },
+    "S102": {
+      "page": 165,
+      "y": 576.0,
+      "name": "S102 CPL original clippings (scanned PDFs, received 29 Sep 2026): Pearl Garson death notice, Plain Dealer (service Sunday March 4, 1973, 2 PM) and Victor Garson death notice, Plain Dealer (service Monday August 14, 1978, 3 PM) - both Berkowitz-Kumin Inc. Memorial Chapel, Cleveland Hts.; interment Zion Memorial Park"
+    },
+    "S103": {
+      "page": 166,
+      "y": 85,
+      "name": "S103 Judith Dratler (nee Herskowitz) obituary, Cleveland Jewish News, June 9 2025"
+    },
+    "S104": {
+      "page": 166,
+      "y": 161.5,
+      "name": "S104 Acte de mariage N° 3605: Edouard Adolphe Godenne x Aline Garson, Paris 17e, 16 Oct 1920"
+    },
+    "S105": {
+      "page": 166,
+      "y": 253.5,
+      "name": "S105 Family knowledge recorded in The Warszawskis, family edition v10, September 2026, pp. 13, 22, 48–58"
+    },
+    "S106": {
+      "page": 166,
+      "y": 331.0,
+      "name": "S106 Tigery marriage act 7, 30 August 1834, Désiré Lamoureux Garson and Hyppolite Barbe Julie Sauvage"
+    },
+    "S107": {
+      "page": 166,
+      "y": 408.5,
+      "name": "S107 Rabbi Meyer Kogen, former principal, dies — The Plain Dealer, 9 December 1973"
+    },
+    "S108": {
+      "page": 166,
+      "y": 499.5,
+      "name": "S108 Rabbi Meyer Kogen family death notice — The Plain Dealer, 9 December 1973"
+    },
+    "S109": {
+      "page": 166,
+      "y": 576.0,
+      "name": "S109 Esther Kogen death notice — Cleveland Press, 4 April 1960, p. 51"
+    },
+    "S110": {
+      "page": 167,
+      "y": 85,
+      "name": "S110 Rochelle Garson Horwich obituary — The Plain Dealer, 30 December 1999, p. 6B"
+    },
+    "S111": {
+      "page": 167,
+      "y": 176.0,
+      "name": "S111 Caroline Valentine Lamperiere and Louis Victor Beneton — restored Paris marriage, 1 April 1852"
+    },
+    "S112": {
+      "page": 167,
+      "y": 297.0,
+      "name": "S112 Paris restored civil-status finding cards — Lamperiere, before 1860"
+    },
+    "S113": {
+      "page": 167,
+      "y": 388.0,
+      "name": "S113 Antoine Joseph Garson — birth finding card and restored-record packet"
+    },
+    "S114": {
+      "page": 167,
+      "y": 464.5,
+      "name": "S114 Edouard Godenne and Aline Garson — Paris 17e marriage act 3605, 16 October 1920"
+    },
+    "S115": {
+      "page": 167,
+      "y": 556.5,
+      "name": "S115 Delphine Amelie Lamperiere and Henri Waelles — Paris 1er marriage act 457, 23 June 1860"
+    },
+    "S116": {
+      "page": 168,
+      "y": 85,
+      "name": "S116 Rosalie Irma Lamperiere and Henry Joseph Benjamin Bohain — Paris 5e marriage act 203, 23 March 1865"
+    },
+    "S117": {
+      "page": 168,
+      "y": 191.5,
+      "name": "S117 Adam Reviczky, Vesztes háborúk, megnyert csaták — 2008 edition, pp. 448–450"
+    },
+    "S118": {
+      "page": 168,
+      "y": 297.0,
+      "name": "S118 Area veterans of 1948 war refute new historians — Cleveland Jewish News, 15 May 2003"
+    },
+    "S119": {
+      "page": 168,
+      "y": 403.5,
+      "name": "S119 Remembering the Altalena, a shipmate’s tale — Cleveland Jewish News, 2008"
+    },
+    "S120": {
+      "page": 168,
+      "y": 494.5,
+      "name": "S120 Palmach historical database — Altalena"
+    },
+    "S121": {
+      "page": 168,
+      "y": 571.0,
+      "name": "S121 Williams and Diskin — maritime account of the Altalena, The Northern Mariner 34 (2024), pp. 129–138"
+    },
+    "S122": {
+      "page": 169,
+      "y": 85,
+      "name": "S122 Larry Hersh letter concerning a Holocaust center — Cleveland Jewish News, 26 May 2000, p. 8"
+    },
+    "S123": {
+      "page": 169,
+      "y": 191.5,
+      "name": "S123 Larry Hersh, Learn from the past — Cleveland Jewish News, 2010"
+    },
+    "S124": {
+      "page": 169,
+      "y": 268.0,
+      "name": "S124 Kol Israel Foundation — 2017 memorial booklet, wall section 47"
+    },
+    "S125": {
+      "page": 169,
+      "y": 344.5,
+      "name": "S125 Khust memorial book — martyrs transcription, p. 891"
+    },
+    "S126": {
+      "page": 169,
+      "y": 421.0,
+      "name": "S126 Khust memorial book — index, p. 1035"
+    },
+    "S127": {
+      "page": 169,
+      "y": 497.5,
+      "name": "S127 Louis E. Janowitz — Cleveland Public Library necrology record 163244, 1939"
+    },
+    "S128": {
+      "page": 169,
+      "y": 574.0,
+      "name": "S128 Cleveland city directory, 1940 — p. 538 printed, p. 541 digital"
+    },
+    "S129": {
+      "page": 170,
+      "y": 85,
+      "name": "S129 Cleveland city directory, 1955 — p. 619 printed, p. 618 digital"
+    },
+    "S130": {
+      "page": 170,
+      "y": 161.5,
+      "name": "S130 Cleveland Public Library — city-directory coverage guide"
+    },
+    "S131": {
+      "page": 170,
+      "y": 252.5,
+      "name": "S131 Rosamond Simon — Cleveland Public Library News Index record 614868"
+    },
+    "W01": {
+      "page": 170,
+      "y": 329.0,
+      "name": "W01 Victor Garson and Pearl Adelstein marriage record"
+    },
+    "W02": {
+      "page": 170,
+      "y": 421.5,
+      "name": "W02 Victor Gershanovitz petition and attached declaration"
+    },
+    "W03": {
+      "page": 170,
+      "y": 498.0,
+      "name": "W03 Victor’s admission and name-change order"
+    },
+    "W04": {
+      "page": 170,
+      "y": 574.5,
+      "name": "W04 Pearl Adelstein delayed birth certificate"
+    },
+    "W05": {
+      "page": 171,
+      "y": 85,
+      "name": "W05 Rose Alliance’s supporting affidavit"
+    },
+    "W06": {
+      "page": 171,
+      "y": 161.5,
+      "name": "W06 Victor and Pearl’s 1920 census household"
+    },
+    "W07": {
+      "page": 171,
+      "y": 238.0,
+      "name": "W07 Victor Garson Ohio death index"
+    },
+    "W08": {
+      "page": 171,
+      "y": 314.5,
+      "name": "W08 Paris birth act 2087"
+    },
+    "W09": {
+      "page": 171,
+      "y": 405.5,
+      "name": "W09 Ryndam passenger candidate"
+    },
+    "W10": {
+      "page": 171,
+      "y": 496.5,
+      "name": "W10 Manhattan Grenberg and Pelesky candidate"
+    },
+    "W11": {
+      "page": 171,
+      "y": 573.0,
+      "name": "W11 Marcus Edelstein federal naturalization cards"
+    },
+    "W12": {
+      "page": 172,
+      "y": 85,
+      "name": "W12 Marcus Edelstein obituary index"
+    },
+    "W13": {
+      "page": 172,
+      "y": 176.0,
+      "name": "W13 The 2012 Edelstein family announcement"
+    },
+    "W14": {
+      "page": 172,
+      "y": 267.0,
+      "name": "W14 Karola Faige Edelstein Social Security index"
+    },
+    "W15": {
+      "page": 172,
+      "y": 358.0,
+      "name": "W15 Karola Edelstein Ohio death index"
+    },
+    "W16": {
+      "page": 172,
+      "y": 434.5,
+      "name": "W16 Phillip Edelstein Social Security index"
+    },
+    "W17": {
+      "page": 172,
+      "y": 525.5,
+      "name": "W17 The pending Marcus naturalization file"
+    },
+    "W18": {
+      "page": 172,
+      "y": 616.5,
+      "name": "W18 Kurów Jewish civil-register inventory"
+    },
+    "W19": {
+      "page": 173,
+      "y": 85,
+      "name": "W19 Survivor-list leads for the Edelstein comparison"
+    },
+    "W20": {
+      "page": 173,
+      "y": 176.0,
+      "name": "W20 Polish refugees in Sweden finding aid"
+    },
+    "W21": {
+      "page": 173,
+      "y": 267.0,
+      "name": "W21 Rosamond Selma Garson Social Security index"
+    },
+    "W22": {
+      "page": 173,
+      "y": 358.0,
+      "name": "W22 Victor’s 1917 draft registration"
+    },
+    "W23": {
+      "page": 173,
+      "y": 434.5,
+      "name": "W23 Zion Memorial Park burial register"
+    },
+    "W24": {
+      "page": 173,
+      "y": 511.0,
+      "name": "W24 Mordka in the 1945 survivor list"
+    },
+    "W25": {
+      "page": 173,
+      "y": 616.5,
+      "name": "W25 Mordka Ejdelsztejn Arolsen catalogue case"
+    },
+    "W26": {
+      "page": 174,
+      "y": 85,
+      "name": "W26 Rose Adelstein and Sam Alliance marriage"
+    },
+    "W27": {
+      "page": 174,
+      "y": 176.0,
+      "name": "W27 Isidor Adelstein and Edward Allen alias card"
+    },
+    "W28": {
+      "page": 174,
+      "y": 267.0,
+      "name": "W28 Edward B Allen and Annette B Harris marriage"
+    },
+    "W29": {
+      "page": 174,
+      "y": 358.0,
+      "name": "W29 Rose Karr formerly Rose Alliance"
+    },
+    "W30": {
+      "page": 174,
+      "y": 449.0,
+      "name": "W30 Victor Social Security application search"
+    },
+    "S132": {
+      "page": 174,
+      "y": 540.0,
+      "name": "S132 Judith Herskovitz and Philip Dratler — original 1949 certified marriage abstract"
+    },
+    "S063": {
+      "page": 170,
+      "y": 329.0,
+      "name": "W01 Victor Garson and Pearl Adelstein marriage record"
+    }
+  },
+  "baseline_to_final": {
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "10": 10,
+    "11": 11,
+    "12": 12,
+    "13": 13,
+    "14": 14,
+    "15": 15,
+    "16": 16,
+    "17": 17,
+    "18": 18,
+    "19": 19,
+    "20": 20,
+    "21": 21,
+    "22": 22,
+    "23": 23,
+    "24": 24,
+    "25": 25,
+    "26": 26,
+    "27": 27,
+    "28": 28,
+    "29": 29,
+    "30": 30,
+    "31": 31,
+    "32": 32,
+    "33": 33,
+    "34": 34,
+    "35": 35,
+    "36": 36,
+    "37": 37,
+    "38": 38,
+    "39": 39,
+    "40": 40,
+    "41": 41,
+    "42": 42,
+    "43": 43,
+    "44": 44,
+    "45": 45,
+    "46": 46,
+    "47": 47,
+    "48": 48,
+    "49": 49,
+    "50": 50,
+    "51": 51,
+    "52": 52,
+    "53": 53,
+    "54": 54,
+    "55": 55,
+    "56": 56,
+    "57": 57,
+    "58": 58,
+    "59": 59,
+    "60": 60,
+    "61": 61,
+    "62": 62,
+    "63": 63,
+    "64": 64,
+    "65": 65,
+    "66": 66,
+    "67": 67,
+    "68": 68,
+    "69": 69,
+    "70": 70,
+    "71": 71,
+    "72": 72,
+    "73": 73,
+    "74": 74,
+    "75": 75,
+    "76": 76,
+    "77": 77,
+    "78": 78,
+    "79": 79,
+    "80": 80,
+    "81": 81,
+    "82": 82,
+    "83": 83,
+    "84": 84,
+    "85": 85,
+    "86": 86,
+    "87": 87,
+    "88": 88,
+    "89": 89,
+    "90": 90,
+    "91": 91,
+    "92": 92,
+    "93": 93,
+    "94": 94,
+    "95": 95,
+    "96": 96,
+    "97": 97,
+    "98": 98,
+    "99": 99,
+    "205": 175,
+    "206": 176,
+    "207": 177,
+    "208": 178,
+    "209": 179,
+    "210": 180,
+    "211": 181,
+    "212": 182,
+    "213": 183,
+    "214": 184,
+    "215": 185,
+    "216": 186,
+    "217": 187,
+    "218": 188,
+    "219": 189,
+    "220": 190,
+    "221": 191,
+    "222": 192,
+    "223": 193,
+    "100": 100,
+    "101": 101,
+    "102": 102,
+    "103": 102,
+    "104": 103,
+    "105": 103,
+    "106": 104,
+    "107": 105,
+    "108": 105,
+    "109": 106,
+    "110": 107,
+    "111": 108,
+    "112": 108,
+    "113": 109,
+    "114": 110,
+    "115": 110,
+    "116": 111,
+    "117": 112,
+    "118": 112,
+    "119": 113,
+    "120": 114,
+    "121": 115,
+    "122": 116,
+    "123": 116,
+    "124": 117,
+    "125": 118,
+    "126": 118,
+    "127": 119,
+    "128": 120,
+    "129": 120,
+    "130": 121,
+    "131": 122,
+    "132": 123,
+    "133": 123,
+    "134": 124,
+    "135": 125,
+    "136": 125,
+    "137": 126,
+    "138": 127,
+    "139": 127,
+    "140": 128,
+    "141": 129,
+    "142": 129,
+    "143": 130,
+    "144": 131,
+    "145": 131,
+    "146": 132,
+    "147": 132,
+    "148": 133,
+    "149": 134,
+    "150": 134,
+    "151": 135,
+    "152": 136,
+    "153": 136,
+    "154": 137,
+    "155": 137,
+    "156": 138,
+    "157": 139,
+    "158": 140,
+    "159": 140,
+    "160": 141,
+    "161": 142,
+    "162": 142,
+    "163": 143,
+    "164": 144,
+    "180": 154,
+    "181": 154,
+    "182": 155,
+    "183": 156,
+    "184": 156,
+    "185": 157,
+    "186": 158,
+    "187": 158,
+    "188": 159,
+    "189": 160,
+    "190": 160,
+    "191": 161,
+    "192": 162,
+    "193": 162,
+    "194": 163,
+    "195": 164,
+    "196": 164,
+    "197": 165,
+    "198": 166,
+    "199": 166,
+    "200": 167,
+    "201": 168,
+    "202": 168,
+    "203": 169,
+    "204": 169,
+    "224": 170,
+    "225": 171,
+    "226": 172,
+    "227": 173,
+    "165": 145,
+    "166": 145,
+    "167": 146,
+    "168": 146,
+    "169": 147,
+    "170": 147,
+    "171": 148,
+    "172": 148,
+    "173": 149,
+    "174": 149,
+    "175": 150,
+    "176": 151,
+    "177": 151,
+    "178": 152,
+    "179": 152,
+    "236": 200
+  },
+  "toc": [
+    [
+      1,
+      "Reading this family history",
+      4
+    ],
+    [
+      1,
+      "Warsaw and Babruysk",
+      6
+    ],
+    [
+      1,
+      "Zeidy Larry",
+      15
+    ],
+    [
+      1,
+      "Ileen and the Garsons",
+      25
+    ],
+    [
+      1,
+      "A household in Cleveland",
+      36
+    ],
+    [
+      1,
+      "The nine children",
+      43
+    ],
+    [
+      1,
+      "The connected family trees",
+      50
+    ],
+    [
+      1,
+      "Other paths through France",
+      62
+    ],
+    [
+      1,
+      "Questions still open",
+      88
+    ],
+    [
+      1,
+      "The family register",
+      100
+    ],
+    [
+      1,
+      "The recorded households",
+      136
+    ],
+    [
+      1,
+      "Notes to the stories",
+      145
+    ],
+    [
+      1,
+      "Source catalogue",
+      154
+    ],
+    [
+      1,
+      "New records and research",
+      175
+    ],
+    [
+      2,
+      "What the new pages add",
+      176
+    ],
+    [
+      2,
+      "Victor and Pearl marry",
+      177
+    ],
+    [
+      2,
+      "From Gershanovitz to Garson",
+      178
+    ],
+    [
+      2,
+      "Victor’s petition",
+      179
+    ],
+    [
+      2,
+      "The court changes his name",
+      180
+    ],
+    [
+      2,
+      "Pearl’s birth put on record",
+      181
+    ],
+    [
+      2,
+      "Rose writes “Sister”",
+      182
+    ],
+    [
+      2,
+      "Rebecca’s maiden name",
+      183
+    ],
+    [
+      2,
+      "Rose across three records",
+      184
+    ],
+    [
+      2,
+      "Isidor and Edward",
+      185
+    ],
+    [
+      2,
+      "Pearl’s side of the family",
+      186
+    ],
+    [
+      2,
+      "The Allen brothers at home",
+      187
+    ],
+    [
+      2,
+      "A Victor born in Paris",
+      188
+    ],
+    [
+      2,
+      "Rachel and Victor on the Ryndam",
+      189
+    ],
+    [
+      2,
+      "A New York lead to test",
+      190
+    ],
+    [
+      2,
+      "Mordka becomes Marcus",
+      191
+    ],
+    [
+      2,
+      "Adelstein and Edelstein",
+      192
+    ],
+    [
+      2,
+      "The questions worth carrying forward",
+      193
+    ],
+    [
+      2,
+      "Judith’s parents on record",
+      194
+    ],
+    [
+      1,
+      "Name and alias index",
+      195
+    ]
+  ],
+  "patches": [
+    {
+      "baseline_page": 16,
+      "rect": [
+        54.0,
+        162.24208068847656,
+        538.947265625,
+        259.3420867919922
+      ]
+    },
+    {
+      "baseline_page": 16,
+      "rect": [
+        54.0,
+        264.24212646484375,
+        534.8455200195312,
+        343.34210205078125
+      ]
+    },
+    {
+      "baseline_page": 17,
+      "rect": [
+        72.0,
+        85.0,
+        558.0,
+        141.0
+      ]
+    },
+    {
+      "baseline_page": 24,
+      "rect": [
+        54.0,
+        598.6550903320312,
+        531.7750854492188,
+        670.955078125
+      ]
+    },
+    {
+      "baseline_page": 40,
+      "rect": [
+        54.0,
+        282.24212646484375,
+        539.6370849609375,
+        379.34210205078125
+      ]
+    },
+    {
+      "baseline_page": 44,
+      "rect": [
+        54.0,
+        520.8994750976562,
+        541.9998779296875,
+        593.199462890625
+      ]
+    },
+    {
+      "baseline_page": 30,
+      "rect": [
+        54.0,
+        164.0,
+        540.0,
+        727.0
+      ]
+    },
+    {
+      "baseline_page": 57,
+      "rect": [
+        72.0,
+        366.0,
+        195.0,
+        410.0
+      ]
+    },
+    {
+      "baseline_page": 57,
+      "rect": [
+        72.0,
+        439.0,
+        194.0,
+        483.0
+      ]
+    },
+    {
+      "baseline_page": 57,
+      "rect": [
+        72.0,
+        657.0,
+        558.0,
+        733.0
+      ]
+    },
+    {
+      "baseline_page": 55,
+      "rect": [
+        420.0,
+        516.0,
+        558.0,
+        533.0
+      ]
+    },
+    {
+      "baseline_page": 55,
+      "rect": [
+        420.0,
+        650.0,
+        558.0,
+        667.0
+      ]
+    },
+    {
+      "baseline_page": 56,
+      "rect": [
+        274.0,
+        271.0,
+        410.0,
+        288.0
+      ]
+    },
+    {
+      "baseline_page": 56,
+      "rect": [
+        274.0,
+        505.0,
+        410.0,
+        522.0
+      ]
+    },
+    {
+      "baseline_page": 95,
+      "rect": [
+        72.0,
+        164.0,
+        558.0,
+        705.0
+      ]
+    },
+    {
+      "baseline_page": 27,
+      "rect": [
+        72.0,
+        209.76210021972656,
+        560.0,
+        302.8620910644531
+      ]
+    },
+    {
+      "baseline_page": 58,
+      "rect": [
+        72.0,
+        685.3016357421875,
+        549.2216796875,
+        731.154296875
+      ]
+    },
+    {
+      "baseline_page": 64,
+      "rect": [
+        54.0,
+        221.76210021972656,
+        542.0001831054688,
+        278.8620910644531
+      ]
+    }
+  ]
+}

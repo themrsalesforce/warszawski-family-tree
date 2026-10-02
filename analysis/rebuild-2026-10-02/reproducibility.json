@@ -1,0 +1,18 @@
+{
+  "isolated_package_rebuild": [
+    {
+      "kind": "Reading",
+      "pages": 200,
+      "identical_page_renders": 200,
+      "byte_identical": false,
+      "sha256": "cce3125ee5cbc04ba5ec58b1bd8f5517bc094d9e86a7584e1fefe137a9fd994e"
+    },
+    {
+      "kind": "Print",
+      "pages": 200,
+      "identical_page_renders": 200,
+      "byte_identical": false,
+      "sha256": "67ddf5ce915492f24bad2088373efc212d52143db25ca80ec4f9ea0b796df011"
+    }
+  ]
+}

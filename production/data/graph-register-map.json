@@ -1,0 +1,490 @@
+[
+  {
+    "graph_id": "per_joe",
+    "graph_display": "Joe Warszawski",
+    "register_ids": [
+      "P001"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_bertha",
+    "graph_display": "Berta (Bertha) Warszawski",
+    "register_ids": [
+      "P002"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_larry",
+    "graph_display": "Lawrence (Larry) Hersh",
+    "register_ids": [
+      "P003"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_shaina",
+    "graph_display": "Ileen (Ilene, Gabby) Hersh",
+    "register_ids": [
+      "P004"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_lori",
+    "graph_display": "Lori (Leah) Warszawski",
+    "register_ids": [
+      "P005"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_ilana",
+    "graph_display": "Ilana Marinovsky",
+    "register_ids": [
+      "P006"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_shmaya",
+    "graph_display": "Shmaya Marinovsky",
+    "register_ids": [
+      "P007"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_aliya",
+    "graph_display": "Aliya Andrusier",
+    "register_ids": [
+      "P008"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_shmuel_yaakov",
+    "graph_display": "Shmuel Yaakov Andrusier",
+    "register_ids": [
+      "P009"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_shoshy",
+    "graph_display": "Shoshy (Shoshana) Chaikin",
+    "register_ids": [
+      "P010"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_shmuel",
+    "graph_display": "Shmuel Chaikin",
+    "register_ids": [
+      "P011"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_ella",
+    "graph_display": "Ella Chaikin",
+    "register_ids": [
+      "P012"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_abie",
+    "graph_display": "Abie Chaikin",
+    "register_ids": [
+      "P013"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_mika",
+    "graph_display": "Mika Chaikin",
+    "register_ids": [
+      "P014"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_yechiel",
+    "graph_display": "Yechiel Warszawski",
+    "register_ids": [
+      "P015"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_shimon",
+    "graph_display": "Shimon Warszawski",
+    "register_ids": [
+      "P018"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_mushky",
+    "graph_display": "Mushky Warszawski",
+    "register_ids": [
+      "P019"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_shimon_baby",
+    "graph_display": "Baby girl (name not published)",
+    "register_ids": [
+      "P020"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_chaya_brocha",
+    "graph_display": "Chaya Brocha Katz",
+    "register_ids": [
+      "P021"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_dovi",
+    "graph_display": "Dovi Katz",
+    "register_ids": [
+      "P022"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_hadassa",
+    "graph_display": "Hadassa Miriam Hirsch",
+    "register_ids": [
+      "P025"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_doni",
+    "graph_display": "Doni Hirsch",
+    "register_ids": [
+      "P026"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_simcha",
+    "graph_display": "Simcha Warszawski",
+    "register_ids": [
+      "P024"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_maimi",
+    "graph_display": "Maimi Inglis",
+    "register_ids": [
+      "P016"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_dovid",
+    "graph_display": "Dovid Inglis",
+    "register_ids": [
+      "P017"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_katz_baby_2025",
+    "graph_display": "Baby girl (name not published)",
+    "register_ids": [
+      "P020"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_shimon_elder",
+    "graph_display": "Szyman (Shimon) Warszawski",
+    "register_ids": [
+      "P027"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_mordechai_zelkind",
+    "graph_display": "Mordechi (Mordechai) Zelkind",
+    "register_ids": [
+      "P028"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_elka_zelkind",
+    "graph_display": "Elka Zelkind",
+    "register_ids": [
+      "P029"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_susanne_greenberg",
+    "graph_display": "Susanne Greenberg",
+    "register_ids": [
+      "P030"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_marcy_hirsch",
+    "graph_display": "Marcy Hirsch",
+    "register_ids": [
+      "P031"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_seth_greenberg",
+    "graph_display": "Seth Greenberg",
+    "register_ids": [
+      "P032"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_gail_zelkind",
+    "graph_display": "Gail Zelkind",
+    "register_ids": [
+      "P033"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_victor_garson",
+    "graph_display": "Victor Garson",
+    "register_ids": [
+      "P034"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_pearl_garson",
+    "graph_display": "Pearl (Adelstein) Garson",
+    "register_ids": [
+      "P035"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_solomon_garson",
+    "graph_display": "Solomon (Victor’s father)",
+    "register_ids": [
+      "P036"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_rachael_garson",
+    "graph_display": "Rachael (Victor’s mother)",
+    "register_ids": [
+      "P037"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_rosamond_simon",
+    "graph_display": "Rosamond (Garson) Simon",
+    "register_ids": [
+      "P038"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_rochelle_horwich",
+    "graph_display": "Rochelle (Garson) Horwich",
+    "register_ids": [
+      "P039"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_julia_garson",
+    "graph_display": "Julia Maria Garson",
+    "register_ids": [
+      "P040"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_marcel_garson",
+    "graph_display": "Marcel Eugene Jules Garson",
+    "register_ids": [
+      "P041"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_charlotte_garson",
+    "graph_display": "Charlotte Garson",
+    "register_ids": [
+      "P042"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_auguste_garson",
+    "graph_display": "Auguste Garson",
+    "register_ids": [
+      "P043"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_francoise_goujot",
+    "graph_display": "Francoise Armandine Goujot",
+    "register_ids": [
+      "P044"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_armandine_garson",
+    "graph_display": "Armandine Garson",
+    "register_ids": [
+      "P045"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_louise_garson",
+    "graph_display": "Louise Garson",
+    "register_ids": [
+      "P046"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_gustave_garson",
+    "graph_display": "Gustave Garson",
+    "register_ids": [
+      "P047"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_charles_alphonse_garson",
+    "graph_display": "Charles Alphonse Garson",
+    "register_ids": [
+      "P048"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_juliette_boclin",
+    "graph_display": "Juliette Honorine Boclin",
+    "register_ids": [
+      "P049"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_marcel_alphonse_garson",
+    "graph_display": "Marcel Alphonse Garson",
+    "register_ids": [
+      "P050"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_marius_gabriel_garson",
+    "graph_display": "Marius Gabriel Garson",
+    "register_ids": [
+      "P051"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_marie_guden",
+    "graph_display": "Marie Guden",
+    "register_ids": [
+      "P052"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_aline_garson",
+    "graph_display": "Aline Garson",
+    "register_ids": [
+      "P053"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_edouard_godenne",
+    "graph_display": "Edouard Adolphe Godenne",
+    "register_ids": [
+      "P054"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_leon_garson",
+    "graph_display": "Leon Jules Garson",
+    "register_ids": [
+      "P055"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_marie_rollet",
+    "graph_display": "Marie Marthe Therese Rollet",
+    "register_ids": [
+      "P056"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_meyer_kogen_candidate",
+    "graph_display": "Rabbi Meyer Kogen (Cleveland, candidate)",
+    "register_ids": [
+      "P057"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_hersh_father",
+    "graph_display": "Jacob (Judith's 1949 abstract; Larry's father by sibling evidence)",
+    "register_ids": [
+      "P058"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_leah_hersh",
+    "graph_display": "Leah / Lee Yanowitz (Judith's 1949 abstract; combined sibling evidence)",
+    "register_ids": [
+      "P059"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_judy_hersh",
+    "graph_display": "Larry's surviving sister ('Judy')",
+    "register_ids": [
+      "P060"
+    ],
+    "status": "exact-display-match"
+  },
+  {
+    "graph_id": "per_janowitz_uncle",
+    "graph_display": "Uncle Janowitz of Cleveland",
+    "register_ids": [
+      "P061"
+    ],
+    "status": "exact-display-match"
+  }
+]

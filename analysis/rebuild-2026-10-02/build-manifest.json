@@ -1,0 +1,20 @@
+{
+  "page_count": 200,
+  "register_entries": 183,
+  "households": 57,
+  "S_sources": 132,
+  "W_sources": 30,
+  "outputs": [
+    {
+      "name": "The-Warszawskis-Revised-2026-10-02-Reading.pdf",
+      "bytes": 23760063,
+      "sha256": "cce3125ee5cbc04ba5ec58b1bd8f5517bc094d9e86a7584e1fefe137a9fd994e"
+    },
+    {
+      "name": "The-Warszawskis-Revised-2026-10-02-Print.pdf",
+      "bytes": 45980689,
+      "sha256": "67ddf5ce915492f24bad2088373efc212d52143db25ca80ec4f9ea0b796df011"
+    }
+  ],
+  "legacy_layout": "Preserved PDF artwork; editable reference sections recreated; no native legacy design file recovered."
+}

@@ -32,3 +32,6 @@ __pycache__/
 
 # This .json original is actually a ZIP; its expanded JSON is tracked.
 /Warszawski/03-Archive-records/warszawski-family-tree-v1.17.json
+
+# Revision deliverables are private Library artifacts; hashes/reports are tracked.
+/output/

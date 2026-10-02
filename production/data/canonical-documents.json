@@ -1,0 +1,463 @@
+[
+  {
+    "source_aliases": [
+      "S063",
+      "W01"
+    ],
+    "title": "Victor Garson–Pearl Adelstein marriage application and return",
+    "locator": "Cuyahoga County application 111752; page 188; FamilySearch DGS 004030138 image 1100; license 11 September 1916; return 12 September 1916",
+    "urls": [
+      "https://www.familysearch.org/ark:/61903/3:1:939K-BJ3N-RG"
+    ],
+    "supported_claims": [
+      "Marriage return date 12 September 1916; license date 11 September",
+      "Victor father Solomon; mother Rachael followed by l-n-u, apparently last name unknown",
+      "Pearl father Sam; mother literal Rebecca Adelstein; Pearl birthplace Cleveland",
+      "Pearl recorded age 19, although 1 December 1897 later birth claim implies age 18"
+    ],
+    "unsupported_claims_and_limits": [
+      "Does not establish either of Victor’s parents’ surnames",
+      "Does not name the couple’s subsequently born daughters",
+      "Does not establish Rebecca’s maiden surname Escowitch without the separate sister/marriage chain"
+    ],
+    "evidence_strength": "Original facsimile visually checked in this audit; strong for what the fields actually record",
+    "canonical_document_id": "marriage_cuyahoga_111752_1916",
+    "local_representations": [
+      {
+        "package_path": "evidence/Victor_Garson_Pearl_Adelstein_1916_image1100_original.jpg",
+        "sha256": "da0a99ddb3d7b4d84d678259e2fc82ce2fcde547f11d4b6414d524d7047f28d6",
+        "bytes": 1928661,
+        "representation": "Preserved original source facsimile or explicitly identified reproduction/crop"
+      },
+      {
+        "package_path": "evidence/marriage-111752.jpg",
+        "sha256": "835a52884dbd9433a78cff6d6eebbb37d53a9429d8faca78cb1afb382f48bd22",
+        "bytes": 1029245,
+        "representation": "Preserved original source facsimile or explicitly identified reproduction/crop"
+      }
+    ],
+    "examined_by": "Independent accuracy reviewer; source-specific strengths and limits retained"
+  },
+  {
+    "source_aliases": [
+      "S062",
+      "W02"
+    ],
+    "title": "Victor’s 1919 declaration, preserved with his 1924 petition",
+    "locator": "Northern District of Ohio declaration 28845, 18 September 1919; attached in FamilySearch petition spread PGTZ",
+    "urls": [
+      "https://www.familysearch.org/ark:/61903/1:1:62GF-FGTJ",
+      "https://www.familysearch.org/ark:/61903/3:1:3Q9M-C39P-8STY-P",
+      "https://www.familysearch.org/ark:/61903/3:1:3QS7-8996-PGTZ"
+    ],
+    "supported_claims": [
+      "Self-reported Paris birth 30 May 1895",
+      "Already using Victor Garson in 1919",
+      "Pearl’s Cleveland birthplace; Le Havre departure, vessel unknown in this declaration"
+    ],
+    "unsupported_claims_and_limits": [
+      "S062 index URL and separate original URL are representations of the same declaration",
+      "W02 is a composite packet reference: declaration plus distinct 1924 petition, not two independent declarations",
+      "Self-report does not independently identify a French civil birth act; no parents named"
+    ],
+    "evidence_strength": "Attached original facsimile visually checked; firsthand retrospective statements",
+    "canonical_document_id": "declaration_victor_28845_1919",
+    "local_representations": [
+      {
+        "package_path": "evidence/Victor_Garson_1924_petition_declaration_PGTZ_original.jpg",
+        "sha256": "b58ec61c518f0cf6ecdbacc9e9ed2796d509cfcfb01f88de75873853e971b4dd",
+        "bytes": 1437346,
+        "representation": "Preserved original source facsimile or explicitly identified reproduction/crop"
+      }
+    ],
+    "examined_by": "Independent accuracy reviewer; source-specific strengths and limits retained"
+  },
+  {
+    "source_aliases": [
+      "W02"
+    ],
+    "title": "Victor Gershanovitz petition",
+    "locator": "Cuyahoga County Court of Common Pleas petition 19277, page 127, 1924; sworn 8 August 1924 on page",
+    "urls": [
+      "https://www.familysearch.org/ark:/61903/3:1:3QS7-8996-PGTZ"
+    ],
+    "supported_claims": [
+      "Filed under Victor Gershanovitz; Paris birth claim 30 May 1895; wife Pearl; daughter Rochelle",
+      "Self-reported Lorraine voyage, Havre 22 November 1902 to New York 2 December 1902"
+    ],
+    "unsupported_claims_and_limits": [
+      "Separate document from 1919 declaration although same image/packet",
+      "No parental names; does not prove 1902 Ryndam candidate identity"
+    ],
+    "evidence_strength": "Original facsimile visually checked; strong name/household packet evidence, retrospective travel statement",
+    "canonical_document_id": "petition_victor_19277_1924",
+    "local_representations": [
+      {
+        "package_path": "evidence/Victor_Garson_1924_petition_declaration_PGTZ_original.jpg",
+        "sha256": "b58ec61c518f0cf6ecdbacc9e9ed2796d509cfcfb01f88de75873853e971b4dd",
+        "bytes": 1437346,
+        "representation": "Preserved original source facsimile or explicitly identified reproduction/crop"
+      }
+    ],
+    "examined_by": "Independent accuracy reviewer; source-specific strengths and limits retained"
+  },
+  {
+    "source_aliases": [
+      "W03"
+    ],
+    "title": "Victor’s admission, name change and certificate notation",
+    "locator": "Same Cuyahoga Common Pleas case; admission/name change 20 November 1924; certificate 2116415 issued 26 November 1924",
+    "urls": [
+      "https://www.familysearch.org/ark:/61903/3:1:3QS7-8996-PGGF"
+    ],
+    "supported_claims": [
+      "Court joins Gershanovitz to Garson",
+      "Admission and name change on 20 November 1924",
+      "Certificate 2116415 issued 26 November 1924"
+    ],
+    "unsupported_claims_and_limits": [
+      "Admission date is not certificate-issuance date",
+      "Not a federal 1934 admission",
+      "Adjacent applicant’s petition on the right is unrelated and excluded",
+      "No parents named"
+    ],
+    "evidence_strength": "Original order and bottom certificate notation visually checked; direct court evidence",
+    "canonical_document_id": "order_victor_19277_1924",
+    "local_representations": [
+      {
+        "package_path": "evidence/Victor_Garson_1924_naturalization_PGGF_original.jpg",
+        "sha256": "184e654929085cdb18c147bcdf44f0897efcadb3013ada435f798c300defd6ed",
+        "bytes": 1206194,
+        "representation": "Preserved original source facsimile or explicitly identified reproduction/crop"
+      }
+    ],
+    "examined_by": "Independent accuracy reviewer; source-specific strengths and limits retained"
+  },
+  {
+    "source_aliases": [
+      "S070"
+    ],
+    "title": "Pearl Garson’s own petition",
+    "locator": "Northern District of Ohio, 25 January 1940; catalogue describes cert 73676",
+    "urls": [
+      "https://www.familysearch.org/ark:/61903/1:1:XSW1-RLY4",
+      "https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSML-J6JY"
+    ],
+    "supported_claims": [
+      "Pearl reports Cleveland birth 1 December 1897",
+      "Names husband Victor; marriage 12 September 1916; his Paris birth and New York arrival in 1902",
+      "Typed naturalized Nov. 20, 1924, certificate 2116415",
+      "Three daughters and births: Rochelle 9 May 1919; Rosamond 6 January 1926; Ileen 30 July 1933, Cleveland"
+    ],
+    "unsupported_claims_and_limits": [
+      "S070 is not a duplicate of W02/W03, which are Victor’s earlier case",
+      "Reproduced p31 crop visually checked; original full sheet not locally recovered in this source package",
+      "Do not derive parents’ surnames or citizenship-law conclusions solely from this family-particulars crop"
+    ],
+    "evidence_strength": "Original-record reproduction readable in p31; independent document, partly reporting husband’s history",
+    "canonical_document_id": "petition_pearl_1940",
+    "local_representations": [
+      {
+        "package_path": "evidence/page-31-image-0.jpeg",
+        "sha256": "d8032e84fc1460070ffe3d10b0cf34fd4f0e0b932ff9047027a2c876c7f209e8",
+        "bytes": 97956,
+        "representation": "Preserved original source facsimile or explicitly identified reproduction/crop"
+      }
+    ],
+    "examined_by": "Independent accuracy reviewer; source-specific strengths and limits retained"
+  },
+  {
+    "source_aliases": [
+      "W04"
+    ],
+    "title": "Pearl Adelstein delayed birth certificate",
+    "locator": "FamilySearch DGS 004339078 image 383; birth 1 December 1897; filing 25 January 1940",
+    "urls": [
+      "https://www.familysearch.org/ark:/61903/3:1:939N-GFS1-X2?lang=en&i=382"
+    ],
+    "supported_claims": [
+      "Cleveland birth recorded as 1 December 1897",
+      "Father Sam Adelstein; mother literal Rebecca Adelstein; parents Russia-born"
+    ],
+    "unsupported_claims_and_limits": [
+      "A delayed 1940 record, not a contemporaneous 1897 certificate",
+      "Parental ages 42 and 44 do not by themselves fix birth years",
+      "Not a duplicate of S070 merely because filed on the same day"
+    ],
+    "evidence_strength": "Original facsimile visually checked; delayed-record evidence",
+    "canonical_document_id": "delayed_birth_pearl_1940",
+    "local_representations": [
+      {
+        "package_path": "evidence/Pearl-Adelstein-birth-certificate-1940-displayed-scan.png",
+        "sha256": "9eb3a9e1e687dbb6e406c08502d0b14a5478335500d98e3797987743cbcc6166",
+        "bytes": 1118789,
+        "representation": "Preserved original source facsimile or explicitly identified reproduction/crop"
+      }
+    ],
+    "examined_by": "Independent accuracy reviewer; source-specific strengths and limits retained"
+  },
+  {
+    "source_aliases": [
+      "W05"
+    ],
+    "title": "Rose Alliance affidavit supporting Pearl’s delayed birth",
+    "locator": "FamilySearch DGS 004339078 image 384; affidavit 24 January 1940",
+    "urls": [
+      "https://www.familysearch.org/ark:/61903/3:1:939N-GFS1-FN?lang=en&i=383"
+    ],
+    "supported_claims": [
+      "Mrs Rose Alliance explicitly identified as Sister"
+    ],
+    "unsupported_claims_and_limits": [
+      "Linked front/reverse or associated record in W04 birth-registration packet; retain distinct informant attribution",
+      "Notary Harry Allen is not identified here as Pearl’s brother"
+    ],
+    "evidence_strength": "Original facsimile visually checked; explicit sibling statement",
+    "canonical_document_id": "affidavit_rose_alliance_1940",
+    "local_representations": [
+      {
+        "package_path": "evidence/Pearl-Adelstein-Rose-Alliance-affidavit-1940-displayed-scan.png",
+        "sha256": "8cb216f24af0422f5858f9c05c0b4fb77f2e660904992dd61e957650f943bc6e",
+        "bytes": 932446,
+        "representation": "Preserved original source facsimile or explicitly identified reproduction/crop"
+      }
+    ],
+    "examined_by": "Independent accuracy reviewer; source-specific strengths and limits retained"
+  },
+  {
+    "source_aliases": [
+      "W08"
+    ],
+    "title": "Paris candidate Victor birth act 2087",
+    "locator": "Paris 20e; act 2087 registered 1 June 1895 for birth 30 May; archive image 287918 viewer 24",
+    "urls": [
+      "https://archives.paris.fr/_recherche-images/show/410797/image/287918/24/full/full/0/default.jpg"
+    ],
+    "supported_claims": [
+      "Victor; 30 May 1895 birth; father approximately Israël Jerchonossitch, age 44; mother approximately Rosa Pilensky, preferred age 33"
+    ],
+    "unsupported_claims_and_limits": [
+      "Paleographic surname/parent readings remain qualified",
+      "French parents conflict with Solomon/Rachael in American marriage",
+      "No identity merge or confirmed-tree parent substitution authorized or supported"
+    ],
+    "evidence_strength": "Original crop visually checked; strong candidate record, insufficient identity bridge",
+    "canonical_document_id": "birth_paris_victor_2087_1895",
+    "local_representations": [
+      {
+        "package_path": "evidence/act2087-full-crop.jpg",
+        "sha256": "b15943721e78dbc181c415a948236654f51241c1404a39e95d6df0811ac43e63",
+        "bytes": 276560,
+        "representation": "Preserved original source facsimile or explicitly identified reproduction/crop"
+      }
+    ],
+    "examined_by": "Independent accuracy reviewer; source-specific strengths and limits retained"
+  },
+  {
+    "source_aliases": [
+      "W09"
+    ],
+    "title": "Rachel and Victor Gerschenowitz passenger candidate",
+    "locator": "New York passenger manifest, Ryndam, arrival 1 December 1902, list E, Rachel and Victor Gerschenowitz. Original front and reverse inspected and preserved: DGS 007675229, item 2, images 4-5. Identity unproved.",
+    "urls": [
+      "https://www.familysearch.org/ark:/61903/3:1:3Q9M-C9T4-G636"
+    ],
+    "supported_claims": [
+      "Candidate contents and conflicts reproduced in current book p219–220"
+    ],
+    "unsupported_claims_and_limits": [
+      "Not merged; W09 Ryndam/Boulogne/1 December versus petition Lorraine/Havre/2 December; W10 preferred 1904 arrival and overwritten relationship",
+      "This audit did not independently reread these original images"
+    ],
+    "evidence_strength": "Candidate status established by complete manuscript review; originals available but not visually reverified here",
+    "canonical_document_id": "passenger_ryndam_1902_candidate",
+    "local_representations": [
+      {
+        "package_path": "evidence/Victor_Gerschenowitz_Ryndam_candidate_1902_G636_original.jpg",
+        "sha256": "f97a951580d0258731f3e871dd81a9056b7c17372331834601d768408e44cc48",
+        "bytes": 1614888,
+        "representation": "Preserved original source facsimile or explicitly identified reproduction/crop"
+      }
+    ],
+    "examined_by": "Independent accuracy reviewer; source-specific strengths and limits retained"
+  },
+  {
+    "source_aliases": [
+      "W10"
+    ],
+    "title": "1910 Grenberg/Pelesky census candidate",
+    "locator": "1910 Manhattan Ward 12, ED 446, sheet 15B, line 98. Original inspected; overwritten relationship unresolved. Not assigned to Victor Garson.",
+    "urls": [
+      "https://www.familysearch.org/ark:/61903/3:1:33S7-9RVN-FHN"
+    ],
+    "supported_claims": [
+      "Candidate contents and conflicts reproduced in current book p219–220"
+    ],
+    "unsupported_claims_and_limits": [
+      "Not merged; W09 Ryndam/Boulogne/1 December versus petition Lorraine/Havre/2 December; W10 preferred 1904 arrival and overwritten relationship",
+      "This audit did not independently reread these original images"
+    ],
+    "evidence_strength": "Candidate status established by complete manuscript review; originals available but not visually reverified here",
+    "canonical_document_id": "census_ny_1910_candidate",
+    "local_representations": [
+      {
+        "package_path": "evidence/1910-Grenberg-candidate-crop.jpg",
+        "sha256": "0dcf246e1b4e0f16b0e41c435436e27c99546b6565c4bb4b55ec01e89af9b99c",
+        "bytes": 282843,
+        "representation": "Preserved original source facsimile or explicitly identified reproduction/crop"
+      }
+    ],
+    "examined_by": "Independent accuracy reviewer; source-specific strengths and limits retained"
+  },
+  {
+    "source_aliases": [
+      "S104"
+    ],
+    "title": "Aline Garson–Edouard Adolphe Godenne marriage",
+    "locator": "Paris 17e, 16 October 1920, act 3605, register 17M399; viewer position 21",
+    "urls": [
+      "https://archives.paris.fr/_recherche-images/show/445674/image/322795/21"
+    ],
+    "supported_claims": [
+      "Act number 3605 visibly printed; marriage 16 October 1920",
+      "Aline adult daughter of deceased Marius Gabriel Garson and Marie Guden, widow, present/consenting",
+      "Groom parents Jean Baptiste Godenne and Emma Marie, difficult surname reading"
+    ],
+    "unsupported_claims_and_limits": [
+      "5559 superseded; S083 is her 1894 birth act with later margin, not the marriage itself",
+      "Do not assign groom’s parents to Aline; marriage does not name Marius’s own parents",
+      "Guden and Emma’s surname retain reading qualification; witnesses’ kinship not stated",
+      "No Marius/Auguste or Victor identity bridge"
+    ],
+    "evidence_strength": "Embedded act facsimile visually checked; current transcription read in full",
+    "canonical_document_id": "marriage_aline_3605_1920",
+    "local_representations": [
+      {
+        "package_path": "evidence/page-74-image-0.jpeg",
+        "sha256": "ba981b07a945b4966a356da3480765570773e2bb3611775a7e3439352760fa1b",
+        "bytes": 266078,
+        "representation": "Preserved original source facsimile or explicitly identified reproduction/crop"
+      }
+    ],
+    "examined_by": "Independent accuracy reviewer; source-specific strengths and limits retained"
+  },
+  {
+    "source_aliases": [
+      "S083"
+    ],
+    "title": "Aline’s birth act with marriage margin",
+    "locator": "Paris 6e act 3542; registered 22 October 1894, born 19 October",
+    "urls": [],
+    "supported_claims": [
+      "Separate birth source, later margin points to 1920 marriage"
+    ],
+    "unsupported_claims_and_limits": [
+      "Tree’s margin transcription says 5559; corrected marriage identification is S104 act 3605",
+      "No original birth act independently reread in this audit"
+    ],
+    "evidence_strength": "Catalogue/tree metadata checked; do not count as fresh original inspection",
+    "canonical_document_id": "birth_aline_3542_1894",
+    "local_representations": [],
+    "examined_by": "Independent accuracy reviewer; source-specific strengths and limits retained"
+  },
+  {
+    "source_aliases": [
+      "S067",
+      "S074"
+    ],
+    "title": "User-contributed FamilySearch Victor profile and family pointers",
+    "locator": "Victor LT33-Q47; Solomon LT33-WGS; Rachael LT33-SGY",
+    "urls": [
+      "https://www.familysearch.org/tree/person/LT33-Q47"
+    ],
+    "supported_claims": [
+      "Locators for public-tree assertions and source leads"
+    ],
+    "unsupported_claims_and_limits": [
+      "S067 and S074 overlap on same Victor profile, not independent corroboration",
+      "A public-tree source count does not authenticate its assertions",
+      "Profiles do not establish parental surnames or the French identity bridge"
+    ],
+    "evidence_strength": "Derivative user-contributed tree metadata only",
+    "canonical_document_id": "tree_victor_lt33q47",
+    "local_representations": [],
+    "examined_by": "Independent accuracy reviewer; source-specific strengths and limits retained"
+  },
+  {
+    "source_aliases": [
+      "S037",
+      "S089"
+    ],
+    "title": "Larry Hersh interview, 13 August 1984",
+    "locator": "USHMM irn505021/RG-50.091.0080; Peggy Nathan; Fortunoff HVT-341 catalogue representation",
+    "urls": [
+      "https://collections.ushmm.org/search/catalog/irn505021",
+      "https://collections.ushmm.org/search/catalog/hvt4293582"
+    ],
+    "supported_claims": [
+      "Different catalogue/synopsis/caption/transcript representations of same interview"
+    ],
+    "unsupported_claims_and_limits": [
+      "Not two independent witnesses",
+      "Remote route established by review; load-bearing listening verification remains open"
+    ],
+    "evidence_strength": "Review full retrieval assessment read; no listening in this audit",
+    "canonical_document_id": "oral_history_larry_1984",
+    "local_representations": [],
+    "examined_by": "Independent accuracy reviewer; source-specific strengths and limits retained"
+  },
+  {
+    "source_aliases": [
+      "S064",
+      "S102"
+    ],
+    "title": "Pearl Garson 1973 newspaper death notice",
+    "locator": "Plain Dealer/CPL record 512227 reel 111; original scan received 29 September per S102; service 4 March 1973",
+    "urls": [
+      "https://cpl.org/newsindex/showrecord/?record=512227&type=necrology"
+    ],
+    "supported_claims": [
+      "Daughters Rosamond Simon, Ileen Hersh, Rochelle Horwich; funeral on 4 March as manuscript reports"
+    ],
+    "unsupported_claims_and_limits": [
+      "S064 finding/transcription and Pearl component of compound S102 concern same underlying notice; S102 also contains Victor’s different notice",
+      "No independent original rereading here; manuscript says notice does not state Pearl’s death day",
+      "Do not infer 3 March death merely from 4 March funeral"
+    ],
+    "evidence_strength": "Original/derivative relationship based on exact catalogue and manuscript descriptions; preserve component-level provenance",
+    "canonical_document_id": "notice_pearl_1973",
+    "local_representations": [],
+    "examined_by": "Independent accuracy reviewer; source-specific strengths and limits retained"
+  },
+  {
+    "canonical_document_id": "judith_marriage_1949",
+    "source_aliases": [
+      "S132"
+    ],
+    "title": "Judith Herskovitz–Philip Dratler certified marriage abstract",
+    "locator": "Ohio state file 09457, A 201127; DGS 005261981, image 12; wedding 20 November 1949, certification 22 November",
+    "urls": [
+      "https://www.familysearch.org/ark:/61903/3:1:33SQ-G16K-9P69"
+    ],
+    "supported_claims": [
+      "Original father field Jacob, no surname supplied",
+      "Explicit maiden name of mother Lee Yanowitz",
+      "Bride Judith Herskovitz, age 21, Czecho-Slovakia",
+      "Wedding 20 November, license 14 November, certified 22 November 1949"
+    ],
+    "unsupported_claims_and_limits": [
+      "Larry parent attribution depends on S103 obituary sibling bridge",
+      "No uncle given name or lost sisters",
+      "No Khust birth records inspected",
+      "Displayed scan capture, maximum-resolution master unavailable"
+    ],
+    "evidence_strength": "Original displayed scan independently visually inspected; identity joined using S103 sibling obituary",
+    "local_representations": [
+      {
+        "package_path": "assets/new-evidence/Judith-Herskovits-Philip-Dratler-1949-certified-abstract.png",
+        "sha256": "b31d6dedc80422aff0e44b4e26ecc2041eea045a7fe9a408e84853bb325c76ad",
+        "representation": "Displayed-scan tile reassembly, unchanged pixels"
+      }
+    ]
+  }
+]

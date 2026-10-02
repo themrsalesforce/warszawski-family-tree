@@ -1,0 +1,392 @@
+[
+  {
+    "id": "R01",
+    "priority": "1",
+    "status": "open",
+    "item": "Current production package",
+    "current_basis": "See linked review reports",
+    "closure_criterion": "Editable text, person/household/chart data, full image assets, builder and requirements reproduce the current 236-page content; regenerated references agree",
+    "revision_status": "partly-closed-production-recovered",
+    "revision_result": "All 472 baseline pages reproduced; legacy layout is PDF artwork. Revised flowing reference sections recreated; no original native layout recovered."
+  },
+  {
+    "id": "R02",
+    "priority": "1",
+    "status": "open",
+    "item": "Duplicate tree IDs",
+    "current_basis": "See linked review reports",
+    "closure_criterion": "An explicitly versioned working copy has one q_14 and unique IDs for all distinct leads; a mapping preserves every old lead",
+    "revision_status": "implemented",
+    "revision_result": "One working q_14; four distinct leads renumbered per preservation map; every original person and lead retained."
+  },
+  {
+    "id": "R03",
+    "priority": "1",
+    "status": "open",
+    "item": "Claim-level source crosswalk",
+    "current_basis": "See linked review reports",
+    "closure_criterion": "S/W IDs resolve to canonical underlying documents and supported claims; S019/S024 is fixed; generic links gain archival locators and local originals",
+    "revision_status": "partly-implemented",
+    "revision_result": "All S/W IDs mapped, S063/W01 canonicalized, source URLs and claim usage retained; source-specific unresolved locators remain explicit."
+  },
+  {
+    "id": "R04",
+    "priority": "1",
+    "status": "open",
+    "item": "Is the 1895 Paris Victor candidate the Cleveland Victor?",
+    "current_basis": "Same reported day; surname bridge is plausible, but French Israël/Rosa conflicts with American Solomon/Rachael",
+    "closure_criterion": "A continuous original-record chain resolving both parents and following the person into the American family; assess the passenger and New York census candidates within that chain",
+    "revision_status": "open",
+    "revision_result": "Historical review disposition retained; no new identity proof obtained in this rebuild."
+  },
+  {
+    "id": "R05",
+    "priority": "1",
+    "status": "open",
+    "item": "Who were Szyman's parents?",
+    "current_basis": "NUMIDENT Joseph Warszavski/Rochel Goldberg; stone Shimon ben Zisl",
+    "closure_criterion": "Original SS-5 and/or Warsaw birth/marriage record, plus a documented explanation for the patronymic conflict",
+    "revision_status": "open-route-verified",
+    "revision_result": "Live NUMIDENT confirms indexed parentage without an image. Official 1918 Warsaw inventory returns only marriage annexes; original SS-5 route verified, not requested. Joseph/Zisl conflict unresolved."
+  },
+  {
+    "id": "R06",
+    "priority": "1",
+    "status": "open",
+    "item": "Elka's parents, name variants and exact vital dates",
+    "current_basis": "NUMIDENT Isac Kaga/Tsilya Gershon; obituary Kogen; family/burial evidence",
+    "closure_criterion": "Original SS-5 or birth/marriage record, with identifying details that distinguish her from namesakes; death certificate for exact day",
+    "revision_status": "open-index-rechecked",
+    "revision_result": "Live NUMIDENT rechecked, no image. Original SS-5/civil record remains unexamined; dates and Kaga/Kagan/Kogen variants unresolved."
+  },
+  {
+    "id": "R07",
+    "priority": "1",
+    "status": "open",
+    "item": "Leah's own surname and the Cleveland uncle's identity",
+    "current_basis": "Interview reports a maternal uncle Janowitz/Janovitz; first name missing; existing Cleveland candidates unlinked",
+    "closure_criterion": "Original record joining Leah and that brother, then a record identifying the uncle who actually hosted/sponsored Larry after 1956",
+    "revision_status": "narrowed-by-original",
+    "revision_result": "Judith 1949 abstract gives mother maiden name Lee Yanowitz; S103 obituary explicitly links Judith and Larry. Combined evidence supports maternal name variants; Cleveland uncle remains unidentified."
+  },
+  {
+    "id": "R08",
+    "priority": "1",
+    "status": "open",
+    "item": "Verify interview names and crucial chronology",
+    "current_basis": "See linked review reports",
+    "closure_criterion": "Listen to the timestamped passages in all relevant parts and retain a checked transcription with part/time; compare the differing later accounts without forcing agreement",
+    "revision_status": "open",
+    "revision_result": "Historical review disposition retained; no new identity proof obtained in this rebuild."
+  },
+  {
+    "id": "R09",
+    "priority": "2",
+    "status": "open",
+    "item": "Larry/Ileen exact death days",
+    "current_basis": "See linked review reports",
+    "closure_criterion": "Obtain original obituaries/certificates and distinguish death, funeral, burial and publication dates; note Ileen's existing May 22 obituary evidence rather than resetting it to unknown",
+    "revision_status": "open",
+    "revision_result": "Historical review disposition retained; no new identity proof obtained in this rebuild."
+  },
+  {
+    "id": "R10",
+    "priority": "2",
+    "status": "open",
+    "item": "Larry's Israel and U.S. immigration sequence",
+    "current_basis": "See linked review reports",
+    "closure_criterion": "Original petition/immigration and relevant Israeli records support the dates/places; the 1984 reported Cleveland arrival of 1956 is correctly attributed",
+    "revision_status": "open",
+    "revision_result": "Historical review disposition retained; no new identity proof obtained in this rebuild."
+  },
+  {
+    "id": "R11",
+    "priority": "2",
+    "status": "open",
+    "item": "Larry's total sibling count",
+    "current_basis": "Four sisters/five children in 1984 testimony versus differently worded family counts",
+    "closure_criterion": "Listen to the relevant passages and recover household/sibling records; preserve any remaining source conflict",
+    "revision_status": "open",
+    "revision_result": "Historical review disposition retained; no new identity proof obtained in this rebuild."
+  },
+  {
+    "id": "R12",
+    "priority": "2",
+    "status": "open",
+    "item": "Aliya/Shmuel Yaakov and Maimi/Dovid wedding dates",
+    "current_basis": "See linked review reports",
+    "closure_criterion": "Family supplies invitation/certificate or dated confirmation; do not substitute engagement publication date",
+    "revision_status": "open",
+    "revision_result": "Historical review disposition retained; no new identity proof obtained in this rebuild."
+  },
+  {
+    "id": "R13",
+    "priority": "2",
+    "status": "open",
+    "item": "Hebrew anniversary/yahrtzeit differences",
+    "current_basis": "See linked review reports",
+    "closure_criterion": "Preserve the family's observed dates and record sunset/event context or an original notice/record sufficient to explain the disagreement",
+    "revision_status": "open",
+    "revision_result": "Historical review disposition retained; no new identity proof obtained in this rebuild."
+  },
+  {
+    "id": "R14",
+    "priority": "2",
+    "status": "open",
+    "item": "Current household roster, spellings and optional dates",
+    "current_basis": "See linked review reports",
+    "closure_criterion": "One dated family verification covers each household; absence of a supplied spouse/child is kept as an absence of information",
+    "revision_status": "open",
+    "revision_result": "Historical review disposition retained; no new identity proof obtained in this rebuild."
+  },
+  {
+    "id": "R15",
+    "priority": "2",
+    "status": "open",
+    "item": "Which named children match the unnamed 2020 and 2025 notices?",
+    "current_basis": "See linked review reports",
+    "closure_criterion": "Family/direct record explicitly matches the notice to a child and household; do not create an extra child or infer the exact birth date from publication",
+    "revision_status": "open",
+    "revision_result": "Historical review disposition retained; no new identity proof obtained in this rebuild."
+  },
+  {
+    "id": "R16",
+    "priority": "2",
+    "status": "open",
+    "item": "Rosamond's original 1983 notice",
+    "current_basis": "See linked review reports",
+    "closure_criterion": "Obtain Plain Dealer, 25 January 1983, p. 2E, CPL 614868; compare spouse, family and date to her known identity",
+    "revision_status": "open",
+    "revision_result": "Historical review disposition retained; no new identity proof obtained in this rebuild."
+  },
+  {
+    "id": "R17",
+    "priority": "2",
+    "status": "open",
+    "item": "Rose Karr's original 1970 notice",
+    "current_basis": "See linked review reports",
+    "closure_criterion": "Obtain Plain Dealer, 26 March 1970, reel 122, CPL 569015; verify the Alliance/Karr wording and death-day basis",
+    "revision_status": "open",
+    "revision_result": "Historical review disposition retained; no new identity proof obtained in this rebuild."
+  },
+  {
+    "id": "R18",
+    "priority": "3",
+    "status": "open",
+    "item": "Other Allen siblings' individual identities/parentage",
+    "current_basis": "See linked review reports",
+    "closure_criterion": "Original records join each person to the Adelstein parents and document any surname change; no identity is inferred from the affidavit notary's name alone",
+    "revision_status": "open",
+    "revision_result": "Historical review disposition retained; no new identity proof obtained in this rebuild."
+  },
+  {
+    "id": "R19",
+    "priority": "2",
+    "status": "open",
+    "item": "Marcus's Cleveland petition 131148, 1958",
+    "current_basis": "See linked review reports",
+    "closure_criterion": "Inspect original front/reverse and associated records; compare former names, birth, arrival, spouse and children to the DP/refugee records",
+    "revision_status": "open",
+    "revision_result": "Historical review disposition retained; no new identity proof obtained in this rebuild."
+  },
+  {
+    "id": "R20",
+    "priority": "2",
+    "status": "open",
+    "item": "Reported Arolsen case 331.509 and Swedish refugee chain",
+    "current_basis": "See linked review reports",
+    "closure_criterion": "Read every original case document; compare birth/place, relatives, movement and addresses; then inspect the relevant Swedish lists",
+    "revision_status": "open",
+    "revision_result": "Historical review disposition retained; no new identity proof obtained in this rebuild."
+  },
+  {
+    "id": "R21",
+    "priority": "2",
+    "status": "open",
+    "item": "Karola's April/June 1921 birth conflict",
+    "current_basis": "See linked review reports",
+    "closure_criterion": "Original birth, immigration or identity records resolve the two dates with a documented rationale; retain both claims until then",
+    "revision_status": "open",
+    "revision_result": "Historical review disposition retained; no new identity proof obtained in this rebuild."
+  },
+  {
+    "id": "R22",
+    "priority": "3",
+    "status": "open",
+    "item": "Cleveland Rabbi Meyer Kogen linked to Elka?",
+    "current_basis": "See linked review reports",
+    "closure_criterion": "A record explicitly joins the families or documents a continuous lineage; shared Kogen/Kaga spelling and Cleveland residence do not suffice",
+    "revision_status": "open",
+    "revision_result": "Historical review disposition retained; no new identity proof obtained in this rebuild."
+  },
+  {
+    "id": "R23",
+    "priority": "3",
+    "status": "open",
+    "item": "Julia/Tigery families linked to Victor?",
+    "current_basis": "See linked review reports",
+    "closure_criterion": "A parent-identifying bridge joins the documented families to Victor under his original surname; stop treating geography/surname as ancestry",
+    "revision_status": "open",
+    "revision_result": "Historical review disposition retained; no new identity proof obtained in this rebuild."
+  },
+  {
+    "id": "R24",
+    "priority": "3",
+    "status": "open",
+    "item": "Antoine/Caroline marriage and Lamperiere candidate identities",
+    "current_basis": "See linked review reports",
+    "closure_criterion": "Obtain the actual cited 1860 marriage or an equivalent direct chain; do not merge the 1852 Beneton bride or Delphine/Rosalie from names alone",
+    "revision_status": "open",
+    "revision_result": "Historical review disposition retained; no new identity proof obtained in this rebuild."
+  },
+  {
+    "id": "R25",
+    "priority": "2",
+    "status": "open",
+    "item": "Image quality, identity and permissions",
+    "current_basis": "See linked review reports",
+    "closure_criterion": "Current edition has an asset-level manifest; source rights/required permissions and credits are settled; available better originals replace poor facsimiles",
+    "revision_status": "open",
+    "revision_result": "Historical review disposition retained; no new identity proof obtained in this rebuild."
+  },
+  {
+    "id": "R26",
+    "priority": "2",
+    "status": "open",
+    "item": "Actual shortened edition and physical proof",
+    "current_basis": "See linked review reports",
+    "closure_criterion": "All pages of the rebuilt PDF are rendered/reviewed; person and household coverage reconciles; citations/indexes match; printer proof is inspected",
+    "revision_status": "digital-proof-completed-physical-proof-open",
+    "revision_result": "All revised pages rendered by PyMuPDF, Poppler and Apple CoreGraphics; coverage and navigation validated. Physical printer proof outstanding."
+  },
+  {
+    "id": "R27",
+    "priority": "",
+    "status": "resolved-in-manuscript",
+    "item": "Nine children's order, dated family confirmation",
+    "current_basis": "Nine children's order, dated family confirmation",
+    "closure_criterion": "Independent civil birth dates for every child",
+    "revision_status": "resolved-in-manuscript",
+    "revision_result": "Historical review disposition retained; no new identity proof obtained in this rebuild."
+  },
+  {
+    "id": "R28",
+    "priority": "2",
+    "status": "open",
+    "item": "Lori's name variants",
+    "current_basis": "See linked review reports",
+    "closure_criterion": "Contemporary Hersh evidence is carried through the book; family clarifies preferred display name and whether Hirsch is a variant rather than a different legal maiden surname",
+    "revision_status": "open",
+    "revision_result": "Historical review disposition retained; no new identity proof obtained in this rebuild."
+  },
+  {
+    "id": "R29",
+    "priority": "",
+    "status": "resolved-in-manuscript",
+    "item": "Berta's Zelkind maiden surname from the family notice",
+    "current_basis": "Berta's Zelkind maiden surname from the family notice",
+    "closure_criterion": "Every vital date at civil-record precision",
+    "revision_status": "resolved-in-manuscript",
+    "revision_result": "Historical review disposition retained; no new identity proof obtained in this rebuild."
+  },
+  {
+    "id": "R30",
+    "priority": "",
+    "status": "resolved-documentary-claim",
+    "item": "Pearl's Cleveland birth and Sam/Rebecca parentage in delayed birth and marriage material",
+    "current_basis": "Pearl's Cleveland birth and Sam/Rebecca parentage in delayed birth and marriage material",
+    "closure_criterion": "Sam/Rebecca's own origins and complete family reconstruction",
+    "revision_status": "resolved-documentary-claim",
+    "revision_result": "Historical review disposition retained; no new identity proof obtained in this rebuild."
+  },
+  {
+    "id": "R31",
+    "priority": "",
+    "status": "resolved-documentary-claim",
+    "item": "Rose Alliance identified as Pearl's sister; Edward alias evidence present",
+    "current_basis": "Rose Alliance identified as Pearl's sister; Edward alias evidence present",
+    "closure_criterion": "Every Allen sibling's individual parentage/name change",
+    "revision_status": "resolved-documentary-claim",
+    "revision_result": "Historical review disposition retained; no new identity proof obtained in this rebuild."
+  },
+  {
+    "id": "R32",
+    "priority": "",
+    "status": "access-route-established",
+    "item": "Online route to the three USHMM recording parts, metadata responses and captions",
+    "current_basis": "Online route to the three USHMM recording parts, metadata responses and captions",
+    "closure_criterion": "Listening verification and full playback acceptance",
+    "revision_status": "access-route-established",
+    "revision_result": "Historical review disposition retained; no new identity proof obtained in this rebuild."
+  },
+  {
+    "id": "R33",
+    "priority": "",
+    "status": "resolved-in-manuscript",
+    "item": "Aline's correct 1920 marriage act 3605 and original act presentation",
+    "current_basis": "Aline's correct 1920 marriage act 3605 and original act presentation",
+    "closure_criterion": "The unproved identity bridges to other Garsons",
+    "revision_status": "resolved-in-manuscript",
+    "revision_result": "Historical review disposition retained; no new identity proof obtained in this rebuild."
+  },
+  {
+    "id": "R34",
+    "priority": "2",
+    "status": "open",
+    "item": "Ilana's birth-date propagation",
+    "current_basis": "See linked review reports",
+    "closure_criterion": "The original 1988 notice is transcribed with its issue/year context; the supported June 4 date is consistently represented in narrative, register and data, with its source",
+    "revision_status": "partly-implemented-owner-review-pending",
+    "revision_result": "Original 1988 issue inspected; June 4 notice claim and issue context retained. Precise living-person birth field deliberately blank pending owner review; certificate unexamined."
+  },
+  {
+    "id": "R35",
+    "priority": "2",
+    "status": "open",
+    "item": "Inferred relationship fields",
+    "current_basis": "See linked review reports",
+    "closure_criterion": "Every provisional parent/child allocation is visibly qualified in charts, register and exports; a family confirmation or direct record is attached where obtained",
+    "revision_status": "implemented",
+    "revision_result": "Indexed parentage and grouped-surname allocations qualified beside relationship fields; no inference promoted to proof."
+  },
+  {
+    "id": "R36",
+    "priority": "2",
+    "status": "open",
+    "item": "Zelkind relative aliases",
+    "current_basis": "See linked review reports",
+    "closure_criterion": "Family or an original record links Gail/Gala, Maria/Masha, Celya/Tzila and relevant spellings; preserve the two notices' actual wordings",
+    "revision_status": "open",
+    "revision_result": "Historical review disposition retained; no new identity proof obtained in this rebuild."
+  },
+  {
+    "id": "R37",
+    "priority": "2",
+    "status": "open",
+    "item": "Sam and Rebecca's own origins and parents",
+    "current_basis": "See linked review reports",
+    "closure_criterion": "Original marriage/immigration/naturalization/vital records identify their places and parentage; use Rebecca's Escowitch/Escovitch variants, without assuming kinship to the postwar Edelsteins",
+    "revision_status": "open",
+    "revision_result": "Historical review disposition retained; no new identity proof obtained in this rebuild."
+  },
+  {
+    "id": "R38",
+    "priority": "2",
+    "status": "open",
+    "item": "Joe's Polish birth city and 1962 migration",
+    "current_basis": "See linked review reports",
+    "closure_criterion": "Original birth/immigration or a dated family document identifies the town and arrival details; the current narrative explicitly leaves the city unknown",
+    "revision_status": "open",
+    "revision_result": "Historical review disposition retained; no new identity proof obtained in this rebuild."
+  },
+  {
+    "id": "R39",
+    "priority": "2",
+    "status": "open",
+    "item": "Larry's father's given name and the three lost sisters' identities",
+    "current_basis": "Interview supplies household details but not all names; compatible Khust memorial entries remain unlinked",
+    "closure_criterion": "Khust birth/marriage/household records identify the parents and children; memorial or survivor evidence is joined by family identifiers, not name similarity",
+    "revision_status": "narrowed-by-original",
+    "revision_result": "Judith 1949 abstract names father Jacob; S103 sibling link supplies combined Larry parent attribution. Original father field gives no surname. Lost sisters and compatible memorial household remain unlinked."
+  }
+]

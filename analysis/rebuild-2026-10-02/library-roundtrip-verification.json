@@ -1,0 +1,59 @@
+[
+  {
+    "name": "The-Warszawskis-Revised-2026-10-02-Compact.pdf",
+    "local_sha256": "6e3ccf6b071bd52e46cf2d892a9850defde6c61f5ad765351e8ae68ec4f30a84",
+    "local_bytes": 8008359,
+    "delivered_sha256": "d919f756c7646aa1374d54be017c16d3b4010ade2555e483b11180db0130187f",
+    "delivered_bytes": 8033364,
+    "byte_identical": false,
+    "pages": 200,
+    "text_identical": true,
+    "navigation_identical": true,
+    "identical_page_renders": 200
+  },
+  {
+    "name": "The-Warszawskis-Revised-2026-10-02-Reading.pdf",
+    "local_sha256": "cce3125ee5cbc04ba5ec58b1bd8f5517bc094d9e86a7584e1fefe137a9fd994e",
+    "local_bytes": 23760063,
+    "delivered_sha256": "cce3125ee5cbc04ba5ec58b1bd8f5517bc094d9e86a7584e1fefe137a9fd994e",
+    "delivered_bytes": 23760063,
+    "byte_identical": true,
+    "pages": 200,
+    "text_identical": true,
+    "navigation_identical": true,
+    "identical_page_renders": 200
+  },
+  {
+    "name": "The-Warszawskis-Revised-2026-10-02-Print.pdf",
+    "local_sha256": "67ddf5ce915492f24bad2088373efc212d52143db25ca80ec4f9ea0b796df011",
+    "local_bytes": 45980689,
+    "delivered_sha256": "67ddf5ce915492f24bad2088373efc212d52143db25ca80ec4f9ea0b796df011",
+    "delivered_bytes": 45980689,
+    "byte_identical": true,
+    "pages": 200,
+    "text_identical": true,
+    "navigation_identical": true,
+    "identical_page_renders": 200
+  },
+  {
+    "name": "Warszawski-Changes-and-Closure-2026-10-02.pdf",
+    "local_sha256": "ec2c4e46ae3b2b5e6e087bc43d81d187a93be0aec52718e64460c6edc26aa202",
+    "local_bytes": 77960,
+    "delivered_sha256": "7981dbe9cbacf0aafc200a2838c59a1cc30c3ea4a72b6cd838e2740159ac4ebd",
+    "delivered_bytes": 102926,
+    "byte_identical": false,
+    "pages": 2,
+    "text_identical": true,
+    "navigation_identical": true,
+    "identical_page_renders": 2
+  },
+  {
+    "name": "Warszawski-Revised-Production-2026-10-02.zip",
+    "local_sha256": "061d6db3101d4893c6666d3cc3557c3aac56d0737002954260ec54942e2613aa",
+    "local_bytes": 57880109,
+    "delivered_sha256": "061d6db3101d4893c6666d3cc3557c3aac56d0737002954260ec54942e2613aa",
+    "delivered_bytes": 57880109,
+    "byte_identical": true,
+    "pages": null
+  }
+]
