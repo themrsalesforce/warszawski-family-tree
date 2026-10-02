@@ -1,0 +1,34 @@
+# Original binaries remain available locally and in Google Drive.
+*.pdf
+*.zip
+*.doc
+*.docx
+*.xlsx
+*.pptx
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.tif
+*.tiff
+*.webp
+*.mp3
+*.mp4
+*.mov
+*.woff
+*.woff2
+*.ttf
+*.otf
+
+# Temporary and generated files.
+.DS_Store
+__MACOSX/
+__pycache__/
+*.pyc
+*.download-part
+.venv/
+.import-tmp/
+.analysis-cache/
+
+# This .json original is actually a ZIP; its expanded JSON is tracked.
+/Warszawski/03-Archive-records/warszawski-family-tree-v1.17.json

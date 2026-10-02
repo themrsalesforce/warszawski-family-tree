@@ -1,0 +1,89 @@
+%% Warszawski family tree v1.6.0
+flowchart TB
+  per_joe["Joe Warszawski"]
+  per_bertha["Berta (Bertha) Warszawski"]
+  per_larry["Lawrence (Larry) Hersh"]
+  per_shaina["Ilene (Gabby) Hersh"]
+  per_lori["Lori (Leah) Warszawski"]
+  per_ilana["Ilana Marinovsky"]
+  per_shmaya["Shmaya Marinovsky"]
+  per_aliya["Aliya Andrusier"]
+  per_shmuel_yaakov["Shmuel Yaakov Andrusier"]
+  per_shoshy["Shoshy (Shoshana) Chaikin"]
+  per_shmuel["Shmuel Chaikin"]
+  per_ella["Ella Chaikin"]
+  per_abie["Abie Chaikin"]
+  per_mika["Mika Chaikin"]
+  per_yechiel["Yechiel Warszawski"]
+  per_shimon["Shimon Warszawski"]
+  per_mushky["Mushky Warszawski"]
+  per_shimon_baby["Baby girl (name not published)"]
+  per_chaya_brocha["Chaya Brocha Katz"]
+  per_dovi["Dovi Katz"]
+  per_hadassa["Hadassa Miriam Hirsch"]
+  per_doni["Doni Hirsch"]
+  per_simcha["Simcha Warszawski"]
+  per_maimi["Maimi Inglis"]
+  per_dovid["Dovid Inglis"]
+  per_katz_baby_2025["Baby girl (name not published)"]
+  per_shimon_elder["Szyman (Shimon) Warszawski"]
+  per_mordechai_zelkind["Mordechi (Mordechai) Zelkind"]
+  per_elka_zelkind["Elka Zelkind"]
+  per_susanne_greenberg["Susanne Greenberg"]
+  per_marcy_hirsch["Marcy Hirsch"]
+  per_seth_greenberg["Seth Greenberg"]
+  uni_joe_lori(( ))
+  per_joe --- uni_joe_lori
+  per_lori --- uni_joe_lori
+  uni_joe_lori --> per_ilana
+  uni_joe_lori --> per_aliya
+  uni_joe_lori --> per_shoshy
+  uni_joe_lori --> per_yechiel
+  uni_joe_lori --> per_shimon
+  uni_joe_lori --> per_chaya_brocha
+  uni_joe_lori --> per_hadassa
+  uni_joe_lori --> per_simcha
+  uni_joe_lori --> per_maimi
+  uni_bertha(( ))
+  per_bertha --- uni_bertha
+  per_shimon_elder --- uni_bertha
+  uni_bertha --> per_joe
+  uni_larry_shaina(( ))
+  per_larry --- uni_larry_shaina
+  per_shaina --- uni_larry_shaina
+  uni_larry_shaina --> per_lori
+  uni_larry_shaina --> per_susanne_greenberg
+  uni_larry_shaina --> per_marcy_hirsch
+  uni_marinovsky(( ))
+  per_ilana --- uni_marinovsky
+  per_shmaya --- uni_marinovsky
+  uni_andrusier(( ))
+  per_aliya --- uni_andrusier
+  per_shmuel_yaakov --- uni_andrusier
+  uni_chaikin(( ))
+  per_shoshy --- uni_chaikin
+  per_shmuel --- uni_chaikin
+  uni_chaikin --> per_ella
+  uni_chaikin --> per_abie
+  uni_chaikin --> per_mika
+  uni_shimon(( ))
+  per_shimon --- uni_shimon
+  per_mushky --- uni_shimon
+  uni_shimon --> per_shimon_baby
+  uni_katz(( ))
+  per_chaya_brocha --- uni_katz
+  per_dovi --- uni_katz
+  uni_katz --> per_katz_baby_2025
+  uni_hirsch(( ))
+  per_hadassa --- uni_hirsch
+  per_doni --- uni_hirsch
+  uni_inglis(( ))
+  per_maimi --- uni_inglis
+  per_dovid --- uni_inglis
+  uni_mordechai_elka(( ))
+  per_mordechai_zelkind --- uni_mordechai_elka
+  per_elka_zelkind --- uni_mordechai_elka
+  uni_mordechai_elka --> per_bertha
+  uni_susanne_seth(( ))
+  per_susanne_greenberg --- uni_susanne_seth
+  per_seth_greenberg --- uni_susanne_seth

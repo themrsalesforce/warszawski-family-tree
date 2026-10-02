@@ -1,0 +1,892 @@
+0 HEAD
+1 SOUR WARSZAWSKI_TREE
+2 VERS 1.6.0
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+0 @I1@ INDI
+1 NAME Joe /Warszawski/
+1 SEX M
+1 BIRT
+2 DATE 19 OCT 1959
+2 NOTE From the Heights High class of 1978 memorial page.
+2 SOUR @S7@
+1 DEAT
+2 DATE 18 FEB 2017
+2 NOTE February 18, 2017, confirmed by family. Cleveland Heights was the funeral chapel location, not a documented place of death.
+2 SOUR @S7@
+2 SOUR @S5@
+1 EVEN Joseph Sam Warszawski
+2 TYPE full_name
+2 NOTE Evidence: family_verified
+2 SOUR @S7@
+2 SOUR @S5@
+1 EVEN Cleveland Heights High School, class of 1978
+2 TYPE school
+2 NOTE Evidence: public_record
+2 SOUR @S7@
+1 EVEN Lived in Cleveland with Lori
+2 TYPE residence
+2 NOTE Evidence: user_stated
+2 SOUR @S4@
+1 EVEN Family based in Cleveland, Ohio
+2 TYPE fact
+2 NOTE Evidence: inference
+2 SOUR @S9@
+2 SOUR @S10@
+2 SOUR @S13@
+2 SOUR @S16@
+1 EVEN Born in postwar Poland, per family memory; exact city unknown.
+2 TYPE birthplace
+2 NOTE Evidence: user_stated
+2 SOUR @S30@
+1 EVEN Only child of Shimon and Bertha, according to the family.
+2 TYPE siblings
+2 NOTE Evidence: user_stated
+2 SOUR @S30@
+1 EVEN Attended Cleveland State University and worked as technical adviser at ProSearch of Medina, as of the engagement notice.
+2 TYPE work_1986
+2 NOTE Evidence: public_record
+2 SOUR @S32@
+1 EVEN A notice dated October 13, 1972 lists a bar mitzvah for the next morning at Sinai Synagogue.
+2 TYPE bar_mitzvah
+2 NOTE Evidence: public_record
+2 SOUR @S35@
+1 FAMS @F1@
+1 FAMC @F2@
+1 REFN per_joe
+1 SOUR @S1@
+1 SOUR @S30@
+1 SOUR @S32@
+1 SOUR @S35@
+0 @I2@ INDI
+1 NAME Bertha /Zelkind/
+1 SEX F
+1 BIRT
+2 DATE 15 MAY 1935
+2 NOTE Civil date printed on headstone and matching family May 15 birthday; birth certificate not located.
+2 PLAC Belarus
+2 SOUR @S30@
+1 DEAT
+2 DATE 28 NOV 2016
+2 NOTE Civil date on headstone: Nov 28, 2016. Family yahrtzeit given as 26 Cheshvan, which maps to Nov 27 (or Nov 26 after sunset) in 5777; this conflicts with the stone and must not be s
+2 SOUR @S30@
+1 EVEN May 15 (birth year unknown).
+2 TYPE birthday
+2 NOTE Evidence: user_stated
+2 SOUR @S30@
+1 EVEN Zion Memorial Park register lists BERTHA Warszawski interred November 29, 2016, section Z6 row 1 grave 58. This is an interment date, not her death date.
+2 TYPE cemetery_interment
+2 NOTE Evidence: public_record
+2 SOUR @S42@
+1 EVEN Stone at Zion Memorial Park reads Berta Warszawski, May 15, 1935 - November 28, 2016.
+2 TYPE headstone_dates
+2 NOTE Evidence: public_record
+2 SOUR @S43@
+2 SOUR @S42@
+1 EVEN Mordukh’s 1996 death notice explicitly lists Bertha Warshawsky as his daughter; 1997 CJN monument notice lists Berta, wife Elka.
+2 TYPE parentage
+2 NOTE Evidence: public_record
+2 SOUR @S50@
+2 SOUR @S34@
+1 FAMS @F2@
+1 FAMC @F11@
+1 REFN per_bertha
+1 SOUR @S4@
+1 SOUR @S30@
+1 SOUR @S31@
+1 SOUR @S33@
+1 SOUR @S34@
+1 SOUR @S42@
+1 SOUR @S43@
+1 SOUR @S50@
+0 @I3@ INDI
+1 NAME Lawrence /Hersh/
+1 SEX M
+1 NAME Aryeh Leib
+2 TYPE aka
+1 BIRT
+2 DATE 1 JUN 1925
+2 NOTE Birthdate repeated in 1961 naturalization card; self-reported, not original birth certificate. His recalled age twenty in June 1948 would differ.
+2 SOUR @S39@
+2 SOUR @S38@
+1 DEAT
+2 DATE 3 JAN 2012
+2 NOTE Memorial date matches 8 Tevet 5772 before sundown; actual time unknown.
+2 SOUR @S38@
+2 SOUR @S30@
+1 EVEN From the Khust/Transylvania region, per family memory.
+2 TYPE origins
+2 NOTE Evidence: user_stated
+2 SOUR @S30@
+1 EVEN Aryeh Leib Larry Hirsch was originally from Czechoslovakia, survived Auschwitz, and was one of seven siblings; he and a sister Judy survived, per family account
+2 TYPE family_history
+2 NOTE Evidence: user_stated
+2 SOUR @S30@
+1 EVEN Lawrence Hersh appears as Laurel Ruth’s father in an engagement notice and as Ilana’s maternal grandfather in a birth notice.
+2 TYPE name
+2 NOTE Evidence: public_record
+2 SOUR @S32@
+1 EVEN In October 1972 press, named Cleveland Jewish Survival Legion leader and national board member, formerly local Jewish Defense League coordinator.
+2 TYPE public_activism
+2 NOTE Evidence: public_record
+2 SOUR @S36@
+1 EVEN Arie Lawrence Hersh naturalized in U.S. District Court on August 11, 1961. The card records June 1, 1925 birth date and an annotation that his name changed duri
+2 TYPE naturalization
+2 NOTE Evidence: public_record
+2 SOUR @S39@
+1 EVEN Zion Memorial Park register lists LAWRENCE Hersh interred January 3, 2012, Z3 row 1 grave 35, adjacent to ILEEN Hersh. A second Jan 5 RESERVE row at the same gr
+2 TYPE cemetery_interment
+2 NOTE Evidence: public_record
+2 SOUR @S42@
+1 FAMS @F3@
+1 REFN per_larry
+1 SOUR @S6@
+1 SOUR @S30@
+1 SOUR @S32@
+1 SOUR @S33@
+1 SOUR @S37@
+1 SOUR @S38@
+1 SOUR @S36@
+1 SOUR @S39@
+1 SOUR @S42@
+1 SOUR @S51@
+0 @I4@ INDI
+1 NAME Ileen /Garson/
+1 SEX F
+1 NAME Shaina Yuda
+2 TYPE aka
+1 DEAT
+2 DATE 2009
+2 NOTE Original May 23, 2009 death notice and May 24 burial support 2009. The notice announces services but does not give death day. Derivative index says May 22; seek certificate or orig
+2 SOUR @S30@
+2 SOUR @S51@
+2 SOUR @S42@
+1 EVEN Ilene, Hebrew Shaina Yuda; "Gabby" was her grandmother nickname.
+2 TYPE identity
+2 NOTE Evidence: user_stated
+2 SOUR @S30@
+1 EVEN From Cleveland; family says her parents came from France, while an earlier family account says her mother Pearl was born in Latvia.
+2 TYPE family_origins
+2 NOTE Evidence: user_stated
+2 SOUR @S30@
+1 EVEN Zion Memorial Park register lists ILEEN Hersh interred May 24, 2009, Z3 row 1 grave 34, adjacent to LAWRENCE Hersh. Cemetery placement and period marriage recor
+2 TYPE cemetery_interment
+2 NOTE Evidence: public_record
+2 SOUR @S42@
+1 EVEN The 2009 death notice identifies Ileen Hersh (nee Garson) as Lawrence’s wife and lists Laurel Warszawski and granddaughter Shoshana.
+2 TYPE family_notice
+2 NOTE Evidence: public_record
+2 SOUR @S51@
+1 FAMS @F3@
+1 REFN per_shaina
+1 SOUR @S6@
+1 SOUR @S30@
+1 SOUR @S33@
+1 SOUR @S42@
+1 SOUR @S51@
+0 @I5@ INDI
+1 NAME Lori /Hersh/
+1 SEX F
+1 NAME Leah Rochel
+2 TYPE aka
+1 EVEN Lived in Cleveland with Joe
+2 TYPE residence
+2 NOTE Evidence: user_stated
+2 SOUR @S4@
+1 EVEN Laurel Ruth Hersh is the form in the 1986 engagement notice; Lori (Leah Rochel) is the family-used name.
+2 TYPE name
+2 NOTE Evidence: public_record
+2 SOUR @S32@
+1 EVEN Ursuline College graduate and registered nurse at Rainbow Babies and Children’s Hospital, as of the engagement notice.
+2 TYPE work_1986
+2 NOTE Evidence: public_record
+2 SOUR @S32@
+1 FAMS @F1@
+1 FAMC @F3@
+1 REFN per_lori
+1 SOUR @S1@
+1 SOUR @S30@
+1 SOUR @S32@
+1 SOUR @S33@
+1 SOUR @S51@
+0 @I6@ INDI
+1 NAME Ilana /Warszawski/
+1 SEX F
+1 FAMC @F1@
+1 FAMS @F4@
+1 REFN per_ilana
+1 SOUR @S1@
+1 SOUR @S33@
+0 @I7@ INDI
+1 NAME Shmaya /Marinovsky/
+1 SEX M
+1 EVEN Chabad shliach associated with Torah Day School in Houston (2019).
+2 TYPE work
+2 NOTE Evidence: user_stated
+2 SOUR @S30@
+1 FAMS @F4@
+1 REFN per_shmaya
+1 SOUR @S1@
+1 SOUR @S30@
+0 @I8@ INDI
+1 NAME Aliya /Warszawski/
+1 SEX F
+1 EVEN L'Chaim of Shmuly Andrusier and Aliyah Warszaski (2013-10) - Beis Levi Yitzchak shul, Crown Heights
+2 TYPE lchaim
+2 NOTE Evidence: public_record
+2 SOUR @S9@
+1 FAMC @F1@
+1 FAMS @F5@
+1 REFN per_aliya
+1 SOUR @S1@
+1 SOUR @S9@
+0 @I9@ INDI
+1 NAME Shmuel /Andrusier/
+1 SEX M
+1 NAME Shmuel Yaakov
+2 TYPE aka
+1 EVEN Called 'Shmuly Andrusier of Crown Heights' in the L'Chaim notice
+2 TYPE fact
+2 NOTE Evidence: inference
+2 SOUR @S9@
+1 EVEN L'Chaim of Shmuly Andrusier and Aliyah Warszaski (2013-10) - Beis Levi Yitzchak shul, Crown Heights
+2 TYPE lchaim
+2 NOTE Evidence: public_record
+2 SOUR @S9@
+1 FAMS @F5@
+1 REFN per_shmuel_yaakov
+1 SOUR @S1@
+1 SOUR @S9@
+1 SOUR @S30@
+0 @I10@ INDI
+1 NAME Shoshy /Warszawski/
+1 SEX F
+1 EVEN Engagement: Shmuly Chaikin (Johannesburg) to Shoshy Warszawski (Cleveland) (date not published)
+2 TYPE engagement
+2 NOTE Evidence: public_record
+2 SOUR @S8@
+1 EVEN Shoshy Warszawski and Shmuly Chaikin engagement announced August 22, 2014
+2 TYPE engagement
+2 NOTE Evidence: public_record
+2 SOUR @S21@
+1 FAMC @F1@
+1 FAMS @F6@
+1 REFN per_shoshy
+1 SOUR @S1@
+1 SOUR @S8@
+1 SOUR @S21@
+1 SOUR @S51@
+0 @I11@ INDI
+1 NAME Shmuel /Chaikin/
+1 SEX M
+1 EVEN Engagement: Shmuly Chaikin (Johannesburg) to Shoshy Warszawski (Cleveland) (date not published)
+2 TYPE engagement
+2 NOTE Evidence: public_record
+2 SOUR @S8@
+1 EVEN Shoshy Warszawski and Shmuly Chaikin engagement announced August 22, 2014
+2 TYPE engagement
+2 NOTE Evidence: public_record
+2 SOUR @S21@
+1 FAMS @F6@
+1 REFN per_shmuel
+1 SOUR @S1@
+1 SOUR @S8@
+1 SOUR @S21@
+0 @I12@ INDI
+1 NAME Ella /Chaikin/
+1 SEX F
+1 FAMC @F6@
+1 REFN per_ella
+1 SOUR @S3@
+0 @I13@ INDI
+1 NAME Abie /Chaikin/
+1 SEX U
+1 FAMC @F6@
+1 REFN per_abie
+1 SOUR @S3@
+0 @I14@ INDI
+1 NAME Mika /Chaikin/
+1 SEX U
+1 FAMC @F6@
+1 REFN per_mika
+1 SOUR @S3@
+0 @I15@ INDI
+1 NAME Yechiel /Warszawski/
+1 SEX M
+1 NAME Yechiel Yaakov
+2 TYPE aka
+1 EVEN Single
+2 TYPE marital_status
+2 NOTE Evidence: user_stated
+2 SOUR @S1@
+2 SOUR @S2@
+1 EVEN Worked at American Dream mall in New Jersey, 2019-2023.
+2 TYPE work
+2 NOTE Evidence: user_stated
+2 SOUR @S30@
+1 FAMC @F1@
+1 REFN per_yechiel
+1 SOUR @S1@
+1 SOUR @S2@
+1 SOUR @S30@
+0 @I16@ INDI
+1 NAME Shimon /Warszawski/
+1 SEX M
+1 EVEN L'Chaim of Shimon Warszawski and Mushkie Chayempour (2019-01) - Lubavitch Yeshiva Hall, Crown Heights
+2 TYPE lchaim
+2 NOTE Evidence: public_record
+2 SOUR @S10@
+1 EVEN Baby girl born to Shimon and Mushkie Warszawski (2020-01-20) - Crown Heights
+2 TYPE birth
+2 NOTE Evidence: public_record
+2 SOUR @S11@
+1 EVEN Shimon Warszawski and Mushky Chayempour engagement announced January 12, 2019
+2 TYPE engagement
+2 NOTE Evidence: public_record
+2 SOUR @S23@
+1 EVEN Graduated law school in May 2024 and reported passing the bar in October 2024; associated with Cleveland.
+2 TYPE profession
+2 NOTE Evidence: user_stated
+2 SOUR @S30@
+1 FAMC @F1@
+1 FAMS @F7@
+1 REFN per_shimon
+1 SOUR @S1@
+1 SOUR @S10@
+1 SOUR @S23@
+1 SOUR @S30@
+0 @I17@ INDI
+1 NAME Mushky /Chayempour/
+1 SEX F
+1 EVEN Maiden name Chayempour, of Toronto, Canada
+2 TYPE fact
+2 NOTE Evidence: public_record
+2 SOUR @S10@
+2 SOUR @S11@
+1 EVEN L'Chaim of Shimon Warszawski and Mushkie Chayempour (2019-01) - Lubavitch Yeshiva Hall, Crown Heights
+2 TYPE lchaim
+2 NOTE Evidence: public_record
+2 SOUR @S10@
+1 EVEN Baby girl born to Shimon and Mushkie Warszawski (2020-01-20) - Crown Heights
+2 TYPE birth
+2 NOTE Evidence: public_record
+2 SOUR @S11@
+1 EVEN Shimon Warszawski and Mushky Chayempour engagement announced January 12, 2019
+2 TYPE engagement
+2 NOTE Evidence: public_record
+2 SOUR @S23@
+1 FAMS @F7@
+1 REFN per_mushky
+1 SOUR @S1@
+1 SOUR @S10@
+1 SOUR @S11@
+1 SOUR @S23@
+0 @I18@ INDI
+1 NAME Baby /Warszawski/
+1 SEX F
+1 FAMC @F7@
+1 REFN per_shimon_baby
+1 SOUR @S11@
+0 @I19@ INDI
+1 NAME Chaya /Warszawski/
+1 SEX F
+1 EVEN Engagement of Dovi Katz and Chaya Warszawski; L'Chaim that night (2023-01-10) - Lubavitch Yeshiva, Crown Heights
+2 TYPE engagement
+2 NOTE Evidence: public_record
+2 SOUR @S16@
+2 SOUR @S17@
+2 SOUR @S18@
+1 EVEN Wedding of Dovi Katz and Chaya Warszawski (2023-03-12) - Oholei Torah, Crown Heights
+2 TYPE wedding
+2 NOTE Evidence: public_record
+2 SOUR @S19@
+1 EVEN Baby girl announced Dec 3, 2025; name not published
+2 TYPE child
+2 NOTE Evidence: inference
+2 SOUR @S24@
+1 FAMC @F1@
+1 FAMS @F8@
+1 REFN per_chaya_brocha
+1 SOUR @S1@
+1 SOUR @S16@
+1 SOUR @S24@
+0 @I20@ INDI
+1 NAME Dovi /Katz/
+1 SEX M
+1 EVEN From Crown Heights
+2 TYPE fact
+2 NOTE Evidence: public_record
+2 SOUR @S16@
+2 SOUR @S19@
+1 EVEN Engagement of Dovi Katz and Chaya Warszawski; L'Chaim that night (2023-01-10) - Lubavitch Yeshiva, Crown Heights
+2 TYPE engagement
+2 NOTE Evidence: public_record
+2 SOUR @S16@
+2 SOUR @S17@
+2 SOUR @S18@
+1 EVEN Wedding of Dovi Katz and Chaya Warszawski (2023-03-12) - Oholei Torah, Crown Heights
+2 TYPE wedding
+2 NOTE Evidence: public_record
+2 SOUR @S19@
+1 EVEN Baby girl announced Dec 3, 2025; name not published
+2 TYPE child
+2 NOTE Evidence: inference
+2 SOUR @S24@
+1 FAMS @F8@
+1 REFN per_dovi
+1 SOUR @S1@
+1 SOUR @S16@
+1 SOUR @S24@
+0 @I21@ INDI
+1 NAME Hadassa /Warszawski/
+1 SEX F
+1 BIRT
+2 DATE 15 APR 2000
+2 SOUR @S30@
+1 EVEN Called 'Dassi Warszawski' in the notices
+2 TYPE fact
+2 NOTE Evidence: inference
+2 SOUR @S12@
+2 SOUR @S13@
+1 EVEN Engagement of Daniel (Donni) Hirsch and Dassi Warszawski; L'Chaim that night (2022-11-06) - Ulam Chana Hall (Machon Chana), Crown Heights
+2 TYPE engagement
+2 NOTE Evidence: public_record
+2 SOUR @S12@
+2 SOUR @S13@
+2 SOUR @S14@
+1 EVEN Wedding of Daniel Hirsch and Dassi Warszwaski (2023-02-02) - Oholei Torah Ballroom, Crown Heights
+2 TYPE wedding
+2 NOTE Evidence: public_record
+2 SOUR @S15@
+1 FAMC @F1@
+1 FAMS @F9@
+1 REFN per_hadassa
+1 SOUR @S1@
+1 SOUR @S12@
+1 SOUR @S30@
+0 @I22@ INDI
+1 NAME Doni /Hirsch/
+1 SEX M
+1 EVEN From Coral Springs, Florida; named 'Daniel' and 'Donni' in the notices
+2 TYPE fact
+2 NOTE Evidence: public_record
+2 SOUR @S12@
+2 SOUR @S13@
+2 SOUR @S15@
+1 EVEN Engagement of Daniel (Donni) Hirsch and Dassi Warszawski; L'Chaim that night (2022-11-06) - Ulam Chana Hall (Machon Chana), Crown Heights
+2 TYPE engagement
+2 NOTE Evidence: public_record
+2 SOUR @S12@
+2 SOUR @S13@
+2 SOUR @S14@
+1 EVEN Wedding of Daniel Hirsch and Dassi Warszwaski (2023-02-02) - Oholei Torah Ballroom, Crown Heights
+2 TYPE wedding
+2 NOTE Evidence: public_record
+2 SOUR @S15@
+1 FAMS @F9@
+1 REFN per_doni
+1 SOUR @S1@
+1 SOUR @S12@
+1 SOUR @S30@
+0 @I23@ INDI
+1 NAME Simcha /Warszawski/
+1 SEX F
+1 NAME Simcha Sora Chia
+2 TYPE aka
+1 EVEN Nurse; graduated from nursing school around late 2023.
+2 TYPE work
+2 NOTE Evidence: user_stated
+2 SOUR @S30@
+1 FAMC @F1@
+1 REFN per_simcha
+1 SOUR @S1@
+1 SOUR @S30@
+0 @I24@ INDI
+1 NAME Maimi /Warszawski/
+1 SEX F
+1 EVEN Engagement: Dovid Englis (London) to Maimi Warszawski (Crown Heights) (date not published)
+2 TYPE engagement
+2 NOTE Evidence: public_record
+2 SOUR @S20@
+1 EVEN Maimi Warszawski and Dovid Inglis engagement announced December 28, 2018
+2 TYPE engagement
+2 NOTE Evidence: public_record
+2 SOUR @S22@
+1 FAMC @F1@
+1 FAMS @F10@
+1 REFN per_maimi
+1 SOUR @S2@
+1 SOUR @S20@
+1 SOUR @S22@
+0 @I25@ INDI
+1 NAME Dovid /Inglis/
+1 SEX M
+1 EVEN From London, England; spelled 'Englis' in the notice
+2 TYPE fact
+2 NOTE Evidence: public_record
+2 SOUR @S20@
+1 EVEN Engagement: Dovid Englis (London) to Maimi Warszawski (Crown Heights) (date not published)
+2 TYPE engagement
+2 NOTE Evidence: public_record
+2 SOUR @S20@
+1 EVEN Maimi Warszawski and Dovid Inglis engagement announced December 28, 2018
+2 TYPE engagement
+2 NOTE Evidence: public_record
+2 SOUR @S22@
+1 FAMS @F10@
+1 REFN per_dovid
+1 SOUR @S2@
+1 SOUR @S20@
+1 SOUR @S22@
+0 @I26@ INDI
+1 NAME (name not published) /Katz/
+1 SEX F
+1 FAMC @F8@
+1 REFN per_katz_baby_2025
+1 SOUR @S24@
+0 @I27@ INDI
+1 NAME Szyman /Warszawski/
+1 SEX M
+1 BIRT
+2 DATE 1 APR 1918
+2 NOTE FamilySearch NUMIDENT index only, not inspected original SS-5 or birth record.
+2 SOUR @S40@
+1 DEAT
+2 DATE 18 JUL 1995
+2 NOTE Obituary in Aug. 18 issue states he died July 18.
+2 SOUR @S31@
+1 EVEN Family account identifies brother Binyamin. A Social Security NUMIDENT index lists parents Joseph Warszavski and Rochel Goldberg, pending original-document conf
+2 TYPE family
+2 NOTE Evidence: user_stated
+2 SOUR @S30@
+2 SOUR @S40@
+1 EVEN Owned Mayflower Tailoring Co. at Cedar-Center for 25 years; retired around 1988.
+2 TYPE occupation
+2 NOTE Evidence: public_record
+2 SOUR @S31@
+1 EVEN Born in Poland, lived in Russia during World War II, immigrated to Cleveland in 1962.
+2 TYPE migration
+2 NOTE Evidence: public_record
+2 SOUR @S31@
+1 EVEN FamilySearch NUMIDENT index gives birth April 1, 1918 in Warsaw, Poland, and names parents Joseph Warszavski and Rochel Goldberg.
+2 TYPE indexed_birth_and_parents
+2 NOTE Evidence: public_record
+2 SOUR @S40@
+1 FAMS @F2@
+1 REFN per_shimon_elder
+1 SOUR @S30@
+1 SOUR @S31@
+1 SOUR @S33@
+1 SOUR @S35@
+1 SOUR @S40@
+0 @I28@ INDI
+1 NAME Mordechai /Zelkind/
+1 SEX M
+1 EVEN The 1997 monument notice calls him husband of Elka and father of Berta, Gala, Tzila and Masha.
+2 TYPE family
+2 NOTE Evidence: public_record
+2 SOUR @S34@
+1 EVEN Zion Memorial Park register lists MORDUKH Zelkind interred September 25, 1996, section Z6 row 6 grave 110. The cemetery listing is an interment date, not a deat
+2 TYPE cemetery_interment
+2 NOTE Evidence: public_record
+2 SOUR @S42@
+1 EVEN Photographed stone appears to read MORDUKH ZELKIND, 1912-1996, with a portrait photograph.
+2 TYPE headstone_years
+2 NOTE Evidence: public_record
+2 SOUR @S46@
+1 EVEN The 1996 death notice names wife Elka (nee Kogen), daughters Bertha Warshawsky, Gail Zelkind, Maria Komisarchik and Celya Elin, and grandson Joseph Warshawsky.
+2 TYPE family_notice
+2 NOTE Evidence: public_record
+2 SOUR @S50@
+1 FAMS @F11@
+1 REFN per_mordechai_zelkind
+1 SOUR @S30@
+1 SOUR @S34@
+1 SOUR @S33@
+1 SOUR @S42@
+1 SOUR @S46@
+1 SOUR @S50@
+0 @I29@ INDI
+1 NAME Elka /Zelkind/
+1 SEX F
+1 BIRT
+2 DATE 12 NOV 1913
+2 NOTE NUMIDENT derivative index gives Nov 12, 1913; a likely matching stone appears to give 1914-2005. Birth year disputed; original SS-5/birth record and clearer stone photo needed.
+2 SOUR @S41@
+1 DEAT
+2 DATE 14 MAR 2005
+2 NOTE NUMIDENT derivative index, not original death certificate.
+2 SOUR @S41@
+1 EVEN An indexed Social Security NUMIDENT entry for Elka Kagan Zelkind lists Bobruisk (indexed Bubruysk) as birthplace and parents Isac Kaga and Tsilya Gershon.
+2 TYPE indexed_origin_and_parents
+2 NOTE Evidence: public_record
+2 SOUR @S41@
+1 EVEN Zion Memorial Park register lists ELKA Zelkind interred March 16, 2005, section Z6 row 4 grave 110. This agrees with a separate March 14 death index, but the in
+2 TYPE cemetery_interment
+2 NOTE Evidence: public_record
+2 SOUR @S42@
+1 EVEN A Zion Memorial Park stone photographed with a portrait appears to read ELKA ZELKIND, 1914-2005, conflicting with a NUMIDENT index’s November 12, 1913 birth dat
+2 TYPE headstone_year_conflict
+2 NOTE Evidence: public_record
+2 SOUR @S44@
+2 SOUR @S41@
+1 EVEN Kogen is printed as Elka’s maiden surname in her husband’s 1996 notice.
+2 TYPE birth_surname_in_notice
+2 NOTE Evidence: public_record
+2 SOUR @S50@
+1 FAMS @F11@
+1 REFN per_elka_zelkind
+1 SOUR @S30@
+1 SOUR @S34@
+1 SOUR @S41@
+1 SOUR @S42@
+1 SOUR @S44@
+1 SOUR @S50@
+0 @I30@ INDI
+1 NAME Susanne /Greenberg/
+1 SEX F
+1 EVEN Married Seth Greenberg; formerly Cleveland, later Alabama, per family report.
+2 TYPE family
+2 NOTE Evidence: user_stated
+2 SOUR @S30@
+1 EVEN Two children; their names and ages are withheld pending a public-audience decision.
+2 TYPE children
+2 NOTE Evidence: user_stated
+2 SOUR @S30@
+1 FAMC @F3@
+1 FAMS @F12@
+1 REFN per_susanne_greenberg
+1 SOUR @S30@
+1 SOUR @S51@
+0 @I31@ INDI
+1 NAME Marcy /Hirsch/
+1 SEX F
+1 EVEN Never married, per family report.
+2 TYPE marital_status
+2 NOTE Evidence: user_stated
+2 SOUR @S30@
+1 FAMC @F3@
+1 REFN per_marcy_hirsch
+1 SOUR @S30@
+1 SOUR @S51@
+0 @I32@ INDI
+1 NAME Seth /Greenberg/
+1 SEX M
+1 FAMS @F12@
+1 REFN per_seth_greenberg
+1 SOUR @S30@
+0 @I33@ INDI
+1 NAME Gail /Zelkind/
+1 SEX F
+1 DEAT
+2 DATE 2013
+2 NOTE Stone reads February 28, 2013 but cemetery lists February 1 interment, impossible if both apply to the same person. Keep year only pending death certificate and clearer register.
+2 SOUR @S45@
+2 SOUR @S42@
+1 FAMC @F11@
+1 REFN per_gail_zelkind
+1 SOUR @S50@
+1 SOUR @S45@
+1 SOUR @S42@
+0 @F1@ FAM
+1 HUSB @I1@
+1 WIFE @I5@
+1 CHIL @I6@
+1 CHIL @I8@
+1 CHIL @I10@
+1 CHIL @I15@
+1 CHIL @I16@
+1 CHIL @I19@
+1 CHIL @I21@
+1 CHIL @I23@
+1 CHIL @I24@
+0 @F2@ FAM
+1 WIFE @I2@
+1 HUSB @I27@
+1 CHIL @I1@
+0 @F3@ FAM
+1 HUSB @I3@
+1 WIFE @I4@
+1 CHIL @I5@
+1 CHIL @I30@
+1 CHIL @I31@
+0 @F4@ FAM
+1 WIFE @I6@
+1 HUSB @I7@
+0 @F5@ FAM
+1 WIFE @I8@
+1 HUSB @I9@
+0 @F6@ FAM
+1 WIFE @I10@
+1 HUSB @I11@
+1 CHIL @I12@
+1 CHIL @I13@
+1 CHIL @I14@
+0 @F7@ FAM
+1 HUSB @I16@
+1 WIFE @I17@
+1 CHIL @I18@
+0 @F8@ FAM
+1 WIFE @I19@
+1 HUSB @I20@
+1 CHIL @I26@
+0 @F9@ FAM
+1 WIFE @I21@
+1 HUSB @I22@
+0 @F10@ FAM
+1 WIFE @I24@
+1 HUSB @I25@
+0 @F11@ FAM
+1 HUSB @I28@
+1 WIFE @I29@
+1 CHIL @I2@
+1 CHIL @I33@
+0 @F12@ FAM
+1 WIFE @I30@
+1 HUSB @I32@
+0 @S1@ SOUR
+1 TITL Family account - Warszawski family list
+0 @S2@ SOUR
+1 TITL Family account - correction
+0 @S3@ SOUR
+1 TITL Family account - Shoshy and Shmuel's household
+0 @S4@ SOUR
+1 TITL Family account - Joe and Lori
+0 @S5@ SOUR
+1 TITL Family account - Joe's date of passing
+0 @S6@ SOUR
+1 TITL Family account - Shoshy (Lori's parents)
+0 @S7@ SOUR
+1 TITL In Memory: Joseph Sam Warszawski - Cleveland Heights High School class of 1978
+1 NOTE URL: https://www.heights1978.com/class_profile.cfm?member_id=9607418
+0 @S8@ SOUR
+1 TITL ChabadInfo Mazal Tov archive: Shmuly Chaikin - Shoshy Warszawski
+1 NOTE URL: https://chabadinfo.com/mazal-tov/page/92/
+0 @S9@ SOUR
+1 TITL L'Chaim: Andrusier - Warszaski
+1 NOTE URL: https://collive.com/lchaim-andrusier-warszaski/
+0 @S10@ SOUR
+1 TITL L'Chaim: Warszawski - Chayempour
+1 NOTE URL: https://collive.com/lchaim-warszawski-chayempour/
+0 @S11@ SOUR
+1 TITL Baby Girl! - Shimon and Mushkie (nee Chayempour) Warszawski
+1 NOTE URL: https://crownheights.info/mazal_tov/baby-girl-1653/
+0 @S12@ SOUR
+1 TITL New Engagement! - Daniel Hirsch to Dassi Warszwaski
+1 NOTE URL: https://crownheights.info/mazal_tov/new-engagement-2768/
+0 @S13@ SOUR
+1 TITL L'Chaim: Hirsch - Warszawski
+1 NOTE URL: https://anash.org/lchaim-hirsch-warszawski/
+0 @S14@ SOUR
+1 TITL L'Chaim: Hirsch - Warszawski
+1 NOTE URL: https://collive.com/lchaim-hirsch-warszawski/
+0 @S15@ SOUR
+1 TITL Wedding: Hirsch - Warszwaski
+1 NOTE URL: https://anash.org/wedding-hirsch-warszwaski/
+0 @S16@ SOUR
+1 TITL New Engagement: Dovi Katz - Chaya Warszawski
+1 NOTE URL: https://collive.com/mazel-tov/dovi-katz-crown-heights-to-chaya-warszawski-cleveland-ohio/
+0 @S17@ SOUR
+1 TITL L'Chaim: Katz - Warszawski
+1 NOTE URL: https://anash.org/lchaim-katz-warszawski/
+0 @S18@ SOUR
+1 TITL L'Chaim: Katz - Warszawski
+1 NOTE URL: https://collive.com/lchaim-katz-warszawski/
+0 @S19@ SOUR
+1 TITL Wedding: Katz - Warszawski
+1 NOTE URL: https://anash.org/wedding-katz-warszawski/
+0 @S20@ SOUR
+1 TITL ChabadInfo Mazal Tov archive: Dovid Englis - Maimi Warszawski
+1 NOTE URL: https://chabadinfo.com/mazal-tov/page/42/
+0 @S21@ SOUR
+1 TITL Shoshy Warszawski & Shmuly Chaikin - engagement
+1 NOTE URL: https://collive.com/mazel-tov/page/487/
+0 @S22@ SOUR
+1 TITL Dovid Inglis & Maimi Warszawski - engagement
+1 NOTE URL: https://collive.com/mazel-tov/page/292/
+0 @S23@ SOUR
+1 TITL Shimon Warszawski & Mushky Chayempour - engagement
+1 NOTE URL: https://collive.com/mazel-tov/page/290/
+0 @S24@ SOUR
+1 TITL Baby Girl! - Dovi and Chaya Katz
+1 NOTE URL: https://crownheights.info/mazal_tov/baby-girl-2056/
+0 @S25@ SOUR
+1 TITL Cleveland Jewish News digital archive access
+1 NOTE URL: https://clevelandjewishhistory.net/res/cjn-archive.htm
+0 @S26@ SOUR
+1 TITL Another Shaina Hirsch - do not merge
+1 NOTE URL: https://vinnews.com/2020/10/25/mrs-shaina-hirsch-%d7%a2%d7%94-%d7%a9%d7%99%d7%99%d7%a0%d7%94-%d7%9e%d7%9c%d7%9b%d7%94-%d7%91%d7%aa-%d7%97%d7%99%d7%99%d7%9d-%d7%99%d7%97%d7%99%d7%90%d7%9c/
+0 @S27@ SOUR
+1 TITL Houston community mentions Ilana Marinovsky
+1 NOTE URL: https://jhvonline.com/giborah-event-provides-support-for-perinatal-mental-health-p34161-153.htm
+0 @S28@ SOUR
+1 TITL Yosef Yitzchak Bacher - Moushkie Teleshevsky engagement
+1 NOTE URL: https://collive.com/mazel-tov/new-engagement-206-2/
+0 @S29@ SOUR
+1 TITL Efraim Bacher - Sara Kugel L’Chaim
+1 NOTE URL: https://collive.com/lchaim-bacher-kugel/
+0 @S30@ SOUR
+1 TITL Family knowledge
+0 @S31@ SOUR
+1 TITL Szyman Warszawski obituary
+1 NOTE URL: https://now.dirxion.com/Cleveland_Jewish_News/viewer/web/viewer.html?file=../../library/Cleveland_Jewish_News_1964-2009%2FCleveland_Jewish_News_08_18_1995.pdf#page=36
+0 @S32@ SOUR
+1 TITL Hersh-Warszawski engagement
+1 NOTE URL: https://now.dirxion.com/Cleveland_Jewish_News/viewer/web/viewer.html?file=../../library/Cleveland_Jewish_News_1964-2009%2FCleveland_Jewish_News_08_29_1986.pdf#page=24
+0 @S33@ SOUR
+1 TITL Daughter to Warszawskis birth announcement
+1 NOTE URL: https://now.dirxion.com/Cleveland_Jewish_News/viewer/web/viewer.html?file=../../library/Cleveland_Jewish_News_1964-2009%2FCleveland_Jewish_News_08_26_1988.pdf#page=37
+0 @S34@ SOUR
+1 TITL Mordechi Zelkind monument unveiling
+1 NOTE URL: https://now.dirxion.com/Cleveland_Jewish_News/viewer/web/viewer.html?file=../../library/Cleveland_Jewish_News_1964-2009%2FCleveland_Jewish_News_09_05_1997.pdf#page=45
+0 @S35@ SOUR
+1 TITL Joseph Warszawski bar mitzvah announcement
+1 NOTE URL: https://now.dirxion.com/Cleveland_Jewish_News/library/Cleveland_Jewish_News_1964-2009/Cleveland_Jewish_News_10_13_1972.pdf#page=15
+0 @S36@ SOUR
+1 TITL Jewish Survival Legion leader Larry Hersh
+1 NOTE URL: https://now.dirxion.com/Cleveland_Jewish_News/library/Cleveland_Jewish_News_1964-2009/Cleveland_Jewish_News_10_13_1972.pdf#page=2
+0 @S37@ SOUR
+1 TITL Larry H. Holocaust testimony (HVT-341) - catalog synopsis
+1 NOTE URL: https://collections.ushmm.org/search/catalog/hvt4293582
+0 @S38@ SOUR
+1 TITL Larry Hersh - Wall of Heroes memorial
+1 NOTE URL: https://jewishveterans.org/heroes
+0 @S39@ SOUR
+1 TITL Arie Lawrence Hersh - Cuyahoga naturalization card
+1 NOTE URL: https://www.familysearch.org/ark:/61903/3:1:3QSQ-G99D-3LFJ?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3AK8HM-VF6&action=view&cc=1987615&lang=en
+0 @S40@ SOUR
+1 TITL Szymon Warszavski - Social Security NUMIDENT index
+1 NOTE URL: https://www.familysearch.org/ark:/61903/1:1:6K33-WH43?lang=en
+0 @S41@ SOUR
+1 TITL Elka Kagan Zelkind - Social Security NUMIDENT index
+1 NOTE URL: https://www.familysearch.org/ark:/61903/1:1:6K3K-RD5Q?lang=en
+0 @S42@ SOUR
+1 TITL Zion Memorial Park burial register - Warszawski and Zelkind surname results
+1 NOTE URL: https://m.zionmemorialpark.com/searchlname.php
+0 @S43@ SOUR
+1 TITL Berta Warszawski headstone, Zion Memorial Park
+1 NOTE URL: https://billiongraves.com/grave/Berta-Warszawski/35751968
+0 @S44@ SOUR
+1 TITL Elka Zelkind headstone portrait and date range
+1 NOTE URL: https://billiongraves.com/grave/Elka-Zelkino/35589565
+0 @S45@ SOUR
+1 TITL Gail Zelkind headstone dates
+1 NOTE URL: https://billiongraves.com/grave/Gail-Zelkind/35646138
+0 @S46@ SOUR
+1 TITL Mordukh Zelkind headstone portrait and date range
+1 NOTE URL: https://billiongraves.com/grave/Mordukh-Zelkind/35635476
+0 @S47@ SOUR
+1 TITL Zvi Warszawski headstone, Jewishdata item 443207
+0 @S48@ SOUR
+1 TITL Benjamin Zelkind headstone, Jewishdata item 271689
+0 @S49@ SOUR
+1 TITL Wolf Zelkind headstone, Jewishdata item 377384
+0 @S50@ SOUR
+1 TITL Mordukh Zelkind death notice, The Plain Dealer, Sept. 25, 1996, p. B8
+1 NOTE URL: https://cpl.org/newsindex/showrecord/?record=612316&type=news
+0 @S51@ SOUR
+1 TITL Ileen Hersh death notice, The Plain Dealer, May 23, 2009, p. B4
+1 NOTE URL: https://cpl.org/newsindex/showrecord/?record=429063&type=news
+0 TRLR

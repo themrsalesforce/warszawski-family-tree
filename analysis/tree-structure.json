@@ -1,0 +1,49 @@
+{
+  "source": "Warszawski/03-Archive-records/expanded/warszawski-family-tree-v1.17/warszawski-tree.json",
+  "counts": {
+    "sources": 89,
+    "persons": 61,
+    "unions": 20,
+    "events": 34,
+    "open_questions": 20,
+    "research_leads": 39,
+    "unattached_households": 2
+  },
+  "checks": [
+    "duplicate IDs",
+    "recognized person/union/branch/source references",
+    "cycles in person and union parent-child references"
+  ],
+  "issues": [
+    {
+      "type": "duplicate-id",
+      "group": "open_questions",
+      "id": "q_14",
+      "count": 2
+    },
+    {
+      "type": "duplicate-id",
+      "group": "research_leads",
+      "id": "lead_34",
+      "count": 2
+    },
+    {
+      "type": "duplicate-id",
+      "group": "research_leads",
+      "id": "lead_35",
+      "count": 2
+    },
+    {
+      "type": "duplicate-id",
+      "group": "research_leads",
+      "id": "lead_36",
+      "count": 2
+    },
+    {
+      "type": "duplicate-id",
+      "group": "research_leads",
+      "id": "lead_37",
+      "count": 2
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+# Warszawski family tree - UNPUBLISHED developer draft v1.6.0
+
+Shoshy-centered, privately prepared September 25, 2026. This draft has NOT replaced the live tree. The JSON is canonical; XML is a lossless typed export with XSD, plus JSON Schema, GEDCOM 5.5.1, TypeScript types, Mermaid and six CSV tables. There are 32 people, 12 unions, 49 sources and 19 events.
+
+Five original CJN issues inspected establish printed Hersh and Szyman variants, Joe and Lori’s engagement (the wedding date was planned, not proved), Ilana’s birth announcement, and the Zelkind monument notice. The Jewish Veterans memorial gives Larry’s January 3, 2012 death, matching the family 8 Tevet yahrtzeit before sundown. His exact birth date and sibling count remain disputed. Ilene’s exact civil death day remains NULL: the cemetery places Ileen Hersh next to Lawrence, interred May 24, 2009, strongly supporting 2009 against a family ~2008 estimate; May 22 is a derivative death-index date. Bertha’s November 29, 2016 interment supports her death year, not an exact death day. Joe’s full obituary and Bertha’s maiden name remain unknown. A different Shaina Hirsch’s 2020 death notice must not be merged with Gabby.
+
+An unnamed Katz baby girl is included only as a tentative match to a garbled Dec 3, 2025 public announcement; the baby’s name and birth date are unknown. Shimon’s 2020 notice also gives an announcement date, not a proven birth date. The funeral chapel’s location does not establish Joe’s place of death. No child’s birth order is inferred from list order. Two Johannesburg Bacher couples appear only as unattached research notes because their parents were not named.
+
+`SOURCES.md` has the URL ledger. `user_stated`, `public_record`, `family_verified`, and `inference` are separate evidence classes. Do not redistribute living family members' data beyond the family/developer without their permission. No contact details or living-person street addresses are included.

@@ -1,0 +1,2 @@
+# Warszawski-side Jewishdata originals
+Zvi Warszawski Montreal stone (443207) is an UNLINKED namesake, not proved husband of Berta or father of Joe. Benjamin Zelkind (271689) and Wolf Zelkind (377384) stones are unlinked older surname leads. The proven Cleveland edge is Berta, daughter of Mordechi and Elka Zelkind, from the 1997 Cleveland Jewish News monument notice; Joe's father is Szyman/Sam, supported by his obituary and Joe's engagement notice. No scan here establishes a link to Chaikin.

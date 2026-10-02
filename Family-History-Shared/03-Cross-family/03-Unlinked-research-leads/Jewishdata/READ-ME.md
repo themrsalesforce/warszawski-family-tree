@@ -1,0 +1,2 @@
+# Unlinked Jewishdata leads
+These six records have no verified kinship edge to the Chaikin or Warszawski trees. Notik records (1094925, 351371, 897951), Hershkovitz records (1416321, 1028212, 1028213). Do not attach to either family tree without a separate relationship source. This holding area is not evidence that the two families overlap through these people. Historical contact details in the scans are not republished on the sites.

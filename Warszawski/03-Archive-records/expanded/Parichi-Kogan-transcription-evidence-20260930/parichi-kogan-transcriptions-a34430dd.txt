@@ -1,0 +1,128 @@
+
+Parichi
+Bobruisk
+Minsk	KOGAN	Movsha	Yankel'	Head of household	-	M
+48
+-	1853
+died	25
+May
+1858	revision list - petty bourgeois
+192
+206	
+NHABMinsk/333/9/1072
+459v-460
+KOGAN	Girsha	Movsha	Son	-	M
+21
+-	1856
+in an unknown absence / missing person	revision list - petty bourgeois
+192
+206
+KOGAN	Abram	Yankel'	brother	-	M
+41
+-	1853
+died	revision list - petty bourgeois
+192
+206
+KOGAN	Meer	Abram	nephew	-	M
+21
+29	-
+-	revision list - petty bourgeois
+192
+206
+KOGAN	Yevsey	Abram	relative	-	M
+29
+37	-
+-	revision list - petty bourgeois
+192
+206
+KOGAN	Yudka	Yevsey	son of Evsei	-	M
+12
+20	-
+-	revision list - petty bourgeois
+192
+206
+KOGAN	Movsha	Yevsey	son of Evsei	added July 4, 1851. [age corrected in pencil: 10 to 9]	M
+10 / 9
+17	-
+-	revision list - petty bourgeois
+192
+206
+KOGAN	Dovid	Movsha	Son	-	M
+-
+-	1834
+recruited	revision list - petty bourgeois
+192
+-
+KOGAN	Rivka	Giler	wife of Meer	-	F
+-
+28	-
+-	revision list - petty bourgeois
+192
+206
+KOGAN	Khaya	Osher	wife of Evsei	-	F
+-
+34	-
+-	revision list - petty bourgeois
+192
+206
+KOGAN	Liba	Yevsey	daughter of Evsei	-	F
+-
+15	-
+-	revision list - petty bourgeois
+192
+206
+KOGAN	Minya	Yevsey	daughter of Evsei	-	F
+-
+9	-
+-	revision list - petty bourgeois
+192
+206
+KOGAN	Estra	Khaim	wife of Iudko	-	F
+-
+19	-
+-	revision list - petty bourgeois
+192
+-
+KOGAN	Rivka	Yudka	daughter of Iudko	-	F
+-
+1 1/2	-
+-	revision list - petty bourgeois
+192
+-
+
+Parichi
+Bobruisk
+Minsk	KOGAN	Yankel'	Vol'f	head of household		M
+42
+59	
+	13
+August
+1834	Supplemental revision lists
+107
+	
+NHABMinsk/333/9/1070
+289v-290
+KOGAN	Kushel'	Kushel'	grandson		M
+newborn
+2	
+	Supplemental revision lists
+107
+
+
+Parichi
+Bobruisk
+Minsk	KOGAN	Vol'f	Berko	head of household		M
+newborn
+2	
+	13
+August
+1834	Supplemental revision lists
+113
+	
+NHABMinsk/333/9/1070
+290v-291
+BATMIN	Zel'man	Mordukh	relative		M
+newborn
+5	
+	Supplemental revision lists
+113

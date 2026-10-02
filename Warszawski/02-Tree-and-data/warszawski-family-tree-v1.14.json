@@ -1,0 +1,6319 @@
+{
+ "meta": {
+  "title": "The Warszawski Family Tree",
+  "format_version": "1.14.0",
+  "focus_person_id": "per_shoshy",
+  "reviewed_at": "2026-09-27",
+  "package_note": "Working v1.14 (Lane B block-3): Pearl Garson's Petition for Naturalization (Jan 25, 1940, cert 73676, Cable Act) RESOLVES her birthplace - 'born in Cleveland, Ohio on Dec. 1, 1897. My race is Hebrew.' - and carries the book-grade story: Cleveland-born, she lost U.S. citizenship by marrying French-national Victor (1907 Expatriation Act) and petitioned it back in 1940. Victor: U.S. entry New York 1902 (age 7, with-parents part is inference) and naturalization Nov 20, 1934 (cert 2116415). Daughters' exact dates from the petition: Rochelle 5/9/1919, Rosamond 1/6/1926, Ileen 7/30/1933 (FS tree's 1934/1920 logged as data-quality errors). 'Genealogy Karen' public tree corroborates Berta's dates and Joe-as-Szyman's-son (user-contributed, lead-level); Karen flagged as possible relative - outside outreach scope. Herman Garson line ruled SEPARATE (Russian origin); Leo + Bertha from the unlinked queue attributed there. Ellis 1896 'Salomon Garson' ruled out; variant search queued.",
+  "generated_at": "2026-09-27T20:15:00-04:00"
+ },
+ "statistics": {
+  "persons": 39,
+  "generations": 6,
+  "sources": 75,
+  "events": 24
+ },
+ "sources": [
+  {
+   "id": "s_user",
+   "type": "user_statement",
+   "title": "Family account - Warszawski family list",
+   "url": null,
+   "publisher": null,
+   "author": null,
+   "date": "2026-09-24",
+   "description": "Parents Joe Warszawski and Lori (Leah) Hirsch and their children's households, listed 'not in any particular order'."
+  },
+  {
+   "id": "s_user2",
+   "type": "user_statement",
+   "title": "Family account - correction",
+   "url": null,
+   "publisher": null,
+   "author": null,
+   "date": "2026-09-24",
+   "description": "Only one Yechiel; adds Maimi and Dovid Inglis."
+  },
+  {
+   "id": "s_user_kids",
+   "type": "user_statement",
+   "title": "Family account - Shoshy and Shmuel's household",
+   "url": null,
+   "publisher": null,
+   "author": null,
+   "date": "2026-09-24",
+   "description": "Shmuel and Shoshy's children Ella, Abie and Mika."
+  },
+  {
+   "id": "s_user3",
+   "type": "user_statement",
+   "title": "Family account - Joe and Lori",
+   "url": null,
+   "publisher": null,
+   "author": null,
+   "date": "2026-09-24",
+   "description": "Joe and Lori lived in Cleveland; Joe passed away about ten years ago; Joe's mother was Bertha."
+  },
+  {
+   "id": "s_user4",
+   "type": "user_statement",
+   "title": "Family account - Joe's date of passing",
+   "url": null,
+   "publisher": null,
+   "author": null,
+   "date": "2026-09-24",
+   "description": "The family confirmed Joe passed away on February 18, matching the Heights High memorial page."
+  },
+  {
+   "id": "s_user5",
+   "type": "user_statement",
+   "title": "Family account - Shoshy (Lori's parents)",
+   "url": null,
+   "publisher": null,
+   "author": null,
+   "date": "2026-09-24",
+   "description": "Shoshy: Lori's father was Zeidy Larry, Hebrew name Aryeh Leib; her mother was Bubby Gabby, Hebrew name Shaina Yuda."
+  },
+  {
+   "id": "s_heights1978",
+   "type": "announcement",
+   "title": "In Memory: Joseph Sam Warszawski - Cleveland Heights High School class of 1978",
+   "url": "https://www.heights1978.com/class_profile.cfm?member_id=9607418",
+   "publisher": "Heights High Class of 1978 site",
+   "author": null,
+   "date": null,
+   "description": "Memorial listing: 'Joseph Warszawski, October 19, 1959 - February 18, 2017', arrangements by Berkowitz-Kumin-Bookatz Memorial Chapel, Cleveland Heights, OH."
+  },
+  {
+   "id": "s_ci_chaikin",
+   "type": "announcement",
+   "title": "ChabadInfo Mazal Tov archive: Shmuly Chaikin - Shoshy Warszawski",
+   "url": "https://chabadinfo.com/mazal-tov/page/92/",
+   "publisher": "ChabadInfo",
+   "author": null,
+   "date": null,
+   "description": "Engagement listing: 'Shmuly Chaikin from Johannesburg, South Africa to Shoshy Warszawski from Cleveland, Ohio'. The archive page shows no date, and archive page numbers shift as new items are added."
+  },
+  {
+   "id": "s_col_andrusier",
+   "type": "announcement",
+   "title": "L'Chaim: Andrusier - Warszaski",
+   "url": "https://collive.com/lchaim-andrusier-warszaski/",
+   "publisher": "COLlive",
+   "author": null,
+   "date": "2013-10-09",
+   "description": "L'Chaim of Shmuly Andrusier of Crown Heights and Aliyah Warszaski of Cleveland, OH at Beis Levi Yitzchak shul, Crown Heights."
+  },
+  {
+   "id": "s_col_chayempour",
+   "type": "announcement",
+   "title": "L'Chaim: Warszawski - Chayempour",
+   "url": "https://collive.com/lchaim-warszawski-chayempour/",
+   "publisher": "COLlive",
+   "author": null,
+   "date": "2019-01-23",
+   "description": "L'Chaim of Shimon Warszawski of Cleveland, Ohio and Mushkie Chayempour of Toronto, Canada at Lubavitch Yeshiva Hall, Crown Heights."
+  },
+  {
+   "id": "s_chi_baby2020",
+   "type": "announcement",
+   "title": "Baby Girl! - Shimon and Mushkie (nee Chayempour) Warszawski",
+   "url": "https://crownheights.info/mazal_tov/baby-girl-1653/",
+   "publisher": "CrownHeights.info",
+   "author": null,
+   "date": "2020-01-20",
+   "description": "Birth announcement, family listed as Crown Heights. The baby's name is not given."
+  },
+  {
+   "id": "s_chi_hirsch_eng",
+   "type": "announcement",
+   "title": "New Engagement! - Daniel Hirsch to Dassi Warszwaski",
+   "url": "https://crownheights.info/mazal_tov/new-engagement-2768/",
+   "publisher": "CrownHeights.info",
+   "author": null,
+   "date": "2022-11-06",
+   "description": "Daniel Hirsch (Coral Springs, FL) to Dassi Warszwaski (Cleveland, OH). L'Chaim that night, Sunday, at Machon Chana."
+  },
+  {
+   "id": "s_anash_hirsch_lc",
+   "type": "announcement",
+   "title": "L'Chaim: Hirsch - Warszawski",
+   "url": "https://anash.org/lchaim-hirsch-warszawski/",
+   "publisher": "Anash.org",
+   "author": null,
+   "date": "2022-11-09",
+   "description": "L'Chaim of Donni Hirsch of Coral Springs, Florida and Dassi Warszawski of Cleveland, Ohio, Sunday night at Ulam Chana Hall."
+  },
+  {
+   "id": "s_col_hirsch_lc",
+   "type": "announcement",
+   "title": "L'Chaim: Hirsch - Warszawski",
+   "url": "https://collive.com/lchaim-hirsch-warszawski/",
+   "publisher": "COLlive",
+   "author": null,
+   "date": "2022-11-10",
+   "description": "Same L'Chaim, at Ulam Chana Hall in Crown Heights."
+  },
+  {
+   "id": "s_anash_hirsch_wed",
+   "type": "announcement",
+   "title": "Wedding: Hirsch - Warszwaski",
+   "url": "https://anash.org/wedding-hirsch-warszwaski/",
+   "publisher": "Anash.org",
+   "author": null,
+   "date": "2023-02-03",
+   "description": "Wedding of Daniel Hirsch of Coral Springs, FL and Dassi Warszwaski of Cleveland, OH, 'Thursday night' at Oholei Torah Ballroom."
+  },
+  {
+   "id": "s_col_katz_eng",
+   "type": "announcement",
+   "title": "New Engagement: Dovi Katz - Chaya Warszawski",
+   "url": "https://collive.com/mazel-tov/dovi-katz-crown-heights-to-chaya-warszawski-cleveland-ohio/",
+   "publisher": "COLlive",
+   "author": null,
+   "date": "2023-01-10",
+   "description": "Dovi Katz (Crown Heights) to Chaya Warszawski (Cleveland, Ohio). L'Chaim 'tonight (Tues.)' at Lubavitch Yeshiva. Posted January 10, 2023 - 17 Tevet 5783."
+  },
+  {
+   "id": "s_anash_katz_lc",
+   "type": "announcement",
+   "title": "L'Chaim: Katz - Warszawski",
+   "url": "https://anash.org/lchaim-katz-warszawski/",
+   "publisher": "Anash.org",
+   "author": null,
+   "date": "2023-01-12",
+   "description": "L'Chaim Tuesday night at Lubavitch Yeshiva."
+  },
+  {
+   "id": "s_col_katz_lc",
+   "type": "announcement",
+   "title": "L'Chaim: Katz - Warszawski",
+   "url": "https://collive.com/lchaim-katz-warszawski/",
+   "publisher": "COLlive",
+   "author": null,
+   "date": "2023-01-11",
+   "description": "L'Chaim at Lubavitch Yeshiva Hall, Crown Heights."
+  },
+  {
+   "id": "s_anash_katz_wed",
+   "type": "announcement",
+   "title": "Wedding: Katz - Warszawski",
+   "url": "https://anash.org/wedding-katz-warszawski/",
+   "publisher": "Anash.org",
+   "author": null,
+   "date": "2023-03-14",
+   "description": "Wedding of Dovi Katz of Crown Heights and Chaya Warszawski of Cleveland, Ohio, 'Sunday night' at Oholei Torah."
+  },
+  {
+   "id": "s_ci_inglis",
+   "type": "announcement",
+   "title": "ChabadInfo Mazal Tov archive: Dovid Englis - Maimi Warszawski",
+   "url": "https://chabadinfo.com/mazal-tov/page/42/",
+   "publisher": "ChabadInfo",
+   "author": null,
+   "date": null,
+   "description": "Engagement listing: 'Dovid Englis - London, England to Maimi Warszawski - Crown Heights'. Spelled Englis there; Shmuel spells it Inglis. No date on the archive page, and page numbers shift over time."
+  },
+  {
+   "id": "s_collive_chaikin_eng",
+   "type": "announcement",
+   "title": "Shoshy Warszawski & Shmuly Chaikin - engagement",
+   "url": "https://collive.com/mazel-tov/page/487/",
+   "publisher": "COLlive",
+   "author": null,
+   "date": "2014-08-22",
+   "description": "COLlive archive listing dated Aug 22, 2014 (26 Av 5774): Shmuly Chaikin, Johannesburg, and Shoshy Warszawski, Cleveland. Archive page number may shift."
+  },
+  {
+   "id": "s_collive_inglis_eng",
+   "type": "announcement",
+   "title": "Dovid Inglis & Maimi Warszawski - engagement",
+   "url": "https://collive.com/mazel-tov/page/292/",
+   "publisher": "COLlive",
+   "author": null,
+   "date": "2018-12-28",
+   "description": "COLlive archive listing dated Dec 28, 2018 (20 Tevet 5779); Dovid Inglis of London to Maimi Warszawski of Crown Heights. ChabadInfo spells his surname Englis; both are retained."
+  },
+  {
+   "id": "s_collive_shimon_eng",
+   "type": "announcement",
+   "title": "Shimon Warszawski & Mushky Chayempour - engagement",
+   "url": "https://collive.com/mazel-tov/page/290/",
+   "publisher": "COLlive",
+   "author": null,
+   "date": "2019-01-12",
+   "description": "COLlive archive listing dated Jan 12, 2019; Shimon Warszawski of Cleveland and Mushky Chayempour of Toronto."
+  },
+  {
+   "id": "s_chi_katz_baby",
+   "type": "announcement",
+   "title": "Baby Girl! - Dovi and Chaya Katz",
+   "url": "https://crownheights.info/mazal_tov/baby-girl-2056/",
+   "publisher": "CrownHeights.info",
+   "author": null,
+   "date": "2025-12-03",
+   "description": "Baby girl announcement of Dovi and Chaya Katz, December 3, 2025; page rendering is garbled and identity match is very likely but not certain. Name not published."
+  },
+  {
+   "id": "s_cjn_archive",
+   "type": "announcement",
+   "title": "Cleveland Jewish News digital archive access",
+   "url": "https://clevelandjewishhistory.net/res/cjn-archive.htm",
+   "publisher": "CrownHeights.info",
+   "author": null,
+   "date": null,
+   "description": "Late-February 2017 issues are a lead for Joe’s full notice, parents and survivors; archive needs library-card or paid access; no obituary verified there."
+  },
+  {
+   "id": "s_shaina_other",
+   "type": "announcement",
+   "title": "Another Shaina Hirsch - do not merge",
+   "url": "https://vinnews.com/2020/10/25/mrs-shaina-hirsch-%d7%a2%d7%94-%d7%a9%d7%99%d7%99%d7%a0%d7%94-%d7%9e%d7%9c%d7%9b%d7%94-%d7%91%d7%aa-%d7%97%d7%99%d7%99%d7%9d-%d7%99%d7%97%d7%99%d7%90%d7%9c/",
+   "publisher": "CrownHeights.info",
+   "author": null,
+   "date": null,
+   "description": "A different Mrs. Shaina Hirsch died Oct 2020; listed children do not include Lori. Do not equate with Shaina Yuda \"Gabby\". Not a member of this tree."
+  },
+  {
+   "id": "s_chi_marinovsky_partial",
+   "type": "announcement",
+   "title": "Houston community mentions Ilana Marinovsky",
+   "url": "https://jhvonline.com/giborah-event-provides-support-for-perinatal-mental-health-p34161-153.htm",
+   "publisher": "CrownHeights.info",
+   "author": null,
+   "date": null,
+   "description": "Partial name match only; no proof it is the same Ilana or that she married Shmaya Marinovsky."
+  },
+  {
+   "id": "s_bacher_teleshevsky",
+   "type": "announcement",
+   "title": "Yosef Yitzchak Bacher - Moushkie Teleshevsky engagement",
+   "url": "https://collive.com/mazel-tov/new-engagement-206-2/",
+   "publisher": "COLlive",
+   "author": null,
+   "date": "2014-06-10",
+   "description": "Johannesburg Bacher and Melbourne Teleshevsky engagement; parents not named."
+  },
+  {
+   "id": "s_bacher_kugel",
+   "type": "announcement",
+   "title": "Efraim Bacher - Sara Kugel L’Chaim",
+   "url": "https://collive.com/lchaim-bacher-kugel/",
+   "publisher": "COLlive",
+   "author": null,
+   "date": "2025-01-29",
+   "description": "Johannesburg Bacher and Sara Kugel engagement; parents not named."
+  },
+  {
+   "id": "s_family_knowledge",
+   "type": "user_statement",
+   "title": "Family knowledge",
+   "url": null,
+   "publisher": null,
+   "author": null,
+   "date": null,
+   "description": "Family knowledge; individual conversations and private exports are not cited. Uncertain details are marked."
+  },
+  {
+   "id": "s_cjn_1995_szyman",
+   "type": "announcement",
+   "title": "Szyman Warszawski obituary",
+   "url": "https://now.dirxion.com/Cleveland_Jewish_News/viewer/web/viewer.html?file=../../library/Cleveland_Jewish_News_1964-2009%2FCleveland_Jewish_News_08_18_1995.pdf#page=36",
+   "publisher": "Cleveland Jewish News",
+   "author": null,
+   "date": "1995-08-18",
+   "description": "Printed obituary, page 36. Szyman died July 18, 1995; owned Mayflower Tailoring Co. at Cedar-Center for 25 years; born Poland, lived Russia during WWII, immigrated Cleveland 1962; wife Berta, son Joseph, brother Benyamin, five grandchildren."
+  },
+  {
+   "id": "s_cjn_1986_hersh",
+   "type": "announcement",
+   "title": "Hersh-Warszawski engagement",
+   "url": "https://now.dirxion.com/Cleveland_Jewish_News/viewer/web/viewer.html?file=../../library/Cleveland_Jewish_News_1964-2009%2FCleveland_Jewish_News_08_29_1986.pdf#page=24",
+   "publisher": "Cleveland Jewish News",
+   "author": null,
+   "date": "1986-08-29",
+   "description": "Printed announcement, page 24. Laurel Ruth Hersh, daughter of Mr. and Mrs. Lawrence Hersh, engaged to Joseph Warszawski, son of Mr. and Mrs. Sam Warszawski; Laurel graduated Ursuline College and was RN at Rainbow Babies and Children’s Hospital; Joseph attended Cleveland State and was technical adviser at ProSearch of Medina. July 1987 wedding was planned, not established."
+  },
+  {
+   "id": "s_cjn_1988_ilana",
+   "type": "announcement",
+   "title": "Daughter to Warszawskis birth announcement",
+   "url": "https://now.dirxion.com/Cleveland_Jewish_News/viewer/web/viewer.html?file=../../library/Cleveland_Jewish_News_1964-2009%2FCleveland_Jewish_News_08_26_1988.pdf#page=37",
+   "publisher": "Cleveland Jewish News",
+   "author": null,
+   "date": "1988-08-26",
+   "description": "Printed announcement, page 37. Joseph and Laurel Warszawski announce Ilana Chava, born June 4; grandparents Szymon and Berta Warszawski and Lawrence and Ilene Hersh; Mr. and Mrs. Mordechai Zelkind named great-grandparents."
+  },
+  {
+   "id": "s_cjn_1997_zelkind",
+   "type": "announcement",
+   "title": "Mordechi Zelkind monument unveiling",
+   "url": "https://now.dirxion.com/Cleveland_Jewish_News/viewer/web/viewer.html?file=../../library/Cleveland_Jewish_News_1964-2009%2FCleveland_Jewish_News_09_05_1997.pdf#page=45",
+   "publisher": "Cleveland Jewish News",
+   "author": null,
+   "date": "1997-09-05",
+   "description": "Printed notice, page 45. Mordechi Zelkind, husband of Elka, father of Berta, Gala, Tzila, Masha; grandchildren Joseph, Boris, Ina, Dima. Unveiling Sept. 7, not date of death."
+  },
+  {
+   "id": "s_cjn_1972_joe_bar",
+   "type": "announcement",
+   "title": "Joseph Warszawski bar mitzvah announcement",
+   "url": "https://now.dirxion.com/Cleveland_Jewish_News/library/Cleveland_Jewish_News_1964-2009/Cleveland_Jewish_News_10_13_1972.pdf#page=15",
+   "publisher": "Cleveland Jewish News",
+   "author": null,
+   "date": "1972-10-13",
+   "description": "Page 15 names Joseph as son of Mr. and Mrs. Szyman Warszawski and announces a ceremony tomorrow morning at Sinai Synagogue (Saturday Oct. 14, 1972). Period street address intentionally omitted."
+  },
+  {
+   "id": "s_cjn_1972_larry_activism",
+   "type": "announcement",
+   "title": "Jewish Survival Legion leader Larry Hersh",
+   "url": "https://now.dirxion.com/Cleveland_Jewish_News/library/Cleveland_Jewish_News_1964-2009/Cleveland_Jewish_News_10_13_1972.pdf#page=2",
+   "publisher": "Cleveland Jewish News",
+   "author": null,
+   "date": "1972-10-13",
+   "description": "Page 2 names Larry Hersh as Cleveland leader and national board member of Jewish Survival Legion, former local Jewish Defense League coordinator, in article on Soviet emigration tax. Not evidence of profession or full views."
+  },
+  {
+   "id": "s_fortunoff_larry_h",
+   "type": "announcement",
+   "title": "Larry H. Holocaust testimony (HVT-341) - catalog synopsis",
+   "url": "https://collections.ushmm.org/search/catalog/hvt4293582",
+   "publisher": "Fortunoff Video Archive / Yale University Library",
+   "author": "Peggy Nathan (interviewer)",
+   "date": "1984-08-13",
+   "description": "Catalog synopsis of 2h31m videotape, not transcript or viewed testimony. Born Khust, oldest of five children; detailed wartime and postwar chronology; three daughters. Identical interviewer and date to separately cataloged USHMM Larry Hersh interview. Family seven-siblings account conflicts."
+  },
+  {
+   "id": "s_jvn_larry_memorial",
+   "type": "announcement",
+   "title": "Larry Hersh - Wall of Heroes memorial",
+   "url": "https://jewishveterans.org/heroes",
+   "publisher": "Jewish Veterans Network",
+   "author": null,
+   "date": null,
+   "description": "Memorial prints Ari Leibi Hershkiwitz (June 1, 1925 - January 3, 2012), Khust/Chus origin, Irgun and Altalena. 1925 birth conflicts with Larry’s age twenty in his 2008 interview about June 1948. January 3, 2012 matches 8 Tevet 5772 before sundown; death time unknown."
+  },
+  {
+   "id": "s_familysearch_larry_nat_1961",
+   "type": "document",
+   "title": "Arie Lawrence Hersh - Cuyahoga naturalization card",
+   "url": "https://www.familysearch.org/ark:/61903/3:1:3QSQ-G99D-3LFJ?view=index&personArk=%2Fark%3A%2F61903%2F1%3A1%3AK8HM-VF6&action=view&cc=1987615&lang=en",
+   "publisher": "FamilySearch / U.S. District Court, Cleveland",
+   "author": null,
+   "date": "1961-08-11",
+   "description": "Original card image inspected and reading CONFIRMED (Lane B, Sept 27, 2026): 'NAME: ARIE - LAWRENCE - HERSH; SUBJECT OF: ISRAEL; date nat 8/11/61; born 6/1/25; Remarks: Name changed as part of nat. from: ARIE - LARRY - HERSH KOVITZ'; signed Arie Lawrence Hersh. Office no. 201619; certificate no. 8195469; naturalized August 11, 1961, U.S. District Court, Cleveland. 'Subject of: Israel' shows Israeli citizenship at naturalization - the via-Israel route is inference-level. The underlying petition and birth record remain unchecked."
+  },
+  {
+   "id": "s_numident_szymon_index",
+   "type": "document",
+   "title": "Szymon Warszavski - Social Security NUMIDENT index",
+   "url": "https://www.familysearch.org/ark:/61903/1:1:6K33-WH43",
+   "publisher": "FamilySearch / U.S. Social Security Administration",
+   "author": null,
+   "date": null,
+   "description": "Indexed NUMIDENT extraction displayed on authenticated FamilySearch page; no underlying SS-5 image available. Gives birth April 1, 1918 in Warsaw, Poland; June 1963 social program application; Cleveland; death July 18, 1995; parents indexed as Joseph Warszavski and Rochel Goldberg. Same death date as original 1995 obituary supports identity. Parent spellings and birth details require original SS-5 or other independent record."
+  },
+  {
+   "id": "s_numident_elka_index",
+   "type": "document",
+   "title": "Elka Kagan Zelkind - Social Security NUMIDENT index",
+   "url": "https://www.familysearch.org/ark:/61903/1:1:6K3K-RD5Q?lang=en",
+   "publisher": "FamilySearch / U.S. Social Security Administration",
+   "author": null,
+   "date": null,
+   "description": "Authenticated indexed page screenshot inspected; no original SS-5 image. Elka Kagan Zelkind (alias Elka Kagan Kaga), birth November 12, 1913 in indexed \"Bubruysk, Soviet Union\" (the Soviet Union label is anachronistic for 1913), April 29, 1981 application, Cleveland, death March 14, 2005. Indexed parents Isac Kaga and Tsilya Gershon. Ohio death index gives paternal surname Kogan; Kaga/Kagan/Kogan are unverified variants, not merged into a legal maiden name."
+  },
+  {
+   "id": "s_zion_cemetery_register_2026",
+   "type": "document",
+   "title": "Zion Memorial Park burial register - Warszawski and Zelkind surname results",
+   "url": "https://m.zionmemorialpark.com/searchlname.php",
+   "publisher": "Zion Memorial Park, Bedford Heights, Ohio",
+   "author": null,
+   "date": null,
+   "description": "Cemetery-operated last-name search inspected September 25, 2026. Warszawski: BERTHA interred Nov 29, 2016, Z6 row 1 grave 58. Zelkind: ELKA interred March 16, 2005, Z6 row 4 grave 110; MORDUKH interred Sept 25, 1996, Z6 row 6 grave 110; GAIL interred Feb 1, 2013, Z6 row 4 grave 111. Interment dates, not death dates; cemetery cautions typos/human error. Cemetery alone does not prove Gail’s kinship; Mordukh’s separate 1996 original notice identifies her as his daughter. Hersh search: ILEEN interred May 24, 2009, Z3 row 1 grave 34; LAWRENCE interred Jan 3, 2012, Z3 row 1 grave 35; duplicate Jan 5 RESERVE line at same grave is not a separate burial."
+  },
+  {
+   "id": "s_billiongraves_berta_stone",
+   "type": "photo",
+   "title": "Berta Warszawski headstone, Zion Memorial Park",
+   "url": "https://billiongraves.com/grave/Berta-Warszawski/35751968",
+   "publisher": "BillionGraves / Zion Memorial Park",
+   "author": null,
+   "date": null,
+   "description": "Headstone photo and record page inspected September 25, 2026. Stone visibly reads Berta Warszawski, May 15, 1935 - Nov 28, 2016. Burial register lists Nov 29 interment. Hebrew inscription not fully transcribed from low-resolution image. Stone civil date conflicts with family yahrtzeit 26 Cheshvan (corresponding to Nov 27 daytime in 5777); keep both and seek death record or clearer stone photo."
+  },
+  {
+   "id": "s_billiongraves_elka_stone",
+   "type": "photo",
+   "title": "Elka Zelkind headstone portrait and date range",
+   "url": "https://billiongraves.com/grave/Elka-Zelkino/35589565",
+   "publisher": "BillionGraves / Zion Memorial Park",
+   "author": null,
+   "date": null,
+   "description": "Page index misrenders surname Zelkino; screenshot of stone appears to read ELKA ZELKIND and carries her portrait. Stone gives 1914-2005, conflicting with NUMIDENT derivative Nov 12, 1913 birth. Further close-up reading needed before exact Hebrew/dates; correlation to cemetery Elka record remains strong but not conclusive."
+  },
+  {
+   "id": "s_billiongraves_gail_stone",
+   "type": "photo",
+   "title": "Gail Zelkind headstone dates",
+   "url": "https://billiongraves.com/grave/Gail-Zelkind/35646138",
+   "publisher": "BillionGraves / Zion Memorial Park",
+   "author": null,
+   "date": null,
+   "description": "Screenshot of stone reads GAIL ZELKIND July 25, 1942 - Feb 28, 2013. Cemetery register lists Gail interred Feb 1, 2013, chronologically impossible if stone date is correct. Mordukh’s 1996 original notice separately calls Gail his daughter; whether Gail is CJN’s Gala remains unproven."
+  },
+  {
+   "id": "s_billiongraves_mordukh_stone",
+   "type": "photo",
+   "title": "Mordukh Zelkind headstone portrait and date range",
+   "url": "https://billiongraves.com/grave/Mordukh-Zelkind/35635476",
+   "publisher": "BillionGraves / Zion Memorial Park",
+   "author": null,
+   "date": null,
+   "description": "Page and screenshot inspected September 25, 2026: gravestone with portrait, MORDUKH ZELKIND, 1912-1996. Site offers paid high-resolution photo; no payment made. Cemetery register lists Sept 25, 1996 interment, not death date."
+  },
+  {
+   "id": "s_jd_zvi_warszawski",
+   "type": "photo",
+   "title": "Zvi Warszawski headstone, Jewishdata item 443207",
+   "url": null,
+   "publisher": "JewishData",
+   "author": null,
+   "date": null,
+   "description": "Montreal stone reads Zvi Warszawski, April 5, 1926-June 3, 1976, beloved husband and father. No names of spouse or children; identity not established as connected to Cleveland Warszawski line."
+  },
+  {
+   "id": "s_jd_benjamin_zelkind",
+   "type": "photo",
+   "title": "Benjamin Zelkind headstone, Jewishdata item 271689",
+   "url": null,
+   "publisher": "JewishData",
+   "author": null,
+   "date": null,
+   "description": "New York stone reads Benjamin Zelkind, died Jan. 28, 1961 at age 60. No relationship to Berta/Mordechi/Elka demonstrated."
+  },
+  {
+   "id": "s_jd_wolf_zelkind",
+   "type": "photo",
+   "title": "Wolf Zelkind headstone, Jewishdata item 377384",
+   "url": null,
+   "publisher": "JewishData",
+   "author": null,
+   "date": null,
+   "description": "Brooklyn stone reads Wolf Zelkind, October 1921 death at age 56; no relationship to Cleveland Zelkind line demonstrated."
+  },
+  {
+   "id": "s_pd_1996_mordukh",
+   "type": "announcement",
+   "title": "Mordukh Zelkind death notice, The Plain Dealer, Sept. 25, 1996, p. B8",
+   "url": "https://cpl.org/newsindex/showrecord/?record=612316&type=news",
+   "publisher": "The Plain Dealer via Cleveland Public Library News Index",
+   "author": null,
+   "date": "1996-09-25",
+   "description": "Original newspaper clipping inspected. Calls Mordukh husband of Elka (nee Kogen), father of Bertha Warshawsky, Gail Zelkind, Maria Komisarchik and Celya Elin. Joseph Warshawsky is a grandson. Services and interment announced Sept. 25; this is not proof of date of death. A historical residence and funeral address are omitted. Warshawsky is the notice spelling, not a replacement for the family Warszawski spelling. Compare 1997 CJN Berta/Gala/Tzila/Masha, not all independently reconciled."
+  },
+  {
+   "id": "s_pd_2009_ileen",
+   "type": "announcement",
+   "title": "Ileen Hersh death notice, The Plain Dealer, May 23, 2009, p. B4",
+   "url": "https://cpl.org/newsindex/showrecord/?record=429063&type=news",
+   "publisher": "The Plain Dealer via Cleveland Public Library News Index",
+   "author": null,
+   "date": "2009-05-23",
+   "description": "Original clipping inspected. Ileen (nee Garson) is Lawrence’s wife. Lists Suzanne Greenberg, Seth, Laurel Warszawski, Joseph and Marci Hersh in child/spouse sequence; punctuation does not safely assign every pairing. Grandchildren list includes Shoshana; historical address and phone omitted. Services announced May 24, 2009, not date of death. Printed Laurel does not alone prove Lori alias."
+  },
+  {
+   "id": "s_jowbr_sam_warszawski",
+   "type": "document",
+   "title": "JOWBR burial record: Sam Warszawski (J_OH_0059293)",
+   "url": "https://www.jewishgen.org/databases/cemetery/jowbr.php?rec=J_OH_0059293",
+   "publisher": "JewishGen Online Worldwide Burial Registry",
+   "author": null,
+   "date": null,
+   "description": "Burial 19-Jul-1995, Plot 6-6-111, Zion Memorial Park Cemetery, Bedford OH."
+  },
+  {
+   "id": "s_jowbr_mordukh_zelkind",
+   "type": "document",
+   "title": "JOWBR burial record: Mordukh Zelkind (J_OH_0059681)",
+   "url": "https://www.jewishgen.org/databases/cemetery/jowbr.php?rec=J_OH_0059681",
+   "publisher": "JewishGen Online Worldwide Burial Registry",
+   "author": null,
+   "date": null,
+   "description": "Burial 25-Sep-1996, Plot 6-6-110 - adjacent to Sam Warszawski (6-6-111)."
+  },
+  {
+   "id": "s_jowbr_elka_zelkind",
+   "type": "document",
+   "title": "JOWBR burial record: Elka Zelkind (J_OH_0059679)",
+   "url": "https://www.jewishgen.org/databases/cemetery/jowbr.php?rec=J_OH_0059679",
+   "publisher": "JewishGen Online Worldwide Burial Registry",
+   "author": null,
+   "date": null,
+   "description": "Burial 16-Mar-2005, Plot 6-4-110, Zion Memorial Park Cemetery."
+  },
+  {
+   "id": "s_jowbr_gail_zelkind",
+   "type": "document",
+   "title": "JOWBR burial record: Gail Zelkind (J_OH_0059680)",
+   "url": "https://www.jewishgen.org/databases/cemetery/jowbr.php?rec=J_OH_0059680",
+   "publisher": "JewishGen Online Worldwide Burial Registry",
+   "author": null,
+   "date": null,
+   "description": "Died 31-Jan-2013, Plot 6-4-111, Zion Memorial Park Cemetery."
+  },
+  {
+   "id": "s_fag_joe_stone",
+   "type": "public_record",
+   "title": "FindAGrave memorial 273775046 - Joseph Warszawski headstone, Zion Memorial Park",
+   "url": null,
+   "publisher": "FindAGrave",
+   "author": null,
+   "date": "2026-09-27",
+   "description": "Photographed headstone: 'Joseph Warszawski / Yosef (Yitzchak) ben Shimon z\"l / Oct. 19, 1959 - Feb. 18, 2017 / niftar 22 Shevat 5777 / Beloved Husband, Father, Grandfather'. GPS 41.4108167,-81.5229417. Original photo archived in the private Drive archive. NOTE: the cemetery's own online register has NO entry for him - register gap."
+  },
+  {
+   "id": "s_fag_szyman_stone",
+   "type": "public_record",
+   "title": "FindAGrave memorial 273716163 - Szyman Warszawski headstone",
+   "url": null,
+   "publisher": "FindAGrave",
+   "author": null,
+   "date": "2026-09-27",
+   "description": "Photographed headstone: 'Beloved Husband, Father - Grandfather / SZYMAN WARSZAWSKI / Shimon ben Zisl / 1918-1995'. The Hebrew patronymic names his father as Zisl, which CONFLICTS with the NUMIDENT index parents (Joseph Warszavski and Rochel Goldberg); both kept visible. Original photo archived in the private Drive archive."
+  },
+  {
+   "id": "s_fag_berta_stone",
+   "type": "public_record",
+   "title": "FindAGrave memorial 273776627 - Berta Warszawski headstone",
+   "url": null,
+   "publisher": "FindAGrave",
+   "author": null,
+   "date": "2026-09-27",
+   "description": "Photographed headstone: 'Bila bat Mordechai z\"l / May 15, 1935 - Nov. 28, 2016 / niftera 27 Cheshvan 5777 / Beloved Mother, Grandmother, Great Grandmother, Sister'. The stone's own civil and Hebrew dates agree (Nov 28, 2016 = 27 Cheshvan 5777); the family-recalled 26 Cheshvan differs by one day. Hebrew independently confirms father Mordechai. Original photo archived in the private Drive archive."
+  },
+  {
+   "id": "s_jowbr_gerson_metz",
+   "type": "document",
+   "title": "JOWBR burial records: Metz-Chambiere cemetery - GERSON Aron (1841-1924) and LEVY Caroline GERSON (c.1845-1909)",
+   "url": "https://www.jewishgen.org/databases/cemetery/jowbr.php",
+   "publisher": "JewishGen JOWBR",
+   "author": null,
+   "date": null,
+   "description": "Third corroborating source for the 1865 Metz marriage couple Aron GARSON x Caroline LEVY: burials at Metz-Chambiere under the GERSON spelling. Garson/Gerson spelling conflict kept visible. Same French pull: GARSON Rene (1912-1984, Rueil-Malmaison), Lune (1883-1965) + Ernest (1920-1973, Sarcelles), Julie (1914-1997, Pantin), Gaston DAHAN (1904-1998, Bagneux); and GUERCHEN 'Abraham GERSHON/LION' (d. 1855, Hellimer, son of Eliyahu) - possible earlier generation, INFERENCE unverified."
+  },
+  {
+   "id": "s_yadvashem_pot_arie",
+   "type": "document",
+   "title": "Yad Vashem Pages of Testimony sweep: 'Arie Hershkowitz' (8 murdered, Carpathian Ruthenia)",
+   "url": "https://www.yadvashem.org/remembrance/archive/search",
+   "publisher": "Yad Vashem",
+   "author": null,
+   "date": null,
+   "description": "8 murdered Pages of Testimony, all Carpathian Ruthenia towns within ~60 km of Munkacs/Uzhhorod (Mukaczewo, Zbudske Dlhe, Osoj, Csop, Tegenye, Wonihowa, Dibova/Tacovo ghetto). None matches Larry b. 1925. Survivor records in the sweep: Henri Arie HERSCOVICI (b. 02/02/1931 Paris, hidden child at Illiers, liberated 1945, later Israel) - UNVERIFIED possible cousin line; Arie VISMAN (survived, father Gedali Leib), same region."
+  },
+  {
+   "id": "s_ellis_island_garson",
+   "type": "document",
+   "title": "Ellis Island manifest search: exact spelling 'Garson' 1892-1924 (133 records, queued)",
+   "url": "https://www.statueofliberty.org/ellis-island/",
+   "publisher": "Statue of Liberty - Ellis Island Foundation",
+   "author": null,
+   "date": null,
+   "description": "133 exact-spelling 'Garson' manifests 1892-1924 queued for extraction; first names in the set include Eisik, Hersch, Frendel, Gita Sara, Basche, Braine. The Victor/Pearl/Leo Cleveland generation should be in this set. NOT yet extracted - no person-level facts drawn."
+  },
+  {
+   "id": "s_fs_victor_declaration",
+   "type": "document",
+   "title": "Victor Garson - Declaration of Intention, N.D. Ohio No. 28845",
+   "url": "https://www.familysearch.org/ark:/61903/1:1:62GF-FGTJ",
+   "publisher": "FamilySearch / U.S. District Court, Northern District of Ohio",
+   "author": null,
+   "date": "1919-09-18",
+   "description": "Original image inspected (https://www.familysearch.org/ark:/61903/3:1:3Q9M-C39P-8STY-P). Sworn September 18, 1919: born Paris, France, May 30, 1895; occupation bookkeeper; Cleveland residence (street address in the private Drive note); last foreign residence 'Pairs, France' - the clerk's misspelling of PARIS (an earlier 'Metz' reading was retracted on high-zoom re-inspection); emigrated from Le Havre, vessel unknown; wife Pearl born in Cleveland; renounces allegiance to the French Republic."
+  },
+  {
+   "id": "s_ohio_marriage_victor_pearl",
+   "type": "document",
+   "title": "Ohio County Marriages - Victor Garson x Pearl Adelstein, Cuyahoga County",
+   "url": null,
+   "publisher": "Ohio County Marriages (via FamilySearch)",
+   "author": null,
+   "date": "1916-09-12",
+   "description": "Marriage of Victor Garson and Pearl Adelstein, September 12, 1916, Cuyahoga County. Groom's parents recorded as SOLOMON and RACHAEL Garson."
+  },
+  {
+   "id": "s_pearl_obit_1973",
+   "type": "news",
+   "title": "Pearl Garson obituary, Cleveland (March 1973)",
+   "url": null,
+   "publisher": "Cleveland newspaper obituary (per Lane B)",
+   "author": null,
+   "date": "1973-03",
+   "description": "Pearl Garson, born December 1, 1897, died March 3, 1973 in Cleveland Heights. Children listed: Rosamond Simon, Ileen Hersh, Rochelle Horwich."
+  },
+  {
+   "id": "s_ileen_obit_2009",
+   "type": "news",
+   "title": "Ileen G. Hersh obituary (May 2009)",
+   "url": null,
+   "publisher": "Cleveland newspaper obituary (per Lane B)",
+   "author": null,
+   "date": "2009-05",
+   "description": "Ileen G. Hersh (nee Garson), born July 30, 1933, died May 22, 2009. Spouse Lawrence A. Hersh; children Marci Hersh, Suzanne Greenberg, Laurel Warszawski - the couple pairing and the Warszawski link confirmed by the original notice."
+  },
+  {
+   "id": "s_fag_garson_index",
+   "type": "document",
+   "title": "FindAGrave index lines - Garson/Hersh burials (glitch pattern flagged)",
+   "url": "https://www.findagrave.com/",
+   "publisher": "FindAGrave (derivative index)",
+   "author": null,
+   "date": null,
+   "description": "Victor Garson: Zion Memorial Park, Bedford Heights. Pearl: 'Zion Cemetery, Worth Township, Mercer PA' - POSSIBLE MISINDEX. Ileen: 'Zion Cemetery, Clark, Arkansas' and Larry: 'Zion Cemetery, Theresa, Dodge, Wisconsin' - same glitch pattern. The cemetery's own register places Ileen and Larry at Zion Memorial Park, Bedford (Z3-1-34/35); treat the FaG cemetery lines as unverified."
+  },
+  {
+   "id": "s_fs_tree_lt33q47",
+   "type": "document",
+   "title": "FamilySearch public tree profile LT33-Q47 (Victor Garson)",
+   "url": "https://www.familysearch.org/tree/person/LT33-Q47",
+   "publisher": "FamilySearch public tree (user-contributed)",
+   "author": null,
+   "date": null,
+   "description": "Public tree profile for Victor Garson; lists his birthplace as 'Ohio', contradicted by his own sworn declaration (Paris) - tree-data-quality issue logged. May hold the French branch, but every edge must be checked against original records before import."
+  },
+  {
+   "id": "s_fs_tree_p37lzsh",
+   "type": "document",
+   "title": "FamilySearch public tree profile P37L-ZSH (Szyman Warszawski)",
+   "url": "https://www.familysearch.org/tree/person/P37L-ZSH",
+   "publisher": "FamilySearch public tree (user-contributed)",
+   "author": null,
+   "date": null,
+   "description": "Public tree profile for Szyman Warszawski. User-contributed - treat as lead-level only."
+  },
+  {
+   "id": "s_larry_obit_index_2012",
+   "type": "news",
+   "title": "Lawrence A. Hersh obituary index, Cleveland (January 5, 2012)",
+   "url": null,
+   "publisher": "Cleveland obituary index (per Lane B)",
+   "author": null,
+   "date": "2012-01-05",
+   "description": "Index entry: Lawrence A. Hersh, born June 1, 1925, died January 3, 2012; notice dated January 5, 2012, Cleveland."
+  },
+  {
+   "id": "s_fs_pearl_petition",
+   "type": "document",
+   "title": "Pearl Garson - Petition for Naturalization, N.D. Ohio, cert 73676",
+   "url": "https://www.familysearch.org/ark:/61903/1:1:XSW1-RLY4",
+   "publisher": "FamilySearch / U.S. District Court, Northern District of Ohio",
+   "author": null,
+   "date": "1940-01-25",
+   "description": "Original image inspected (https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSML-J6JY). Filed January 25, 1940 under Sec. 4, Act of September 22, 1922 (Cable Act): 'born in Cleveland, Ohio on Dec. 1, 1897. My race is Hebrew'; married Victor September 12, 1916 in Cleveland; Victor born Paris May 30, 1895, entered the U.S. at New York in 1902, naturalized November 20, 1934 (cert 2116415); children Rochelle 5/9/19, Rosamond 1/6/26, Ileen 7/30/33, all born Cleveland; 'I HAVE NOT ACQUIRED ANY OTHER NATIONALITY BY AFFIRMATIVE ACT'. Cleveland street address kept in the private Drive note."
+  },
+  {
+   "id": "s_fs_tree_pfrqn26",
+   "type": "document",
+   "title": "FamilySearch public tree profile PFRQ-N26 (Berta O Warszawski)",
+   "url": "https://www.familysearch.org/tree/person/PFRQ-N26",
+   "publisher": "FamilySearch public tree (user-contributed, 'Genealogy Karen')",
+   "author": null,
+   "date": null,
+   "description": "Tree gives b. May 15, 1935 'Russia, Soviet Union' and d. November 28, 2016, Zion Memorial Park - matching her photographed headstone. Maiden name Zelkind and parents NOT in the tree. User-contributed, lead-level."
+  },
+  {
+   "id": "s_fs_tree_pfr3l61",
+   "type": "document",
+   "title": "FamilySearch public tree profile PFR3-L61 (Joseph Sam Warszawski)",
+   "url": "https://www.familysearch.org/tree/person/PFR3-L61",
+   "publisher": "FamilySearch public tree (user-contributed, 'Genealogy Karen')",
+   "author": null,
+   "date": null,
+   "description": "Lists Joseph Sam Warszawski 1959-2017 as the child of Szyman (P37L-ZSH) - user-contributed corroboration of Joe as Szyman's son."
+  },
+  {
+   "id": "s_fs_tree_gt53",
+   "type": "document",
+   "title": "FamilySearch public tree profiles GT53-LHT + GT53-C2M (Joseph Warszavski, Rochel Goldberg)",
+   "url": "https://www.familysearch.org/tree/person/GT53-LHT",
+   "publisher": "FamilySearch public tree (user-contributed, 'Genealogy Karen')",
+   "author": null,
+   "date": null,
+   "description": "Bare profiles for Szyman's indexed parents; no dates or places. User-contributed, lead-level only."
+  },
+  {
+   "id": "s_fs_tree_mae2019",
+   "type": "document",
+   "title": "FamilySearch public Garson tree ('Mae2019'): Victor LT33-Q47, Solomon LT33-WGS, Rachael LT33-SGY",
+   "url": "https://www.familysearch.org/tree/person/LT33-Q47",
+   "publisher": "FamilySearch public tree (user-contributed, 'Mae2019')",
+   "author": null,
+   "date": null,
+   "description": "Victor's profile carries 16 sources; parents Solomon (LT33-WGS) and Rachael (LT33-SGY) are bare profiles - NO pre-built French branch exists to import. Victor's profile birthplace 'Ohio' remains a logged data-quality error against his own sworn declaration (Paris)."
+  },
+  {
+   "id": "s_herman_garson_line",
+   "type": "news",
+   "title": "Herman Garson family - obituary and draft records (separate Russian line)",
+   "url": null,
+   "publisher": "Cleveland records (per Lane B)",
+   "author": null,
+   "date": "1962-01",
+   "description": "Herman Garson, b. ~1880 Russia per obit/drafts, d. January 16, 1962, University Heights; wife Bertha b. ~1890 Russia; children Barnett, Leo (d. 1990), Theodore, Ralph, Julius, Dorothy. Russian origin - a SEPARATE line from Victor's French one. Leo (d. 1990, Beachwood) and Bertha (1890-1964) from the unlinked-kin queue belong here."
+  }
+ ],
+ "persons": [
+  {
+   "id": "per_joe",
+   "names": {
+    "display": "Joe Warszawski",
+    "given": "Joe",
+    "middle": null,
+    "formal": null,
+    "title": null,
+    "surname_birth": "Warszawski",
+    "hebrew": {
+     "full": "Yosef (Yitzchak) ben Shimon"
+    }
+   },
+   "sex": {
+    "value": "male"
+   },
+   "living": {
+    "status": "deceased"
+   },
+   "generation": -1,
+   "generation_label": "Parents",
+   "family_side": "maternal",
+   "relationship_to_focus": {
+    "label": "Father"
+   },
+   "relationships": {
+    "parent_ids": [
+     "per_bertha",
+     "per_shimon_elder"
+    ],
+    "spouse_ids": [
+     "per_lori"
+    ],
+    "child_ids": [
+     "per_ilana",
+     "per_aliya",
+     "per_shoshy",
+     "per_yechiel",
+     "per_shimon",
+     "per_chaya_brocha",
+     "per_hadassa",
+     "per_simcha",
+     "per_maimi"
+    ],
+    "sibling_ids": []
+   },
+   "life_events": {
+    "birth": {
+     "date": {
+      "value": "1959-10-19",
+      "precision": "day",
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [
+       "s_heights1978"
+      ],
+      "note": "From the Heights High class of 1978 memorial page."
+     },
+     "place": null,
+     "source_ids": [
+      "s_heights1978"
+     ]
+    },
+    "death": {
+     "date": {
+      "value": "2017-02-18",
+      "precision": "day",
+      "calendar": "gregorian",
+      "hebrew": "22 Shevat 5777",
+      "approximate": false,
+      "source_ids": [
+       "s_heights1978",
+       "s_fag_joe_stone"
+      ],
+      "note": "February 18, 2017 (22 Shevat 5777) confirmed by family and now by the photographed headstone at Zion Memorial Park. Cleveland Heights was the funeral chapel location, not a documented place of death."
+     },
+     "place": null,
+     "source_ids": [
+      "s_heights1978",
+      "s_user4"
+     ]
+    },
+    "burial": {
+     "date": {
+      "value": null,
+      "precision": null,
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [
+       "s_fag_joe_stone"
+      ],
+      "note": "Interment date not yet published; cemetery's own online register has NO entry for him (register gap)."
+     },
+     "place": {
+      "name": "Zion Memorial Park, Bedford Heights, Ohio",
+      "source_ids": [
+       "s_fag_joe_stone"
+      ]
+     },
+     "source_ids": [
+      "s_fag_joe_stone"
+     ]
+    }
+   },
+   "residences": [],
+   "occupations": [],
+   "facts": [
+    {
+     "field": "full_name",
+     "value": "Joseph Sam Warszawski",
+     "source_ids": [
+      "s_heights1978",
+      "s_user4"
+     ],
+     "kind": "family_verified",
+     "confidence": "high",
+     "note": "Found on the Heights High memorial page; the family confirmed the Feb 18 date matches."
+    },
+    {
+     "field": "school",
+     "value": "Cleveland Heights High School, class of 1978",
+     "source_ids": [
+      "s_heights1978"
+     ],
+     "kind": "public_record",
+     "confidence": "medium",
+     "note": null
+    },
+    {
+     "field": "residence",
+     "value": "Lived in Cleveland with Lori",
+     "source_ids": [
+      "s_user3"
+     ],
+     "kind": "user_stated",
+     "confidence": "high",
+     "note": null
+    },
+    {
+     "field": "fact",
+     "value": "Family based in Cleveland, Ohio",
+     "source_ids": [
+      "s_col_andrusier",
+      "s_col_chayempour",
+      "s_anash_hirsch_lc",
+      "s_col_katz_eng"
+     ],
+     "kind": "inference",
+     "confidence": "medium",
+     "note": "Every engagement notice for his children lists them 'of Cleveland'. Kept at city level."
+    },
+    {
+     "field": "birthplace",
+     "value": "Born in postwar Poland, per family memory; exact city unknown.",
+     "source_ids": [
+      "s_family_knowledge"
+     ],
+     "kind": "user_stated",
+     "confidence": "medium",
+     "note": null
+    },
+    {
+     "field": "siblings",
+     "value": "Only child of Shimon and Bertha, according to the family.",
+     "source_ids": [
+      "s_family_knowledge"
+     ],
+     "kind": "user_stated",
+     "confidence": "high",
+     "note": null
+    },
+    {
+     "field": "work_1986",
+     "value": "Attended Cleveland State University and worked as technical adviser at ProSearch of Medina, as of the engagement notice.",
+     "source_ids": [
+      "s_cjn_1986_hersh"
+     ],
+     "kind": "public_record",
+     "confidence": "high",
+     "note": "1986 snapshot, not a lifelong profession."
+    },
+    {
+     "field": "bar_mitzvah",
+     "value": "A notice dated October 13, 1972 lists a bar mitzvah for the next morning at Sinai Synagogue.",
+     "source_ids": [
+      "s_cjn_1972_joe_bar"
+     ],
+     "kind": "public_record",
+     "confidence": "high",
+     "note": "Announcement, not proof the ceremony occurred as planned; street address omitted."
+    },
+    {
+     "field": "headstone",
+     "value": "Headstone at Zion Memorial Park (FindAGrave 273775046): 'Joseph Warszawski / Yosef (Yitzchak) ben Shimon z\"l / Oct. 19, 1959 - Feb. 18, 2017 / niftar 22 Shevat 5777 / Beloved Husband, Father, Grandfather'.",
+     "kind": "public_record",
+     "confidence": "high",
+     "source_ids": [
+      "s_fag_joe_stone"
+     ],
+     "note": null
+    },
+    {
+     "field": "register_gap",
+     "value": "Zion Memorial Park's own online register has NO entry for Joe, though his stone is photographed there - a register gap, not a burial conflict.",
+     "kind": "public_record",
+     "confidence": "high",
+     "source_ids": [
+      "s_fag_joe_stone"
+     ],
+     "note": null
+    },
+    {
+     "field": "familysearch_profile",
+     "value": "FamilySearch public tree profile PFR3-L61 lists Joseph Sam Warszawski (1959-2017) as the child of Szyman - user-contributed corroboration of Joe as Szyman's son.",
+     "kind": "public_record",
+     "confidence": "low",
+     "source_ids": [
+      "s_fs_tree_pfr3l61"
+     ],
+     "note": null
+    }
+   ],
+   "notes": [
+    "Full Joe obituary remains unverified; Cleveland Jewish News late-Feb 2017 archive may hold it, but was not accessed.",
+    "Hebrew name from the photographed headstone: Yosef (Yitzchak) ben Shimon z\"l - confirming his father as Shimon (Szyman). The cemetery's own online register has no entry for him, a register gap, though the stone is photographed at Zion Memorial Park."
+   ],
+   "ui": {
+    "initials": "JW"
+   },
+   "source_ids": [
+    "s_user",
+    "s_family_knowledge",
+    "s_cjn_1986_hersh",
+    "s_cjn_1972_joe_bar",
+    "s_fs_tree_pfr3l61"
+   ]
+  },
+  {
+   "id": "per_bertha",
+   "names": {
+    "display": "Berta (Bertha) Warszawski",
+    "given": "Bertha",
+    "middle": null,
+    "formal": null,
+    "title": null,
+    "surname_birth": "Zelkind",
+    "hebrew": {
+     "full": "Bila bat Mordechai"
+    }
+   },
+   "sex": {
+    "value": "female"
+   },
+   "living": {
+    "status": "deceased"
+   },
+   "generation": -2,
+   "generation_label": "Grandparents",
+   "family_side": "maternal",
+   "relationship_to_focus": {
+    "label": "Grandmother"
+   },
+   "relationships": {
+    "parent_ids": [
+     "per_mordechai_zelkind",
+     "per_elka_zelkind"
+    ],
+    "spouse_ids": [
+     "per_shimon_elder"
+    ],
+    "child_ids": [
+     "per_joe"
+    ],
+    "sibling_ids": [
+     "per_gail_zelkind"
+    ]
+   },
+   "life_events": {
+    "birth": {
+     "date": {
+      "value": "1935-05-15",
+      "precision": "day",
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [
+       "s_billiongraves_berta_stone"
+      ],
+      "note": "Civil date printed on headstone and matching family May 15 birthday; birth certificate not located."
+     },
+     "place": {
+      "label": "Belarus",
+      "geo": null
+     },
+     "source_ids": [
+      "s_family_knowledge"
+     ]
+    },
+    "death": {
+     "date": {
+      "value": "2016-11-28",
+      "precision": "day",
+      "calendar": "gregorian",
+      "hebrew": "27 Cheshvan 5777",
+      "approximate": false,
+      "source_ids": [
+       "s_billiongraves_berta_stone",
+       "s_fag_berta_stone",
+       "s_family_knowledge"
+      ],
+      "note": "The photographed headstone prints BOTH Nov 28, 2016 and 27 Cheshvan 5777, which agree with each other. The family-recalled yahrtzeit of 26 Cheshvan differs by one day and is retained as a family variant. Burial register gives interment Nov 29."
+     },
+     "place": null,
+     "source_ids": [
+      "s_family_knowledge"
+     ]
+    }
+   },
+   "residences": [],
+   "occupations": [],
+   "facts": [
+    {
+     "field": "birthday",
+     "value": "May 15 (birth year unknown).",
+     "source_ids": [
+      "s_family_knowledge"
+     ],
+     "kind": "user_stated",
+     "confidence": "high",
+     "note": null
+    },
+    {
+     "field": "cemetery_interment",
+     "value": "Zion Memorial Park register lists BERTHA Warszawski interred November 29, 2016, section Z6 row 1 grave 58. This is an interment date, not her death date.",
+     "source_ids": [
+      "s_zion_cemetery_register_2026"
+     ],
+     "kind": "public_record",
+     "confidence": "high",
+     "note": "Name and cemetery placement read directly from the cemetery-operated register; correlate with other evidence before treating names as full identity."
+    },
+    {
+     "field": "headstone_dates",
+     "value": "Stone at Zion Memorial Park reads Berta Warszawski, May 15, 1935 - November 28, 2016.",
+     "source_ids": [
+      "s_billiongraves_berta_stone",
+      "s_zion_cemetery_register_2026"
+     ],
+     "kind": "public_record",
+     "confidence": "high",
+     "note": "Stone civil inscription visually inspected. Family 26 Cheshvan yahrtzeit does not match the stone’s Nov 28 date in 5777; keep conflict explicit."
+    },
+    {
+     "field": "parentage",
+     "value": "Mordukh’s 1996 death notice explicitly lists Bertha Warshawsky as his daughter; 1997 CJN monument notice lists Berta, wife Elka.",
+     "source_ids": [
+      "s_pd_1996_mordukh",
+      "s_cjn_1997_zelkind"
+     ],
+     "kind": "public_record",
+     "confidence": "high",
+     "note": "Elka is Mordukh’s wife in both notices; the 1996 notice corroborates Bertha’s Zelkind branch and the Warshawsky spelling variant."
+    },
+    {
+     "field": "headstone",
+     "value": "Headstone (FindAGrave 273776627): 'Bila bat Mordechai z\"l / May 15, 1935 - Nov. 28, 2016 / niftera 27 Cheshvan 5777 / Beloved Mother, Grandmother, Great Grandmother, Sister'. The Hebrew independently confirms her father is Mordechai (Mordukh Zelkind).",
+     "kind": "public_record",
+     "confidence": "high",
+     "source_ids": [
+      "s_fag_berta_stone"
+     ],
+     "note": null
+    },
+    {
+     "field": "familysearch_profile",
+     "value": "FamilySearch public tree profile PFRQ-N26 ('Genealogy Karen') gives b. May 15, 1935 'Russia, Soviet Union' and d. November 28, 2016, Zion Memorial Park - matching her photographed headstone. Maiden name Zelkind and her parents are NOT in the tree.",
+     "kind": "public_record",
+     "confidence": "low",
+     "source_ids": [
+      "s_fs_tree_pfrqn26"
+     ],
+     "note": "User-contributed; the dates corroborate, the 'Russia, Soviet Union' origin is unverified."
+    }
+   ],
+   "notes": [
+    "Berta is printed in the 1995 obituary and 1997 Zelkind monument notice; Bertha/Bella remain family-used forms. The monument notice names her sisters Gala, Tzila and Masha but does not give birth order.",
+    "Headstone Hebrew 'Bila bat Mordechai' independently confirms Mordukh Zelkind as her father. The stone's own dates (Nov 28, 2016 = 27 Cheshvan 5777) agree; the family's 26 Cheshvan yahrtzeit differs by one day and is kept as a family variant."
+   ],
+   "ui": {
+    "initials": "BW"
+   },
+   "source_ids": [
+    "s_user3",
+    "s_family_knowledge",
+    "s_cjn_1995_szyman",
+    "s_cjn_1988_ilana",
+    "s_cjn_1997_zelkind",
+    "s_zion_cemetery_register_2026",
+    "s_billiongraves_berta_stone",
+    "s_pd_1996_mordukh",
+    "s_fs_tree_pfrqn26"
+   ]
+  },
+  {
+   "id": "per_larry",
+   "names": {
+    "display": "Lawrence (Larry) Hersh",
+    "given": "Lawrence",
+    "middle": null,
+    "formal": null,
+    "title": null,
+    "surname_birth": "Hersh",
+    "hebrew": {
+     "full": "Aryeh Leib"
+    }
+   },
+   "sex": {
+    "value": "male"
+   },
+   "living": {
+    "status": "deceased"
+   },
+   "generation": -2,
+   "generation_label": "Grandparents",
+   "family_side": "maternal",
+   "relationship_to_focus": {
+    "label": "Grandfather"
+   },
+   "relationships": {
+    "parent_ids": [],
+    "spouse_ids": [
+     "per_shaina"
+    ],
+    "child_ids": [
+     "per_lori",
+     "per_susanne_greenberg",
+     "per_marcy_hirsch"
+    ],
+    "sibling_ids": []
+   },
+   "life_events": {
+    "birth": {
+     "date": {
+      "value": "1925-06-01",
+      "precision": "day",
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [
+       "s_familysearch_larry_nat_1961",
+       "s_jvn_larry_memorial"
+      ],
+      "note": "Birthdate repeated in 1961 naturalization card; self-reported, not original birth certificate. His recalled age twenty in June 1948 would differ."
+     },
+     "place": null,
+     "source_ids": [
+      "s_familysearch_larry_nat_1961",
+      "s_jvn_larry_memorial"
+     ]
+    },
+    "death": {
+     "date": {
+      "value": "2012-01-03",
+      "precision": "day",
+      "calendar": "gregorian",
+      "hebrew": "8 Tevet",
+      "approximate": false,
+      "source_ids": [
+       "s_jvn_larry_memorial",
+       "s_family_knowledge",
+       "s_zion_cemetery_register_2026"
+      ],
+      "note": "Zion Memorial Park register lists LAWRENCE HERSH interred 01/03/2012 (8 Tevet 5772), plot Z3-1-35, adjacent to Ileen at Z3-1-34 - the interment date matches the memorial and family dates; actual time of death unknown."
+     },
+     "place": null,
+     "source_ids": [
+      "s_jvn_larry_memorial",
+      "s_family_knowledge"
+     ]
+    },
+    "burial": {
+     "date": {
+      "value": "2012-01-03",
+      "precision": "day",
+      "calendar": "gregorian",
+      "hebrew": "8 Tevet 5772",
+      "approximate": false,
+      "source_ids": [
+       "s_zion_cemetery_register_2026"
+      ],
+      "note": "Register interment date; plot Z3-1-35, adjacent to Ileen (Z3-1-34)."
+     },
+     "place": {
+      "name": "Zion Memorial Park, Bedford Heights, Ohio",
+      "source_ids": [
+       "s_zion_cemetery_register_2026"
+      ]
+     },
+     "source_ids": [
+      "s_zion_cemetery_register_2026"
+     ]
+    }
+   },
+   "residences": [],
+   "occupations": [],
+   "facts": [
+    {
+     "field": "origins",
+     "value": "From the Khust/Transylvania region, per family memory.",
+     "source_ids": [
+      "s_family_knowledge"
+     ],
+     "kind": "user_stated",
+     "confidence": "medium",
+     "note": null
+    },
+    {
+     "field": "family_history",
+     "value": "Aryeh Leib Larry Hirsch was originally from Czechoslovakia, survived Auschwitz, and was one of seven siblings; he and a sister Judy survived, per family account. A 1961 naturalization card records a Hershkovitz name form in his own name-change sequence.",
+     "source_ids": [
+      "s_family_knowledge"
+     ],
+     "kind": "user_stated",
+     "confidence": "medium",
+     "note": null
+    },
+    {
+     "field": "name",
+     "value": "Lawrence Hersh appears as Laurel Ruth’s father in an engagement notice and as Ilana’s maternal grandfather in a birth notice.",
+     "source_ids": [
+      "s_cjn_1986_hersh"
+     ],
+     "kind": "public_record",
+     "confidence": "high",
+     "note": "Hirsch remains a family-used variant; a 1961 naturalization card annotates a name change and records a Hershkovitz form."
+    },
+    {
+     "field": "public_activism",
+     "value": "In October 1972 press, named Cleveland Jewish Survival Legion leader and national board member, formerly local Jewish Defense League coordinator.",
+     "source_ids": [
+      "s_cjn_1972_larry_activism"
+     ],
+     "kind": "public_record",
+     "confidence": "high",
+     "note": "Dated public role, not evidence of profession or lifelong affiliation."
+    },
+    {
+     "field": "naturalization",
+     "value": "Arie Lawrence Hersh naturalized in U.S. District Court on August 11, 1961 (office no. 201619, certificate 8195469). The original card is now read directly: 'NAME: ARIE - LAWRENCE - HERSH; SUBJECT OF: ISRAEL; born 6/1/25; Remarks: Name changed as part of nat. from: ARIE - LARRY - HERSH KOVITZ' - and it is signed Arie Lawrence Hersh. The HERSH KOVITZ prior form is CONFIRMED from the original document, no longer an inference-level reading.",
+     "source_ids": [
+      "s_familysearch_larry_nat_1961"
+     ],
+     "kind": "public_record",
+     "confidence": "high",
+     "note": "'Subject of: ISRAEL' indicates U.S. arrival via Israel (around 1954 - labeled inference). The underlying petition/decree and an original birth record remain unchecked."
+    },
+    {
+     "field": "cemetery_interment",
+     "value": "Zion Memorial Park register lists LAWRENCE Hersh interred January 3, 2012, Z3 row 1 grave 35, adjacent to ILEEN Hersh. A second Jan 5 RESERVE row at the same grave is an internal reservation line, not another burial.",
+     "source_ids": [
+      "s_zion_cemetery_register_2026"
+     ],
+     "kind": "public_record",
+     "confidence": "high",
+     "note": "Cemetery-owned register cross-checked by surname; interment date is not a civil death date."
+    },
+    {
+     "field": "cemetery_plot",
+     "value": "Zion Memorial Park register: LAWRENCE HERSH interred 01/03/2012, plot Z3-1-35, directly adjacent to ILEEN HERSH (interred 05/24/2009, plot Z3-1-34).",
+     "kind": "public_record",
+     "confidence": "high",
+     "source_ids": [
+      "s_zion_cemetery_register_2026"
+     ],
+     "note": null
+    },
+    {
+     "field": "subcarpathia_consistency",
+     "value": "JewishGen Subcarpathia mapping places the HERSH/HERSHKOWITZ heartland in Szatmar county (Szinyervaralja/Seini, Felsofalu), Munkacs (Mukacheve) and Maramaros - territory that WAS Czechoslovakia in 1920-1938, consistent with 'Czechoslovakia' on Larry's records. The 1828 property tax census records 'HERSKOVITZ, Aria - Szatmar, Felsofalu' (earliest Aria on record), and a Munkacs birth cluster includes Arje Leib HERSKOVICS b. 23-Nov-1887. No birth record matching Larry's June 1, 1925 date was found (negative).",
+     "kind": "inference",
+     "confidence": "medium",
+     "source_ids": [
+      "s_family_knowledge"
+     ],
+     "note": "Regional consistency only - no proven link to Larry's specific family; do not merge any named Hershkovitz household without a direct record."
+    },
+    {
+     "field": "via_israel",
+     "value": "The 1961 naturalization card records him as a 'SUBJECT OF: ISRAEL' - he was an Israeli national when naturalized, which places his path to the U.S. THROUGH ISRAEL (arrival around 1954, per the index trail). Labeled inference; the Israel chapter (when he arrived, where he lived, whom he knew) is a new open story lane.",
+     "kind": "inference",
+     "confidence": "medium",
+     "source_ids": [
+      "s_familysearch_larry_nat_1961"
+     ],
+     "note": "Card proves Israeli citizenship at naturalization, not the year or route details."
+    },
+    {
+     "field": "obituary_index",
+     "value": "Obituary index entry dated January 5, 2012, Cleveland: born June 1, 1925, died January 3, 2012.",
+     "kind": "public_record",
+     "confidence": "high",
+     "source_ids": [
+      "s_larry_obit_index_2012"
+     ],
+     "note": null
+    }
+   ],
+   "notes": [
+    "Lori's father - 'Zeidy Larry' to the grandchildren. Hebrew name Aryeh Leib.",
+    "Hersh is the 1961 naturalized and later printed surname; Hershkovitz appears in the name-change sequence. Hirsch remains a family-used variant.",
+    "Fortunoff catalog synopsis says oldest of five children, while family account says one of seven siblings. Do not reconcile until video/transcript and family records are checked. A different Lodz-born Larry Hershkowitz is NOT this Khust interviewee.",
+    "The 1961 naturalization card independently repeats June 1, 1925. Larry’s quoted age twenty in June 1948 still conflicts; the card is a later self-report, not a birth certificate.",
+    "Subcarpathia (Szatmar/Munkacs/Maramaros) was Czechoslovakia 1920-1938, matching 'Czechoslovakia' on his records; the Hershkovitz heartland mapping is inference-level support only.",
+    "Name-change reading upgraded to confirmed: the original card prints 'Name changed as part of nat. from: ARIE - LARRY - HERSH KOVITZ' and is signed Arie Lawrence Hersh. 'Subject of: Israel' on the card opens the Israel-chapter question."
+   ],
+   "ui": {
+    "initials": "LH"
+   },
+   "source_ids": [
+    "s_user5",
+    "s_family_knowledge",
+    "s_cjn_1986_hersh",
+    "s_cjn_1988_ilana",
+    "s_fortunoff_larry_h",
+    "s_jvn_larry_memorial",
+    "s_cjn_1972_larry_activism",
+    "s_familysearch_larry_nat_1961",
+    "s_zion_cemetery_register_2026",
+    "s_pd_2009_ileen",
+    "s_larry_obit_index_2012",
+    "s_fag_garson_index"
+   ]
+  },
+  {
+   "id": "per_shaina",
+   "names": {
+    "display": "Ileen (Ilene, Gabby) Hersh",
+    "given": "Ileen",
+    "middle": null,
+    "formal": null,
+    "title": null,
+    "surname_birth": "Garson",
+    "hebrew": {
+     "full": "Shaina Yuda"
+    }
+   },
+   "sex": {
+    "value": "female"
+   },
+   "living": {
+    "status": "deceased"
+   },
+   "generation": -2,
+   "generation_label": "Grandparents",
+   "family_side": "maternal",
+   "relationship_to_focus": {
+    "label": "Grandmother"
+   },
+   "relationships": {
+    "parent_ids": [
+     "per_victor_garson",
+     "per_pearl_garson"
+    ],
+    "spouse_ids": [
+     "per_larry"
+    ],
+    "child_ids": [
+     "per_lori",
+     "per_susanne_greenberg",
+     "per_marcy_hirsch"
+    ],
+    "sibling_ids": [
+     "per_rosamond_simon",
+     "per_rochelle_horwich"
+    ]
+   },
+   "life_events": {
+    "birth": {
+     "date": {
+      "value": "1933-07-30",
+      "precision": "day",
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [
+       "s_ileen_obit_2009"
+      ],
+      "note": "July 30, 1933, per her 2009 obituary."
+     },
+     "place": null,
+     "source_ids": [
+      "s_ileen_obit_2009"
+     ]
+    },
+    "death": {
+     "date": {
+      "value": "2009-05-22",
+      "precision": "day",
+      "calendar": "gregorian",
+      "hebrew": "28 Iyar",
+      "approximate": false,
+      "source_ids": [
+       "s_pd_2009_ileen",
+       "s_zion_cemetery_register_2026",
+       "s_family_knowledge",
+       "s_ileen_obit_2009"
+      ],
+      "note": "Her 2009 obituary gives May 22, 2009 (matching the family 28 Iyar yahrtzeit). The original May 23 notice announces services; the register interment is May 24. Death certificate not yet obtained."
+     },
+     "place": null,
+     "source_ids": [
+      "s_family_knowledge",
+      "s_pd_2009_ileen",
+      "s_zion_cemetery_register_2026",
+      "s_ileen_obit_2009"
+     ]
+    },
+    "burial": {
+     "date": {
+      "value": "2009-05-24",
+      "precision": "day",
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [
+       "s_zion_cemetery_register_2026"
+      ],
+      "note": "Register interment date; plot Z3-1-34, adjacent to Larry (Z3-1-35)."
+     },
+     "place": {
+      "name": "Zion Memorial Park, Bedford Heights, Ohio",
+      "source_ids": [
+       "s_zion_cemetery_register_2026"
+      ]
+     },
+     "source_ids": [
+      "s_zion_cemetery_register_2026"
+     ]
+    }
+   },
+   "residences": [],
+   "occupations": [],
+   "facts": [
+    {
+     "field": "identity",
+     "value": "Ilene, Hebrew Shaina Yuda; \"Gabby\" was her grandmother nickname.",
+     "source_ids": [
+      "s_family_knowledge"
+     ],
+     "kind": "user_stated",
+     "confidence": "high",
+     "note": null
+    },
+    {
+     "field": "family_origins",
+     "value": "From Cleveland; family says her parents came from France, while an earlier family account says her mother Pearl was born in Latvia.",
+     "source_ids": [
+      "s_family_knowledge"
+     ],
+     "kind": "user_stated",
+     "confidence": "medium",
+     "note": "Do not settle parent birthplace until direct records are checked."
+    },
+    {
+     "field": "cemetery_interment",
+     "value": "Zion Memorial Park register lists ILEEN Hersh interred May 24, 2009, Z3 row 1 grave 34, adjacent to LAWRENCE Hersh. Cemetery placement and period marriage record strongly link this to Ilene (Gabby), but the date is burial, not death.",
+     "source_ids": [
+      "s_zion_cemetery_register_2026"
+     ],
+     "kind": "public_record",
+     "confidence": "high",
+     "note": "Cemetery-owned register cross-checked by surname; interment date is not a civil death date."
+    },
+    {
+     "field": "family_notice",
+     "value": "The 2009 death notice identifies Ileen Hersh (nee Garson) as Lawrence’s wife and lists Laurel Warszawski and granddaughter Shoshana.",
+     "source_ids": [
+      "s_pd_2009_ileen"
+     ],
+     "kind": "public_record",
+     "confidence": "high",
+     "note": "The notice also lists Suzanne Greenberg, Seth, Joseph and Marci Hersh; punctuation is not used here to reconstruct spouse pairs."
+    },
+    {
+     "field": "obituary_2009_verbatim",
+     "value": "Plain Dealer, May 23 2009: 'beloved wife of Lawrence; devoted mother of Suzanne Greenberg, Seth, Laurel Warszawski, Joseph and Marci Hersh; cherished grandmother of Ilana, Aliya, Shoshana, Yechiel, Moriah, Shymon, Chaya, Simcha and Hadassah Warszawski, Koby and Dylan Greenberg; dear sister of the following deceased: Rochelle Horwich and Rosamond Simon.' Confirms Garson maiden name, Lawrence alive in 2009, Greenberg grandchildren Koby and Dylan, and both sisters predeceased her.",
+     "kind": "public_record",
+     "confidence": "high",
+     "source_ids": [
+      "s_pd_2009_ileen"
+     ],
+     "note": null
+    },
+    {
+     "field": "parents_documented",
+     "value": "Victor and Pearl Garson are now documented as her parents: Pearl's 1973 obituary names 'Ileen Hersh' among her children, and her own 2009 obituary (nee Garson) names Lawrence A. Hersh as spouse and Laurel Warszawski among her children - the couple pairing and the Warszawski link confirmed by original notices.",
+     "kind": "public_record",
+     "confidence": "high",
+     "source_ids": [
+      "s_pearl_obit_1973",
+      "s_ileen_obit_2009"
+     ],
+     "note": null
+    },
+    {
+     "field": "obituary",
+     "value": "Born July 30, 1933; died May 22, 2009; spouse Lawrence A. Hersh; children Marci Hersh, Suzanne Greenberg and Laurel Warszawski, per her 2009 obituary.",
+     "kind": "public_record",
+     "confidence": "high",
+     "source_ids": [
+      "s_ileen_obit_2009"
+     ],
+     "note": null
+    },
+    {
+     "field": "fag_index_flag",
+     "value": "A FindAGrave index line places her at 'Zion Cemetery, Clark, Arkansas' - flagged as part of a glitch pattern (Larry's line says Theresa, Wisconsin; Pearl's says Mercer County, PA). The cemetery's own register keeps her at Zion Memorial Park, Bedford, Z3-1-34.",
+     "kind": "public_record",
+     "confidence": "medium",
+     "source_ids": [
+      "s_fag_garson_index",
+      "s_zion_cemetery_register_2026"
+     ],
+     "note": "Index anomaly; do not treat as a burial conflict."
+    }
+   ],
+   "notes": [
+    "A different Mrs. Shaina Hirsch died in 2020; her listed children do not include Lori. Do not merge these records.",
+    "Gabby (Shaina Yuda), daughter of Victor (born in France) and Pearl (born in Latvia, Gold family of Cleveland). Their precise surnames and dates remain to be confirmed.",
+    "Gabby was her grandmother nickname. Ilene (Shaina Yuda) was Lori’s mother, from Cleveland. Family says her parents were from France; another family recollection says her mother Pearl was born in Latvia. These origins conflict and are not resolved.",
+    "The May 23, 2009 death notice and cemetery burial bind this Ileen to Lawrence and establish the year. Exact death day is not printed. Garson is the notice’s nee spelling; family origin stories about Victor and Pearl remain open.",
+    "The original 2009 death notice spells her ILEEN and calls her nee Garson; family and 1988 notice use Ilene. The variants are preserved.",
+    "Parents resolved: Victor Garson (b. Paris 1895; last residence Paris per his declaration) and Pearl Adelstein (b. 1897, birthplace conflicted). Both obituaries corroborate the pairing."
+   ],
+   "ui": {
+    "initials": "IH"
+   },
+   "source_ids": [
+    "s_user5",
+    "s_family_knowledge",
+    "s_cjn_1988_ilana",
+    "s_zion_cemetery_register_2026",
+    "s_pd_2009_ileen",
+    "s_ileen_obit_2009",
+    "s_pearl_obit_1973",
+    "s_fs_victor_declaration",
+    "s_fag_garson_index"
+   ]
+  },
+  {
+   "id": "per_lori",
+   "names": {
+    "display": "Lori (Leah) Warszawski",
+    "given": "Lori",
+    "middle": null,
+    "formal": null,
+    "title": null,
+    "surname_birth": "Hersh",
+    "hebrew": {
+     "full": "Leah Rochel"
+    }
+   },
+   "sex": {
+    "value": "female"
+   },
+   "living": {
+    "status": "presumed_living"
+   },
+   "generation": -1,
+   "generation_label": "Parents",
+   "family_side": "maternal",
+   "relationship_to_focus": {
+    "label": "Mother"
+   },
+   "relationships": {
+    "parent_ids": [
+     "per_larry",
+     "per_shaina"
+    ],
+    "spouse_ids": [
+     "per_joe"
+    ],
+    "child_ids": [
+     "per_ilana",
+     "per_aliya",
+     "per_shoshy",
+     "per_yechiel",
+     "per_shimon",
+     "per_chaya_brocha",
+     "per_hadassa",
+     "per_simcha",
+     "per_maimi"
+    ],
+    "sibling_ids": [
+     "per_susanne_greenberg",
+     "per_marcy_hirsch"
+    ]
+   },
+   "life_events": {
+    "birth": {
+     "date": {
+      "value": null,
+      "precision": null,
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [],
+      "note": null
+     },
+     "place": null,
+     "source_ids": []
+    },
+    "death": null
+   },
+   "residences": [],
+   "occupations": [],
+   "facts": [
+    {
+     "field": "residence",
+     "value": "Lived in Cleveland with Joe",
+     "source_ids": [
+      "s_user3"
+     ],
+     "kind": "user_stated",
+     "confidence": "high",
+     "note": null
+    },
+    {
+     "field": "name",
+     "value": "Laurel Ruth Hersh is the form in the 1986 engagement notice; Lori (Leah Rochel) is the family-used name.",
+     "source_ids": [
+      "s_cjn_1986_hersh"
+     ],
+     "kind": "public_record",
+     "confidence": "high",
+     "note": "Earlier Hirsch form retained as a family variant, not the documentary primary surname."
+    },
+    {
+     "field": "work_1986",
+     "value": "Ursuline College graduate and registered nurse at Rainbow Babies and Children’s Hospital, as of the engagement notice.",
+     "source_ids": [
+      "s_cjn_1986_hersh"
+     ],
+     "kind": "public_record",
+     "confidence": "high",
+     "note": "1986 snapshot, not evidence of later employment."
+    }
+   ],
+   "notes": [
+    "Full Joe obituary remains unverified; Cleveland Jewish News late-Feb 2017 archive may hold it, but was not accessed.",
+    "The 1986 engagement notice prints Laurel Ruth as Miss Hersh; it states a planned July 1987 wedding, not proof that it occurred then.",
+    "A 2009 notice names Laurel Warszawski as Ileen and Lawrence’s daughter. The family Lori alias remains a separately reported identity; do not use the clipping alone as proof of that alias."
+   ],
+   "ui": {
+    "initials": "LW"
+   },
+   "source_ids": [
+    "s_user",
+    "s_family_knowledge",
+    "s_cjn_1986_hersh",
+    "s_cjn_1988_ilana",
+    "s_pd_2009_ileen"
+   ]
+  },
+  {
+   "id": "per_ilana",
+   "names": {
+    "display": "Ilana Marinovsky",
+    "given": "Ilana",
+    "middle": null,
+    "formal": null,
+    "title": null,
+    "surname_birth": "Warszawski",
+    "hebrew": {
+     "full": null
+    }
+   },
+   "sex": {
+    "value": "female"
+   },
+   "living": {
+    "status": "presumed_living"
+   },
+   "generation": 0,
+   "generation_label": "Shoshy's generation",
+   "family_side": "maternal",
+   "relationship_to_focus": {
+    "label": "Sister"
+   },
+   "relationships": {
+    "parent_ids": [
+     "per_joe",
+     "per_lori"
+    ],
+    "spouse_ids": [
+     "per_shmaya"
+    ],
+    "child_ids": [],
+    "sibling_ids": [
+     "per_aliya",
+     "per_shoshy",
+     "per_yechiel",
+     "per_shimon",
+     "per_chaya_brocha",
+     "per_hadassa",
+     "per_simcha",
+     "per_maimi"
+    ]
+   },
+   "life_events": {
+    "birth": {
+     "date": {
+      "value": null,
+      "precision": null,
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [],
+      "note": null
+     },
+     "place": null,
+     "source_ids": []
+    },
+    "death": null
+   },
+   "residences": [],
+   "occupations": [],
+   "facts": [],
+   "notes": [
+    "1988 public birth notice names Ilana Chava and a June 4 birth, but precise living-person date omitted from this tree pending review. Her list position is not an inferred birth order."
+   ],
+   "ui": {
+    "initials": "IM"
+   },
+   "source_ids": [
+    "s_user",
+    "s_cjn_1988_ilana"
+   ]
+  },
+  {
+   "id": "per_shmaya",
+   "names": {
+    "display": "Shmaya Marinovsky",
+    "given": "Shmaya",
+    "middle": null,
+    "formal": null,
+    "title": null,
+    "surname_birth": "Marinovsky",
+    "hebrew": {
+     "full": null
+    }
+   },
+   "sex": {
+    "value": "male"
+   },
+   "living": {
+    "status": "presumed_living"
+   },
+   "generation": 0,
+   "generation_label": "Shoshy's generation",
+   "family_side": "in_law",
+   "relationship_to_focus": {
+    "label": "Brother-in-law"
+   },
+   "relationships": {
+    "parent_ids": [],
+    "spouse_ids": [
+     "per_ilana"
+    ],
+    "child_ids": [],
+    "sibling_ids": []
+   },
+   "life_events": {
+    "birth": {
+     "date": {
+      "value": null,
+      "precision": null,
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [],
+      "note": null
+     },
+     "place": null,
+     "source_ids": []
+    },
+    "death": null
+   },
+   "residences": [],
+   "occupations": [],
+   "facts": [
+    {
+     "field": "work",
+     "value": "Chabad shliach associated with Torah Day School in Houston (2019).",
+     "source_ids": [
+      "s_family_knowledge"
+     ],
+     "kind": "user_stated",
+     "confidence": "medium",
+     "note": null
+    }
+   ],
+   "notes": [],
+   "ui": {
+    "initials": "SM"
+   },
+   "source_ids": [
+    "s_user",
+    "s_family_knowledge"
+   ]
+  },
+  {
+   "id": "per_aliya",
+   "names": {
+    "display": "Aliya Andrusier",
+    "given": "Aliya",
+    "middle": null,
+    "formal": null,
+    "title": null,
+    "surname_birth": "Warszawski",
+    "hebrew": {
+     "full": null
+    }
+   },
+   "sex": {
+    "value": "female"
+   },
+   "living": {
+    "status": "presumed_living"
+   },
+   "generation": 0,
+   "generation_label": "Shoshy's generation",
+   "family_side": "maternal",
+   "relationship_to_focus": {
+    "label": "Sister"
+   },
+   "relationships": {
+    "parent_ids": [
+     "per_joe",
+     "per_lori"
+    ],
+    "spouse_ids": [
+     "per_shmuel_yaakov"
+    ],
+    "child_ids": [],
+    "sibling_ids": [
+     "per_ilana",
+     "per_shoshy",
+     "per_yechiel",
+     "per_shimon",
+     "per_chaya_brocha",
+     "per_hadassa",
+     "per_simcha",
+     "per_maimi"
+    ]
+   },
+   "life_events": {
+    "birth": {
+     "date": {
+      "value": null,
+      "precision": null,
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [],
+      "note": null
+     },
+     "place": null,
+     "source_ids": []
+    },
+    "death": null
+   },
+   "residences": [],
+   "occupations": [],
+   "facts": [
+    {
+     "field": "lchaim",
+     "value": "L'Chaim of Shmuly Andrusier and Aliyah Warszaski (2013-10) - Beis Levi Yitzchak shul, Crown Heights",
+     "source_ids": [
+      "s_col_andrusier"
+     ],
+     "kind": "public_record",
+     "confidence": "medium",
+     "note": "Month from the COLlive posting date (Oct 9, 2013)."
+    }
+   ],
+   "notes": [
+    "The COLlive notice spells her 'Aliyah Warszaski'."
+   ],
+   "ui": {
+    "initials": "AA"
+   },
+   "source_ids": [
+    "s_user",
+    "s_col_andrusier"
+   ]
+  },
+  {
+   "id": "per_shmuel_yaakov",
+   "names": {
+    "display": "Shmuel Yaakov Andrusier",
+    "given": "Shmuel",
+    "middle": null,
+    "formal": null,
+    "title": null,
+    "surname_birth": "Andrusier",
+    "hebrew": {
+     "full": "Shmuel Yaakov"
+    }
+   },
+   "sex": {
+    "value": "male"
+   },
+   "living": {
+    "status": "presumed_living"
+   },
+   "generation": 0,
+   "generation_label": "Shoshy's generation",
+   "family_side": "in_law",
+   "relationship_to_focus": {
+    "label": "Brother-in-law"
+   },
+   "relationships": {
+    "parent_ids": [],
+    "spouse_ids": [
+     "per_aliya"
+    ],
+    "child_ids": [],
+    "sibling_ids": []
+   },
+   "life_events": {
+    "birth": {
+     "date": {
+      "value": null,
+      "precision": null,
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [],
+      "note": null
+     },
+     "place": null,
+     "source_ids": []
+    },
+    "death": null
+   },
+   "residences": [],
+   "occupations": [],
+   "facts": [
+    {
+     "field": "fact",
+     "value": "Called 'Shmuly Andrusier of Crown Heights' in the L'Chaim notice",
+     "source_ids": [
+      "s_col_andrusier"
+     ],
+     "kind": "inference",
+     "confidence": "medium",
+     "note": "Shmuly is taken as the short form of Shmuel Yaakov."
+    },
+    {
+     "field": "lchaim",
+     "value": "L'Chaim of Shmuly Andrusier and Aliyah Warszaski (2013-10) - Beis Levi Yitzchak shul, Crown Heights",
+     "source_ids": [
+      "s_col_andrusier"
+     ],
+     "kind": "public_record",
+     "confidence": "medium",
+     "note": "Month from the COLlive posting date (Oct 9, 2013)."
+    }
+   ],
+   "notes": [],
+   "ui": {
+    "initials": "SA"
+   },
+   "source_ids": [
+    "s_user",
+    "s_col_andrusier",
+    "s_family_knowledge"
+   ]
+  },
+  {
+   "id": "per_shoshy",
+   "names": {
+    "display": "Shoshy (Shoshana) Chaikin",
+    "given": "Shoshy",
+    "middle": null,
+    "formal": null,
+    "title": null,
+    "surname_birth": "Warszawski",
+    "hebrew": {
+     "full": null
+    }
+   },
+   "sex": {
+    "value": "female"
+   },
+   "living": {
+    "status": "presumed_living"
+   },
+   "generation": 0,
+   "generation_label": "Shoshy's generation",
+   "family_side": "both",
+   "relationship_to_focus": {
+    "label": "Shoshy"
+   },
+   "relationships": {
+    "parent_ids": [
+     "per_joe",
+     "per_lori"
+    ],
+    "spouse_ids": [
+     "per_shmuel"
+    ],
+    "child_ids": [
+     "per_ella",
+     "per_abie",
+     "per_mika"
+    ],
+    "sibling_ids": [
+     "per_ilana",
+     "per_aliya",
+     "per_yechiel",
+     "per_shimon",
+     "per_chaya_brocha",
+     "per_hadassa",
+     "per_simcha",
+     "per_maimi"
+    ]
+   },
+   "life_events": {
+    "birth": {
+     "date": {
+      "value": null,
+      "precision": null,
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [],
+      "note": null
+     },
+     "place": null,
+     "source_ids": []
+    },
+    "death": null
+   },
+   "residences": [],
+   "occupations": [],
+   "facts": [
+    {
+     "field": "engagement",
+     "value": "Engagement: Shmuly Chaikin (Johannesburg) to Shoshy Warszawski (Cleveland) (date not published)",
+     "source_ids": [
+      "s_ci_chaikin"
+     ],
+     "kind": "public_record",
+     "confidence": "medium",
+     "note": "Listed on ChabadInfo; date not shown."
+    },
+    {
+     "field": "engagement",
+     "value": "Shoshy Warszawski and Shmuly Chaikin engagement announced August 22, 2014",
+     "source_ids": [
+      "s_collive_chaikin_eng"
+     ],
+     "kind": "public_record",
+     "confidence": "high",
+     "note": null
+    }
+   ],
+   "notes": [],
+   "ui": {
+    "initials": "SC"
+   },
+   "source_ids": [
+    "s_user",
+    "s_ci_chaikin",
+    "s_collive_chaikin_eng",
+    "s_pd_2009_ileen"
+   ]
+  },
+  {
+   "id": "per_shmuel",
+   "names": {
+    "display": "Shmuel Chaikin",
+    "given": "Shmuel",
+    "middle": null,
+    "formal": null,
+    "title": null,
+    "surname_birth": "Chaikin",
+    "hebrew": {
+     "full": null
+    }
+   },
+   "sex": {
+    "value": "male"
+   },
+   "living": {
+    "status": "presumed_living"
+   },
+   "generation": 0,
+   "generation_label": "Shoshy's generation",
+   "family_side": "both",
+   "relationship_to_focus": {
+    "label": "Husband"
+   },
+   "relationships": {
+    "parent_ids": [],
+    "spouse_ids": [
+     "per_shoshy"
+    ],
+    "child_ids": [
+     "per_ella",
+     "per_abie",
+     "per_mika"
+    ],
+    "sibling_ids": []
+   },
+   "life_events": {
+    "birth": {
+     "date": {
+      "value": null,
+      "precision": null,
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [],
+      "note": null
+     },
+     "place": null,
+     "source_ids": []
+    },
+    "death": null
+   },
+   "residences": [],
+   "occupations": [],
+   "facts": [
+    {
+     "field": "engagement",
+     "value": "Engagement: Shmuly Chaikin (Johannesburg) to Shoshy Warszawski (Cleveland) (date not published)",
+     "source_ids": [
+      "s_ci_chaikin"
+     ],
+     "kind": "public_record",
+     "confidence": "medium",
+     "note": "Listed on ChabadInfo; date not shown."
+    },
+    {
+     "field": "engagement",
+     "value": "Shoshy Warszawski and Shmuly Chaikin engagement announced August 22, 2014",
+     "source_ids": [
+      "s_collive_chaikin_eng"
+     ],
+     "kind": "public_record",
+     "confidence": "high",
+     "note": null
+    }
+   ],
+   "notes": [
+    "Son of Rabbi Yossi and Rivky Chaikin of Johannesburg - his side is in a separate Chaikin tree."
+   ],
+   "ui": {
+    "initials": "SC"
+   },
+   "source_ids": [
+    "s_user",
+    "s_ci_chaikin",
+    "s_collive_chaikin_eng"
+   ]
+  },
+  {
+   "id": "per_ella",
+   "names": {
+    "display": "Ella Chaikin",
+    "given": "Ella",
+    "middle": null,
+    "formal": null,
+    "title": null,
+    "surname_birth": "Chaikin",
+    "hebrew": {
+     "full": null
+    }
+   },
+   "sex": {
+    "value": "female"
+   },
+   "living": {
+    "status": "presumed_living"
+   },
+   "generation": 1,
+   "generation_label": "Grandchildren",
+   "family_side": "both",
+   "relationship_to_focus": {
+    "label": "Daughter"
+   },
+   "relationships": {
+    "parent_ids": [
+     "per_shoshy",
+     "per_shmuel"
+    ],
+    "spouse_ids": [],
+    "child_ids": [],
+    "sibling_ids": [
+     "per_abie",
+     "per_mika"
+    ]
+   },
+   "life_events": {
+    "birth": {
+     "date": {
+      "value": null,
+      "precision": null,
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [],
+      "note": null
+     },
+     "place": null,
+     "source_ids": []
+    },
+    "death": null
+   },
+   "residences": [],
+   "occupations": [],
+   "facts": [],
+   "notes": [],
+   "ui": {
+    "initials": "EC"
+   },
+   "source_ids": [
+    "s_user_kids"
+   ]
+  },
+  {
+   "id": "per_abie",
+   "names": {
+    "display": "Abie Chaikin",
+    "given": "Abie",
+    "middle": null,
+    "formal": null,
+    "title": null,
+    "surname_birth": "Chaikin",
+    "hebrew": {
+     "full": null
+    }
+   },
+   "sex": {
+    "value": "unknown"
+   },
+   "living": {
+    "status": "presumed_living"
+   },
+   "generation": 1,
+   "generation_label": "Grandchildren",
+   "family_side": "both",
+   "relationship_to_focus": {
+    "label": "Child"
+   },
+   "relationships": {
+    "parent_ids": [
+     "per_shoshy",
+     "per_shmuel"
+    ],
+    "spouse_ids": [],
+    "child_ids": [],
+    "sibling_ids": [
+     "per_ella",
+     "per_mika"
+    ]
+   },
+   "life_events": {
+    "birth": {
+     "date": {
+      "value": null,
+      "precision": null,
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [],
+      "note": null
+     },
+     "place": null,
+     "source_ids": []
+    },
+    "death": null
+   },
+   "residences": [],
+   "occupations": [],
+   "facts": [],
+   "notes": [],
+   "ui": {
+    "initials": "AC"
+   },
+   "source_ids": [
+    "s_user_kids"
+   ]
+  },
+  {
+   "id": "per_mika",
+   "names": {
+    "display": "Mika Chaikin",
+    "given": "Mika",
+    "middle": null,
+    "formal": null,
+    "title": null,
+    "surname_birth": "Chaikin",
+    "hebrew": {
+     "full": null
+    }
+   },
+   "sex": {
+    "value": "unknown"
+   },
+   "living": {
+    "status": "presumed_living"
+   },
+   "generation": 1,
+   "generation_label": "Grandchildren",
+   "family_side": "both",
+   "relationship_to_focus": {
+    "label": "Child"
+   },
+   "relationships": {
+    "parent_ids": [
+     "per_shoshy",
+     "per_shmuel"
+    ],
+    "spouse_ids": [],
+    "child_ids": [],
+    "sibling_ids": [
+     "per_ella",
+     "per_abie"
+    ]
+   },
+   "life_events": {
+    "birth": {
+     "date": {
+      "value": null,
+      "precision": null,
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [],
+      "note": null
+     },
+     "place": null,
+     "source_ids": []
+    },
+    "death": null
+   },
+   "residences": [],
+   "occupations": [],
+   "facts": [],
+   "notes": [],
+   "ui": {
+    "initials": "MC"
+   },
+   "source_ids": [
+    "s_user_kids"
+   ]
+  },
+  {
+   "id": "per_yechiel",
+   "names": {
+    "display": "Yechiel Warszawski",
+    "given": "Yechiel",
+    "middle": null,
+    "formal": null,
+    "title": null,
+    "surname_birth": "Warszawski",
+    "hebrew": {
+     "full": "Yechiel Yaakov"
+    }
+   },
+   "sex": {
+    "value": "male"
+   },
+   "living": {
+    "status": "presumed_living"
+   },
+   "generation": 0,
+   "generation_label": "Shoshy's generation",
+   "family_side": "maternal",
+   "relationship_to_focus": {
+    "label": "Brother"
+   },
+   "relationships": {
+    "parent_ids": [
+     "per_joe",
+     "per_lori"
+    ],
+    "spouse_ids": [],
+    "child_ids": [],
+    "sibling_ids": [
+     "per_ilana",
+     "per_aliya",
+     "per_shoshy",
+     "per_shimon",
+     "per_chaya_brocha",
+     "per_hadassa",
+     "per_simcha",
+     "per_maimi"
+    ]
+   },
+   "life_events": {
+    "birth": {
+     "date": {
+      "value": null,
+      "precision": null,
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [],
+      "note": null
+     },
+     "place": null,
+     "source_ids": []
+    },
+    "death": null
+   },
+   "residences": [],
+   "occupations": [],
+   "facts": [
+    {
+     "field": "marital_status",
+     "value": "Single",
+     "source_ids": [
+      "s_user",
+      "s_user2"
+     ],
+     "kind": "user_stated",
+     "confidence": "high",
+     "note": null
+    },
+    {
+     "field": "work",
+     "value": "Worked at American Dream mall in New Jersey, 2019-2023.",
+     "source_ids": [
+      "s_family_knowledge"
+     ],
+     "kind": "user_stated",
+     "confidence": "medium",
+     "note": null
+    }
+   ],
+   "notes": [
+    "Single as of December 2024; no later status established."
+   ],
+   "ui": {
+    "initials": "YW"
+   },
+   "source_ids": [
+    "s_user",
+    "s_user2",
+    "s_family_knowledge"
+   ]
+  },
+  {
+   "id": "per_shimon",
+   "names": {
+    "display": "Shimon Warszawski",
+    "given": "Shimon",
+    "middle": "Sam",
+    "formal": null,
+    "title": null,
+    "surname_birth": "Warszawski",
+    "hebrew": {
+     "full": null
+    }
+   },
+   "sex": {
+    "value": "male"
+   },
+   "living": {
+    "status": "presumed_living"
+   },
+   "generation": 0,
+   "generation_label": "Shoshy's generation",
+   "family_side": "maternal",
+   "relationship_to_focus": {
+    "label": "Brother"
+   },
+   "relationships": {
+    "parent_ids": [
+     "per_joe",
+     "per_lori"
+    ],
+    "spouse_ids": [
+     "per_mushky"
+    ],
+    "child_ids": [
+     "per_shimon_baby"
+    ],
+    "sibling_ids": [
+     "per_ilana",
+     "per_aliya",
+     "per_shoshy",
+     "per_yechiel",
+     "per_chaya_brocha",
+     "per_hadassa",
+     "per_simcha",
+     "per_maimi"
+    ]
+   },
+   "life_events": {
+    "birth": {
+     "date": {
+      "value": null,
+      "precision": null,
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [],
+      "note": null
+     },
+     "place": null,
+     "source_ids": []
+    },
+    "death": null
+   },
+   "residences": [],
+   "occupations": [],
+   "facts": [
+    {
+     "field": "lchaim",
+     "value": "L'Chaim of Shimon Warszawski and Mushkie Chayempour (2019-01) - Lubavitch Yeshiva Hall, Crown Heights",
+     "source_ids": [
+      "s_col_chayempour"
+     ],
+     "kind": "public_record",
+     "confidence": "medium",
+     "note": "Month from the COLlive posting date (Jan 23, 2019)."
+    },
+    {
+     "field": "birth",
+     "value": "Baby girl born to Shimon and Mushkie Warszawski (2020-01-20) - Crown Heights",
+     "source_ids": [
+      "s_chi_baby2020"
+     ],
+     "kind": "public_record",
+     "confidence": "medium",
+     "note": "Date is the announcement date."
+    },
+    {
+     "field": "engagement",
+     "value": "Shimon Warszawski and Mushky Chayempour engagement announced January 12, 2019",
+     "source_ids": [
+      "s_collive_shimon_eng"
+     ],
+     "kind": "public_record",
+     "confidence": "high",
+     "note": null
+    },
+    {
+     "field": "profession",
+     "value": "Graduated law school in May 2024 and reported passing the bar in October 2024; associated with Cleveland.",
+     "source_ids": [
+      "s_family_knowledge"
+     ],
+     "kind": "user_stated",
+     "confidence": "high",
+     "note": null
+    }
+   ],
+   "notes": [],
+   "ui": {
+    "initials": "SW"
+   },
+   "source_ids": [
+    "s_user",
+    "s_col_chayempour",
+    "s_collive_shimon_eng",
+    "s_family_knowledge"
+   ]
+  },
+  {
+   "id": "per_mushky",
+   "names": {
+    "display": "Mushky Warszawski",
+    "given": "Mushky",
+    "middle": null,
+    "formal": null,
+    "title": null,
+    "surname_birth": "Chayempour",
+    "hebrew": {
+     "full": null
+    }
+   },
+   "sex": {
+    "value": "female"
+   },
+   "living": {
+    "status": "presumed_living"
+   },
+   "generation": 0,
+   "generation_label": "Shoshy's generation",
+   "family_side": "in_law",
+   "relationship_to_focus": {
+    "label": "Sister-in-law"
+   },
+   "relationships": {
+    "parent_ids": [],
+    "spouse_ids": [
+     "per_shimon"
+    ],
+    "child_ids": [
+     "per_shimon_baby"
+    ],
+    "sibling_ids": []
+   },
+   "life_events": {
+    "birth": {
+     "date": {
+      "value": null,
+      "precision": null,
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [],
+      "note": null
+     },
+     "place": null,
+     "source_ids": []
+    },
+    "death": null
+   },
+   "residences": [],
+   "occupations": [],
+   "facts": [
+    {
+     "field": "fact",
+     "value": "Maiden name Chayempour, of Toronto, Canada",
+     "source_ids": [
+      "s_col_chayempour",
+      "s_chi_baby2020"
+     ],
+     "kind": "public_record",
+     "confidence": "medium",
+     "note": "Matched on 'Shimon Warszawski of Cleveland' - please confirm."
+    },
+    {
+     "field": "lchaim",
+     "value": "L'Chaim of Shimon Warszawski and Mushkie Chayempour (2019-01) - Lubavitch Yeshiva Hall, Crown Heights",
+     "source_ids": [
+      "s_col_chayempour"
+     ],
+     "kind": "public_record",
+     "confidence": "medium",
+     "note": "Month from the COLlive posting date (Jan 23, 2019)."
+    },
+    {
+     "field": "birth",
+     "value": "Baby girl born to Shimon and Mushkie Warszawski (2020-01-20) - Crown Heights",
+     "source_ids": [
+      "s_chi_baby2020"
+     ],
+     "kind": "public_record",
+     "confidence": "medium",
+     "note": "Date is the announcement date."
+    },
+    {
+     "field": "engagement",
+     "value": "Shimon Warszawski and Mushky Chayempour engagement announced January 12, 2019",
+     "source_ids": [
+      "s_collive_shimon_eng"
+     ],
+     "kind": "public_record",
+     "confidence": "high",
+     "note": null
+    }
+   ],
+   "notes": [],
+   "ui": {
+    "initials": "MW"
+   },
+   "source_ids": [
+    "s_user",
+    "s_col_chayempour",
+    "s_chi_baby2020",
+    "s_collive_shimon_eng"
+   ]
+  },
+  {
+   "id": "per_shimon_baby",
+   "names": {
+    "display": "Baby girl (name not published)",
+    "given": "Baby",
+    "middle": null,
+    "formal": null,
+    "title": null,
+    "surname_birth": "Warszawski",
+    "hebrew": {
+     "full": null
+    }
+   },
+   "sex": {
+    "value": "female"
+   },
+   "living": {
+    "status": "presumed_living"
+   },
+   "generation": 1,
+   "generation_label": "Grandchildren",
+   "family_side": "maternal",
+   "relationship_to_focus": {
+    "label": "Niece"
+   },
+   "relationships": {
+    "parent_ids": [
+     "per_shimon",
+     "per_mushky"
+    ],
+    "spouse_ids": [],
+    "child_ids": [],
+    "sibling_ids": []
+   },
+   "life_events": {
+    "birth": {
+     "date": {
+      "value": null,
+      "precision": null,
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [
+       "s_chi_baby2020"
+      ],
+      "note": "A baby girl was announced January 20, 2020; birth date and place not confirmed."
+     },
+     "place": null,
+     "source_ids": [
+      "s_chi_baby2020"
+     ]
+    },
+    "death": null
+   },
+   "residences": [],
+   "occupations": [],
+   "facts": [],
+   "notes": [],
+   "ui": {
+    "initials": "B"
+   },
+   "source_ids": [
+    "s_chi_baby2020"
+   ]
+  },
+  {
+   "id": "per_chaya_brocha",
+   "names": {
+    "display": "Chaya Brocha Katz",
+    "given": "Chaya",
+    "middle": null,
+    "formal": null,
+    "title": null,
+    "surname_birth": "Warszawski",
+    "hebrew": {
+     "full": null
+    }
+   },
+   "sex": {
+    "value": "female"
+   },
+   "living": {
+    "status": "presumed_living"
+   },
+   "generation": 0,
+   "generation_label": "Shoshy's generation",
+   "family_side": "maternal",
+   "relationship_to_focus": {
+    "label": "Sister"
+   },
+   "relationships": {
+    "parent_ids": [
+     "per_joe",
+     "per_lori"
+    ],
+    "spouse_ids": [
+     "per_dovi"
+    ],
+    "child_ids": [
+     "per_katz_baby_2025"
+    ],
+    "sibling_ids": [
+     "per_ilana",
+     "per_aliya",
+     "per_shoshy",
+     "per_yechiel",
+     "per_shimon",
+     "per_hadassa",
+     "per_simcha",
+     "per_maimi"
+    ]
+   },
+   "life_events": {
+    "birth": {
+     "date": {
+      "value": null,
+      "precision": null,
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [],
+      "note": null
+     },
+     "place": null,
+     "source_ids": []
+    },
+    "death": null
+   },
+   "residences": [],
+   "occupations": [],
+   "facts": [
+    {
+     "field": "engagement",
+     "value": "Engagement of Dovi Katz and Chaya Warszawski; L'Chaim that night (2023-01-10) - Lubavitch Yeshiva, Crown Heights",
+     "source_ids": [
+      "s_col_katz_eng",
+      "s_anash_katz_lc",
+      "s_col_katz_lc"
+     ],
+     "kind": "public_record",
+     "confidence": "medium",
+     "note": null
+    },
+    {
+     "field": "wedding",
+     "value": "Wedding of Dovi Katz and Chaya Warszawski (2023-03-12) - Oholei Torah, Crown Heights",
+     "source_ids": [
+      "s_anash_katz_wed"
+     ],
+     "kind": "public_record",
+     "confidence": "high",
+     "note": "Wedding article names weekday and publication date; date corroborated by the validation report."
+    },
+    {
+     "field": "child",
+     "value": "Baby girl announced Dec 3, 2025; name not published",
+     "source_ids": [
+      "s_chi_katz_baby"
+     ],
+     "kind": "inference",
+     "confidence": "medium",
+     "note": "Page rendering garbled; very likely this couple, not certain."
+    }
+   ],
+   "notes": [
+    "Notices call her 'Chaya Warszawski'.",
+    "Public notices call her Chaya Warszawski; Brocha comes from the family account only."
+   ],
+   "ui": {
+    "initials": "CK"
+   },
+   "source_ids": [
+    "s_user",
+    "s_col_katz_eng",
+    "s_chi_katz_baby"
+   ]
+  },
+  {
+   "id": "per_dovi",
+   "names": {
+    "display": "Dovi Katz",
+    "given": "Dovi",
+    "middle": null,
+    "formal": null,
+    "title": null,
+    "surname_birth": "Katz",
+    "hebrew": {
+     "full": null
+    }
+   },
+   "sex": {
+    "value": "male"
+   },
+   "living": {
+    "status": "presumed_living"
+   },
+   "generation": 0,
+   "generation_label": "Shoshy's generation",
+   "family_side": "in_law",
+   "relationship_to_focus": {
+    "label": "Brother-in-law"
+   },
+   "relationships": {
+    "parent_ids": [],
+    "spouse_ids": [
+     "per_chaya_brocha"
+    ],
+    "child_ids": [
+     "per_katz_baby_2025"
+    ],
+    "sibling_ids": []
+   },
+   "life_events": {
+    "birth": {
+     "date": {
+      "value": null,
+      "precision": null,
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [],
+      "note": null
+     },
+     "place": null,
+     "source_ids": []
+    },
+    "death": null
+   },
+   "residences": [],
+   "occupations": [],
+   "facts": [
+    {
+     "field": "fact",
+     "value": "From Crown Heights",
+     "source_ids": [
+      "s_col_katz_eng",
+      "s_anash_katz_wed"
+     ],
+     "kind": "public_record",
+     "confidence": "medium",
+     "note": null
+    },
+    {
+     "field": "engagement",
+     "value": "Engagement of Dovi Katz and Chaya Warszawski; L'Chaim that night (2023-01-10) - Lubavitch Yeshiva, Crown Heights",
+     "source_ids": [
+      "s_col_katz_eng",
+      "s_anash_katz_lc",
+      "s_col_katz_lc"
+     ],
+     "kind": "public_record",
+     "confidence": "medium",
+     "note": null
+    },
+    {
+     "field": "wedding",
+     "value": "Wedding of Dovi Katz and Chaya Warszawski (2023-03-12) - Oholei Torah, Crown Heights",
+     "source_ids": [
+      "s_anash_katz_wed"
+     ],
+     "kind": "public_record",
+     "confidence": "high",
+     "note": "Wedding article names weekday and publication date; date corroborated by the validation report."
+    },
+    {
+     "field": "child",
+     "value": "Baby girl announced Dec 3, 2025; name not published",
+     "source_ids": [
+      "s_chi_katz_baby"
+     ],
+     "kind": "inference",
+     "confidence": "medium",
+     "note": "Page rendering garbled; very likely this couple, not certain."
+    }
+   ],
+   "notes": [],
+   "ui": {
+    "initials": "DK"
+   },
+   "source_ids": [
+    "s_user",
+    "s_col_katz_eng",
+    "s_chi_katz_baby"
+   ]
+  },
+  {
+   "id": "per_hadassa",
+   "names": {
+    "display": "Hadassa Miriam Hirsch",
+    "given": "Hadassa",
+    "middle": null,
+    "formal": null,
+    "title": null,
+    "surname_birth": "Warszawski",
+    "hebrew": {
+     "full": null
+    }
+   },
+   "sex": {
+    "value": "female"
+   },
+   "living": {
+    "status": "presumed_living"
+   },
+   "generation": 0,
+   "generation_label": "Shoshy's generation",
+   "family_side": "maternal",
+   "relationship_to_focus": {
+    "label": "Sister"
+   },
+   "relationships": {
+    "parent_ids": [
+     "per_joe",
+     "per_lori"
+    ],
+    "spouse_ids": [
+     "per_doni"
+    ],
+    "child_ids": [],
+    "sibling_ids": [
+     "per_ilana",
+     "per_aliya",
+     "per_shoshy",
+     "per_yechiel",
+     "per_shimon",
+     "per_chaya_brocha",
+     "per_simcha",
+     "per_maimi"
+    ]
+   },
+   "life_events": {
+    "birth": {
+     "date": {
+      "value": "2000-04-15",
+      "precision": "day",
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [
+       "s_family_knowledge"
+      ],
+      "note": null
+     },
+     "place": null,
+     "source_ids": [
+      "s_family_knowledge"
+     ]
+    },
+    "death": null
+   },
+   "residences": [],
+   "occupations": [],
+   "facts": [
+    {
+     "field": "fact",
+     "value": "Called 'Dassi Warszawski' in the notices",
+     "source_ids": [
+      "s_chi_hirsch_eng",
+      "s_anash_hirsch_lc"
+     ],
+     "kind": "inference",
+     "confidence": "medium",
+     "note": "Dassi taken as short for Hadassa."
+    },
+    {
+     "field": "engagement",
+     "value": "Engagement of Daniel (Donni) Hirsch and Dassi Warszawski; L'Chaim that night (2022-11-06) - Ulam Chana Hall (Machon Chana), Crown Heights",
+     "source_ids": [
+      "s_chi_hirsch_eng",
+      "s_anash_hirsch_lc",
+      "s_col_hirsch_lc"
+     ],
+     "kind": "public_record",
+     "confidence": "medium",
+     "note": null
+    },
+    {
+     "field": "wedding",
+     "value": "Wedding of Daniel Hirsch and Dassi Warszwaski (2023-02-02) - Oholei Torah Ballroom, Crown Heights",
+     "source_ids": [
+      "s_anash_hirsch_wed"
+     ],
+     "kind": "public_record",
+     "confidence": "high",
+     "note": "Wedding article names weekday and publication date; date corroborated by the validation report."
+    }
+   ],
+   "notes": [
+    "Called Dassi by family; born April 15, 2000, per anniversary/birthday messages."
+   ],
+   "ui": {
+    "initials": "HH"
+   },
+   "source_ids": [
+    "s_user",
+    "s_chi_hirsch_eng",
+    "s_family_knowledge"
+   ]
+  },
+  {
+   "id": "per_doni",
+   "names": {
+    "display": "Doni Hirsch",
+    "given": "Doni",
+    "middle": null,
+    "formal": "Daniel Hirsch",
+    "title": null,
+    "surname_birth": "Hirsch",
+    "hebrew": {
+     "full": null
+    }
+   },
+   "sex": {
+    "value": "male"
+   },
+   "living": {
+    "status": "presumed_living"
+   },
+   "generation": 0,
+   "generation_label": "Shoshy's generation",
+   "family_side": "in_law",
+   "relationship_to_focus": {
+    "label": "Brother-in-law"
+   },
+   "relationships": {
+    "parent_ids": [],
+    "spouse_ids": [
+     "per_hadassa"
+    ],
+    "child_ids": [],
+    "sibling_ids": []
+   },
+   "life_events": {
+    "birth": {
+     "date": {
+      "value": null,
+      "precision": null,
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [],
+      "note": null
+     },
+     "place": null,
+     "source_ids": []
+    },
+    "death": null
+   },
+   "residences": [],
+   "occupations": [],
+   "facts": [
+    {
+     "field": "fact",
+     "value": "From Coral Springs, Florida; named 'Daniel' and 'Donni' in the notices",
+     "source_ids": [
+      "s_chi_hirsch_eng",
+      "s_anash_hirsch_lc",
+      "s_anash_hirsch_wed"
+     ],
+     "kind": "public_record",
+     "confidence": "medium",
+     "note": "Matched on the couple's names plus Cleveland - please confirm."
+    },
+    {
+     "field": "engagement",
+     "value": "Engagement of Daniel (Donni) Hirsch and Dassi Warszawski; L'Chaim that night (2022-11-06) - Ulam Chana Hall (Machon Chana), Crown Heights",
+     "source_ids": [
+      "s_chi_hirsch_eng",
+      "s_anash_hirsch_lc",
+      "s_col_hirsch_lc"
+     ],
+     "kind": "public_record",
+     "confidence": "medium",
+     "note": null
+    },
+    {
+     "field": "wedding",
+     "value": "Wedding of Daniel Hirsch and Dassi Warszwaski (2023-02-02) - Oholei Torah Ballroom, Crown Heights",
+     "source_ids": [
+      "s_anash_hirsch_wed"
+     ],
+     "kind": "public_record",
+     "confidence": "high",
+     "note": "Wedding article names weekday and publication date; date corroborated by the validation report."
+    }
+   ],
+   "notes": [],
+   "ui": {
+    "initials": "DH"
+   },
+   "source_ids": [
+    "s_user",
+    "s_chi_hirsch_eng",
+    "s_family_knowledge"
+   ]
+  },
+  {
+   "id": "per_simcha",
+   "names": {
+    "display": "Simcha Warszawski",
+    "given": "Simcha",
+    "middle": null,
+    "formal": null,
+    "title": null,
+    "surname_birth": "Warszawski",
+    "hebrew": {
+     "full": "Simcha Sora Chia"
+    }
+   },
+   "sex": {
+    "value": "female"
+   },
+   "living": {
+    "status": "presumed_living"
+   },
+   "generation": 0,
+   "generation_label": "Shoshy's generation",
+   "family_side": "maternal",
+   "relationship_to_focus": {
+    "label": "Sister"
+   },
+   "relationships": {
+    "parent_ids": [
+     "per_joe",
+     "per_lori"
+    ],
+    "spouse_ids": [],
+    "child_ids": [],
+    "sibling_ids": [
+     "per_ilana",
+     "per_aliya",
+     "per_shoshy",
+     "per_yechiel",
+     "per_shimon",
+     "per_chaya_brocha",
+     "per_hadassa",
+     "per_maimi"
+    ]
+   },
+   "life_events": {
+    "birth": {
+     "date": {
+      "value": null,
+      "precision": null,
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [],
+      "note": null
+     },
+     "place": null,
+     "source_ids": []
+    },
+    "death": null
+   },
+   "residences": [],
+   "occupations": [],
+   "facts": [
+    {
+     "field": "work",
+     "value": "Nurse; graduated from nursing school around late 2023.",
+     "source_ids": [
+      "s_family_knowledge"
+     ],
+     "kind": "user_stated",
+     "confidence": "medium",
+     "note": null
+    }
+   ],
+   "notes": [
+    "Daughter of Joe and Lori. The family uses both Chia and Chana in records; no legal-name choice is made here."
+   ],
+   "ui": {
+    "initials": "SW"
+   },
+   "source_ids": [
+    "s_user",
+    "s_family_knowledge"
+   ]
+  },
+  {
+   "id": "per_maimi",
+   "names": {
+    "display": "Maimi Inglis",
+    "given": "Maimi",
+    "middle": null,
+    "formal": null,
+    "title": null,
+    "surname_birth": "Warszawski",
+    "hebrew": {
+     "full": null
+    }
+   },
+   "sex": {
+    "value": "female"
+   },
+   "living": {
+    "status": "presumed_living"
+   },
+   "generation": 0,
+   "generation_label": "Shoshy's generation",
+   "family_side": "maternal",
+   "relationship_to_focus": {
+    "label": "Sister"
+   },
+   "relationships": {
+    "parent_ids": [
+     "per_joe",
+     "per_lori"
+    ],
+    "spouse_ids": [
+     "per_dovid"
+    ],
+    "child_ids": [],
+    "sibling_ids": [
+     "per_ilana",
+     "per_aliya",
+     "per_shoshy",
+     "per_yechiel",
+     "per_shimon",
+     "per_chaya_brocha",
+     "per_hadassa",
+     "per_simcha"
+    ]
+   },
+   "life_events": {
+    "birth": {
+     "date": {
+      "value": null,
+      "precision": null,
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [],
+      "note": null
+     },
+     "place": null,
+     "source_ids": []
+    },
+    "death": null
+   },
+   "residences": [],
+   "occupations": [],
+   "facts": [
+    {
+     "field": "engagement",
+     "value": "Engagement: Dovid Englis (London) to Maimi Warszawski (Crown Heights) (date not published)",
+     "source_ids": [
+      "s_ci_inglis"
+     ],
+     "kind": "public_record",
+     "confidence": "medium",
+     "note": "Listed on ChabadInfo; date not shown."
+    },
+    {
+     "field": "engagement",
+     "value": "Maimi Warszawski and Dovid Inglis engagement announced December 28, 2018",
+     "source_ids": [
+      "s_collive_inglis_eng"
+     ],
+     "kind": "public_record",
+     "confidence": "high",
+     "note": "COLlive spells Inglis; ChabadInfo spells Englis."
+    }
+   ],
+   "notes": [],
+   "ui": {
+    "initials": "MI"
+   },
+   "source_ids": [
+    "s_user2",
+    "s_ci_inglis",
+    "s_collive_inglis_eng"
+   ]
+  },
+  {
+   "id": "per_dovid",
+   "names": {
+    "display": "Dovid Inglis",
+    "given": "Dovid",
+    "middle": null,
+    "formal": null,
+    "title": null,
+    "surname_birth": "Inglis",
+    "hebrew": {
+     "full": null
+    }
+   },
+   "sex": {
+    "value": "male"
+   },
+   "living": {
+    "status": "presumed_living"
+   },
+   "generation": 0,
+   "generation_label": "Shoshy's generation",
+   "family_side": "in_law",
+   "relationship_to_focus": {
+    "label": "Brother-in-law"
+   },
+   "relationships": {
+    "parent_ids": [],
+    "spouse_ids": [
+     "per_maimi"
+    ],
+    "child_ids": [],
+    "sibling_ids": []
+   },
+   "life_events": {
+    "birth": {
+     "date": {
+      "value": null,
+      "precision": null,
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [],
+      "note": null
+     },
+     "place": null,
+     "source_ids": []
+    },
+    "death": null
+   },
+   "residences": [],
+   "occupations": [],
+   "facts": [
+    {
+     "field": "fact",
+     "value": "From London, England; spelled 'Englis' in the notice",
+     "source_ids": [
+      "s_ci_inglis"
+     ],
+     "kind": "public_record",
+     "confidence": "medium",
+     "note": "Matched on names - please confirm."
+    },
+    {
+     "field": "engagement",
+     "value": "Engagement: Dovid Englis (London) to Maimi Warszawski (Crown Heights) (date not published)",
+     "source_ids": [
+      "s_ci_inglis"
+     ],
+     "kind": "public_record",
+     "confidence": "medium",
+     "note": "Listed on ChabadInfo; date not shown."
+    },
+    {
+     "field": "engagement",
+     "value": "Maimi Warszawski and Dovid Inglis engagement announced December 28, 2018",
+     "source_ids": [
+      "s_collive_inglis_eng"
+     ],
+     "kind": "public_record",
+     "confidence": "high",
+     "note": "COLlive spells Inglis; ChabadInfo spells Englis."
+    }
+   ],
+   "notes": [],
+   "ui": {
+    "initials": "DI"
+   },
+   "source_ids": [
+    "s_user2",
+    "s_ci_inglis",
+    "s_collive_inglis_eng"
+   ]
+  },
+  {
+   "id": "per_katz_baby_2025",
+   "names": {
+    "display": "Baby girl (name not published)",
+    "given": "(name not published)",
+    "middle": null,
+    "formal": null,
+    "title": null,
+    "surname_birth": "Katz",
+    "hebrew": {
+     "full": null
+    }
+   },
+   "sex": {
+    "value": "female"
+   },
+   "living": {
+    "status": "presumed_living"
+   },
+   "generation": 1,
+   "generation_label": "Grandchildren",
+   "family_side": "maternal",
+   "relationship_to_focus": {
+    "label": "Niece"
+   },
+   "relationships": {
+    "parent_ids": [
+     "per_chaya_brocha",
+     "per_dovi"
+    ],
+    "spouse_ids": [],
+    "child_ids": [],
+    "sibling_ids": []
+   },
+   "life_events": {
+    "birth": {
+     "date": {
+      "value": null,
+      "precision": null,
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [
+       "s_chi_katz_baby"
+      ],
+      "note": "Baby announcement December 3, 2025; date of birth unknown. Identity match very likely, page rendering garbled."
+     },
+     "place": null,
+     "source_ids": [
+      "s_chi_katz_baby"
+     ]
+    },
+    "death": null
+   },
+   "residences": [],
+   "occupations": [],
+   "facts": [],
+   "notes": [
+    "Tentative identity match to a public baby girl announcement (Dec 3, 2025); the notice renders garbled. The name and exact birth date were not published. Confirm this family match before treating as a proved grandchild."
+   ],
+   "ui": {
+    "initials": "BK"
+   },
+   "source_ids": [
+    "s_chi_katz_baby"
+   ]
+  },
+  {
+   "id": "per_shimon_elder",
+   "names": {
+    "display": "Szyman (Shimon) Warszawski",
+    "given": "Szyman",
+    "middle": null,
+    "formal": null,
+    "title": null,
+    "surname_birth": "Warszawski",
+    "hebrew": {
+     "full": "Shimon ben Zisl"
+    }
+   },
+   "sex": {
+    "value": "male"
+   },
+   "living": {
+    "status": "deceased"
+   },
+   "generation": -2,
+   "generation_label": "Grandparents",
+   "family_side": "maternal",
+   "relationship_to_focus": {
+    "label": "Grandfather"
+   },
+   "relationships": {
+    "parent_ids": [],
+    "spouse_ids": [
+     "per_bertha"
+    ],
+    "child_ids": [
+     "per_joe"
+    ],
+    "sibling_ids": []
+   },
+   "life_events": {
+    "birth": {
+     "date": {
+      "value": "1918-04-01",
+      "precision": "day",
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [
+       "s_numident_szymon_index"
+      ],
+      "note": "FamilySearch NUMIDENT index only, not inspected original SS-5 or birth record."
+     },
+     "place": null,
+     "source_ids": [
+      "s_numident_szymon_index"
+     ]
+    },
+    "death": {
+     "date": {
+      "value": "1995-07-18",
+      "precision": "day",
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [
+       "s_cjn_1995_szyman"
+      ],
+      "note": "Obituary in Aug. 18 issue states he died July 18."
+     },
+     "place": null,
+     "source_ids": [
+      "s_cjn_1995_szyman"
+     ]
+    },
+    "burial": {
+     "date": {
+      "value": "1995-07-19",
+      "precision": "day",
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [
+       "s_jowbr_sam_warszawski"
+      ],
+      "note": "JOWBR interment date, day after the July 18 death in the obituary."
+     },
+     "place": {
+      "label": "Zion Memorial Park Cemetery, Bedford OH - Plot 6-6-111",
+      "geo": null
+     },
+     "source_ids": [
+      "s_jowbr_sam_warszawski"
+     ]
+    }
+   },
+   "residences": [],
+   "occupations": [],
+   "facts": [
+    {
+     "field": "family",
+     "value": "Family account identifies brother Binyamin. A Social Security NUMIDENT index lists parents Joseph Warszavski and Rochel Goldberg, pending original-document confirmation.",
+     "source_ids": [
+      "s_family_knowledge",
+      "s_numident_szymon_index"
+     ],
+     "kind": "user_stated",
+     "confidence": "medium",
+     "note": "Parent names and spellings derive from an index, not viewed original SS-5."
+    },
+    {
+     "field": "occupation",
+     "value": "Owned Mayflower Tailoring Co. at Cedar-Center for 25 years; retired around 1988.",
+     "source_ids": [
+      "s_cjn_1995_szyman"
+     ],
+     "kind": "public_record",
+     "confidence": "high",
+     "note": "The retirement year is calculated from “seven years ago” in a 1995 obituary."
+    },
+    {
+     "field": "migration",
+     "value": "Born in Poland, lived in Russia during World War II, immigrated to Cleveland in 1962.",
+     "source_ids": [
+      "s_cjn_1995_szyman"
+     ],
+     "kind": "public_record",
+     "confidence": "high",
+     "note": null
+    },
+    {
+     "field": "indexed_birth_and_parents",
+     "value": "FamilySearch NUMIDENT index gives birth April 1, 1918 in Warsaw, Poland, and names parents Joseph Warszavski and Rochel Goldberg.",
+     "source_ids": [
+      "s_numident_szymon_index"
+     ],
+     "kind": "public_record",
+     "confidence": "medium",
+     "note": "Derivative index extraction; not yet checked against SS-5 or birth register. Death date agrees with contemporaneous obituary. No parent nodes have been added."
+    },
+    {
+     "field": "burial_plot",
+     "value": "JOWBR: buried 19-Jul-1995, Plot 6-6-111, Zion Memorial Park Cemetery, Bedford OH - adjacent to Mordukh Zelkind at 6-6-110.",
+     "kind": "public_record",
+     "confidence": "high",
+     "source_ids": [
+      "s_jowbr_sam_warszawski"
+     ],
+     "note": null
+    },
+    {
+     "field": "headstone",
+     "value": "Headstone (FindAGrave 273716163): 'Beloved Husband, Father - Grandfather / SZYMAN WARSZAWSKI / Shimon ben Zisl / 1918-1995'. The Hebrew patronymic names his father as ZISL - this CONFLICTS with the Social Security NUMIDENT index parents Joseph Warszavski and Rochel Goldberg; both are kept visible pending an original record.",
+     "kind": "public_record",
+     "confidence": "high",
+     "source_ids": [
+      "s_fag_szyman_stone"
+     ],
+     "note": "A stone inscription is a primary record; the NUMIDENT entry is an uninspected index. Neither is dropped."
+    },
+    {
+     "field": "familysearch_profile",
+     "value": "FamilySearch public tree profile P37L-ZSH exists for Szyman; user-contributed, lead-level only.",
+     "kind": "public_record",
+     "confidence": "low",
+     "source_ids": [
+      "s_fs_tree_p37lzsh"
+     ],
+     "note": null
+    },
+    {
+     "field": "father_name_conflict",
+     "value": "The NUMIDENT index names his parents Joseph Warszavski and Rochel Goldberg, while his headstone reads 'Shimon ben Zisl'. One reconciliation is a double name (Zisl-Joseph) - possible but unproven; the conflict stays open until an original SS-5 or Warsaw birth record is found.",
+     "kind": "public_record",
+     "confidence": "medium",
+     "source_ids": [
+      "s_numident_szymon_index",
+      "s_fag_szyman_stone"
+     ],
+     "note": "Conflict preserved, both versions attributed."
+    },
+    {
+     "field": "namesake_inference",
+     "value": "Joe (Yosef Yitzchak ben Shimon, d. 22 Shevat 5777) is plausibly named for this grandfather Joseph - consistent with the NUMIDENT index but not proof of it.",
+     "kind": "inference",
+     "confidence": "low",
+     "source_ids": [
+      "s_numident_szymon_index",
+      "s_fag_joe_stone"
+     ],
+     "note": "Inference; depends on the unconfirmed index parents."
+    },
+    {
+     "field": "familysearch_tree_parents",
+     "value": "The 'Genealogy Karen' public tree carries bare profiles for his indexed parents Joseph Warszavski (GT53-LHT) and Rochel Goldberg (GT53-C2M) - no dates or places; nothing new beyond the NUMIDENT index.",
+     "kind": "public_record",
+     "confidence": "low",
+     "source_ids": [
+      "s_fs_tree_gt53"
+     ],
+     "note": "Lead-level only."
+    }
+   ],
+   "notes": [
+    "Known as Zaidie Shymon in the family. From the Khust/Transylvania region; family recalled returning to Poland after WWII, where Joe was born. Exact dates and full wartime route unknown.",
+    "Szyman (1995 obituary), Szymon (1988 birth notice), Shimon/Shymon and Sam are recorded variants for the same elder, not his grandson.",
+    "The NUMIDENT index gives precise Warsaw birth and parents Joseph Warszavski and Rochel Goldberg; they remain index-level leads pending an original record. A post-1995 residence hit is stale and excluded.",
+    "His photographed headstone reads 'Shimon ben Zisl' - father Zisl. This conflicts with the NUMIDENT index parents (Joseph Warszavski and Rochel Goldberg); the conflict stays open until an original SS-5 or birth record is seen.",
+    "Possible double name Zisl-Joseph would reconcile the headstone patronymic with the NUMIDENT parents; unproven. FamilySearch public tree profile P37L-ZSH logged as a lead."
+   ],
+   "ui": {
+    "initials": "SW"
+   },
+   "source_ids": [
+    "s_family_knowledge",
+    "s_cjn_1995_szyman",
+    "s_cjn_1988_ilana",
+    "s_cjn_1972_joe_bar",
+    "s_numident_szymon_index",
+    "s_fs_tree_p37lzsh",
+    "s_fs_tree_gt53"
+   ]
+  },
+  {
+   "id": "per_mordechai_zelkind",
+   "names": {
+    "display": "Mordechi (Mordechai) Zelkind",
+    "given": "Mordechai",
+    "middle": null,
+    "formal": null,
+    "title": null,
+    "surname_birth": "Zelkind",
+    "hebrew": {
+     "full": null
+    }
+   },
+   "sex": {
+    "value": "male"
+   },
+   "living": {
+    "status": "unknown"
+   },
+   "generation": -3,
+   "generation_label": "Great-grandparents",
+   "family_side": "maternal",
+   "relationship_to_focus": {
+    "label": "Great-grandfather"
+   },
+   "relationships": {
+    "parent_ids": [],
+    "spouse_ids": [
+     "per_elka_zelkind"
+    ],
+    "child_ids": [
+     "per_bertha"
+    ],
+    "sibling_ids": []
+   },
+   "life_events": {
+    "birth": {
+     "date": {
+      "value": null,
+      "precision": null,
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [],
+      "note": null
+     },
+     "place": null,
+     "source_ids": []
+    },
+    "death": null,
+    "burial": {
+     "date": {
+      "value": "1996-09-25",
+      "precision": "day",
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [
+       "s_jowbr_mordukh_zelkind",
+       "s_zion_cemetery_register_2026"
+      ],
+      "note": "JOWBR and the cemetery register agree."
+     },
+     "place": {
+      "label": "Zion Memorial Park Cemetery, Bedford OH - Plot 6-6-110",
+      "geo": null
+     },
+     "source_ids": [
+      "s_jowbr_mordukh_zelkind",
+      "s_zion_cemetery_register_2026"
+     ]
+    }
+   },
+   "residences": [],
+   "occupations": [],
+   "facts": [
+    {
+     "field": "family",
+     "value": "The 1997 monument notice calls him husband of Elka and father of Berta, Gala, Tzila and Masha.",
+     "source_ids": [
+      "s_cjn_1997_zelkind"
+     ],
+     "kind": "public_record",
+     "confidence": "high",
+     "note": "Do not infer sisters’ birth order, their spouses, or which grandchild belongs to which daughter."
+    },
+    {
+     "field": "cemetery_interment",
+     "value": "Zion Memorial Park register lists MORDUKH Zelkind interred September 25, 1996, section Z6 row 6 grave 110. The cemetery listing is an interment date, not a death date.",
+     "source_ids": [
+      "s_zion_cemetery_register_2026"
+     ],
+     "kind": "public_record",
+     "confidence": "high",
+     "note": "Name and cemetery placement read directly from the cemetery-operated register; correlate with other evidence before treating names as full identity."
+    },
+    {
+     "field": "headstone_years",
+     "value": "Photographed stone appears to read MORDUKH ZELKIND, 1912-1996, with a portrait photograph.",
+     "source_ids": [
+      "s_billiongraves_mordukh_stone"
+     ],
+     "kind": "public_record",
+     "confidence": "medium",
+     "note": "Low-resolution site image; year-level only, not full dates."
+    },
+    {
+     "field": "family_notice",
+     "value": "The 1996 death notice names wife Elka (nee Kogen), daughters Bertha Warshawsky, Gail Zelkind, Maria Komisarchik and Celya Elin, and grandson Joseph Warshawsky.",
+     "source_ids": [
+      "s_pd_1996_mordukh"
+     ],
+     "kind": "public_record",
+     "confidence": "high",
+     "note": "The notice does not state Mordukh’s date of death; names differ from the 1997 CJN monument notice."
+    },
+    {
+     "field": "plot_adjacency",
+     "value": "JOWBR places Mordukh at Plot 6-6-110, directly adjacent to Sam (Szyman) Warszawski at 6-6-111 - the two families buried side by side.",
+     "kind": "public_record",
+     "confidence": "high",
+     "source_ids": [
+      "s_jowbr_mordukh_zelkind",
+      "s_jowbr_sam_warszawski"
+     ],
+     "note": null
+    },
+    {
+     "field": "obituary_1996_verbatim",
+     "value": "Plain Dealer, Sep 25 1996: 'MORDUKH ZELKIND, beloved husband of Elka (nee Kogen), devoted father of Bertha Warshawsky, Gail Zelkind, Maria Komisarchik (Isaak) and Celya Elin (Matvey), loving grandfather of Joseph Warshawsky, Dimitry and Kira Komisarchik, Inna and Boris Elin, great grandfather of seven... Interment Zion Memorial Park. Family at the Zelkind residence, 2190 Ambleside Rd. #1010, Cleveland.' Confirms Elka nee Kogen and Joe Warszawski as Mordukh's grandson.",
+     "kind": "public_record",
+     "confidence": "high",
+     "source_ids": [
+      "s_pd_1996_mordukh"
+     ],
+     "note": null
+    }
+   ],
+   "notes": [
+    "Bertha’s father, according to the family.",
+    "Mordechi is the printed 1997 form; Mordechai is the family form. The Sept. 7 monument date is not a death date."
+   ],
+   "ui": {
+    "initials": "MZ"
+   },
+   "source_ids": [
+    "s_family_knowledge",
+    "s_cjn_1997_zelkind",
+    "s_cjn_1988_ilana",
+    "s_zion_cemetery_register_2026",
+    "s_billiongraves_mordukh_stone",
+    "s_pd_1996_mordukh"
+   ]
+  },
+  {
+   "id": "per_elka_zelkind",
+   "names": {
+    "display": "Elka Zelkind",
+    "given": "Elka",
+    "middle": null,
+    "formal": null,
+    "title": null,
+    "surname_birth": "Kogen",
+    "hebrew": {
+     "full": null
+    },
+    "surname_birth_known": true
+   },
+   "sex": {
+    "value": "female"
+   },
+   "living": {
+    "status": "unknown"
+   },
+   "generation": -3,
+   "generation_label": "Great-grandparents",
+   "family_side": "maternal",
+   "relationship_to_focus": {
+    "label": "Great-grandmother"
+   },
+   "relationships": {
+    "parent_ids": [],
+    "spouse_ids": [
+     "per_mordechai_zelkind"
+    ],
+    "child_ids": [
+     "per_bertha"
+    ],
+    "sibling_ids": []
+   },
+   "life_events": {
+    "birth": {
+     "date": {
+      "value": "1913-11-12",
+      "precision": "day",
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [
+       "s_numident_elka_index"
+      ],
+      "note": "NUMIDENT derivative index gives Nov 12, 1913; a likely matching stone appears to give 1914-2005. Birth year disputed; original SS-5/birth record and clearer stone photo needed."
+     },
+     "place": null,
+     "source_ids": [
+      "s_numident_elka_index"
+     ]
+    },
+    "death": {
+     "date": {
+      "value": "2005-03-14",
+      "precision": "day",
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [
+       "s_numident_elka_index"
+      ],
+      "note": "NUMIDENT derivative index, not original death certificate."
+     },
+     "place": null,
+     "source_ids": [
+      "s_numident_elka_index"
+     ]
+    },
+    "burial": {
+     "date": {
+      "value": "2005-03-16",
+      "precision": "day",
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [
+       "s_jowbr_elka_zelkind",
+       "s_zion_cemetery_register_2026"
+      ],
+      "note": null
+     },
+     "place": {
+      "label": "Zion Memorial Park Cemetery, Bedford OH - Plot 6-4-110",
+      "geo": null
+     },
+     "source_ids": [
+      "s_jowbr_elka_zelkind",
+      "s_zion_cemetery_register_2026"
+     ]
+    }
+   },
+   "residences": [],
+   "occupations": [],
+   "facts": [
+    {
+     "field": "indexed_origin_and_parents",
+     "value": "An indexed Social Security NUMIDENT entry for Elka Kagan Zelkind lists Bobruisk (indexed Bubruysk) as birthplace and parents Isac Kaga and Tsilya Gershon.",
+     "source_ids": [
+      "s_numident_elka_index"
+     ],
+     "kind": "public_record",
+     "confidence": "medium",
+     "note": "Index-level lead; maiden surname and parent spellings await the original SS-5, birth or marriage record. The 1913 \"Soviet Union\" place label is anachronistic. A separate Ohio death index uses Kogan for paternal surname."
+    },
+    {
+     "field": "cemetery_interment",
+     "value": "Zion Memorial Park register lists ELKA Zelkind interred March 16, 2005, section Z6 row 4 grave 110. This agrees with a separate March 14 death index, but the interment date is not itself a death date.",
+     "source_ids": [
+      "s_zion_cemetery_register_2026"
+     ],
+     "kind": "public_record",
+     "confidence": "high",
+     "note": "Name and cemetery placement read directly from the cemetery-operated register; correlate with other evidence before treating names as full identity."
+    },
+    {
+     "field": "headstone_year_conflict",
+     "value": "A Zion Memorial Park stone photographed with a portrait appears to read ELKA ZELKIND, 1914-2005, conflicting with a NUMIDENT index’s November 12, 1913 birth date.",
+     "source_ids": [
+      "s_billiongraves_elka_stone",
+      "s_numident_elka_index"
+     ],
+     "kind": "public_record",
+     "confidence": "medium",
+     "note": "BillionGraves index misrenders surname Zelkino; image identification and finer inscription need close-up confirmation. Canonical birth date remains indexed and flagged as disputed."
+    },
+    {
+     "field": "birth_surname_in_notice",
+     "value": "Kogen is printed as Elka’s maiden surname in her husband’s 1996 notice.",
+     "source_ids": [
+      "s_pd_1996_mordukh"
+     ],
+     "kind": "public_record",
+     "confidence": "high",
+     "note": "NUMIDENT derivative gives Kagan/Kaga; Ohio index reportedly Kogan. Do not select one legal spelling without original records."
+    }
+   ],
+   "notes": [
+    "Kagan and Kaga appear on the NUMIDENT index; Ohio death index reportedly uses Kogan. Do not select a definitive birth surname until an original record is checked.",
+    "Her husband’s 1996 notice prints nee Kogen. Kagan/Kaga (NUMIDENT derivative) and Kogan (reported Ohio index) remain separate spellings to reconcile."
+   ],
+   "ui": {
+    "initials": "EZ"
+   },
+   "source_ids": [
+    "s_family_knowledge",
+    "s_cjn_1997_zelkind",
+    "s_numident_elka_index",
+    "s_zion_cemetery_register_2026",
+    "s_billiongraves_elka_stone",
+    "s_pd_1996_mordukh"
+   ]
+  },
+  {
+   "id": "per_susanne_greenberg",
+   "names": {
+    "display": "Susanne Greenberg",
+    "given": "Susanne",
+    "middle": null,
+    "formal": null,
+    "title": null,
+    "surname_birth": "Greenberg",
+    "hebrew": {
+     "full": null
+    }
+   },
+   "sex": {
+    "value": "female"
+   },
+   "living": {
+    "status": "presumed_living"
+   },
+   "generation": -1,
+   "generation_label": "Shoshy's generation",
+   "family_side": "maternal",
+   "relationship_to_focus": {
+    "label": "Aunt"
+   },
+   "relationships": {
+    "parent_ids": [
+     "per_larry",
+     "per_shaina"
+    ],
+    "spouse_ids": [
+     "per_seth_greenberg"
+    ],
+    "child_ids": [],
+    "sibling_ids": [
+     "per_lori",
+     "per_marcy_hirsch"
+    ]
+   },
+   "life_events": {
+    "birth": {
+     "date": {
+      "value": null,
+      "precision": null,
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [],
+      "note": null
+     },
+     "place": null,
+     "source_ids": []
+    },
+    "death": null
+   },
+   "residences": [],
+   "occupations": [],
+   "facts": [
+    {
+     "field": "family",
+     "value": "Married Seth Greenberg; formerly Cleveland, later Alabama, per family report.",
+     "source_ids": [
+      "s_family_knowledge"
+     ],
+     "kind": "user_stated",
+     "confidence": "medium",
+     "note": null
+    },
+    {
+     "field": "children",
+     "value": "Two children; their names and ages are withheld pending a public-audience decision.",
+     "source_ids": [
+      "s_family_knowledge"
+     ],
+     "kind": "user_stated",
+     "confidence": "high",
+     "note": null
+    }
+   ],
+   "notes": [],
+   "ui": {
+    "initials": "SG"
+   },
+   "source_ids": [
+    "s_family_knowledge",
+    "s_pd_2009_ileen"
+   ]
+  },
+  {
+   "id": "per_marcy_hirsch",
+   "names": {
+    "display": "Marcy Hirsch",
+    "given": "Marcy",
+    "middle": null,
+    "formal": null,
+    "title": null,
+    "surname_birth": "Hirsch",
+    "hebrew": {
+     "full": null
+    }
+   },
+   "sex": {
+    "value": "female"
+   },
+   "living": {
+    "status": "presumed_living"
+   },
+   "generation": -1,
+   "generation_label": "Shoshy's generation",
+   "family_side": "maternal",
+   "relationship_to_focus": {
+    "label": "Aunt"
+   },
+   "relationships": {
+    "parent_ids": [
+     "per_larry",
+     "per_shaina"
+    ],
+    "spouse_ids": [],
+    "child_ids": [],
+    "sibling_ids": [
+     "per_lori",
+     "per_susanne_greenberg"
+    ]
+   },
+   "life_events": {
+    "birth": {
+     "date": {
+      "value": null,
+      "precision": null,
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [],
+      "note": null
+     },
+     "place": null,
+     "source_ids": []
+    },
+    "death": null
+   },
+   "residences": [],
+   "occupations": [],
+   "facts": [
+    {
+     "field": "marital_status",
+     "value": "Never married, per family report.",
+     "source_ids": [
+      "s_family_knowledge"
+     ],
+     "kind": "user_stated",
+     "confidence": "high",
+     "note": null
+    }
+   ],
+   "notes": [],
+   "ui": {
+    "initials": "MH"
+   },
+   "source_ids": [
+    "s_family_knowledge",
+    "s_pd_2009_ileen"
+   ]
+  },
+  {
+   "id": "per_seth_greenberg",
+   "names": {
+    "display": "Seth Greenberg",
+    "given": "Seth",
+    "middle": null,
+    "formal": null,
+    "title": null,
+    "surname_birth": "Greenberg",
+    "hebrew": {
+     "full": null
+    }
+   },
+   "sex": {
+    "value": "male"
+   },
+   "living": {
+    "status": "presumed_living"
+   },
+   "generation": -1,
+   "generation_label": "Shoshy's generation",
+   "family_side": "maternal",
+   "relationship_to_focus": {
+    "label": "Uncle"
+   },
+   "relationships": {
+    "parent_ids": [],
+    "spouse_ids": [
+     "per_susanne_greenberg"
+    ],
+    "child_ids": [],
+    "sibling_ids": []
+   },
+   "life_events": {
+    "birth": {
+     "date": {
+      "value": null,
+      "precision": null,
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [],
+      "note": null
+     },
+     "place": null,
+     "source_ids": []
+    },
+    "death": null
+   },
+   "residences": [],
+   "occupations": [],
+   "facts": [],
+   "notes": [],
+   "ui": {
+    "initials": "SG"
+   },
+   "source_ids": [
+    "s_family_knowledge"
+   ]
+  },
+  {
+   "id": "per_gail_zelkind",
+   "names": {
+    "display": "Gail Zelkind",
+    "given": "Gail",
+    "middle": null,
+    "formal": null,
+    "title": null,
+    "surname_birth": "Zelkind",
+    "hebrew": {
+     "full": null
+    }
+   },
+   "sex": {
+    "value": "female"
+   },
+   "living": {
+    "status": "deceased"
+   },
+   "generation": -2,
+   "generation_label": "Grandparents",
+   "family_side": "maternal",
+   "relationship_to_focus": {
+    "label": "Great-aunt"
+   },
+   "relationships": {
+    "parent_ids": [
+     "per_mordechai_zelkind",
+     "per_elka_zelkind"
+    ],
+    "spouse_ids": [],
+    "child_ids": [],
+    "sibling_ids": [
+     "per_bertha"
+    ]
+   },
+   "life_events": {
+    "birth": {
+     "date": {
+      "value": null,
+      "precision": null,
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [],
+      "note": null
+     },
+     "place": null,
+     "source_ids": []
+    },
+    "death": {
+     "date": {
+      "value": "2013",
+      "precision": "year",
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [
+       "s_billiongraves_gail_stone",
+       "s_zion_cemetery_register_2026",
+       "s_jowbr_gail_zelkind"
+      ],
+      "note": "JOWBR records death 31-Jan-2013, which fits the cemetery's February 1 interment; the photographed stone reads February 28, 2013 - conflict kept visible pending death certificate."
+     },
+     "place": null,
+     "source_ids": [
+      "s_billiongraves_gail_stone",
+      "s_zion_cemetery_register_2026"
+     ]
+    },
+    "burial": {
+     "date": null,
+     "place": {
+      "label": "Zion Memorial Park Cemetery, Bedford OH - Plot 6-4-111",
+      "geo": null
+     },
+     "source_ids": [
+      "s_jowbr_gail_zelkind"
+     ]
+    }
+   },
+   "residences": [],
+   "occupations": [],
+   "facts": [],
+   "notes": [
+    "Explicit daughter in Mordukh’s 1996 death notice, spelled Gail. The 1997 monument notice says Gala; whether this is Gail needs confirmation. Birth/death day withheld given conflicting cemetery and stone chronology."
+   ],
+   "ui": {
+    "initials": "GZ"
+   },
+   "source_ids": [
+    "s_pd_1996_mordukh",
+    "s_billiongraves_gail_stone",
+    "s_zion_cemetery_register_2026"
+   ]
+  },
+  {
+   "id": "per_victor_garson",
+   "names": {
+    "display": "Victor Garson",
+    "given": "Victor",
+    "middle": null,
+    "formal": null,
+    "title": null,
+    "surname_birth": "Garson",
+    "hebrew": {
+     "full": null
+    }
+   },
+   "sex": {
+    "value": "male"
+   },
+   "living": {
+    "status": "deceased"
+   },
+   "generation": -3,
+   "generation_label": "Great-grandparents",
+   "family_side": "maternal",
+   "relationship_to_focus": {
+    "label": "Great-grandfather"
+   },
+   "relationships": {
+    "parent_ids": [
+     "per_solomon_garson",
+     "per_rachael_garson"
+    ],
+    "spouse_ids": [
+     "per_pearl_garson"
+    ],
+    "child_ids": [
+     "per_rosamond_simon",
+     "per_shaina",
+     "per_rochelle_horwich"
+    ],
+    "sibling_ids": []
+   },
+   "life_events": {
+    "birth": {
+     "date": {
+      "value": "1895-05-30",
+      "precision": "day",
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [
+       "s_fs_victor_declaration"
+      ],
+      "note": "Sworn in his own 1919 Declaration of Intention: born Paris, France, May 30, 1895."
+     },
+     "place": {
+      "name": "Paris, France",
+      "source_ids": [
+       "s_fs_victor_declaration"
+      ]
+     },
+     "source_ids": [
+      "s_fs_victor_declaration"
+     ]
+    },
+    "death": {
+     "date": {
+      "value": "1978-08-13",
+      "precision": "day",
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [
+       "s_fag_garson_index"
+      ],
+      "note": "Died August 13, 1978, East Cleveland."
+     },
+     "place": {
+      "name": "East Cleveland, Ohio",
+      "source_ids": [
+       "s_fag_garson_index"
+      ]
+     },
+     "source_ids": [
+      "s_fag_garson_index"
+     ]
+    },
+    "burial": {
+     "date": {
+      "value": null,
+      "precision": null,
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [],
+      "note": null
+     },
+     "place": {
+      "name": "Zion Memorial Park, Bedford Heights, Ohio",
+      "source_ids": [
+       "s_fag_garson_index"
+      ]
+     },
+     "source_ids": [
+      "s_fag_garson_index"
+     ]
+    }
+   },
+   "residences": [],
+   "occupations": [
+    {
+     "occupation": "Bookkeeper",
+     "date": "1919",
+     "source_ids": [
+      "s_fs_victor_declaration"
+     ],
+     "note": "Occupation sworn on the 1919 Declaration of Intention; a snapshot, not a lifelong profession."
+    }
+   ],
+   "facts": [
+    {
+     "field": "declaration_of_intention",
+     "value": "Declaration of Intention No. 28845, U.S. District Court, Northern District of Ohio, sworn September 18, 1919: born Paris, France, May 30, 1895; occupation bookkeeper; living in Cleveland; last foreign residence recorded as 'Pairs, France' - the clerk's misspelling of PARIS; emigrated from Le Havre (vessel unknown); renounced allegiance to the French Republic.",
+     "kind": "public_record",
+     "confidence": "high",
+     "source_ids": [
+      "s_fs_victor_declaration"
+     ],
+     "note": "The 1919 street address is kept in the private Drive research note, not on the public tree. An earlier reading of 'Metz' as the last residence was RETRACTED on high-zoom re-inspection (Sept 27, 2026)."
+    },
+    {
+     "field": "metz_lead",
+     "value": "The Metz connection is a STRONG BUT UNVERIFIED lead, not a documented link: the rare-name Garson cluster, the 1865 Metz marriage of Aron GARSON x Caroline LEVY, and Victor's parents Solomon and Rachael. Victor's own declaration documents PARIS only (birth and last residence, 'Pairs' being the clerk's misspelling).",
+     "kind": "inference",
+     "confidence": "medium",
+     "source_ids": [
+      "s_fs_victor_declaration"
+     ],
+     "note": "An earlier 'Metz documented' claim was retracted on high-zoom re-inspection. Proof path: French civil records / Moselle archives for a Solomon Garson/Gerson birth circa 1865-1875."
+    },
+    {
+     "field": "marriage",
+     "value": "Married Pearl Adelstein on September 12, 1916, in Cuyahoga County; the marriage record names his parents SOLOMON and RACHAEL Garson.",
+     "kind": "public_record",
+     "confidence": "high",
+     "source_ids": [
+      "s_ohio_marriage_victor_pearl"
+     ],
+     "note": null
+    },
+    {
+     "field": "familysearch_profile",
+     "value": "FamilySearch public tree profile LT33-Q47 exists for Victor but lists his birthplace as 'Ohio' - contradicted by his own sworn declaration (Paris). Logged as a tree-data-quality issue; user-contributed, lead-level only.",
+     "kind": "public_record",
+     "confidence": "low",
+     "source_ids": [
+      "s_fs_tree_lt33q47"
+     ],
+     "note": "Do not import its French branch without checking every edge against original records."
+    },
+    {
+     "field": "us_arrival",
+     "value": "Entered the United States at New York in 1902, per Pearl's sworn 1940 petition - a boy of seven. He immigrated as a child, almost certainly with his parents Solomon and Rachael (labeled inference).",
+     "kind": "public_record",
+     "confidence": "high",
+     "source_ids": [
+      "s_fs_pearl_petition"
+     ],
+     "note": "The with-parents part is inference; the 1902 New York entry is Pearl's sworn statement. His 1919 declaration's Le Havre departure fits the same crossing."
+    },
+    {
+     "field": "naturalization",
+     "value": "Naturalized November 20, 1934, certificate 2116415, per Pearl's 1940 petition. His 1919 filing was the Declaration of Intention; the naturalization itself came fifteen years later.",
+     "kind": "public_record",
+     "confidence": "high",
+     "source_ids": [
+      "s_fs_pearl_petition"
+     ],
+     "note": null
+    }
+   ],
+   "notes": [
+    "Father of Ileen (Gabby) Hersh, Rosamond Simon and Rochelle Horwich, per Pearl's 1973 obituary.",
+    "Born in Paris, last foreign residence Paris ('Pairs', clerk's misspelling), emigrated via Le Havre - the France-to-Cleveland path is documented in his own hand.",
+    "Correction (Sept 27, 2026): the declaration's last-residence line reads 'Pairs, France' - a clerk's misspelling of Paris, not Metz. His documented French footprint is Paris only, sailing from Le Havre, vessel unknown."
+   ],
+   "ui": {
+    "initials": "VG"
+   },
+   "source_ids": [
+    "s_fs_victor_declaration",
+    "s_ohio_marriage_victor_pearl",
+    "s_fag_garson_index",
+    "s_fs_tree_lt33q47",
+    "s_pearl_obit_1973",
+    "s_fs_pearl_petition"
+   ]
+  },
+  {
+   "id": "per_pearl_garson",
+   "names": {
+    "display": "Pearl (Adelstein) Garson",
+    "given": "Pearl",
+    "middle": null,
+    "formal": null,
+    "title": null,
+    "surname_birth": "Adelstein",
+    "hebrew": {
+     "full": null
+    }
+   },
+   "sex": {
+    "value": "female"
+   },
+   "living": {
+    "status": "deceased"
+   },
+   "generation": -3,
+   "generation_label": "Great-grandparents",
+   "family_side": "maternal",
+   "relationship_to_focus": {
+    "label": "Great-grandmother"
+   },
+   "relationships": {
+    "parent_ids": [],
+    "spouse_ids": [
+     "per_victor_garson"
+    ],
+    "child_ids": [
+     "per_rosamond_simon",
+     "per_shaina",
+     "per_rochelle_horwich"
+    ],
+    "sibling_ids": []
+   },
+   "life_events": {
+    "birth": {
+     "date": {
+      "value": "1897-12-01",
+      "precision": "day",
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [
+       "s_pearl_obit_1973",
+       "s_fs_pearl_petition"
+      ],
+      "note": "December 1, 1897 - her own sworn 1940 petition: 'born in Cleveland, Ohio on Dec. 1, 1897'. Settles the conflict; the family France/Latvia accounts are retained as superseded."
+     },
+     "place": {
+      "name": "Cleveland, Ohio",
+      "source_ids": [
+       "s_fs_pearl_petition"
+      ]
+     },
+     "source_ids": [
+      "s_pearl_obit_1973",
+      "s_fs_victor_declaration"
+     ]
+    },
+    "death": {
+     "date": {
+      "value": "1973-03-03",
+      "precision": "day",
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [
+       "s_pearl_obit_1973"
+      ],
+      "note": "Died March 3, 1973, Cleveland Heights, per her obituary."
+     },
+     "place": {
+      "name": "Cleveland Heights, Ohio",
+      "source_ids": [
+       "s_pearl_obit_1973"
+      ]
+     },
+     "source_ids": [
+      "s_pearl_obit_1973"
+     ]
+    },
+    "burial": {
+     "date": {
+      "value": null,
+      "precision": null,
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [],
+      "note": null
+     },
+     "place": {
+      "name": "Zion Memorial Park area, Cleveland (FindAGrave line says 'Zion Cemetery, Worth Township, Mercer PA' - flagged as a probable misindex)",
+      "source_ids": [
+       "s_fag_garson_index"
+      ]
+     },
+     "source_ids": [
+      "s_fag_garson_index"
+     ]
+    }
+   },
+   "residences": [],
+   "occupations": [],
+   "facts": [
+    {
+     "field": "maiden_name",
+     "value": "Adelstein, documented by the September 12, 1916 Cuyahoga marriage record. The family-reported lead 'Gold' stays visible as an unreconciled variant.",
+     "kind": "public_record",
+     "confidence": "high",
+     "source_ids": [
+      "s_ohio_marriage_victor_pearl"
+     ],
+     "note": null
+    },
+    {
+     "field": "children",
+     "value": "Her 1973 obituary lists children Rosamond Simon, Ileen Hersh and Rochelle Horwich - confirming Victor and Pearl as Ileen's parents.",
+     "kind": "public_record",
+     "confidence": "high",
+     "source_ids": [
+      "s_pearl_obit_1973"
+     ],
+     "note": null
+    },
+    {
+     "field": "birthplace_resolved",
+     "value": "RESOLVED: Pearl's own sworn petition for naturalization (January 25, 1940) states 'born in Cleveland, Ohio on Dec. 1, 1897. My race is Hebrew.' Victor's 1919 declaration had also said Cleveland; the family accounts placing her birth in France or Latvia are superseded but stay on the record.",
+     "kind": "public_record",
+     "confidence": "high",
+     "source_ids": [
+      "s_fs_pearl_petition",
+      "s_fs_victor_declaration",
+      "s_family_knowledge"
+     ],
+     "note": "Her own statement governs."
+    },
+    {
+     "field": "petition_for_naturalization",
+     "value": "Petition for Naturalization filed January 25, 1940, U.S. District Court, Northern District of Ohio (certificate 73676), under Sec. 4 of the Act of September 22, 1922 (the Cable Act). She swore: 'I HAVE NOT ACQUIRED ANY OTHER NATIONALITY BY AFFIRMATIVE ACT.'",
+     "kind": "public_record",
+     "confidence": "high",
+     "source_ids": [
+      "s_fs_pearl_petition"
+     ],
+     "note": "Cleveland-born, she had lost her U.S. citizenship by marrying Victor, a French national - under the Expatriation Act of 1907 a wife's citizenship followed her husband's. The Cable Act let her petition it back. The loss is historical-context inference; the 1940 petition itself is document."
+    },
+    {
+     "field": "children_birthdates",
+     "value": "The 1940 petition lists the daughters' exact birth dates, all in Cleveland: Rochelle May 9, 1919; Rosamond January 6, 1926; Ileen July 30, 1933.",
+     "kind": "public_record",
+     "confidence": "high",
+     "source_ids": [
+      "s_fs_pearl_petition"
+     ],
+     "note": "The FamilySearch tree's 'Ileen 1934' and 'Rochelle 1920' are wrong against this document - logged as tree-data-quality."
+    }
+   ],
+   "notes": [
+    "Mother of Ileen (Gabby) Hersh. Burial index line points to a Mercer County, PA cemetery - flagged as a probable FindAGrave misindex, same glitch pattern as the Ileen and Larry index lines.",
+    "Twice an American citizen: born in Cleveland, stripped of citizenship by marriage to a French national under the 1907 Expatriation Act, restored by her own Cable Act petition in 1940."
+   ],
+   "ui": {
+    "initials": "PG"
+   },
+   "source_ids": [
+    "s_pearl_obit_1973",
+    "s_fs_victor_declaration",
+    "s_ohio_marriage_victor_pearl",
+    "s_fag_garson_index",
+    "s_fs_pearl_petition"
+   ]
+  },
+  {
+   "id": "per_solomon_garson",
+   "names": {
+    "display": "Solomon Garson",
+    "given": "Solomon",
+    "middle": null,
+    "formal": null,
+    "title": null,
+    "surname_birth": "Garson",
+    "hebrew": {
+     "full": null
+    }
+   },
+   "sex": {
+    "value": "male"
+   },
+   "living": {
+    "status": "deceased"
+   },
+   "generation": -4,
+   "generation_label": "Great-great-grandparents",
+   "family_side": "maternal",
+   "relationship_to_focus": {
+    "label": "Great-great-grandfather"
+   },
+   "relationships": {
+    "parent_ids": [],
+    "spouse_ids": [
+     "per_rachael_garson"
+    ],
+    "child_ids": [
+     "per_victor_garson"
+    ],
+    "sibling_ids": []
+   },
+   "life_events": {
+    "birth": {
+     "date": {
+      "value": null,
+      "precision": null,
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [],
+      "note": null
+     },
+     "place": null,
+     "source_ids": []
+    },
+    "death": {
+     "date": {
+      "value": null,
+      "precision": null,
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [],
+      "note": null
+     },
+     "place": null,
+     "source_ids": []
+    },
+    "burial": {
+     "date": {
+      "value": null,
+      "precision": null,
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [],
+      "note": null
+     },
+     "place": null,
+     "source_ids": []
+    }
+   },
+   "residences": [],
+   "occupations": [],
+   "facts": [
+    {
+     "field": "name_record",
+     "value": "Named as Victor Garson's father on the September 12, 1916 Cuyahoga marriage record. No other record found yet.",
+     "kind": "public_record",
+     "confidence": "medium",
+     "source_ids": [
+      "s_ohio_marriage_victor_pearl"
+     ],
+     "note": "Single-record person; whether he connects to Aron GARSON of Metz (m. 1865) is an open question."
+    }
+   ],
+   "notes": [
+    "Victor's documented French footprint is Paris (birth and last residence). A Solomon Garson/Gerson birth record in Moselle (Metz), circa 1865-1875, would tie this line to the Aron GARSON x Caroline LEVY couple (Metz 1865). Unverified - active proof path via French civil records / Moselle archives."
+   ],
+   "ui": {
+    "initials": "SG"
+   },
+   "source_ids": [
+    "s_ohio_marriage_victor_pearl"
+   ]
+  },
+  {
+   "id": "per_rachael_garson",
+   "names": {
+    "display": "Rachael Garson",
+    "given": "Rachael",
+    "middle": null,
+    "formal": null,
+    "title": null,
+    "surname_birth": "Garson",
+    "hebrew": {
+     "full": null
+    }
+   },
+   "sex": {
+    "value": "female"
+   },
+   "living": {
+    "status": "deceased"
+   },
+   "generation": -4,
+   "generation_label": "Great-great-grandparents",
+   "family_side": "maternal",
+   "relationship_to_focus": {
+    "label": "Great-great-grandmother"
+   },
+   "relationships": {
+    "parent_ids": [],
+    "spouse_ids": [
+     "per_solomon_garson"
+    ],
+    "child_ids": [
+     "per_victor_garson"
+    ],
+    "sibling_ids": []
+   },
+   "life_events": {
+    "birth": {
+     "date": {
+      "value": null,
+      "precision": null,
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [],
+      "note": null
+     },
+     "place": null,
+     "source_ids": []
+    },
+    "death": {
+     "date": {
+      "value": null,
+      "precision": null,
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [],
+      "note": null
+     },
+     "place": null,
+     "source_ids": []
+    },
+    "burial": {
+     "date": {
+      "value": null,
+      "precision": null,
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [],
+      "note": null
+     },
+     "place": null,
+     "source_ids": []
+    }
+   },
+   "residences": [],
+   "occupations": [],
+   "facts": [
+    {
+     "field": "name_record",
+     "value": "Named as Victor Garson's mother on the September 12, 1916 Cuyahoga marriage record. Maiden name unknown; no other record found yet.",
+     "kind": "public_record",
+     "confidence": "medium",
+     "source_ids": [
+      "s_ohio_marriage_victor_pearl"
+     ],
+     "note": "Single-record person."
+    }
+   ],
+   "notes": [],
+   "ui": {
+    "initials": "RG"
+   },
+   "source_ids": [
+    "s_ohio_marriage_victor_pearl"
+   ]
+  },
+  {
+   "id": "per_rosamond_simon",
+   "names": {
+    "display": "Rosamond (Garson) Simon",
+    "given": "Rosamond",
+    "middle": null,
+    "formal": null,
+    "title": null,
+    "surname_birth": "Garson",
+    "hebrew": {
+     "full": null
+    }
+   },
+   "sex": {
+    "value": "female"
+   },
+   "living": {
+    "status": "deceased"
+   },
+   "generation": -2,
+   "generation_label": "Grandparents",
+   "family_side": "maternal",
+   "relationship_to_focus": {
+    "label": "Great-aunt"
+   },
+   "relationships": {
+    "parent_ids": [
+     "per_victor_garson",
+     "per_pearl_garson"
+    ],
+    "spouse_ids": [],
+    "child_ids": [],
+    "sibling_ids": [
+     "per_shaina",
+     "per_rochelle_horwich"
+    ]
+   },
+   "life_events": {
+    "birth": {
+     "date": {
+      "value": "1926-01-06",
+      "precision": "day",
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [
+       "s_fs_pearl_petition"
+      ],
+      "note": "January 6, 1926, Cleveland - exact date from Pearl's sworn 1940 petition."
+     },
+     "place": {
+      "name": "Cleveland, Ohio",
+      "source_ids": [
+       "s_fs_pearl_petition"
+      ]
+     },
+     "source_ids": [
+      "s_fs_pearl_petition"
+     ]
+    },
+    "death": {
+     "date": {
+      "value": null,
+      "precision": null,
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [],
+      "note": null
+     },
+     "place": null,
+     "source_ids": []
+    },
+    "burial": {
+     "date": {
+      "value": null,
+      "precision": null,
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [],
+      "note": null
+     },
+     "place": null,
+     "source_ids": []
+    }
+   },
+   "residences": [],
+   "occupations": [],
+   "facts": [
+    {
+     "field": "identity",
+     "value": "Daughter of Victor and Pearl Garson, named in Pearl's 1973 obituary as Rosamond Simon.",
+     "kind": "public_record",
+     "confidence": "high",
+     "source_ids": [
+      "s_pearl_obit_1973"
+     ],
+     "note": null
+    }
+   ],
+   "notes": [],
+   "ui": {
+    "initials": "RS"
+   },
+   "source_ids": [
+    "s_pearl_obit_1973",
+    "s_fs_pearl_petition"
+   ]
+  },
+  {
+   "id": "per_rochelle_horwich",
+   "names": {
+    "display": "Rochelle (Garson) Horwich",
+    "given": "Rochelle",
+    "middle": null,
+    "formal": null,
+    "title": null,
+    "surname_birth": "Garson",
+    "hebrew": {
+     "full": null
+    }
+   },
+   "sex": {
+    "value": "female"
+   },
+   "living": {
+    "status": "deceased"
+   },
+   "generation": -2,
+   "generation_label": "Grandparents",
+   "family_side": "maternal",
+   "relationship_to_focus": {
+    "label": "Great-aunt"
+   },
+   "relationships": {
+    "parent_ids": [
+     "per_victor_garson",
+     "per_pearl_garson"
+    ],
+    "spouse_ids": [],
+    "child_ids": [],
+    "sibling_ids": [
+     "per_shaina",
+     "per_rosamond_simon"
+    ]
+   },
+   "life_events": {
+    "birth": {
+     "date": {
+      "value": "1919-05-09",
+      "precision": "day",
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [
+       "s_fs_pearl_petition"
+      ],
+      "note": "May 9, 1919, Cleveland - exact date from Pearl's sworn 1940 petition. The FamilySearch tree's '1920' is wrong against this document."
+     },
+     "place": {
+      "name": "Cleveland, Ohio",
+      "source_ids": [
+       "s_fs_pearl_petition"
+      ]
+     },
+     "source_ids": [
+      "s_fs_pearl_petition"
+     ]
+    },
+    "death": {
+     "date": {
+      "value": null,
+      "precision": null,
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [],
+      "note": null
+     },
+     "place": null,
+     "source_ids": []
+    },
+    "burial": {
+     "date": {
+      "value": null,
+      "precision": null,
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [],
+      "note": null
+     },
+     "place": null,
+     "source_ids": []
+    }
+   },
+   "residences": [],
+   "occupations": [],
+   "facts": [
+    {
+     "field": "identity",
+     "value": "Daughter of Victor and Pearl Garson, named in Pearl's 1973 obituary as Rochelle Horwich.",
+     "kind": "public_record",
+     "confidence": "high",
+     "source_ids": [
+      "s_pearl_obit_1973"
+     ],
+     "note": null
+    }
+   ],
+   "notes": [],
+   "ui": {
+    "initials": "RH"
+   },
+   "source_ids": [
+    "s_pearl_obit_1973",
+    "s_fs_pearl_petition"
+   ]
+  }
+ ],
+ "unions": [
+  {
+   "id": "uni_joe_lori",
+   "partner_ids": [
+    "per_joe",
+    "per_lori"
+   ],
+   "child_ids": [
+    "per_ilana",
+    "per_aliya",
+    "per_shoshy",
+    "per_yechiel",
+    "per_shimon",
+    "per_chaya_brocha",
+    "per_hadassa",
+    "per_simcha",
+    "per_maimi"
+   ],
+   "events": {
+    "wedding": null
+   }
+  },
+  {
+   "id": "uni_bertha",
+   "partner_ids": [
+    "per_bertha",
+    "per_shimon_elder"
+   ],
+   "child_ids": [
+    "per_joe"
+   ],
+   "events": {
+    "wedding": null
+   },
+   "notes": [
+    "Joe’s parents; Shimon is family-reported; Bertha’s maiden name unknown."
+   ]
+  },
+  {
+   "id": "uni_larry_shaina",
+   "partner_ids": [
+    "per_larry",
+    "per_shaina"
+   ],
+   "child_ids": [
+    "per_lori",
+    "per_susanne_greenberg",
+    "per_marcy_hirsch"
+   ],
+   "events": {
+    "wedding": null
+   }
+  },
+  {
+   "id": "uni_marinovsky",
+   "partner_ids": [
+    "per_ilana",
+    "per_shmaya"
+   ],
+   "child_ids": [],
+   "events": {
+    "wedding": {
+     "date": {
+      "value": "2012-02-28",
+      "precision": "day",
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [
+       "s_family_knowledge"
+      ],
+      "note": null
+     },
+     "place": null,
+     "source_ids": [
+      "s_family_knowledge"
+     ]
+    }
+   },
+   "notes": [
+    "No public engagement or wedding notice found yet."
+   ]
+  },
+  {
+   "id": "uni_andrusier",
+   "partner_ids": [
+    "per_aliya",
+    "per_shmuel_yaakov"
+   ],
+   "child_ids": [],
+   "events": {
+    "wedding": null
+   },
+   "notes": []
+  },
+  {
+   "id": "uni_chaikin",
+   "partner_ids": [
+    "per_shoshy",
+    "per_shmuel"
+   ],
+   "child_ids": [
+    "per_ella",
+    "per_abie",
+    "per_mika"
+   ],
+   "events": {
+    "wedding": {
+     "date": {
+      "value": "2014-12-08",
+      "precision": "day",
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [
+       "s_family_knowledge"
+      ],
+      "note": "Family-confirmed Gregorian anniversary; Hebrew anniversary should be checked separately."
+     },
+     "place": null,
+     "source_ids": [
+      "s_family_knowledge"
+     ]
+    }
+   },
+   "notes": [
+    "Ella, Abie and Mika in the order the family listed them; not a confirmed birth order."
+   ]
+  },
+  {
+   "id": "uni_shimon",
+   "partner_ids": [
+    "per_shimon",
+    "per_mushky"
+   ],
+   "child_ids": [
+    "per_shimon_baby"
+   ],
+   "events": {
+    "wedding": {
+     "date": {
+      "value": "2019-03-04",
+      "precision": "day",
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [
+       "s_family_knowledge"
+      ],
+      "note": null
+     },
+     "place": null,
+     "source_ids": [
+      "s_family_knowledge"
+     ]
+    }
+   },
+   "notes": [
+    "Other children not found in public notices."
+   ]
+  },
+  {
+   "id": "uni_katz",
+   "partner_ids": [
+    "per_chaya_brocha",
+    "per_dovi"
+   ],
+   "child_ids": [
+    "per_katz_baby_2025"
+   ],
+   "events": {
+    "wedding": {
+     "date": {
+      "value": "2023-03-12",
+      "precision": "day",
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [
+       "s_anash_katz_wed"
+      ],
+      "note": "Anash posted it on Tuesday, March 14, 2023 as 'Sunday night', so most likely Sunday, March 12, 2023. Please confirm."
+     },
+     "place": {
+      "label": "Oholei Torah, Crown Heights",
+      "geo": null
+     },
+     "source_ids": [
+      "s_anash_katz_wed"
+     ]
+    }
+   },
+   "notes": [
+    "Baby girl announcement December 3, 2025 (very likely this couple; please confirm)."
+   ]
+  },
+  {
+   "id": "uni_hirsch",
+   "partner_ids": [
+    "per_hadassa",
+    "per_doni"
+   ],
+   "child_ids": [],
+   "events": {
+    "wedding": {
+     "date": {
+      "value": "2023-02-02",
+      "precision": "day",
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [
+       "s_anash_hirsch_wed"
+      ],
+      "note": "Anash posted it on Friday, February 3, 2023 as 'Thursday night', so most likely Thursday, February 2, 2023. Please confirm."
+     },
+     "place": {
+      "label": "Oholei Torah Ballroom, Crown Heights",
+      "geo": null
+     },
+     "source_ids": [
+      "s_anash_hirsch_wed"
+     ]
+    }
+   },
+   "notes": [
+    "Lori's maiden name is also Hirsch. No family link between the two Hirsch families is assumed."
+   ]
+  },
+  {
+   "id": "uni_inglis",
+   "partner_ids": [
+    "per_maimi",
+    "per_dovid"
+   ],
+   "child_ids": [],
+   "events": {
+    "wedding": null
+   },
+   "notes": [
+    "Added in a follow-up message; placed last only for that reason."
+   ]
+  },
+  {
+   "id": "uni_mordechai_elka",
+   "partner_ids": [
+    "per_mordechai_zelkind",
+    "per_elka_zelkind"
+   ],
+   "child_ids": [
+    "per_bertha",
+    "per_gail_zelkind"
+   ],
+   "events": {
+    "wedding": null
+   }
+  },
+  {
+   "id": "uni_susanne_seth",
+   "partner_ids": [
+    "per_susanne_greenberg",
+    "per_seth_greenberg"
+   ],
+   "child_ids": [],
+   "events": {
+    "wedding": null
+   }
+  },
+  {
+   "id": "uni_victor_pearl",
+   "partner_ids": [
+    "per_victor_garson",
+    "per_pearl_garson"
+   ],
+   "child_ids": [
+    "per_rosamond_simon",
+    "per_shaina",
+    "per_rochelle_horwich"
+   ],
+   "events": {
+    "wedding": {
+     "date": {
+      "value": "1916-09-12",
+      "precision": "day",
+      "calendar": "gregorian",
+      "hebrew": null,
+      "approximate": false,
+      "source_ids": [
+       "s_ohio_marriage_victor_pearl"
+      ]
+     },
+     "place": {
+      "name": "Cuyahoga County, Ohio",
+      "source_ids": [
+       "s_ohio_marriage_victor_pearl"
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "uni_solomon_rachael",
+   "partner_ids": [
+    "per_solomon_garson",
+    "per_rachael_garson"
+   ],
+   "child_ids": [
+    "per_victor_garson"
+   ],
+   "events": {
+    "wedding": null
+   }
+  }
+ ],
+ "events": [
+  {
+   "id": "evt_joe_born",
+   "type": "birth",
+   "title": "Joe Warszawski born",
+   "date": {
+    "value": "1959-10-19",
+    "precision": "day",
+    "calendar": "gregorian",
+    "hebrew": null,
+    "approximate": false,
+    "source_ids": [],
+    "note": null
+   },
+   "place": null,
+   "source_ids": [
+    "s_heights1978"
+   ]
+  },
+  {
+   "id": "evt_andrusier_0",
+   "type": "lchaim",
+   "title": "L'Chaim of Shmuly Andrusier and Aliyah Warszaski (Oct 9, 2013)",
+   "date": {
+    "value": "2013-10-09",
+    "precision": "day",
+    "calendar": "gregorian",
+    "hebrew": null,
+    "approximate": false,
+    "source_ids": [],
+    "note": null
+   },
+   "place": "Beis Levi Yitzchak shul, Crown Heights",
+   "source_ids": [
+    "s_col_andrusier"
+   ]
+  },
+  {
+   "id": "evt_shimon_0",
+   "type": "lchaim",
+   "title": "L'Chaim of Shimon Warszawski and Mushkie Chayempour",
+   "date": {
+    "value": "2019-01",
+    "precision": "month",
+    "calendar": "gregorian",
+    "hebrew": null,
+    "approximate": false,
+    "source_ids": [],
+    "note": null
+   },
+   "place": "Lubavitch Yeshiva Hall, Crown Heights",
+   "source_ids": [
+    "s_col_chayempour"
+   ]
+  },
+  {
+   "id": "evt_shimon_1",
+   "type": "birth",
+   "title": "Baby girl announcement for Shimon and Mushkie Warszawski",
+   "date": {
+    "value": "2020-01-20",
+    "precision": "day",
+    "calendar": "gregorian",
+    "hebrew": null,
+    "approximate": false,
+    "source_ids": [],
+    "note": "Announcement date, not confirmed birth date."
+   },
+   "place": "Crown Heights",
+   "source_ids": [
+    "s_chi_baby2020"
+   ]
+  },
+  {
+   "id": "evt_katz_0",
+   "type": "engagement",
+   "title": "Engagement of Dovi Katz and Chaya Warszawski; L'Chaim that night",
+   "date": {
+    "value": "2023-01-10",
+    "precision": "day",
+    "calendar": "gregorian",
+    "hebrew": null,
+    "approximate": false,
+    "source_ids": [],
+    "note": null
+   },
+   "place": "Lubavitch Yeshiva, Crown Heights",
+   "source_ids": [
+    "s_col_katz_eng",
+    "s_anash_katz_lc",
+    "s_col_katz_lc"
+   ]
+  },
+  {
+   "id": "evt_katz_1",
+   "type": "wedding",
+   "title": "Wedding of Dovi Katz and Chaya Warszawski (Mar 12, 2023)",
+   "date": {
+    "value": "2023-03-12",
+    "precision": "day",
+    "calendar": "gregorian",
+    "hebrew": null,
+    "approximate": false,
+    "source_ids": [],
+    "note": "Anash report published Mar 14 says Sunday night; Mar 12 is that Sunday."
+   },
+   "place": "Oholei Torah, Crown Heights",
+   "source_ids": [
+    "s_anash_katz_wed"
+   ]
+  },
+  {
+   "id": "evt_hirsch_0",
+   "type": "engagement",
+   "title": "Engagement of Daniel (Donni) Hirsch and Dassi Warszawski; L'Chaim that night",
+   "date": {
+    "value": "2022-11-06",
+    "precision": "day",
+    "calendar": "gregorian",
+    "hebrew": null,
+    "approximate": false,
+    "source_ids": [],
+    "note": null
+   },
+   "place": "Ulam Chana Hall (Machon Chana), Crown Heights",
+   "source_ids": [
+    "s_chi_hirsch_eng",
+    "s_anash_hirsch_lc",
+    "s_col_hirsch_lc"
+   ]
+  },
+  {
+   "id": "evt_hirsch_1",
+   "type": "wedding",
+   "title": "Wedding of Daniel Hirsch and Dassi Warszawski (Feb 2, 2023)",
+   "date": {
+    "value": "2023-02-02",
+    "precision": "day",
+    "calendar": "gregorian",
+    "hebrew": null,
+    "approximate": false,
+    "source_ids": [],
+    "note": "Anash report published Feb 3 says Thursday night; Feb 2 is that Thursday."
+   },
+   "place": "Oholei Torah Ballroom, Crown Heights",
+   "source_ids": [
+    "s_anash_hirsch_wed"
+   ]
+  },
+  {
+   "id": "evt_joe_death",
+   "type": "death",
+   "title": "Joe Warszawski passes away",
+   "date": {
+    "value": "2017-02-18",
+    "precision": "day",
+    "calendar": "gregorian",
+    "hebrew": null,
+    "approximate": false,
+    "source_ids": [],
+    "note": null
+   },
+   "place": null,
+   "source_ids": [
+    "s_heights1978"
+   ]
+  },
+  {
+   "id": "evt_chaikin_eng_2014",
+   "type": "engagement",
+   "title": "Shoshy Warszawski and Shmuly Chaikin engaged (announcement)",
+   "date": {
+    "value": "2014-08-22",
+    "precision": "day",
+    "calendar": "gregorian",
+    "hebrew": null,
+    "approximate": false,
+    "source_ids": [
+     "s_collive_chaikin_eng"
+    ],
+    "note": null
+   },
+   "place": null,
+   "source_ids": [
+    "s_collive_chaikin_eng"
+   ]
+  },
+  {
+   "id": "evt_inglis_eng_2018",
+   "type": "engagement",
+   "title": "Maimi Warszawski and Dovid Inglis engaged (announcement)",
+   "date": {
+    "value": "2018-12-28",
+    "precision": "day",
+    "calendar": "gregorian",
+    "hebrew": null,
+    "approximate": false,
+    "source_ids": [
+     "s_collive_inglis_eng"
+    ],
+    "note": null
+   },
+   "place": null,
+   "source_ids": [
+    "s_collive_inglis_eng"
+   ]
+  },
+  {
+   "id": "evt_shimon_eng_2019",
+   "type": "engagement",
+   "title": "Shimon Warszawski and Mushky Chayempour engaged (announcement)",
+   "date": {
+    "value": "2019-01-12",
+    "precision": "day",
+    "calendar": "gregorian",
+    "hebrew": null,
+    "approximate": false,
+    "source_ids": [
+     "s_collive_shimon_eng"
+    ],
+    "note": null
+   },
+   "place": null,
+   "source_ids": [
+    "s_collive_shimon_eng"
+   ]
+  },
+  {
+   "id": "evt_katz_baby_announcement_2025",
+   "type": "announcement",
+   "title": "Baby girl announcement for Dovi and Chaya Katz (very likely match)",
+   "date": {
+    "value": "2025-12-03",
+    "precision": "day",
+    "calendar": "gregorian",
+    "hebrew": null,
+    "approximate": false,
+    "source_ids": [
+     "s_chi_katz_baby"
+    ],
+    "note": "Publication date, not confirmed birth date. The page renders garbled; identity match very likely."
+   },
+   "place": null,
+   "source_ids": [
+    "s_chi_katz_baby"
+   ]
+  },
+  {
+   "id": "evt_uni_marinovsky_family_wed",
+   "type": "wedding",
+   "title": "Ilana and Shmaya Marinovsky marry",
+   "date": {
+    "value": "2012-02-28",
+    "precision": "day",
+    "calendar": "gregorian",
+    "hebrew": null,
+    "approximate": false,
+    "source_ids": [
+     "s_family_knowledge"
+    ],
+    "note": null
+   },
+   "place": null,
+   "source_ids": [
+    "s_family_knowledge"
+   ]
+  },
+  {
+   "id": "evt_uni_chaikin_family_wed",
+   "type": "wedding",
+   "title": "Shoshy and Shmuel Chaikin marry",
+   "date": {
+    "value": "2014-12-08",
+    "precision": "day",
+    "calendar": "gregorian",
+    "hebrew": null,
+    "approximate": false,
+    "source_ids": [
+     "s_family_knowledge"
+    ],
+    "note": null
+   },
+   "place": null,
+   "source_ids": [
+    "s_family_knowledge"
+   ]
+  },
+  {
+   "id": "evt_uni_shimon_family_wed",
+   "type": "wedding",
+   "title": "Shimon and Mushky Warszawski marry",
+   "date": {
+    "value": "2019-03-04",
+    "precision": "day",
+    "calendar": "gregorian",
+    "hebrew": null,
+    "approximate": false,
+    "source_ids": [
+     "s_family_knowledge"
+    ],
+    "note": null
+   },
+   "place": null,
+   "source_ids": [
+    "s_family_knowledge"
+   ]
+  },
+  {
+   "id": "evt_szyman_death",
+   "type": "death",
+   "title": "Szyman Warszawski dies",
+   "date": {
+    "value": "1995-07-18",
+    "precision": "day",
+    "calendar": "gregorian",
+    "hebrew": null,
+    "approximate": false,
+    "source_ids": [
+     "s_cjn_1995_szyman"
+    ],
+    "note": "CJN obituary in Aug. 18 issue states July 18"
+   },
+   "place": null,
+   "source_ids": [
+    "s_cjn_1995_szyman"
+   ]
+  },
+  {
+   "id": "evt_joe_bar_announcement",
+   "type": "bar_mitzvah",
+   "title": "Joseph Warszawski bar mitzvah announced at Sinai Synagogue",
+   "date": {
+    "value": "1972-10-14",
+    "precision": "day",
+    "calendar": "gregorian",
+    "hebrew": null,
+    "approximate": false,
+    "source_ids": [
+     "s_cjn_1972_joe_bar"
+    ],
+    "note": "Announced in prior-day CJN issue; actual performance not independently verified"
+   },
+   "place": "Sinai Synagogue",
+   "source_ids": [
+    "s_cjn_1972_joe_bar"
+   ]
+  },
+  {
+   "id": "evt_larry_naturalization",
+   "type": "naturalization",
+   "title": "Arie Lawrence Hersh naturalized in Cleveland",
+   "date": {
+    "value": "1961-08-11",
+    "precision": "day",
+    "calendar": "gregorian",
+    "hebrew": null,
+    "approximate": false,
+    "source_ids": [
+     "s_familysearch_larry_nat_1961"
+    ],
+    "note": "Original Cuyahoga naturalization card, recorded August 23, 1961"
+   },
+   "place": "U.S. District Court, Cleveland, Ohio",
+   "source_ids": [
+    "s_familysearch_larry_nat_1961"
+   ]
+  },
+  {
+   "id": "evt_victor_pearl_marriage",
+   "type": "marriage",
+   "title": "Victor Garson and Pearl Adelstein marry in Cuyahoga County",
+   "date": {
+    "value": "1916-09-12",
+    "precision": "day",
+    "calendar": "gregorian",
+    "hebrew": null,
+    "approximate": false,
+    "source_ids": [
+     "s_ohio_marriage_victor_pearl"
+    ]
+   },
+   "place": "Cuyahoga County, Ohio",
+   "person_ids": [
+    "per_victor_garson",
+    "per_pearl_garson"
+   ],
+   "source_ids": [
+    "s_ohio_marriage_victor_pearl"
+   ]
+  },
+  {
+   "id": "evt_victor_declaration",
+   "type": "naturalization",
+   "title": "Victor Garson swears his Declaration of Intention (last foreign residence: 'Pairs' = Paris)",
+   "date": {
+    "value": "1919-09-18",
+    "precision": "day",
+    "calendar": "gregorian",
+    "hebrew": null,
+    "approximate": false,
+    "source_ids": [
+     "s_fs_victor_declaration"
+    ]
+   },
+   "place": "U.S. District Court, Northern District of Ohio",
+   "person_ids": [
+    "per_victor_garson"
+   ],
+   "source_ids": [
+    "s_fs_victor_declaration"
+   ]
+  },
+  {
+   "id": "evt_victor_arrival",
+   "type": "immigration",
+   "title": "Victor Garson enters the U.S. at New York, a boy of seven",
+   "date": {
+    "value": "1902",
+    "precision": "year",
+    "calendar": "gregorian",
+    "hebrew": null,
+    "approximate": false,
+    "source_ids": [
+     "s_fs_pearl_petition"
+    ]
+   },
+   "place": "New York",
+   "person_ids": [
+    "per_victor_garson"
+   ],
+   "source_ids": [
+    "s_fs_pearl_petition"
+   ]
+  },
+  {
+   "id": "evt_victor_naturalization",
+   "type": "naturalization",
+   "title": "Victor Garson naturalized (cert 2116415)",
+   "date": {
+    "value": "1934-11-20",
+    "precision": "day",
+    "calendar": "gregorian",
+    "hebrew": null,
+    "approximate": false,
+    "source_ids": [
+     "s_fs_pearl_petition"
+    ]
+   },
+   "place": "U.S. District Court, Northern District of Ohio",
+   "person_ids": [
+    "per_victor_garson"
+   ],
+   "source_ids": [
+    "s_fs_pearl_petition"
+   ]
+  },
+  {
+   "id": "evt_pearl_naturalization",
+   "type": "naturalization",
+   "title": "Pearl Garson petitions her citizenship back under the Cable Act (cert 73676)",
+   "date": {
+    "value": "1940-01-25",
+    "precision": "day",
+    "calendar": "gregorian",
+    "hebrew": null,
+    "approximate": false,
+    "source_ids": [
+     "s_fs_pearl_petition"
+    ]
+   },
+   "place": "U.S. District Court, Northern District of Ohio",
+   "person_ids": [
+    "per_pearl_garson"
+   ],
+   "source_ids": [
+    "s_fs_pearl_petition"
+   ]
+  }
+ ],
+ "open_questions": [
+  {
+   "id": "q_1",
+   "question": "Birth order of the nine children (the list is not in birth order)."
+  },
+  {
+   "id": "q_2",
+   "question": "Independent documentation of Lori’s maiden name Hirsch (family says Hirsch; no public record found)."
+  },
+  {
+   "id": "q_3",
+   "question": "Bertha’s maiden name and birth/death years; Joe’s father Shimon is named by family, but his dates and records remain open."
+  },
+  {
+   "id": "q_4",
+   "question": "Find Larry’s and Ileen’s original death certificates. Ileen’s 2009 original notice confirms identity and year, but not exact day; family yahrtzeit 28 Iyar."
+  },
+  {
+   "id": "q_6",
+   "question": "Children of each household. Only unnamed birth announcements for Shimon and Mushky (2020), very likely Dovi and Chaya Katz (2025), and Shmuel and Shoshy’s three named children appear so far."
+  },
+  {
+   "id": "q_7",
+   "question": "Wedding years/dates for Aliya and Shmuel Yaakov, and Maimi and Dovid. Gregorian dates for Ilana, Shoshy and Shimon are now family-reported; Shoshy’s Hebrew anniversary is disputed."
+  },
+  {
+   "id": "q_9",
+   "question": "Simcha is a daughter, a nurse, and single through December 2024; confirm only any later changes."
+  },
+  {
+   "id": "q_11",
+   "question": "Hebrew names and birthdays, if the family wants them on the tree."
+  },
+  {
+   "id": "q_12",
+   "question": "Confirm whether the December 2025 Dovi and Chaya Katz baby announcement is this household; the page renders garbled."
+  },
+  {
+   "id": "q_14",
+   "question": "Ileen Hersh's exact death day: her 2009 obituary now gives May 22, 2009 (matching the family 28 Iyar); the original May 23 notice announces services and the register interment is May 24. A death certificate would close the day-precision question. Her Garson birth surname is confirmed."
+  },
+  {
+   "id": "q_13",
+   "question": "RESOLVED: Pearl was born in Cleveland - her own sworn 1940 petition ('born in Cleveland, Ohio on Dec. 1, 1897'). Victor documented born in Paris. The family France/Latvia accounts for Pearl are superseded and retained on the record."
+  },
+  {
+   "id": "q_14",
+   "question": "Ileen Hersh's exact death day: her 2009 obituary now gives May 22, 2009 (matching the family 28 Iyar); the original May 23 notice announces services and the register interment is May 24. A death certificate would close the day-precision question. Her Garson birth surname is confirmed."
+  },
+  {
+   "id": "q_16",
+   "question": "Larry’s Fortunoff testimony synopsis says oldest of five children; family account says seven siblings. Examine actual testimony and family records before selecting either count."
+  },
+  {
+   "id": "q_15",
+   "question": "Larry's surname sequence: the original 1961 card now confirms 'Name changed as part of nat. from: ARIE - LARRY - HERSH KOVITZ' (signed Arie Lawrence Hersh). Remaining: the underlying petition/decree, an original birth record, and the details of the Israel chapter ('Subject of: Israel' on the card)."
+  },
+  {
+   "id": "q_szymon_numident",
+   "question": "Obtain Szymon/Szyman’s original SS-5 or Warsaw birth record to confirm April 1, 1918 birth and the indexed parents Joseph Warszavski and Rochel Goldberg."
+  },
+  {
+   "id": "q_elka_numident",
+   "question": "Obtain Elka’s original SS-5, birth or marriage record and death certificate to confirm indexed November 12, 1913 birth, March 14, 2005 death, Bobruisk origin, parents Isac Kaga and Tsilya Gershon, and Kaga/Kagan/Kogan name variants."
+  },
+  {
+   "id": "q_17",
+   "question": "Compare the 1996 original Mordukh Zelkind notice (Gail, Maria, Celya; nee Kogen; Bertha Warshawsky) with the 1997 CJN monument notice (Gala, Masha, Tzila; Berta) and original records before merging name variants or selecting Elka’s legal maiden spelling."
+  },
+  {
+   "id": "q_garson_solomon",
+   "question": "Does Victor Garson's father Solomon (named on the 1916 marriage record) descend from Aron GARSON x Caroline LEVY (Metz marriage 1865, Metz-Chambiere burials)? Victor's own declaration documents Paris only; the Metz link is a strong but unverified lead. Proof path: French civil records / Moselle archives for a Solomon Garson/Gerson birth circa 1865-1875."
+  },
+  {
+   "id": "q_larry_israel",
+   "question": "Larry was a 'subject of Israel' at his 1961 naturalization: when did he reach Israel, where did he live, and when did he leave for the U.S. (index trail suggests arrival ~1954 - inference)? Israeli records and the Fortunoff testimony may answer."
+  }
+ ],
+ "research_leads": [
+  {
+   "id": "lead_1",
+   "text": "COLlive, Anash.org, CrownHeights.info and ChabadInfo birth notices ('nee Warszawski') are the best place to find the grandchildren."
+  },
+  {
+   "id": "lead_2",
+   "text": "Shoshy is gathering more family details - birthdays, kids and grandparents will be added as they come in."
+  },
+  {
+   "id": "lead_3",
+   "text": "Joe's funeral was handled by Berkowitz-Kumin-Bookatz Memorial Chapel in Cleveland Heights (Feb 2017); its obituary or the Cleveland Jewish News notice from that week should name his parents and survivors."
+  },
+  {
+   "id": "lead_4",
+   "text": "Joe’s full obituary: Cleveland Jewish News digital archive, late-February 2017 issues. Library-card or paid access required.",
+   "source_ids": [
+    "s_cjn_archive"
+   ]
+  },
+  {
+   "id": "lead_5",
+   "text": "A different Shaina Hirsch died in 2020; her listed children do not include Lori. Do not merge her with Shaina Yuda \"Gabby\".",
+   "source_ids": [
+    "s_shaina_other"
+   ]
+  },
+  {
+   "id": "lead_6",
+   "text": "Partial Houston name match for Ilana Marinovsky does not establish identity or marriage.",
+   "source_ids": [
+    "s_chi_marinovsky_partial"
+   ]
+  },
+  {
+   "id": "lead_8",
+   "text": "GAIL Zelkind appears on a stone dated July 25, 1942 - Feb 28, 2013, while Zion register lists Feb 1, 2013 interment, an impossible sequence unless one record errs. She is buried beside Elka; compare with Gala from 1997 CJN but do not merge on name/proximity.",
+   "source_ids": [
+    "s_zion_cemetery_register_2026",
+    "s_cjn_1997_zelkind",
+    "s_billiongraves_gail_stone"
+   ]
+  },
+  {
+   "id": "lead_9",
+   "text": "Obtain Ileen Hersh’s May 2009 death/funeral notice or gravestone photo. Adjacent Zion interment May 24, 2009 plus family 28 Iyar is a strong identity/year match; May 22 remains an indexed, unverified death date.",
+   "source_ids": [
+    "s_zion_cemetery_register_2026",
+    "s_family_knowledge"
+   ]
+  },
+  {
+   "id": "lead_11",
+   "text": "Resolve Elka’s likely stone year 1914 against indexed NUMIDENT November 12, 1913 and clarify stone surname/portrait; obtain original SS-5, birth record or higher-resolution stone photo.",
+   "source_ids": [
+    "s_billiongraves_elka_stone",
+    "s_numident_elka_index"
+   ]
+  },
+  {
+   "id": "lead_12",
+   "text": "Zvi Warszawski of Montreal (1926-1976) is not documented as a member of Shoshy’s Cleveland Warszawski line. Seek spouse/children and immigration evidence before any kinship edge; Joe’s father is Szyman/Sam per 1986 notice and 1995 obituary.",
+   "source_ids": [
+    "s_jd_zvi_warszawski",
+    "s_cjn_1986_hersh",
+    "s_cjn_1995_szyman"
+   ]
+  },
+  {
+   "id": "lead_13",
+   "text": "New York headstones for Benjamin and Wolf Zelkind lack a proven connection to Cleveland Mordechi, Elka and Berta. Keep unlinked until a direct relationship record is found.",
+   "source_ids": [
+    "s_jd_benjamin_zelkind",
+    "s_jd_wolf_zelkind"
+   ]
+  },
+  {
+   "id": "lead_14",
+   "text": "Obit names a Warszawski granddaughter 'Moriah' - possibly the family list's 'Maimi'? Unconfirmed; keep marked as inference.",
+   "source_ids": [
+    "s_pd_2009_ileen"
+   ]
+  },
+  {
+   "id": "lead_15",
+   "text": "RESOLVED - Victor Garson (b. Paris May 30, 1895; d. Aug 13, 1978) and Pearl Adelstein (b. Dec 1, 1897; d. Mar 3, 1973) are documented as Ileen's parents: Pearl's 1973 obituary names Ileen Hersh, and Victor's 1919 Declaration of Intention confirms his Paris birth and last residence ('Pairs', clerk's misspelling). Their marriage record (Sep 12, 1916, Cuyahoga) names Victor's parents Solomon and Rachael. Leo and Ida Garson remain unlinked.",
+   "source_ids": [
+    "s_pearl_obit_1973",
+    "s_fs_victor_declaration",
+    "s_ohio_marriage_victor_pearl"
+   ]
+  },
+  {
+   "id": "lead_16",
+   "text": "Rabbi Meyer (d.1973) and Esther (d.1960) Kogen at Mt. Olive, Solon - possible Kogen relatives of Elka; unlinked pending records.",
+   "source_ids": []
+  },
+  {
+   "id": "lead_17",
+   "text": "Ester Warshofsky (d.1954) unlinked; possible Warszawski variant.",
+   "source_ids": []
+  },
+  {
+   "id": "lead_18",
+   "text": "Ileen (d.2009) and Larry Hersh remain absent from JOWBR Ohio despite re-confirmed Zion Memorial Park register entries (Z3-1-34 interred 05/24/2009; Z3-1-35 interred 01/03/2012), and Joe Warszawski (d. Feb 18 2017) is absent from the cemetery's OWN online register though his stone is photographed there. JOWBR correction or cemetery office follow-up may close the indexing gaps.",
+   "source_ids": []
+  },
+  {
+   "id": "lead_19",
+   "text": "European leads: Rabbi Zev Wolf Zelkind of Zembin; Dynya + Leyzer Zelkind, Babruysk; Edya + Rakhil Zelkind, Vitsyebsk; Juda Warszawski (1900-1942), Cmentarz Palmiry (likely Holocaust victim); Jehoszua Krenik Warszawski, Kutno; four Warszawski-variant burials at Bagnowka Cemetery, Bialystok; Varshovski family, Vilkaviskis.",
+   "source_ids": []
+  },
+  {
+   "id": "lead_20",
+   "text": "KOGEN leads (JewishGen sweeps): strongest remains the large KOGEN household of Yankel' Vul'f at PARICHI, Bobruisk uyezd (July 1834 revision) - same uyezd as the Babruysk Zelkind line; INFERENCE only. Also: Gomel birth cluster (Isaak 1902, Moisey 1908, Khaim 1915, Bassheva 1916), Kletsk 1834 households, Minsk/Gomel/Mogilev marriages. Yizkor necrology: 21 KAGEN victims from ASHMAYANY (Oshmiany, Vilna region) and KAGEN families of SIEMIATYCZE (Grodno region, 7 records) - no evident link. JOWBR Russia burials are overwhelmingly Soviet-era Moscow (oldest Miryam KOGEN d. 1902 Rostov); Rostov synagogue records: Leyba KOGEN b. 12-Jul-1857 (father Shmuyel, mother Raykhelya) and Zelik-Moyshe Senderovich KOGEN x Mariyeyu Naumovnoy GUREVICH m. 09-Mar-1897 - no evident link to Rabbi Meyer Kogen's line."
+  },
+  {
+   "id": "lead_21",
+   "text": "GARSON France sweep: only exact-spelling record is Aron GARSON x Caroline LEVY, Metz 1865 marriage - now corroborated by Metz-Chambiere cemetery burials ('GERSON Aron (1841-1924)' + 'LEVY Caroline GERSON (c.1845-1909)', JOWBR third source; Garson/Gerson spelling conflict kept visible). More French Garson burials pulled: Rene (1912-1984, Rueil-Malmaison), Lune (1883-1965) + Ernest (1920-1973, Sarcelles), Julie (1914-1997, Pantin), Gaston DAHAN (1904-1998, Bagneux). GUERCHEN 'Abraham GERSHON/LION' (d. 1855, Hellimer, son of Eliyahu) is a possible earlier generation - INFERENCE, unverified. Next: link the Cleveland Garsons (Victor d.1978, Pearl d.1973, Leo, Ida) to the Metz line or rule it out. UPDATE (v1.13 correction): the 'Metz documented' claim is RETRACTED - Victor's declaration reads 'Pairs, France' (clerk's misspelling of Paris). The 1865 Metz couple returns to STRONG BUT UNVERIFIED lead. Proof path: French civil records / Moselle archives for a Solomon Garson/Gerson birth circa 1865-1875.",
+   "source_ids": [
+    "s_fs_victor_declaration"
+   ]
+  },
+  {
+   "id": "lead_22",
+   "text": "HERSH/HERSHKOWITZ Subcarpathia: heartland mapped to Szatmar county (Szinyervaralja/Seini, Felsofalu), Munkacs (Mukacheve) and Maramaros - consistent with 'Czechoslovakia' on Larry's records (Subcarpathia was Czechoslovakia 1920-1938). 1828 property tax census: 'HERSKOVITZ, Aria - Szatmar, Felsofalu' (earliest Aria on record). Munkacs birth cluster incl. Arje Leib HERSKOVICS b. 23-Nov-1887. No birth record matching Arie Hersh(kowitz) b. 1-Jun-1925 (negative). Yad Vashem holds 42 victim records for Arie Hershkowitz: Czechoslovakia cluster incl. Shmuel Arie Herskovicz (Mukaczewo), Arie Leib Herskovits, Akiva Arie Hershkovich (Csop b. 1907); one SURVIVOR - Arie Visman of Szolos, Czechoslovakia (Page of Testimony to be opened day 3). No b.-1925 victim record on page 1. Name-change-from-Hershkovitz reading remains INFERENCE."
+  },
+  {
+   "id": "lead_23",
+   "text": "Pending external replies: WRHS and two JGFF researchers contacted; no replies yet."
+  },
+  {
+   "id": "lead_24",
+   "text": "RESOLVED FALSE POSITIVE - Sephardic Gersons: 9 records (Saloniki/Istanbul, deported 1943-44) are NOT related to the Metz/Cleveland Garson line. Logged so the branch is not re-investigated.",
+   "source_ids": [
+    "s_jowbr_gerson_metz"
+   ]
+  },
+  {
+   "id": "lead_25",
+   "text": "Yad Vashem 'Arie Hershkowitz' Pages of Testimony: 8 murdered, all Carpathian Ruthenia within ~60 km of Munkacs/Uzhhorod (Mukaczewo, Zbudske Dlhe, Osoj, Csop, Tegenye, Wonihowa, Dibova/Tacovo ghetto); none matches Larry b. 1925. Survivor lead: Henri Arie HERSCOVICI (b. 02/02/1931 Paris, hidden child at Illiers, liberated 1945, later Israel) - UNVERIFIED possible cousin line. Also Arie VISMAN (survived, father Gedali Leib), same region.",
+   "source_ids": [
+    "s_yadvashem_pot_arie"
+   ]
+  },
+  {
+   "id": "lead_26",
+   "text": "Ellis Island: 133 exact-spelling 'Garson' manifests 1892-1924 queued for extraction (Eisik, Hersch, Frendel, Gita Sara, Basche, Braine among first names) - the Victor/Pearl/Leo Cleveland generation should be in this set. UPDATE (v1.14): Pearl's petition fixes Victor's U.S. entry at New York, 1902 (age 7). 'Salomon Garson' arr. June 24, 1896 via Genoa RULED OUT (single, Moroccan/Sephardic); two female Garson entries RULED OUT (U.S. citizens returning). Actual arrival likely under a spelling variant (Gerson/Garcon/Garzon) - variant search queued.",
+   "source_ids": [
+    "s_ellis_island_garson",
+    "s_fs_pearl_petition"
+   ]
+  },
+  {
+   "id": "lead_27",
+   "text": "FindAGrave glitch pattern to verify: Pearl's index line says 'Zion Cemetery, Worth Township, Mercer PA', Ileen's says 'Zion Cemetery, Clark, Arkansas', Larry's says 'Zion Cemetery, Theresa, Dodge, Wisconsin' - while the cemetery's own register keeps Ileen and Larry at Zion Memorial Park, Bedford (Z3-1-34/35). Likely misindexed cemetery fields; confirm before citing any FaG cemetery line.",
+   "source_ids": [
+    "s_fag_garson_index",
+    "s_zion_cemetery_register_2026"
+   ]
+  },
+  {
+   "id": "lead_28",
+   "text": "FamilySearch Garson tree ('Mae2019'): Victor LT33-Q47 carries 16 sources but his parents Solomon (LT33-WGS) and Rachael (LT33-SGY) are BARE profiles - no pre-built French branch to import. The profile's 'Ohio' birthplace for Victor is wrong against his own declaration (Paris). Every edge must come from original records.",
+   "source_ids": [
+    "s_fs_tree_mae2019"
+   ]
+  },
+  {
+   "id": "lead_29",
+   "text": "Unlinked possible Garson kin: Leo (d. 1990, Beachwood) and Bertha (1890-1964) now belong to HERMAN GARSON's separate Russian line (Herman b. ~1880 Russia, d. Jan 16, 1962 University Heights; children Barnett, Leo, Theodore, Ralph, Julius, Dorothy). Still unlinked: Leonard L. (1904-1967) and Ida (1917-1987).",
+   "source_ids": [
+    "s_herman_garson_line"
+   ]
+  },
+  {
+   "id": "lead_30",
+   "text": "DISAMBIGUATION: a separate, unrelated Cleveland Garson family exists (Moses H. Garson d. 1941 and Henrietta August, of upstate New York origin). Keep them apart from Victor's Paris (France) line in all searches.",
+   "source_ids": []
+  },
+  {
+   "id": "lead_31",
+   "text": "Solomon and Rachael Garson (Victor's parents) appear only on the 1916 marriage record so far. Next step: Cleveland city directories, 1900-1920 censuses and naturalization indexes for Solomon; a Metz origin would tie him to the Aron GARSON x Caroline LEVY generation.",
+   "source_ids": [
+    "s_ohio_marriage_victor_pearl"
+   ]
+  },
+  {
+   "id": "lead_32",
+   "text": "'Genealogy Karen' - FamilySearch researcher (active September 12, 2026) who maintains the Warszawski tree (Szyman P37L-ZSH, Berta PFRQ-N26, Joe PFR3-L61, plus bare parents GT53-LHT/GT53-C2M) is a POSSIBLE RELATIVE. Flagged for the user's decision; outside outreach scope, untouched.",
+   "source_ids": [
+    "s_fs_tree_pfrqn26"
+   ]
+  },
+  {
+   "id": "lead_33",
+   "text": "DISAMBIGUATION: Herman Garson's family (b. ~1880 Russia, d. 1962 University Heights; wife Bertha; children Barnett, Leo, Theodore, Ralph, Julius, Dorothy) is a SEPARATE Russian line, distinct from Victor's Paris line and from the Moses H. Garson family (d. 1941, upstate NY). Keep all three apart.",
+   "source_ids": [
+    "s_herman_garson_line"
+   ]
+  }
+ ],
+ "unattached_households": [
+  {
+   "people": [
+    "Yosef Yitzchak Bacher",
+    "Moushkie Teleshevsky"
+   ],
+   "notice": "Engagement June 10, 2014",
+   "source_id": "s_bacher_teleshevsky",
+   "relationship": "Parents unverified; do not attach to Shaul or Sholom."
+  },
+  {
+   "people": [
+    "Efraim Bacher",
+    "Sara Kugel"
+   ],
+   "notice": "L’Chaim January 29, 2025; wedding April 3, 2025",
+   "source_id": "s_bacher_kugel",
+   "relationship": "Parents unverified; do not attach to Shaul or Sholom."
+  }
+ ]
+}

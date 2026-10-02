@@ -1,0 +1,12 @@
+BLOCK 22 - JEM Warszawski-side sweep (2026-09-28), photos.jemedia.org full-archive search (all variants).
+WARSZAWSKI (warszawski/warshawsky/warshavsky/varshavsky/warschawski/warsawski): only 2 photos in the whole archive, both video stills from Sunday dollars 15 Teves 5752 (Dec 22 1991):
+- jem 2026660: tagged "Warszawski Leah"
+- jem 2026661: tagged "Warszawski Leah" + "warszawski aliya" (lowercase aliya in JEM's tag)
+Leah = Lori (Leah) Warszawski (extended list); Aliya = Aliya (Warszawski) Andrusier, one of the nine children. No photos tagged for Joe, Berta, Szyman/Shimon, Ilana, Shoshy, Yechiel, Shimon, Mushky, Chaya Brocha, Hadassa Miriam, Simcha, or Maimi Warszawski under any spelling.
+MARINOVSKY (93 hits, mostly older generation: Moshe x52, Betzalel x7+2, Chaim ozer x3, Levi x4, Ari x3, Naftali x1, plus married daughters): ONE photo of "Marinovsky Shmaya" (Ilana's husband): jem 47035, dollars 3 Sivan 5750 (May 27 1990), real photo (not still), with "Marinovsky (Feigenson) Leah" and "Feigenson (Lipsker) Basheva" (his mother + grandmother, apparently).
+ANDRUSIER (209 hits, big family: Rafael x14, Yerachmiel x9, Nissan Isaac x9, Yossi x7, etc.): Shmuel Yaakov appears as "Andrusier Shmuly" x2 + "Andrusier Shmuli" x1: jem 2085414 (dollars 5 Cheshvan 5749, video still), jem 224263 (kuntreisim distribution 28 Elul 5749, photo), jem 227266 (kuntreisim 6 Tishrei 5750, photo). Plus 6 stills tagged bare "Andrusier" (dollars 5748-5752, jem 2063005/2110358/2110359/2110361/2031483/2051487) - possibly him or a relative, unattributed.
+INGLIS (6): Tzvi x3 (dollars 27 Nissan 5750 x2 + 11 Tishrei 5751), Sorah, Chaya Mushka, Shneur Zalman (11 Tishrei 5751) - no Dovid Inglis, no Maimi.
+GARSON (4 hits, ALL fuzzy false positives: Gamson (Feldman) Chani; (Feldman) Chana Elka Gamson; Garonce Ron; Garonce Adam). ZERO true Garson photos (Victor, Pearl, Solomon, Rachael, Rosamond Simon, Rochelle Horwich, Julia Maria, Marcel, Charlotte).
+ZELKIND: 1 hit, false positive (Elkind Michoel). HORWICH: 0. ADELSTEIN: 1 (Adelstein (Rickler) Tamar, dollars 28 Iyar 5748 - probably not Pearl).
+Combos: "lawrence hersh" 0, "seth greenberg" 0, "doni hirsch" 1 (false positive), "dovi katz" 38 (all Katz Moshe Pinchos/other Katzes, no Dovi Katz tag), "chaya brocha katz" 1 (false positive), "hadassa hirsch" 0, "shoshana chaikin" 3 (no Shoshana; but 2 photos of "Chaikin Sholom Ber", 2 Tishrei 5737, jem 203976+204028 - Chaikin-lane note).
+Note: absence = no TAGGED photos; untagged appearances can only surface via face recognition or manual browsing.

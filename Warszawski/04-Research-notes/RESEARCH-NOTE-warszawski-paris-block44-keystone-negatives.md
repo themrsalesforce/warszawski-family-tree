@@ -1,0 +1,39 @@
+# Research note - Paris keystone TRIPLE NEGATIVE (block 44) - 28 Sep 2026
+
+Target: the m1 marriage of Antoine Joseph Garson x Caroline Valentine Lampriere, cited in Auguste's 1864 birth act as "5e mairie 1860".
+
+1. 5e 1860 register quarterly tables: Q2 + Q3 NEGATIVE (Q1 negative in block 43; Q4 not digitized but covered by the TD).
+2. 5e Mariages TD 1860-1872, bride side: NO Lampriere or any Lamp* (Lamouroux -> Lancelin gap).
+3. 6e Mariages TD 1860-1872, BOTH sides negative: Gar band has Garnier/Garnot/Garon (Louis, 7 mai 1867 - closest variant, wrong prenom)/Garreau/Gary but NO Garson or Garcon; bride side Lamy x8 -> Lancelin, NO Lampriere.
+
+Assessment: the marriage did NOT happen in the 5e or 6e 1860-1872 despite the explicit citation in the 1864 birth act. Remaining explanations: 1859 or earlier; another mairie; outside Paris; or religious-only/unrecorded with 1860 as the declarants' error.
+
+Next (block 45, queued): 5e TD 1850-1859, then a 19-arrondissement TD sweep for Garson groom + Lampriere bride, then AD77 La Croix-en-Brie. Durable IIIF refs in the lane's block-44 report.
+
+Related correction (block 42/43): the 17e NAISSANCES TD negative was REVERSED - D1M9 46 feuillet 10 carries "Garson | Cesar | 30 | mars | 1868" matching acte 734. The 17e MARIAGES TD negative stands.
+
+Garson backbone hold: INTACT (user iMessage 28 Sep 10:06) - nothing merges until Antoine's line is act-proven.
+
+## Block 45 (28 Sep, midday) - TD sweep progress + Garcon hypothesis HIT
+- Arr 01, 02, 03 NEGATIVE for Garson groom (5/20 done; 05/06 negative in block 44).
+- METHOD (durable): TD row-eye buttons carry data-visionneuse JSON mapping idArkoFile -> IIIF image id; show id = image id + 70. Full 18-arrondissement Garson-tranche show/image map in the lane's block-45 report.
+- HIT: "Garcon, Adolphe J.ph, 19 mai 1864" in the 3e (crop archived by lane). Match candidate: the Douai branch's Adolphe Joseph Garcon (~1822, son of Guillaume Joseph Garcon x Marie Philippe Piolle, "employe d'artillerie" at Puteaux 1867 - the witness in the 1867 Collette x Garcon act 72). Block 46 pulls the act to check parents.
+- Backup row: "Garcon, Laurent, 9 juillet 1864", same tranche.
+- Limitation: this TD app covers 1860+ only; a pre-1860 Paris marriage has no TD there.
+- Block 46 queue: Adolphe act pull, arr 04/07-20 sweep, Lampriere tranche map, then AD77 La Croix-en-Brie.
+
+## Block 47 (2026-09-28 ~12:51 PM) - 6e Lampriere band VERIFIED NEGATIVE
+Full-resolution read of the whole "Lam" band of the 6e marriages table decennale (D1M9 416 / show 8260 / image 8190): the exact Lampriere slot is EMPTY, no spelling variant. The 6e is now TD-negative on BOTH spouses for the 1860 marriage (Garson negative in block 44). Combined with the 5e double negative, both family-tied arrondissements are TD-negative for Antoine x Caroline. Tranche map for all 20 arrondissements (1860-1872 TD) completed lane-side; the 06 puzzle is resolved (label approximate - the volume continues past Lartigue; 8259 is the preceding 6e H-Izarn volume, 412 acts). Sweep continues into the remaining arrondissements per the tranche map.
+
+## Block 48 (2026-09-28 ~1:19 PM) - arr 01-08 DOUBLE-NEGATIVE; Lampire collateral cluster
+Lampriere spouse cross-check COMPLETE for arrondissements 01-08: all 8 are now TD-negative on BOTH spouses for the Antoine x Caroline marriage (full Lam-band native-res reads, both pages of each spread; 5e band spans shows 8242/8243 with shuffled feuillets; 4e content is in 8224 not 8223 - tranche search links approximate, probe neighbors). If the marriage is in Paris 1860-1872 it can only sit in arr 09-20 - the Garson sweep there is the only remaining TD route.
+COLLATERAL FIND (unverified inference, lane pursuing): a Lamperiere/Lampire cluster of 10 marriages across 1er/2e/5e, 1860-1872 (Delphine Amelie 1860 1er; Jules Hector Alexandre 1870 1er; Henry Jules Cesar 1871 1er; Angelique 1869 2e; Francois Marius 1861 5e; Rosalie Irma 1865 5e; Fortunee Adele Antoinette 1866 5e; Jean Pierre Philippe LAMPIRE 1867 5e; Blanche 1869 5e; Odile Augustine 1872 5e). Possible spelling drift from Caroline's Lampriere; if family, their acts name parents = a collateral route to Caroline's parents. Lane pulling Delphine 1860, Rosalie 1865, Fortunee 1866, Angelique 1869 to cross-compare parent sets. Crops archived in Paris-block48 zip.
+
+## Block 49 (2026-09-28 ~1:52 PM) - first Lampriere act: candidate parents for Caroline (INFERENCE)
+Acte 457 (23 juin 1860, 1er arr., V4E 6 show/138705/image/130712): Delphine-Amelie LAMPERIERE (b. 2 aout 1832, Paris ancien 4e) x Henri WAELLES (papetier, b. Bruxelles 28-8-1833; Mathieu Ghislain Waelles x Marie-Therese Limon). Bride's parents named in the act: Jules Armand LAMPERIERE (decede avant 23-6-1860) x Amelie Clotilde MARCEL (veuve, 55 ans, rentiere, rue Lagavin 3, 1er) - spelling SETTLED (28 Sep, block-50 recheck): act body + her signature "A. C. Marcel" + maternal uncle Arsene Marcel all read MARCEL, not Marbel. This couple is the first CANDIDATE PARENT SET FOR CAROLINE - inference at sibling level only until Caroline's own marriage/birth record names the same couple. Contract recu par Me Beau, notaire, 22 juin 1860. Variant logged: act body "Lamperiere" vs TD index "Lamperiere". Source images: native https://archives.paris.fr/_recherche-images/show/138705/image/130712/1/250,1750,1900,1600/full/0/default.jpg ; full spread https://archives.paris.fr/_recherche-images/show/138705/image/130712/1/full/full/0/default.jpg . Bride-side witnesses (settled on close zoom, block 50 correction): Joseph-Eugene Chome ("beau frere de l'epouse"), Arthur MARCEL ("cousin germain maternel de l'epouse" - NOT Morel; with uncle Arsene MARCEL and the mother's "A C Marcel" signature this triple-settles the MARCEL surname), Arsene Marcel (maternal uncle), Lucien-Auguste Poitelet (relationship unstated). Witness zoom: https://archives.paris.fr/_recherche-images/show/138705/image/130712/1/850,2100,1450,1200/full/0/default.jpg . Lane queue: act 457 witnesses/signatures, the other 9 cluster acts, Delphine's 1832 birth act (reconstitues, ancien 4e, for grandparents), then the Garson arr 09-20 TD sweep, Pauline Garson act, pre-1860 route, AD77. GARSON HOLD: archived + noted only; nothing enters tree/book until Antoine's line is act-proven. Crops in Paris-block49 zip.
+
+## Block 50 (2026-09-28 ~2:08 PM) - second act: Rosalie Irma Lamperiere x Bohain; TWO DISTINCT FAMILIES
+Acte 203 (23 mars 1865, 5e arr., V4E 554): Rosalie Irma LAMPERIERE x Henry Joseph Benjamin BOHAIN. Parents named in act: Pierre Auguste LAMPERIERE x Eustelle Rosalie PEULVEY (settled on close zoom: https://archives.paris.fr/_recherche-images/show/141932/image/133939/5/2550,535,1500,300/full/0/default.jpg ). She is NOT a daughter of Jules Armand x Amelie Clotilde Marcel - the 10 Lamperiere marriages are at least TWO DISTINCT FAMILIES. Keep the clusters separate; do not collapse. Only the Jules Armand x Amelie Clotilde MARCEL couple (act 457 family) remains the candidate parent set for Caroline. Native scan: https://archives.paris.fr/_recherche-images/show/141932/image/133939/5/2600,180,1400,2300/full/0/default.jpg . Lane continues the remaining act pulls. Garson hold unchanged.
+
+## Block 50 closeout (2026-09-28 ~2:19 PM) - arr 09-20 sweep status: INCOMPLETE, not negative
+The Garson arr 09-20 TD sweep is NOT an exclusion: arr 09 and parts of 10 read near Gar-/Gars- with no target found; 11-12 contact-sheet triage only; 13-20 downloaded but not yet inspected. Do not treat 09-20 as ruled out. Delphine-Amelie's 2-8-1832 birth act: NOT found yet (reconstitue guidance link noted by lane). Queued pulls for when the browser cap lifts at midnight: Fortunee 1866, Angelique 1869, Jules Hector 1870, Henry Jules 1871, Pauline Garson 1867, AD77. MARCEL/Peulvey/second-family substance settled earlier (Arthur MARCEL correction applied; two distinct Lamperiere families kept separate).

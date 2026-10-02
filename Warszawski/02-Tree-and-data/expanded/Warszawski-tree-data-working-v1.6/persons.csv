@@ -1,0 +1,33 @@
+id,display,birth_surname,sex,living,generation,relationship,parents,spouses,children,sources
+per_joe,Joe Warszawski,Warszawski,male,deceased,-1,Father,per_bertha|per_shimon_elder,per_lori,per_ilana|per_aliya|per_shoshy|per_yechiel|per_shimon|per_chaya_brocha|per_hadassa|per_simcha|per_maimi,s_user|s_family_knowledge|s_cjn_1986_hersh|s_cjn_1972_joe_bar
+per_bertha,Berta (Bertha) Warszawski,,female,deceased,-2,Grandmother,per_mordechai_zelkind|per_elka_zelkind,per_shimon_elder,per_joe,s_user3|s_family_knowledge|s_cjn_1995_szyman|s_cjn_1988_ilana|s_cjn_1997_zelkind|s_zion_cemetery_register_2026|s_billiongraves_berta_stone
+per_larry,Lawrence (Larry) Hersh,Hersh,male,deceased,-2,Grandfather,,per_shaina,per_lori|per_susanne_greenberg|per_marcy_hirsch,s_user5|s_family_knowledge|s_cjn_1986_hersh|s_cjn_1988_ilana|s_fortunoff_larry_h|s_jvn_larry_memorial|s_cjn_1972_larry_activism|s_familysearch_larry_nat_1961|s_zion_cemetery_register_2026
+per_shaina,Ilene (Gabby) Hersh,,female,deceased,-2,Grandmother,,per_larry,per_lori|per_susanne_greenberg|per_marcy_hirsch,s_user5|s_family_knowledge|s_cjn_1988_ilana|s_zion_cemetery_register_2026
+per_lori,Lori (Leah) Warszawski,Hersh,female,presumed_living,-1,Mother,per_larry|per_shaina,per_joe,per_ilana|per_aliya|per_shoshy|per_yechiel|per_shimon|per_chaya_brocha|per_hadassa|per_simcha|per_maimi,s_user|s_family_knowledge|s_cjn_1986_hersh|s_cjn_1988_ilana
+per_ilana,Ilana Marinovsky,Warszawski,female,presumed_living,0,Sister,per_joe|per_lori,per_shmaya,,s_user|s_cjn_1988_ilana
+per_shmaya,Shmaya Marinovsky,Marinovsky,male,presumed_living,0,Brother-in-law,,per_ilana,,s_user|s_family_knowledge
+per_aliya,Aliya Andrusier,Warszawski,female,presumed_living,0,Sister,per_joe|per_lori,per_shmuel_yaakov,,s_user|s_col_andrusier
+per_shmuel_yaakov,Shmuel Yaakov Andrusier,Andrusier,male,presumed_living,0,Brother-in-law,,per_aliya,,s_user|s_col_andrusier|s_family_knowledge
+per_shoshy,Shoshy (Shoshana) Chaikin,Warszawski,female,presumed_living,0,Shoshy,per_joe|per_lori,per_shmuel,per_ella|per_abie|per_mika,s_user|s_ci_chaikin|s_collive_chaikin_eng
+per_shmuel,Shmuel Chaikin,Chaikin,male,presumed_living,0,Husband,,per_shoshy,per_ella|per_abie|per_mika,s_user|s_ci_chaikin|s_collive_chaikin_eng
+per_ella,Ella Chaikin,Chaikin,female,presumed_living,1,Daughter,per_shoshy|per_shmuel,,,s_user_kids
+per_abie,Abie Chaikin,Chaikin,unknown,presumed_living,1,Child,per_shoshy|per_shmuel,,,s_user_kids
+per_mika,Mika Chaikin,Chaikin,unknown,presumed_living,1,Child,per_shoshy|per_shmuel,,,s_user_kids
+per_yechiel,Yechiel Warszawski,Warszawski,male,presumed_living,0,Brother,per_joe|per_lori,,,s_user|s_user2|s_family_knowledge
+per_shimon,Shimon Warszawski,Warszawski,male,presumed_living,0,Brother,per_joe|per_lori,per_mushky,per_shimon_baby,s_user|s_col_chayempour|s_collive_shimon_eng|s_family_knowledge
+per_mushky,Mushky Warszawski,Chayempour,female,presumed_living,0,Sister-in-law,,per_shimon,per_shimon_baby,s_user|s_col_chayempour|s_chi_baby2020|s_collive_shimon_eng
+per_shimon_baby,Baby girl (name not published),Warszawski,female,presumed_living,1,Niece,per_shimon|per_mushky,,,s_chi_baby2020
+per_chaya_brocha,Chaya Brocha Katz,Warszawski,female,presumed_living,0,Sister,per_joe|per_lori,per_dovi,per_katz_baby_2025,s_user|s_col_katz_eng|s_chi_katz_baby
+per_dovi,Dovi Katz,Katz,male,presumed_living,0,Brother-in-law,,per_chaya_brocha,per_katz_baby_2025,s_user|s_col_katz_eng|s_chi_katz_baby
+per_hadassa,Hadassa Miriam Hirsch,Warszawski,female,presumed_living,0,Sister,per_joe|per_lori,per_doni,,s_user|s_chi_hirsch_eng|s_family_knowledge
+per_doni,Doni Hirsch,Hirsch,male,presumed_living,0,Brother-in-law,,per_hadassa,,s_user|s_chi_hirsch_eng|s_family_knowledge
+per_simcha,Simcha Warszawski,Warszawski,female,presumed_living,0,Sister,per_joe|per_lori,,,s_user|s_family_knowledge
+per_maimi,Maimi Inglis,Warszawski,female,presumed_living,0,Sister,per_joe|per_lori,per_dovid,,s_user2|s_ci_inglis|s_collive_inglis_eng
+per_dovid,Dovid Inglis,Inglis,male,presumed_living,0,Brother-in-law,,per_maimi,,s_user2|s_ci_inglis|s_collive_inglis_eng
+per_katz_baby_2025,Baby girl (name not published),Katz,female,presumed_living,1,Niece,per_chaya_brocha|per_dovi,,,s_chi_katz_baby
+per_shimon_elder,Szyman (Shimon) Warszawski,Warszawski,male,deceased,-2,Grandfather,,per_bertha,per_joe,s_family_knowledge|s_cjn_1995_szyman|s_cjn_1988_ilana|s_cjn_1972_joe_bar|s_numident_szymon_index
+per_mordechai_zelkind,Mordechi (Mordechai) Zelkind,Zelkind,male,unknown,-3,Great-grandfather,,per_elka_zelkind,per_bertha,s_family_knowledge|s_cjn_1997_zelkind|s_cjn_1988_ilana|s_zion_cemetery_register_2026|s_billiongraves_mordukh_stone
+per_elka_zelkind,Elka Zelkind,,female,unknown,-3,Great-grandmother,,per_mordechai_zelkind,per_bertha,s_family_knowledge|s_cjn_1997_zelkind|s_numident_elka_index|s_zion_cemetery_register_2026|s_billiongraves_elka_stone
+per_susanne_greenberg,Susanne Greenberg,Greenberg,female,presumed_living,-1,Aunt,per_larry|per_shaina,per_seth_greenberg,,s_family_knowledge
+per_marcy_hirsch,Marcy Hirsch,Hirsch,female,presumed_living,-1,Aunt,per_larry|per_shaina,,,s_family_knowledge
+per_seth_greenberg,Seth Greenberg,Greenberg,male,presumed_living,-1,Uncle,,per_susanne_greenberg,,s_family_knowledge

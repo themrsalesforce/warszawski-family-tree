@@ -1,0 +1,20 @@
+id,type,title,date,precision,place,sources
+evt_joe_born,birth,Joe Warszawski born,1959-10-19,day,,s_heights1978
+evt_andrusier_0,lchaim,"L'Chaim of Shmuly Andrusier and Aliyah Warszaski (Oct 9, 2013)",2013-10-09,day,"Beis Levi Yitzchak shul, Crown Heights",s_col_andrusier
+evt_shimon_0,lchaim,L'Chaim of Shimon Warszawski and Mushkie Chayempour,2019-01,month,"Lubavitch Yeshiva Hall, Crown Heights",s_col_chayempour
+evt_shimon_1,birth,Baby girl announcement for Shimon and Mushkie Warszawski,2020-01-20,day,Crown Heights,s_chi_baby2020
+evt_katz_0,engagement,Engagement of Dovi Katz and Chaya Warszawski; L'Chaim that night,2023-01-10,day,"Lubavitch Yeshiva, Crown Heights",s_col_katz_eng|s_anash_katz_lc|s_col_katz_lc
+evt_katz_1,wedding,"Wedding of Dovi Katz and Chaya Warszawski (Mar 12, 2023)",2023-03-12,day,"Oholei Torah, Crown Heights",s_anash_katz_wed
+evt_hirsch_0,engagement,Engagement of Daniel (Donni) Hirsch and Dassi Warszawski; L'Chaim that night,2022-11-06,day,"Ulam Chana Hall (Machon Chana), Crown Heights",s_chi_hirsch_eng|s_anash_hirsch_lc|s_col_hirsch_lc
+evt_hirsch_1,wedding,"Wedding of Daniel Hirsch and Dassi Warszawski (Feb 2, 2023)",2023-02-02,day,"Oholei Torah Ballroom, Crown Heights",s_anash_hirsch_wed
+evt_joe_death,death,Joe Warszawski passes away,2017-02-18,day,,s_heights1978
+evt_chaikin_eng_2014,engagement,Shoshy Warszawski and Shmuly Chaikin engaged (announcement),2014-08-22,day,,s_collive_chaikin_eng
+evt_inglis_eng_2018,engagement,Maimi Warszawski and Dovid Inglis engaged (announcement),2018-12-28,day,,s_collive_inglis_eng
+evt_shimon_eng_2019,engagement,Shimon Warszawski and Mushky Chayempour engaged (announcement),2019-01-12,day,,s_collive_shimon_eng
+evt_katz_baby_announcement_2025,announcement,Baby girl announcement for Dovi and Chaya Katz (very likely match),2025-12-03,day,,s_chi_katz_baby
+evt_uni_marinovsky_family_wed,wedding,Ilana and Shmaya Marinovsky marry,2012-02-28,day,,s_family_knowledge
+evt_uni_chaikin_family_wed,wedding,Shoshy and Shmuel Chaikin marry,2014-12-08,day,,s_family_knowledge
+evt_uni_shimon_family_wed,wedding,Shimon and Mushky Warszawski marry,2019-03-04,day,,s_family_knowledge
+evt_szyman_death,death,Szyman Warszawski dies,1995-07-18,day,,s_cjn_1995_szyman
+evt_joe_bar_announcement,bar_mitzvah,Joseph Warszawski bar mitzvah announced at Sinai Synagogue,1972-10-14,day,Sinai Synagogue,s_cjn_1972_joe_bar
+evt_larry_naturalization,naturalization,Arie Lawrence Hersh naturalized in Cleveland,1961-08-11,day,"U.S. District Court, Cleveland, Ohio",s_familysearch_larry_nat_1961

@@ -1,0 +1,198 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:warszawski-family-tree:1:schema",
+  "title": "Warszawski family tree v1.3.0",
+  "type": "object",
+  "required": [
+    "meta",
+    "statistics",
+    "sources",
+    "persons",
+    "unions",
+    "events",
+    "open_questions",
+    "research_leads"
+  ],
+  "properties": {
+    "meta": {
+      "type": "object",
+      "required": [
+        "title",
+        "format_version",
+        "focus_person_id"
+      ],
+      "properties": {
+        "format_version": {
+          "const": "1.6.0"
+        },
+        "focus_person_id": {
+          "type": "string"
+        }
+      }
+    },
+    "statistics": {
+      "type": "object",
+      "required": [
+        "persons",
+        "sources",
+        "generations"
+      ]
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "title",
+          "type",
+          "url",
+          "description"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^s_"
+          },
+          "title": {
+            "type": "string"
+          },
+          "url": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "format": "uri"
+          },
+          "description": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "persons": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "names",
+          "sex",
+          "living",
+          "generation",
+          "relationships",
+          "life_events",
+          "facts",
+          "notes",
+          "source_ids"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^per_"
+          },
+          "names": {
+            "type": "object",
+            "required": [
+              "display",
+              "surname_birth"
+            ]
+          },
+          "generation": {
+            "type": "integer"
+          },
+          "facts": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": [
+                "field",
+                "value",
+                "kind",
+                "source_ids"
+              ],
+              "properties": {
+                "kind": {
+                  "enum": [
+                    "user_stated",
+                    "public_record",
+                    "inference",
+                    "family_verified"
+                  ]
+                },
+                "source_ids": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "unions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "partner_ids",
+          "child_ids"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^uni_"
+          },
+          "partner_ids": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "child_ids": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "events": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "type",
+          "title",
+          "date",
+          "source_ids"
+        ]
+      }
+    },
+    "open_questions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "question"
+        ]
+      }
+    },
+    "research_leads": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "text"
+        ]
+      }
+    }
+  }
+}

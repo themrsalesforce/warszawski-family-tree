@@ -1,0 +1,72 @@
+[
+  {
+    "sha256": "2fb1c7859e1be0e9db1146cd04fd89f293acac5e0e81e2c11cc8c191558aecea",
+    "paths": [
+      "Warszawski/03-Archive-records/Plain-Dealer-Mordukh-Zelkind-1996-09-25-original.pdf",
+      "Warszawski/03-Archive-records/Mordukh Zelkind_Plain Dealer_Sep 25 1996_CPL-scan.pdf"
+    ]
+  },
+  {
+    "sha256": "ffecd000eef9b0bc1903b427bebc8b50bfd88db3ae911d496981cc51cb4f2c0d",
+    "paths": [
+      "Warszawski/03-Archive-records/Ileen Hersh_Plain Dealer_May 23 2009_CPL-scan.pdf",
+      "Warszawski/03-Archive-records/Plain-Dealer-Ileen-Hersh-2009-05-23-original.pdf"
+    ]
+  },
+  {
+    "sha256": "87fdd895fd410ffc3a82bdb30cc584d235cdda4f30d2395884deb9264193d966",
+    "paths": [
+      "Warszawski/02-Tree-and-data/expanded/Warszawski-tree-data-working-v1.6/events_timeline.csv",
+      "Warszawski/02-Tree-and-data/expanded/Warszawski-tree-data-working-v1.7/events_timeline.csv"
+    ]
+  },
+  {
+    "sha256": "5fc0fb47ff9e90d6200c78b71148fbe2fc6d67a6b9f403d7738f4554ce101289",
+    "paths": [
+      "Warszawski/02-Tree-and-data/expanded/Warszawski-tree-data-working-v1.6/warszawski-family-tree.types.ts",
+      "Warszawski/02-Tree-and-data/expanded/Warszawski-tree-data-working-v1.7/warszawski-family-tree.types.ts"
+    ]
+  },
+  {
+    "sha256": "3f2b681ada7d49d423212a9ad153a39cee164f47fc1c0ffc7a0a356b0051bdfe",
+    "paths": [
+      "Warszawski/02-Tree-and-data/expanded/Warszawski-tree-data-working-v1.6/warszawski-family-tree.xsd",
+      "Warszawski/02-Tree-and-data/expanded/Warszawski-tree-data-working-v1.7/warszawski-family-tree.xsd"
+    ]
+  },
+  {
+    "sha256": "f7b1e6e6520cb960db46168e0d8a8da94ffa87f15087bf3bd6db6906db3344c2",
+    "paths": [
+      "Warszawski/03-Archive-records/expanded/Pre1860-Garson-cards-proof-a2ddc72d/0-34.jpg",
+      "Warszawski/03-Archive-records/expanded/antoine-birth-card-proof/garson-antoine-joseph-birth-card-1832.jpg"
+    ]
+  },
+  {
+    "sha256": "7508889a08fb08e1932c42d7229f9f5eea2a2f5e4c818eca165923290a309a3b",
+    "paths": [
+      "Warszawski/03-Archive-records/expanded/Larry-Hersh-1984-transcripts-proof-d1d79b33/transcript-3.pdf",
+      "Warszawski/03-Archive-records/expanded/hersh-ushmm-oral-history-1984/hersh_03.pdf"
+    ]
+  },
+  {
+    "sha256": "15ae66210e30ae9f7c9d5a99d640fd842cc84f05255cd3ba5d514606a92f2f45",
+    "paths": [
+      "Warszawski/03-Archive-records/expanded/Larry-Hersh-1984-transcripts-proof-d1d79b33/transcript-2.pdf",
+      "Warszawski/03-Archive-records/expanded/hersh-ushmm-oral-history-1984/hersh_02.pdf"
+    ]
+  },
+  {
+    "sha256": "0b38e2f221d6bfa85403c2fe3b4b8cf8a4fdacefcac05db1460fa7a71f3ea670",
+    "paths": [
+      "Warszawski/03-Archive-records/expanded/Larry-Hersh-1984-transcripts-proof-d1d79b33/transcript-1.pdf",
+      "Warszawski/03-Archive-records/expanded/hersh-ushmm-oral-history-1984/hersh_01.pdf"
+    ]
+  },
+  {
+    "sha256": "19a46bf7aca86bc027ebdc0ba95d8cd7db268756041edf05ce050f8a5e77bdbf",
+    "paths": [
+      "Warszawski/03-Archive-records/expanded/Caroline-Beneton-1852-proof-794476fc/marriage-card.jpg",
+      "Warszawski/03-Archive-records/expanded/Pre1860-Lamperiere-cards-proof-74842ed7/0-21.jpg"
+    ]
+  }
+]

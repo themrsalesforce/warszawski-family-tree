@@ -1,0 +1,42 @@
+# September 30 Cleveland source ledger
+- CPL Rosamond Simon finding record, opened live and fetched: https://cpl.org/newsindex/showrecord/?record=614868&type=news . Jan 25 1983, Plain Dealer p2 E, wife Sanford. Strong candidate for Rochelle's sister, scan needed.
+- CPL Sanford Simon 1971 index transcription: https://cpl.org/newsindex/showrecord?record=723983&type=necrology . Wife Helen, children Jerry/Rosalyn, incompatible cluster; exclude unless new evidence.
+- CPL Sanford Simon 1990 finding record: https://cpl.org/newsindex/showrecord?record=310803&type=news . Sept 1 p4 C and Sept 2 p7 C, wife late Grace G. Not linked to Rosamond; no merge.
+- CJN architectural feature, Steve Mark, Dec 1 2023: https://www.clevelandjewishnews.com/news/local_news/sanford-simon-s-brilliance-leaves-lasting-legacy-in-architectural-world/article_e2433d7c-8fc8-11ee-a573-4bc8b63ae83e.html . Architect Sanford father of Bart, Yale 1931, birthday 82 in 1988, died 84 two years later. Not linked to Garson.
+- Judith obituary: https://www.clevelandjewishnews.com/community/lifecycles/obituaries/dratler-judith/article_47f8ba7b-d979-4328-940c-237bfa1680c0.html . Brother Lawrence Hersh, surname née Herskowitz, Holocaust family losses. Previously found, rechecked.
+- USHMM interview catalog: https://collections.ushmm.org/search/catalog/irn505021 . Interview Aug 13 1984; transcript p3 https://collections.ushmm.org/oh_findingaids/RG-50.091.0080_03_trs_en.pdf . Transcripts downloaded from already archived source bundle. Uncle Janowitz of Cleveland, mother Leah, sister sponsored by uncle, three-month stay. Spoken-word transcription explicitly warns of errors.
+- Kol Israel 2017 memorial program: https://clevelandjewishhistory.net/ins/images/kif-holocaust-memorial-booklet-2017.pdf . PDF retrieved and p9 visually inspected. Wall section 47 Hershkovitz/Herschkovitz cluster, Lea and three female names. Compatible with Larry family but unlinked.
+- Memorial operator context: https://www.kifcle.org/memorial . Names of relatives of survivors, donors may add names. Does not identify who sponsored wall 47.
+- Larry hero tribute: https://jewishveterans.org/heroes/larry-hersh . Browser-confirmed, young portrait and exact dates lead (June 1 1925, Jan 3 2012), no cited civil records. 1949 chronology conflicts with Larry's 1948 account. Links HERE directly to the USHMM catalog.
+- Lakewood Observer, March 19 2013 article: https://www.lakewoodobserver.com/articles/uncategorized/in-memoriam-eva-weissman/ . Quotes Dave Beckman re Larry died last year, supporting 2012, and documentary White Rose Black Rose showing May 2013.
+- CJN May 15 2003 interview story: https://www.clevelandjewishnews.com/archives/area-veterans-of-1948-war-refute-new-historians/article_f3ae8789-098a-5b62-b0ee-12d467b2f114.html . Larry on Altalena, meeting Begin and delivering waterproof pouch; age 80 conflicts with self-reported 1925 birth (78 at most in 2003). Use as attributed recollections.
+
+## September 30 continuation sources
+- CPL 1955 city directory p618 digital/p619 printed, visually inspected full original and enlarged center: https://cplorg.contentdm.oclc.org/digital/collection/p16014coll29/id/56330 . Janovitz Morris(Eleanor), unlinked.
+- CPL1940 city directory p541 digital/p538 printed, visually inspected original and enlarged surname block: https://cplorg.contentdm.oclc.org/digital/collection/p16014coll29/id/48078 . Janowitz household candidates, none linked.
+- CPL directory coverage guide: https://cpl.org/wp-content/uploads/PDF/genealogy/city_directories.pdf . Post1951 main-volume suburb limit, separate Heights series.
+- CPL1939 Louis E Janowitz transcription: https://cpl.org/newsindex/showrecord/?record=163244&type=necrology . Sibling list includes two Herskovitz sisters, unlinked.
+- USHMM interview part1: https://collections.ushmm.org/oh_findingaids/RG-50.091.0080_01_trs_en.pdf . Childhood, parents' businesses, gifted-school account, maternal relatives, Kelety spelling.
+- USHMM interview part2: https://collections.ushmm.org/oh_findingaids/RG-50.091.0080_02_trs_en.pdf . Bread wagon, Leonard Fox, camp number8485/845 variants, Warsaw reunion. Transcript warns of errors; not a civil register.
+- Centropa Mihaly Eisikovits: https://www.centropa.org/en/biography/mihaly-eisikovits . Reviczky son Adam's book.
+- 1985 book bibliographic listing: https://www.antikvarium.hu/konyv/reviczky-adam-vesztes-haboruk-megnyert-csatak-37356-0 . Magvető, Budapest1985,776pp.
+- Reviczky2008 book, publisher OCR printed448: https://www.szaktars.hu/multesjovo/view/reviczky-adam-vesztes-haboruk-megnyert-csatak-emlekezes-reviczky-imre-ezredesre-2008/?pg=469&layout=s&query=Larry . Larry Hirsch/Huszt/1925/multilingual/forged summons1944.
+- Same printed449: https://www.szaktars.hu/multesjovo/view/reviczky-adam-vesztes-haboruk-megnyert-csatak-emlekezes-reviczky-imre-ezredesre-2008/?pg=470&layout=s&query=Larry . Explicit commander Reviczky and bread deliveries. OCR only, pixel scan subscription-gated.
+- Same printed450: https://www.szaktars.hu/multesjovo/view/reviczky-adam-vesztes-haboruk-megnyert-csatak-emlekezes-reviczky-imre-ezredesre-2008/?pg=471&layout=s&query=Larry . Flight/hiding and deportation, author commentary. OCR only.
+- USHMM independent Khust collection contextual history: https://collections.ushmm.org/search/catalog/pa1180123 .1944 ghetto/deportations; conflict with1943 in interview.
+- JewishGen Khust memorial victim transcription: https://www.jewishgen.org/yizkor/khust/khu0891.html . Hershkovich and Janovich clusters, not linked. No household match to memorial wall47 found in this transcription.
+- CJN2003 Larry/Altalena recollections, conflicts: https://www.clevelandjewishnews.com/archives/area-veterans-of-1948-war-refute-new-historians/article_f3ae8789-098a-5b62-b0ee-12d467b2f114.html
+- CJN2008 Larry/Altalena recollections and thumbnail: https://www.clevelandjewishnews.com/archives/remembering-the-altalena-a-shipmate-s-tale/article_ce62901a-5dba-56fb-9a42-562a62673a77.html
+- PalmachAltalena departure11June: https://palmach.org.il/en/history/database/?itemId=5592
+- Williams/Diskin2024maritime account: https://cnrs-scrn.org/northern_mariner/vol34/tnm_34_1_129-138.pdf
+- JVLAltalena context: https://jewishvirtuallibrary.org/the-altalena-affair
+- LarryHolocaustcenter letter originalMay26 2000p8: https://now.dirxion.com/Cleveland_Jewish_News/library/Cleveland_Jewish_News_1964-2009/Cleveland_Jewish_News_05_26_2000.pdf . Enlarged pixel-verified.
+- Larry2010 opinion: https://www.clevelandjewishnews.com/archives/learn-from-the-past/article_6dda4bc8-0cee-560c-808e-b61934ddd070.html
+- LeonardFuchs2021obituary: https://www.clevelandjewishnews.com/news/local_news/fuchs-recalled-for-commitment-to-education-israel/article_ce612b0a-6970-11ec-814b-2b13790cc7a5.html . NoNagybanyaLarrylink.
+- LeonardFuchsoralcatalog: https://collections.ushmm.org/search/catalog/irn700796 . Noonline downloadperlivebrowser.
+- Khustindex: https://www.jewishgen.org/Yizkor/Khust/khu1035.html . Referencepages494-495ShlomoHershkovich;505-506AlterDovJanovich, unseen.
+- CPLLouisHerskovitzRosecandidate: https://cpl.org/newsindex/showrecord?record=144866&type=necrology . NotlinkedtoJanowitzRose.
+- CPLGeorgieJanowitz1931matchesWarringtonhousehold: https://cpl.org/newsindex/showrecord?record=163238&type=necrology . UnlinkedtoLarry.
+- CPLJanowitzLena1977: https://cpl.org/newsindex/showrecord?record=504917&type=news . motherNathanMoss, noSadie,unlinked.
+- CPLexactEstherYanowitz2003: https://cpl.org/newsindex/showrecord?record=541615&type=news . wifeMorris,laterCJNneeHarteveld,notthevictimwall.
+- CJNEstherYanowitzmonument: https://www.clevelandjewishnews.com/archives/yanowitz/article_d3babaf6-7f34-50c5-86f0-bbe4b9e52746.html . Separatewoman,notwallvictim.
