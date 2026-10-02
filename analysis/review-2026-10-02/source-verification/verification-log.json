@@ -1,0 +1,194 @@
+[
+  {
+    "id": "cpl-rosamond",
+    "url": "https://cpl.org/newsindex/showrecord/?record=614868&type=news",
+    "checked_at": "2026-10-02",
+    "status": "retrieved",
+    "http_status": 200,
+    "mime_type": "text/html",
+    "bytes": 82801,
+    "sha256": "fabf5ac28975ec66c5f72bc8b9aa34f5fd592cd15ed24002d5fe57bf0dc37145"
+  },
+  {
+    "id": "cpl-rose-karr",
+    "url": "https://cpl.org/newsindex/showrecord/?record=569015&type=necrology",
+    "checked_at": "2026-10-02",
+    "status": "retrieved",
+    "http_status": 200,
+    "mime_type": "text/html",
+    "bytes": 83400,
+    "sha256": "307fd02d139b528be2c1201299e3781eea3e10a1cb361ae796005eb870ba1c97"
+  },
+  {
+    "id": "cpl-directory-guide",
+    "url": "https://cpl.org/wp-content/uploads/PDF/genealogy/city_directories.pdf",
+    "checked_at": "2026-10-02",
+    "status": "retrieved",
+    "http_status": 200,
+    "mime_type": "application/pdf",
+    "bytes": 120732,
+    "sha256": "e14fb07bf7c3339431205d170077809a3e66fa297dea575560f4f7053fba9408"
+  },
+  {
+    "id": "ushmm-catalog",
+    "url": "https://collections.ushmm.org/search/catalog/irn505021",
+    "checked_at": "2026-10-02",
+    "status": "retrieved",
+    "http_status": 200,
+    "mime_type": "text/html",
+    "bytes": 1637778,
+    "sha256": "850a2e0097a1505ee834eae995d77b9b8b9b3af613a59e876b8ad5e696d98e72"
+  },
+  {
+    "id": "ushmm-transcript-3",
+    "url": "https://collections.ushmm.org/oh_findingaids/RG-50.091.0080_03_trs_en.pdf",
+    "checked_at": "2026-10-02",
+    "status": "retrieved",
+    "http_status": 200,
+    "mime_type": "application/pdf",
+    "bytes": 719178,
+    "sha256": "7508889a08fb08e1932c42d7229f9f5eea2a2f5e4c818eca165923290a309a3b"
+  },
+  {
+    "id": "paris-victor-act",
+    "url": "https://archives.paris.fr/_recherche-images/show/410797/image/287918/24/full/full/0/default.jpg",
+    "checked_at": "2026-10-02",
+    "status": "retrieved",
+    "http_status": 200,
+    "mime_type": "image/jpeg",
+    "bytes": 1196767,
+    "sha256": "0ce1ddc8811d64f0d790b8419ecaa62ffc24e89fbeedc4d71e1cea7d3c803b5e"
+  },
+  {
+    "id": "bergen-belsen-list",
+    "url": "https://www.infocenters.co.il/massuah/multimedia/Docs/pdf/disk20070109/26956.pdf",
+    "checked_at": "2026-10-02",
+    "status": "unavailable",
+    "error": "HTTP Error 405: Denied"
+  },
+  {
+    "id": "american-jewish-archives",
+    "url": "https://collections.americanjewisharchives.org/ms/ms0361/ms0361d.html",
+    "checked_at": "2026-10-02",
+    "status": "retrieved",
+    "http_status": 200,
+    "mime_type": "text/html",
+    "bytes": 386492,
+    "sha256": "0cb590ff3e5a252f22195336466046f084d470c36a13688d2d8736d609cfba80"
+  },
+  {
+    "id": "arolsen-mordka",
+    "url": "https://collections.arolsen-archives.org/en/search/?s=Mordka+Ejdelsztejn",
+    "checked_at": "2026-10-02",
+    "status": "retrieved",
+    "http_status": 200,
+    "mime_type": "text/html",
+    "bytes": 517647,
+    "sha256": "d1e1f79a42fe3f067f3ffccc49be68dc6b8356053623ff16eb2329ca42e014a4"
+  },
+  {
+    "id": "altalena-journal",
+    "url": "https://cnrs-scrn.org/northern_mariner/vol34/tnm_34_1_129-138.pdf",
+    "checked_at": "2026-10-02",
+    "status": "retrieved",
+    "http_status": 200,
+    "mime_type": "application/pdf",
+    "bytes": 391433,
+    "sha256": "ea9822d6850d05182fcf28239746a6ea05499ba6edbb5e76c9b640ca6b60efa1"
+  },
+  {
+    "id": "cjn-judith",
+    "url": "https://www.clevelandjewishnews.com/community/lifecycles/obituaries/dratler-judith/article_47f8ba7b-d979-4328-940c-237bfa1680c0.html",
+    "checked_at": "2026-10-02",
+    "status": "unavailable",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "id": "nara-women-citizenship",
+    "url": "https://www.archives.gov/publications/prologue/1998/summer/women-and-naturalization-1.html",
+    "checked_at": "2026-10-02",
+    "status": "retrieved",
+    "http_status": 200,
+    "mime_type": "text/html",
+    "bytes": 62333,
+    "sha256": "034a8b4f72766b7e0300e6a4a05c67530c33678800ef9f7fc509da780897fa0c"
+  },
+  {
+    "id": "ushmm-caption-1",
+    "url": "https://oralhistory-assets.ushmm.org/WebVTT/caption/RG-50.091.0080.01.03.mp4.vtt",
+    "checked_at": "2026-10-02",
+    "method": "GET",
+    "status": "unavailable",
+    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  {
+    "id": "ushmm-caption-2",
+    "url": "https://oralhistory-assets.ushmm.org/WebVTT/caption/RG-50.091.0080.02.03.mp4.vtt",
+    "checked_at": "2026-10-02",
+    "method": "GET",
+    "status": "retrieved",
+    "http_status": 200,
+    "mime_type": "binary/octet-stream",
+    "bytes": 113765,
+    "sha256": "4bacaf31ce5756f1fd594551da7febff492f53bf6e81e37f616a0928ce0bb301"
+  },
+  {
+    "id": "ushmm-caption-3",
+    "url": "https://oralhistory-assets.ushmm.org/WebVTT/caption/RG-50.091.0080.03.03.mp4.vtt",
+    "checked_at": "2026-10-02",
+    "method": "GET",
+    "status": "retrieved",
+    "http_status": 200,
+    "mime_type": "binary/octet-stream",
+    "bytes": 99746,
+    "sha256": "9d54989fa63977d896e78cd1d00597fb84782b060fd5fbf4b9b4118ae58ae810"
+  },
+  {
+    "id": "ushmm-video-1",
+    "url": "https://oralhistory-assets.ushmm.org/RG-50.091.0080.01.03.mp4",
+    "checked_at": "2026-10-02",
+    "method": "HEAD",
+    "status": "head-available",
+    "http_status": 200,
+    "mime_type": "video/mp4",
+    "content_length": "181079966"
+  },
+  {
+    "id": "ushmm-video-2",
+    "url": "https://oralhistory-assets.ushmm.org/RG-50.091.0080.02.03.mp4",
+    "checked_at": "2026-10-02",
+    "method": "HEAD",
+    "status": "head-available",
+    "http_status": 200,
+    "mime_type": "video/mp4",
+    "content_length": "183955161"
+  },
+  {
+    "id": "ushmm-video-3",
+    "url": "https://oralhistory-assets.ushmm.org/RG-50.091.0080.03.03.mp4",
+    "checked_at": "2026-10-02",
+    "method": "HEAD",
+    "status": "head-available",
+    "http_status": 200,
+    "mime_type": "video/mp4",
+    "content_length": "162159133"
+  },
+  {
+    "id": "la-paz-municipality",
+    "url": "https://lapaz.gob.ar/?q=node%2F69",
+    "checked_at": "2026-10-02",
+    "method": "GET",
+    "status": "unavailable",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1081)>"
+  },
+  {
+    "id": "ushmm-caption-1-retry",
+    "url": "https://oralhistory-assets.ushmm.org/WebVTT/caption/RG-50.091.0080.01.03.mp4.vtt",
+    "checked_at": "2026-10-02",
+    "method": "GET",
+    "status": "retrieved",
+    "http_status": 200,
+    "bytes": 108019,
+    "sha256": "dacfeeeab0de5b51719cf62b8e7e57db1526eb902de0edad2c8fd0a58cc73190"
+  }
+]

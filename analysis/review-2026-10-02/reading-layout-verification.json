@@ -1,0 +1,4776 @@
+{
+  "source": "Warszawski/05-Print-editions/The-Warszawskis-Coffee-Table-Edition-2026-10-01-Reading-Copy.pdf",
+  "sha256": "0f6e26c0adc86bb826dd2daf3b6e9f01fc99c7bcbeb4bad99e7a9d0772e28a38",
+  "page_count": 236,
+  "pages": [
+    {
+      "page": 1,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 41,
+      "minimum_font_size": 8.5,
+      "replacement_chars": 0
+    },
+    {
+      "page": 2,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 191,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 3,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 78,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 4,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 272,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 5,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 197,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 6,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 42,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 7,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 286,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 8,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 57,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 9,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 56,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 10,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 214,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 11,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 54,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 12,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 327,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 13,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 62,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 14,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 86,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 15,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 39,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 16,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 335,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 17,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 420,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 18,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 339,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 19,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 393,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 20,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 334,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 21,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 343,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 22,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 125,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 23,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 55,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 24,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 74,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 25,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 40,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 26,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 311,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 27,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 295,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 28,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 57,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 29,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 46,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 30,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 429,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 31,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 65,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 32,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 57,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 33,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 57,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 34,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 252,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 35,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 43,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 36,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 45,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 37,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 61,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 38,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 226,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 39,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 62,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 40,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 326,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 41,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 257,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 42,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 54,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 43,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 30,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 44,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 219,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 45,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 164,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 46,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 225,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 47,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 245,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 48,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 163,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 49,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 56,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 50,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 85,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 51,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 93,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 52,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 75,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 53,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 80,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 54,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 68,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 55,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 89,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 56,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 90,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 57,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 99,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 58,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 94,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 59,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 97,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 60,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 108,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 61,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 108,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 62,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 52,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 63,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 315,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 64,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 135,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 65,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 53,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 66,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 391,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 67,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 48,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 68,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 50,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 69,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 45,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 70,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 60,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 71,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 53,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 72,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 315,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 73,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 289,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 74,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 48,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 75,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 60,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 76,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 291,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 77,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 58,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 78,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 310,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 79,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 55,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 80,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 53,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 81,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 366,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 82,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 56,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 83,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 60,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 84,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 338,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 85,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 54,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 86,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 325,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 87,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 56,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 88,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 32,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 89,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 332,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 90,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 58,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 91,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 52,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 92,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 54,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 93,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 315,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 94,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 285,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 95,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 257,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 96,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 247,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 97,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 52,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 98,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 238,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 99,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 68,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 100,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 267,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 101,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 304,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 102,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 235,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 103,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 200,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 104,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 140,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 105,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 223,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 106,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 207,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 107,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 174,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 108,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 245,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 109,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 255,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 110,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 239,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 111,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 265,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 112,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 268,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 113,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 203,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 114,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 194,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 115,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 195,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 116,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 200,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 117,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 253,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 118,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 270,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 119,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 226,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 120,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 239,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 121,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 213,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 122,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 262,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 123,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 203,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 124,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 184,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 125,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 183,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 126,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 222,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 127,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 215,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 128,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 169,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 129,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 187,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 130,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 230,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 131,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 217,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 132,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 248,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 133,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 216,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 134,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 238,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 135,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 202,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 136,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 198,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 137,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 140,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 138,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 166,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 139,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 129,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 140,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 135,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 141,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 154,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 142,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 149,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 143,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 160,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 144,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 149,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 145,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 150,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 146,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 150,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 147,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 154,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 148,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 121,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 149,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 132,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 150,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 116,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 151,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 44,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 152,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 201,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 153,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 151,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 154,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 150,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 155,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 130,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 156,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 150,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 157,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 127,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 158,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 148,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 159,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 141,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 160,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 125,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 161,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 133,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 162,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 147,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 163,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 119,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 164,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 64,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 165,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 130,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 166,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 144,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 167,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 185,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 168,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 158,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 169,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 151,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 170,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 137,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 171,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 189,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 172,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 139,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 173,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 127,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 174,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 142,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 175,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 146,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 176,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 179,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 177,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 157,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 178,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 178,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 179,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 126,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 180,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 165,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 181,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 124,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 182,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 115,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 183,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 120,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 184,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 112,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 185,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 132,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 186,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 151,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 187,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 129,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 188,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 138,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 189,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 125,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 190,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 155,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 191,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 140,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 192,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 129,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 193,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 213,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 194,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 176,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 195,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 161,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 196,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 149,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 197,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 211,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 198,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 184,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 199,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 213,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 200,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 163,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 201,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 176,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 202,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 139,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 203,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 149,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 204,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 155,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 205,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 38,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 206,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 268,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 207,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 193,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 208,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 150,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 209,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 71,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 210,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 70,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 211,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 127,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 212,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 129,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 213,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 183,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 214,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 186,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 215,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 186,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 216,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 165,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 217,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 155,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 218,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 173,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 219,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 182,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 220,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 178,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 221,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 169,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 222,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 258,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 223,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 307,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 224,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 264,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 225,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 292,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 226,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 324,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 227,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 261,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 228,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 132,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 229,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 106,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    },
+    {
+      "page": 230,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 114,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 231,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 109,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 232,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 123,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 233,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 124,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 234,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 109,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 235,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 71,
+      "minimum_font_size": 7.300000190734863,
+      "replacement_chars": 0
+    },
+    {
+      "page": 236,
+      "rect": [
+        0.0,
+        0.0,
+        612.0,
+        792.0
+      ],
+      "words": 156,
+      "minimum_font_size": 7.599999904632568,
+      "replacement_chars": 0
+    }
+  ],
+  "bad_links": [],
+  "overlaps": [
+    {
+      "page": 50,
+      "a": "THE WARSZAWSKIS",
+      "b": "THE WARSZAWSKIS",
+      "bbox": [
+        54.0,
+        747.1849365234375,
+        119.94518280029297,
+        754.8258056640625
+      ]
+    },
+    {
+      "page": 50,
+      "a": "50",
+      "b": "50",
+      "bbox": [
+        529.7255859375,
+        746.11376953125,
+        540.0035400390625,
+        755.162109375
+      ]
+    },
+    {
+      "page": 51,
+      "a": "THE WARSZAWSKIS",
+      "b": "THE WARSZAWSKIS",
+      "bbox": [
+        72.0,
+        747.1849365234375,
+        137.9451904296875,
+        754.8258056640625
+      ]
+    },
+    {
+      "page": 51,
+      "a": "51",
+      "b": "51",
+      "bbox": [
+        547.7255859375,
+        746.11376953125,
+        558.0035400390625,
+        755.162109375
+      ]
+    },
+    {
+      "page": 52,
+      "a": "THE WARSZAWSKIS",
+      "b": "THE WARSZAWSKIS",
+      "bbox": [
+        54.0,
+        747.1849365234375,
+        119.94518280029297,
+        754.8258056640625
+      ]
+    },
+    {
+      "page": 52,
+      "a": "52",
+      "b": "52",
+      "bbox": [
+        529.7255859375,
+        746.11376953125,
+        540.0035400390625,
+        755.162109375
+      ]
+    },
+    {
+      "page": 53,
+      "a": "THE WARSZAWSKIS",
+      "b": "THE WARSZAWSKIS",
+      "bbox": [
+        72.0,
+        747.1849365234375,
+        137.9451904296875,
+        754.8258056640625
+      ]
+    },
+    {
+      "page": 53,
+      "a": "53",
+      "b": "53",
+      "bbox": [
+        547.7255859375,
+        746.11376953125,
+        558.0035400390625,
+        755.162109375
+      ]
+    },
+    {
+      "page": 54,
+      "a": "THE WARSZAWSKIS",
+      "b": "THE WARSZAWSKIS",
+      "bbox": [
+        54.0,
+        747.1849365234375,
+        119.94518280029297,
+        754.8258056640625
+      ]
+    },
+    {
+      "page": 54,
+      "a": "54",
+      "b": "54",
+      "bbox": [
+        529.7255859375,
+        746.11376953125,
+        540.0035400390625,
+        755.162109375
+      ]
+    },
+    {
+      "page": 55,
+      "a": "THE WARSZAWSKIS",
+      "b": "THE WARSZAWSKIS",
+      "bbox": [
+        72.0,
+        747.1849365234375,
+        137.9451904296875,
+        754.8258056640625
+      ]
+    },
+    {
+      "page": 55,
+      "a": "55",
+      "b": "55",
+      "bbox": [
+        547.7255859375,
+        746.11376953125,
+        558.0035400390625,
+        755.162109375
+      ]
+    },
+    {
+      "page": 56,
+      "a": "THE WARSZAWSKIS",
+      "b": "THE WARSZAWSKIS",
+      "bbox": [
+        54.0,
+        747.1849365234375,
+        119.94518280029297,
+        754.8258056640625
+      ]
+    },
+    {
+      "page": 56,
+      "a": "56",
+      "b": "56",
+      "bbox": [
+        529.7255859375,
+        746.11376953125,
+        540.0035400390625,
+        755.162109375
+      ]
+    },
+    {
+      "page": 57,
+      "a": "THE WARSZAWSKIS",
+      "b": "THE WARSZAWSKIS",
+      "bbox": [
+        72.0,
+        747.1849365234375,
+        137.9451904296875,
+        754.8258056640625
+      ]
+    },
+    {
+      "page": 57,
+      "a": "57",
+      "b": "57",
+      "bbox": [
+        547.7255859375,
+        746.11376953125,
+        558.0035400390625,
+        755.162109375
+      ]
+    },
+    {
+      "page": 58,
+      "a": "THE WARSZAWSKIS",
+      "b": "THE WARSZAWSKIS",
+      "bbox": [
+        54.0,
+        747.1849365234375,
+        119.94518280029297,
+        754.8258056640625
+      ]
+    },
+    {
+      "page": 58,
+      "a": "58",
+      "b": "58",
+      "bbox": [
+        529.7255859375,
+        746.11376953125,
+        540.0035400390625,
+        755.162109375
+      ]
+    },
+    {
+      "page": 59,
+      "a": "THE WARSZAWSKIS",
+      "b": "THE WARSZAWSKIS",
+      "bbox": [
+        72.0,
+        747.1849365234375,
+        137.9451904296875,
+        754.8258056640625
+      ]
+    },
+    {
+      "page": 59,
+      "a": "59",
+      "b": "59",
+      "bbox": [
+        547.7255859375,
+        746.11376953125,
+        558.0035400390625,
+        755.162109375
+      ]
+    },
+    {
+      "page": 60,
+      "a": "THE WARSZAWSKIS",
+      "b": "THE WARSZAWSKIS",
+      "bbox": [
+        54.0,
+        747.1849365234375,
+        119.94518280029297,
+        754.8258056640625
+      ]
+    },
+    {
+      "page": 60,
+      "a": "60",
+      "b": "60",
+      "bbox": [
+        529.7255859375,
+        746.11376953125,
+        540.0035400390625,
+        755.162109375
+      ]
+    },
+    {
+      "page": 61,
+      "a": "THE WARSZAWSKIS",
+      "b": "THE WARSZAWSKIS",
+      "bbox": [
+        72.0,
+        747.1849365234375,
+        137.9451904296875,
+        754.8258056640625
+      ]
+    },
+    {
+      "page": 61,
+      "a": "61",
+      "b": "61",
+      "bbox": [
+        547.7255859375,
+        746.11376953125,
+        558.0035400390625,
+        755.162109375
+      ]
+    }
+  ],
+  "small_text": [
+    {
+      "page": 5,
+      "examples": [
+        {
+          "text": "R E A D I N G T H I S F A M I L Y H I S T O R Y",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "examples": [
+        {
+          "text": "W A R S A W A N D B A B R U Y S K",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "examples": [
+        {
+          "text": "W A R S A W A N D B A B R U Y S K",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "examples": [
+        {
+          "text": "W A R S A W A N D B A B R U Y S K",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "examples": [
+        {
+          "text": "Z E I D Y L A R R Y",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 17,
+      "examples": [
+        {
+          "text": "Z E I D Y L A R R Y",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "examples": [
+        {
+          "text": "Z E I D Y L A R R Y",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "examples": [
+        {
+          "text": "Z E I D Y L A R R Y",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 20,
+      "examples": [
+        {
+          "text": "Z E I D Y L A R R Y",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 21,
+      "examples": [
+        {
+          "text": "Z E I D Y L A R R Y",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 22,
+      "examples": [
+        {
+          "text": "Z E I D Y L A R R Y",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 26,
+      "examples": [
+        {
+          "text": "I L E E N A N D T H E G A R S O N S",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 27,
+      "examples": [
+        {
+          "text": "I L E E N A N D T H E G A R S O N S",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 30,
+      "examples": [
+        {
+          "text": "I L E E N A N D T H E G A R S O N S",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 34,
+      "examples": [
+        {
+          "text": "I L E E N A N D T H E G A R S O N S",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 38,
+      "examples": [
+        {
+          "text": "A H O U S E H O L D I N C L E V E L A N D",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 40,
+      "examples": [
+        {
+          "text": "A H O U S E H O L D I N C L E V E L A N D",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 41,
+      "examples": [
+        {
+          "text": "A H O U S E H O L D I N C L E V E L A N D",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 45,
+      "examples": [
+        {
+          "text": "T H E N I N E C H I L D R E N",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 46,
+      "examples": [
+        {
+          "text": "T H E N I N E C H I L D R E N",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 47,
+      "examples": [
+        {
+          "text": "T H E N I N E C H I L D R E N",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 63,
+      "examples": [
+        {
+          "text": "O T H E R P A T H S T H R O U G H F R A N C E",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 64,
+      "examples": [
+        {
+          "text": "O T H E R P A T H S T H R O U G H F R A N C E",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 66,
+      "examples": [
+        {
+          "text": "O T H E R P A T H S T H R O U G H F R A N C E",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 72,
+      "examples": [
+        {
+          "text": "O T H E R P A T H S T H R O U G H F R A N C E",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 73,
+      "examples": [
+        {
+          "text": "O T H E R P A T H S T H R O U G H F R A N C E",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 76,
+      "examples": [
+        {
+          "text": "O T H E R P A T H S T H R O U G H F R A N C E",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 78,
+      "examples": [
+        {
+          "text": "O T H E R P A T H S T H R O U G H F R A N C E",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 81,
+      "examples": [
+        {
+          "text": "O T H E R P A T H S T H R O U G H F R A N C E",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 84,
+      "examples": [
+        {
+          "text": "O T H E R P A T H S T H R O U G H F R A N C E",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 86,
+      "examples": [
+        {
+          "text": "O T H E R P A T H S T H R O U G H F R A N C E",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 89,
+      "examples": [
+        {
+          "text": "Q U E S T I O N S S T I L L O P E N",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 93,
+      "examples": [
+        {
+          "text": "Q U E S T I O N S S T I L L O P E N",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 94,
+      "examples": [
+        {
+          "text": "Q U E S T I O N S S T I L L O P E N",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 95,
+      "examples": [
+        {
+          "text": "Q U E S T I O N S S T I L L O P E N",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 96,
+      "examples": [
+        {
+          "text": "Q U E S T I O N S S T I L L O P E N",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 98,
+      "examples": [
+        {
+          "text": "Q U E S T I O N S S T I L L O P E N",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 101,
+      "examples": [
+        {
+          "text": "T H E F A M I L Y R E G I S T E R",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 102,
+      "examples": [
+        {
+          "text": "T H E F A M I L Y R E G I S T E R",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 103,
+      "examples": [
+        {
+          "text": "T H E F A M I L Y R E G I S T E R",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 104,
+      "examples": [
+        {
+          "text": "T H E F A M I L Y R E G I S T E R",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 105,
+      "examples": [
+        {
+          "text": "T H E F A M I L Y R E G I S T E R",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 106,
+      "examples": [
+        {
+          "text": "T H E F A M I L Y R E G I S T E R",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 107,
+      "examples": [
+        {
+          "text": "T H E F A M I L Y R E G I S T E R",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 108,
+      "examples": [
+        {
+          "text": "T H E F A M I L Y R E G I S T E R",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 109,
+      "examples": [
+        {
+          "text": "T H E F A M I L Y R E G I S T E R",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 110,
+      "examples": [
+        {
+          "text": "T H E F A M I L Y R E G I S T E R",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 111,
+      "examples": [
+        {
+          "text": "T H E F A M I L Y R E G I S T E R",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 112,
+      "examples": [
+        {
+          "text": "T H E F A M I L Y R E G I S T E R",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 113,
+      "examples": [
+        {
+          "text": "T H E F A M I L Y R E G I S T E R",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 114,
+      "examples": [
+        {
+          "text": "T H E F A M I L Y R E G I S T E R",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 115,
+      "examples": [
+        {
+          "text": "T H E F A M I L Y R E G I S T E R",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 116,
+      "examples": [
+        {
+          "text": "T H E F A M I L Y R E G I S T E R",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 117,
+      "examples": [
+        {
+          "text": "T H E F A M I L Y R E G I S T E R",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 118,
+      "examples": [
+        {
+          "text": "T H E F A M I L Y R E G I S T E R",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 119,
+      "examples": [
+        {
+          "text": "T H E F A M I L Y R E G I S T E R",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 120,
+      "examples": [
+        {
+          "text": "T H E F A M I L Y R E G I S T E R",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 121,
+      "examples": [
+        {
+          "text": "T H E F A M I L Y R E G I S T E R",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 122,
+      "examples": [
+        {
+          "text": "T H E F A M I L Y R E G I S T E R",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 123,
+      "examples": [
+        {
+          "text": "T H E F A M I L Y R E G I S T E R",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 124,
+      "examples": [
+        {
+          "text": "T H E F A M I L Y R E G I S T E R",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 125,
+      "examples": [
+        {
+          "text": "T H E F A M I L Y R E G I S T E R",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 126,
+      "examples": [
+        {
+          "text": "T H E F A M I L Y R E G I S T E R",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 127,
+      "examples": [
+        {
+          "text": "T H E F A M I L Y R E G I S T E R",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 128,
+      "examples": [
+        {
+          "text": "T H E F A M I L Y R E G I S T E R",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 129,
+      "examples": [
+        {
+          "text": "T H E F A M I L Y R E G I S T E R",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 130,
+      "examples": [
+        {
+          "text": "T H E F A M I L Y R E G I S T E R",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 131,
+      "examples": [
+        {
+          "text": "T H E F A M I L Y R E G I S T E R",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 132,
+      "examples": [
+        {
+          "text": "T H E F A M I L Y R E G I S T E R",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 133,
+      "examples": [
+        {
+          "text": "T H E F A M I L Y R E G I S T E R",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 134,
+      "examples": [
+        {
+          "text": "T H E F A M I L Y R E G I S T E R",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 135,
+      "examples": [
+        {
+          "text": "T H E F A M I L Y R E G I S T E R",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 136,
+      "examples": [
+        {
+          "text": "T H E F A M I L Y R E G I S T E R",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 137,
+      "examples": [
+        {
+          "text": "T H E F A M I L Y R E G I S T E R",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 138,
+      "examples": [
+        {
+          "text": "T H E F A M I L Y R E G I S T E R",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 139,
+      "examples": [
+        {
+          "text": "T H E F A M I L Y R E G I S T E R",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 140,
+      "examples": [
+        {
+          "text": "T H E F A M I L Y R E G I S T E R",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 141,
+      "examples": [
+        {
+          "text": "T H E F A M I L Y R E G I S T E R",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 142,
+      "examples": [
+        {
+          "text": "T H E F A M I L Y R E G I S T E R",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 143,
+      "examples": [
+        {
+          "text": "T H E F A M I L Y R E G I S T E R",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 144,
+      "examples": [
+        {
+          "text": "T H E F A M I L Y R E G I S T E R",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 145,
+      "examples": [
+        {
+          "text": "T H E F A M I L Y R E G I S T E R",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 146,
+      "examples": [
+        {
+          "text": "T H E F A M I L Y R E G I S T E R",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 147,
+      "examples": [
+        {
+          "text": "T H E F A M I L Y R E G I S T E R",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 148,
+      "examples": [
+        {
+          "text": "T H E F A M I L Y R E G I S T E R",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 149,
+      "examples": [
+        {
+          "text": "T H E F A M I L Y R E G I S T E R",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 150,
+      "examples": [
+        {
+          "text": "T H E F A M I L Y R E G I S T E R",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 151,
+      "examples": [
+        {
+          "text": "T H E F A M I L Y R E G I S T E R",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 153,
+      "examples": [
+        {
+          "text": "T H E R E C O R D E D H O U S E H O L D S",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 154,
+      "examples": [
+        {
+          "text": "T H E R E C O R D E D H O U S E H O L D S",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 155,
+      "examples": [
+        {
+          "text": "T H E R E C O R D E D H O U S E H O L D S",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 156,
+      "examples": [
+        {
+          "text": "T H E R E C O R D E D H O U S E H O L D S",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 157,
+      "examples": [
+        {
+          "text": "T H E R E C O R D E D H O U S E H O L D S",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 158,
+      "examples": [
+        {
+          "text": "T H E R E C O R D E D H O U S E H O L D S",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 159,
+      "examples": [
+        {
+          "text": "T H E R E C O R D E D H O U S E H O L D S",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 160,
+      "examples": [
+        {
+          "text": "T H E R E C O R D E D H O U S E H O L D S",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 161,
+      "examples": [
+        {
+          "text": "T H E R E C O R D E D H O U S E H O L D S",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 162,
+      "examples": [
+        {
+          "text": "T H E R E C O R D E D H O U S E H O L D S",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 163,
+      "examples": [
+        {
+          "text": "T H E R E C O R D E D H O U S E H O L D S",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 164,
+      "examples": [
+        {
+          "text": "T H E R E C O R D E D H O U S E H O L D S",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 166,
+      "examples": [
+        {
+          "text": "N O T E S T O T H E S T O R I E S",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 167,
+      "examples": [
+        {
+          "text": "N O T E S T O T H E S T O R I E S",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 168,
+      "examples": [
+        {
+          "text": "N O T E S T O T H E S T O R I E S",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 169,
+      "examples": [
+        {
+          "text": "N O T E S T O T H E S T O R I E S",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 170,
+      "examples": [
+        {
+          "text": "N O T E S T O T H E S T O R I E S",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 171,
+      "examples": [
+        {
+          "text": "N O T E S T O T H E S T O R I E S",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 172,
+      "examples": [
+        {
+          "text": "N O T E S T O T H E S T O R I E S",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 173,
+      "examples": [
+        {
+          "text": "N O T E S T O T H E S T O R I E S",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 174,
+      "examples": [
+        {
+          "text": "N O T E S T O T H E S T O R I E S",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 175,
+      "examples": [
+        {
+          "text": "N O T E S T O T H E S T O R I E S",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 176,
+      "examples": [
+        {
+          "text": "N O T E S T O T H E S T O R I E S",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 177,
+      "examples": [
+        {
+          "text": "N O T E S T O T H E S T O R I E S",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 178,
+      "examples": [
+        {
+          "text": "N O T E S T O T H E S T O R I E S",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 179,
+      "examples": [
+        {
+          "text": "N O T E S T O T H E S T O R I E S",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 181,
+      "examples": [
+        {
+          "text": "S O U R C E C A T A L O G U E",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 182,
+      "examples": [
+        {
+          "text": "S O U R C E C A T A L O G U E",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 183,
+      "examples": [
+        {
+          "text": "S O U R C E C A T A L O G U E",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 184,
+      "examples": [
+        {
+          "text": "S O U R C E C A T A L O G U E",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 185,
+      "examples": [
+        {
+          "text": "S O U R C E C A T A L O G U E",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 186,
+      "examples": [
+        {
+          "text": "S O U R C E C A T A L O G U E",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 187,
+      "examples": [
+        {
+          "text": "S O U R C E C A T A L O G U E",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 188,
+      "examples": [
+        {
+          "text": "S O U R C E C A T A L O G U E",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 189,
+      "examples": [
+        {
+          "text": "S O U R C E C A T A L O G U E",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 190,
+      "examples": [
+        {
+          "text": "S O U R C E C A T A L O G U E",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 191,
+      "examples": [
+        {
+          "text": "S O U R C E C A T A L O G U E",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 192,
+      "examples": [
+        {
+          "text": "S O U R C E C A T A L O G U E",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 193,
+      "examples": [
+        {
+          "text": "S O U R C E C A T A L O G U E",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 194,
+      "examples": [
+        {
+          "text": "S O U R C E C A T A L O G U E",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 195,
+      "examples": [
+        {
+          "text": "S O U R C E C A T A L O G U E",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 196,
+      "examples": [
+        {
+          "text": "S O U R C E C A T A L O G U E",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 197,
+      "examples": [
+        {
+          "text": "S O U R C E C A T A L O G U E",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 198,
+      "examples": [
+        {
+          "text": "S O U R C E C A T A L O G U E",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 199,
+      "examples": [
+        {
+          "text": "S O U R C E C A T A L O G U E",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 200,
+      "examples": [
+        {
+          "text": "S O U R C E C A T A L O G U E",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 201,
+      "examples": [
+        {
+          "text": "S O U R C E C A T A L O G U E",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 202,
+      "examples": [
+        {
+          "text": "S O U R C E C A T A L O G U E",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 203,
+      "examples": [
+        {
+          "text": "S O U R C E C A T A L O G U E",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 204,
+      "examples": [
+        {
+          "text": "S O U R C E C A T A L O G U E",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 205,
+      "examples": [
+        {
+          "text": "N E W   R E C O R D S   A N D   R E S E A R C H",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 206,
+      "examples": [
+        {
+          "text": "N E W   R E C O R D S   A N D   R E S E A R C H",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 207,
+      "examples": [
+        {
+          "text": "N E W   R E C O R D S   A N D   R E S E A R C H",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 208,
+      "examples": [
+        {
+          "text": "N E W   R E C O R D S   A N D   R E S E A R C H",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 209,
+      "examples": [
+        {
+          "text": "N E W   R E C O R D S   A N D   R E S E A R C H",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 210,
+      "examples": [
+        {
+          "text": "N E W   R E C O R D S   A N D   R E S E A R C H",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 211,
+      "examples": [
+        {
+          "text": "N E W   R E C O R D S   A N D   R E S E A R C H",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 212,
+      "examples": [
+        {
+          "text": "N E W   R E C O R D S   A N D   R E S E A R C H",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 213,
+      "examples": [
+        {
+          "text": "N E W   R E C O R D S   A N D   R E S E A R C H",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 214,
+      "examples": [
+        {
+          "text": "N E W   R E C O R D S   A N D   R E S E A R C H",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 215,
+      "examples": [
+        {
+          "text": "N E W   R E C O R D S   A N D   R E S E A R C H",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 216,
+      "examples": [
+        {
+          "text": "N E W   R E C O R D S   A N D   R E S E A R C H",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 217,
+      "examples": [
+        {
+          "text": "N E W   R E C O R D S   A N D   R E S E A R C H",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 218,
+      "examples": [
+        {
+          "text": "N E W   R E C O R D S   A N D   R E S E A R C H",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 219,
+      "examples": [
+        {
+          "text": "N E W   R E C O R D S   A N D   R E S E A R C H",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 220,
+      "examples": [
+        {
+          "text": "N E W   R E C O R D S   A N D   R E S E A R C H",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 221,
+      "examples": [
+        {
+          "text": "N E W   R E C O R D S   A N D   R E S E A R C H",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 222,
+      "examples": [
+        {
+          "text": "N E W   R E C O R D S   A N D   R E S E A R C H",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 223,
+      "examples": [
+        {
+          "text": "N E W   R E C O R D S   A N D   R E S E A R C H",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 224,
+      "examples": [
+        {
+          "text": "S O U R C E   N O T E S",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 225,
+      "examples": [
+        {
+          "text": "S O U R C E   N O T E S",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 226,
+      "examples": [
+        {
+          "text": "S O U R C E   N O T E S",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 227,
+      "examples": [
+        {
+          "text": "S O U R C E   N O T E S",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 228,
+      "examples": [
+        {
+          "text": "N E W   R E C O R D S",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 230,
+      "examples": [
+        {
+          "text": "N A M E I N D E X",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 231,
+      "examples": [
+        {
+          "text": "N A M E I N D E X",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 232,
+      "examples": [
+        {
+          "text": "N A M E I N D E X",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 233,
+      "examples": [
+        {
+          "text": "N A M E I N D E X",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 234,
+      "examples": [
+        {
+          "text": "N A M E I N D E X",
+          "size": 7.300000190734863
+        }
+      ]
+    },
+    {
+      "page": 235,
+      "examples": [
+        {
+          "text": "N A M E I N D E X",
+          "size": 7.300000190734863
+        }
+      ]
+    }
+  ],
+  "image_resolution": [
+    {
+      "page": 1,
+      "pixels": [
+        824,
+        520
+      ],
+      "dpi": 94.2,
+      "bbox": [
+        -9.0,
+        305.0,
+        621.0,
+        702.5728149414062
+      ]
+    },
+    {
+      "page": 6,
+      "pixels": [
+        264,
+        457
+      ],
+      "dpi": 73.1,
+      "bbox": [
+        167.0218963623047,
+        101.0,
+        426.97808837890625,
+        551.0
+      ]
+    },
+    {
+      "page": 8,
+      "pixels": [
+        575,
+        298
+      ],
+      "dpi": 85.2,
+      "bbox": [
+        54.0,
+        192.99998474121094,
+        540.0,
+        444.8747863769531
+      ]
+    },
+    {
+      "page": 13,
+      "pixels": [
+        597,
+        262
+      ],
+      "dpi": 104.8,
+      "bbox": [
+        109.92369842529297,
+        426.0,
+        520.076416015625,
+        606.0
+      ]
+    },
+    {
+      "page": 15,
+      "pixels": [
+        649,
+        759
+      ],
+      "dpi": 121.4,
+      "bbox": [
+        122.60870361328125,
+        101.0,
+        507.39129638671875,
+        551.0
+      ]
+    },
+    {
+      "page": 23,
+      "pixels": [
+        520,
+        680
+      ],
+      "dpi": 100.3,
+      "bbox": [
+        128.41180419921875,
+        158.0,
+        501.58831787109375,
+        646.0
+      ]
+    },
+    {
+      "page": 24,
+      "pixels": [
+        744,
+        448
+      ],
+      "dpi": 110.2,
+      "bbox": [
+        54.0,
+        158.0,
+        540.0,
+        450.64520263671875
+      ]
+    },
+    {
+      "page": 28,
+      "pixels": [
+        342,
+        498
+      ],
+      "dpi": 105.2,
+      "bbox": [
+        54.0,
+        158.0,
+        288.0,
+        498.7367858886719
+      ]
+    },
+    {
+      "page": 36,
+      "pixels": [
+        824,
+        520
+      ],
+      "dpi": 122.1,
+      "bbox": [
+        54.0,
+        101.0,
+        540.0,
+        407.6990051269531
+      ]
+    },
+    {
+      "page": 43,
+      "pixels": [
+        464,
+        329
+      ],
+      "dpi": 92.8,
+      "bbox": [
+        135.00001525878906,
+        132.99996948242188,
+        495.0,
+        388.2585754394531
+      ]
+    },
+    {
+      "page": 92,
+      "pixels": [
+        650,
+        656
+      ],
+      "dpi": 108.1,
+      "bbox": [
+        80.49848175048828,
+        193.0,
+        513.50146484375,
+        630.0
+      ]
+    }
+  ]
+}

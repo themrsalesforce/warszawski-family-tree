@@ -1,0 +1,43 @@
+{
+  "review_date": "2026-10-02",
+  "reading_sha256": "0f6e26c0adc86bb826dd2daf3b6e9f01fc99c7bcbeb4bad99e7a9d0772e28a38",
+  "print_sha256": "c2ff33df3b0bf61eef56e2578021cbaedbafa871407786b48156794ececbb3a0",
+  "reading_pages": 236,
+  "print_pages": 236,
+  "differing_text_pages": [],
+  "reading_page_size": [
+    0.0,
+    0.0,
+    612.0,
+    792.0
+  ],
+  "print_page_size": [
+    0.0,
+    0.0,
+    630.0,
+    810.0
+  ],
+  "print_trim_box": [
+    9.0,
+    9.0,
+    621.0,
+    801.0
+  ],
+  "words_including_headers_and_reference_material": 38689,
+  "person_entries": 183,
+  "household_entries": 57,
+  "person_classifications": {
+    "Core family": 91,
+    "Unlinked research person": 92
+  },
+  "source_entries_S": 131,
+  "source_entries_W": 30,
+  "undefined_S_identifiers": [],
+  "external_link_placements": 134,
+  "limitations": [
+    "No independent authentication of every claim",
+    "Automated extraction may not read scanned handwriting",
+    "Source entries include search results and derivative records",
+    "No full current production-source package supplied"
+  ]
+}

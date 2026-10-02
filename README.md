@@ -4,6 +4,7 @@ Local research repository imported from Google Drive on 2026-10-02, following th
 
 ## Start here
 
+- [October 2 research and editorial review](analysis/review-2026-10-02/REVIEW.md): proposed 194-page budget, accuracy corrections and prioritized closure criteria.
 - [Current sources](CURRENT-SOURCES.md): edition selection and tree-version caveats.
 - [Import report](analysis/IMPORT-REPORT.md): completeness, checksums, archive expansion and extraction limits.
 - [Tree baseline](analysis/TREE-STRUCTURE.md): duplicate IDs, missing references and relationship-cycle checks.
@@ -30,3 +31,18 @@ python3 scripts/check_tree.py
 Python 3.11+, Poppler `pdftotext`, and macOS `textutil` are needed. Re-indexing regenerates preserved archive expansions, so make substantive changes in a separate working copy. Imported historical build scripts are preserved as source, not automatically executed. Scans marked for OCR or review are not fully represented by extracted text.
 
 Exact duplicates and repeated claims across revisions are not independent evidence. Relationships, dates, source quality and unresolved identifications must be reviewed separately from file integrity and graph structure.
+
+## Reproduce the current-edition review
+
+The review covers the actual 236-page PDFs. Its extracted text and evidence tables are tracked; rendered inspection images remain under ignored `.analysis-cache/`. The older editable/checklist bundle describes 212 pages and is not a complete current production package.
+
+```sh
+python3 -m venv .venv
+.venv/bin/pip install -r scripts/requirements-review.txt
+.venv/bin/python scripts/audit_review.py
+.venv/bin/python scripts/audit_print_layout.py
+.venv/bin/python scripts/review_manuscript_layout.py
+python3 scripts/check_review.py
+```
+
+External checks can be repeated into a new snapshot directory with `scripts/verify_review_sources.py --output .analysis-cache/source-recheck`. Original imported genealogy snapshots remain unchanged; proposed corrections are in the review and closure ledger.

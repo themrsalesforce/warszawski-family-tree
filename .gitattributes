@@ -1,0 +1,4 @@
+# Public evidence snapshots retain exact server bytes for SHA-256 comparison.
+# Their upstream whitespace is preserved, rather than treated as authored code.
+analysis/review-2026-10-02/source-verification/*.html -text -whitespace
+analysis/review-2026-10-02/source-verification/*.vtt -text -whitespace
