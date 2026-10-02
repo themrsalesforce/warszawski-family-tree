@@ -1,0 +1,362 @@
+{
+  "archive_name": "Warszawski-Research-Update-Sources-2026-10-02.zip",
+  "archive_bytes": 67986129,
+  "archive_sha256": "7a4d2e7b3c76c79a40ec07820965e01c749911716f1a4993488fb52e454c7f85",
+  "files": [
+    {
+      "path": "Book-details/1920-census-heading.jpg",
+      "bytes": 95907,
+      "sha256": "c4c77c9e28c39dd66ae6054641568b58290bd8315ed82aaf59043c969fb99968"
+    },
+    {
+      "path": "Book-details/1920-garson-allen-household.jpg",
+      "bytes": 37853,
+      "sha256": "b190defbbb6d99158a7cbd3d3c09b03ca30db8289ff0f61dfafb9a0f259dcc7b"
+    },
+    {
+      "path": "Book-details/1920-garson-origins.jpg",
+      "bytes": 53145,
+      "sha256": "3e8d242cc27170359a93a2554a2298a470e1e94810eef7cf8725eb3d9c3c5493"
+    },
+    {
+      "path": "Book-details/edward-1952-groom-fields.jpg",
+      "bytes": 207206,
+      "sha256": "bfe8694be59a6e152f582a6d11572c39631c3be7eab20d4fe1f2e33159c32ad3"
+    },
+    {
+      "path": "Book-details/marriage-111752.jpg",
+      "bytes": 1029245,
+      "sha256": "835a52884dbd9433a78cff6d6eebbb37d53a9429d8faca78cb1afb382f48bd22"
+    },
+    {
+      "path": "Book-details/pearl-birth-certificate.jpg",
+      "bytes": 465746,
+      "sha256": "9f7bf5617999c23834cc37e9647314d3017a0f028056b4852bdbe624ba572fb9"
+    },
+    {
+      "path": "Book-details/rose-1906-marriage-entry.jpg",
+      "bytes": 216265,
+      "sha256": "1d56ed24e8c85c5edf20f030edf413907af0410aed6782dc35808502f107a447"
+    },
+    {
+      "path": "Book-details/rose-alliance-sister-detail.jpg",
+      "bytes": 97597,
+      "sha256": "5e443e1b28519c94859142bd02c57198eeb6c6e89274bee84d6ed2abaa401b30"
+    },
+    {
+      "path": "Book-details/rose-sister-affidavit.jpg",
+      "bytes": 374438,
+      "sha256": "50fcaee82af1610c2b81c3c1b81a490894acbe889a832606a96d6ec3320ae218"
+    },
+    {
+      "path": "Book-details/ryndam-rachel-victor-names.jpg",
+      "bytes": 283237,
+      "sha256": "012bfde706a37f7f6cc6facde7ef9b40f5c3b8a5b27c7b2f91164ac617187dc5"
+    },
+    {
+      "path": "Book-details/ryndam-ship-heading.jpg",
+      "bytes": 442567,
+      "sha256": "ca503d117bd8414c5efe19538010fe46d5c32117a4ccc336d1721c6481be6653"
+    },
+    {
+      "path": "Book-details/victor-court-order.jpg",
+      "bytes": 2372968,
+      "sha256": "6a9d5ba4a31b65952dca13d41e42d96c96d89ace903e6c9284a4dec941a01950"
+    },
+    {
+      "path": "Book-details/victor-name-change-detail.jpg",
+      "bytes": 301889,
+      "sha256": "e661da7e0efee25523c7d0fb4e9187358df22e51a3143b76b8eb1929a51e0e28"
+    },
+    {
+      "path": "Book-details/victor-petition-19277.jpg",
+      "bytes": 3232630,
+      "sha256": "85030a2c168202d59be0269f01fb451bccc33db33fe107e545687f2ac76cfd4d"
+    },
+    {
+      "path": "Book-details/victor-petition-names-and-crossing.jpg",
+      "bytes": 518911,
+      "sha256": "1423f4292e55b4e9324c33c1e81a6b510a26f291d69707ac2a1ad25d32c0e32c"
+    },
+    {
+      "path": "Complete-book-text-2026-10-02.txt",
+      "bytes": 247511,
+      "sha256": "04026cef9fc5e4ef38682f31bcb133b5eb95ea6cda67b981c6d4c04d79c10060"
+    },
+    {
+      "path": "New-records-chapter-text.txt",
+      "bytes": 28800,
+      "sha256": "9a439a8790bd67eeee7bb70f64e5e4c7ec2b72f225026d4817f4f813efa6a803"
+    },
+    {
+      "path": "PDF-verification.json",
+      "bytes": 1510,
+      "sha256": "7e34e6043d80ceb53c8dc3c8729440fa4af24b30b7893ba0f99f5d2dd3509714"
+    },
+    {
+      "path": "README.txt",
+      "bytes": 2656,
+      "sha256": "187df899c6bcb226aab3a0ab0ad9b997844ec1bd0ffe71b9f2c8434b1ceacb86"
+    },
+    {
+      "path": "Rebuild/README.txt",
+      "bytes": 1083,
+      "sha256": "f6f3b667ece8c17f4ba52f84b803d865ffadb2820adcd2d5d3bf1f56e3326a51"
+    },
+    {
+      "path": "Rebuild/baseline/The-Warszawskis-Coffee-Table-Edition-2026-10-01-Print-Interior.pdf",
+      "bytes": 31487896,
+      "sha256": "d39572bdaadcbe9a861bbb134af3b3dcdc5bfb397cc1c835d7fbdaa9645137dc"
+    },
+    {
+      "path": "Rebuild/baseline/The-Warszawskis-Coffee-Table-Edition-2026-10-01-Reading-Copy.pdf",
+      "bytes": 9464484,
+      "sha256": "ac19f8f56bc9dfc51544680d2beffb0ef0327c5c02e53c193218bd908368ddbe"
+    },
+    {
+      "path": "Rebuild/build_supplement.py",
+      "bytes": 39204,
+      "sha256": "93fb0b52ec8a3f93260a8e1fbf8037c5a2d3ceebc4ee57add6e188bf1748ca0a"
+    },
+    {
+      "path": "Rebuild/figures/1920-census-heading.jpg",
+      "bytes": 95907,
+      "sha256": "c4c77c9e28c39dd66ae6054641568b58290bd8315ed82aaf59043c969fb99968"
+    },
+    {
+      "path": "Rebuild/figures/1920-garson-allen-household.jpg",
+      "bytes": 37853,
+      "sha256": "b190defbbb6d99158a7cbd3d3c09b03ca30db8289ff0f61dfafb9a0f259dcc7b"
+    },
+    {
+      "path": "Rebuild/figures/1920-garson-origins.jpg",
+      "bytes": 53145,
+      "sha256": "3e8d242cc27170359a93a2554a2298a470e1e94810eef7cf8725eb3d9c3c5493"
+    },
+    {
+      "path": "Rebuild/figures/edward-1952-groom-fields.jpg",
+      "bytes": 207206,
+      "sha256": "bfe8694be59a6e152f582a6d11572c39631c3be7eab20d4fe1f2e33159c32ad3"
+    },
+    {
+      "path": "Rebuild/figures/marriage-111752.jpg",
+      "bytes": 1029245,
+      "sha256": "835a52884dbd9433a78cff6d6eebbb37d53a9429d8faca78cb1afb382f48bd22"
+    },
+    {
+      "path": "Rebuild/figures/pearl-birth-certificate.jpg",
+      "bytes": 465746,
+      "sha256": "9f7bf5617999c23834cc37e9647314d3017a0f028056b4852bdbe624ba572fb9"
+    },
+    {
+      "path": "Rebuild/figures/rose-1906-marriage-entry.jpg",
+      "bytes": 216265,
+      "sha256": "1d56ed24e8c85c5edf20f030edf413907af0410aed6782dc35808502f107a447"
+    },
+    {
+      "path": "Rebuild/figures/rose-alliance-sister-detail.jpg",
+      "bytes": 97597,
+      "sha256": "5e443e1b28519c94859142bd02c57198eeb6c6e89274bee84d6ed2abaa401b30"
+    },
+    {
+      "path": "Rebuild/figures/rose-sister-affidavit.jpg",
+      "bytes": 374438,
+      "sha256": "50fcaee82af1610c2b81c3c1b81a490894acbe889a832606a96d6ec3320ae218"
+    },
+    {
+      "path": "Rebuild/figures/ryndam-rachel-victor-names.jpg",
+      "bytes": 283237,
+      "sha256": "012bfde706a37f7f6cc6facde7ef9b40f5c3b8a5b27c7b2f91164ac617187dc5"
+    },
+    {
+      "path": "Rebuild/figures/ryndam-ship-heading.jpg",
+      "bytes": 442567,
+      "sha256": "ca503d117bd8414c5efe19538010fe46d5c32117a4ccc336d1721c6481be6653"
+    },
+    {
+      "path": "Rebuild/figures/victor-court-order.jpg",
+      "bytes": 2372968,
+      "sha256": "6a9d5ba4a31b65952dca13d41e42d96c96d89ace903e6c9284a4dec941a01950"
+    },
+    {
+      "path": "Rebuild/figures/victor-name-change-detail.jpg",
+      "bytes": 301889,
+      "sha256": "e661da7e0efee25523c7d0fb4e9187358df22e51a3143b76b8eb1929a51e0e28"
+    },
+    {
+      "path": "Rebuild/figures/victor-petition-19277.jpg",
+      "bytes": 3232630,
+      "sha256": "85030a2c168202d59be0269f01fb451bccc33db33fe107e545687f2ac76cfd4d"
+    },
+    {
+      "path": "Rebuild/figures/victor-petition-names-and-crossing.jpg",
+      "bytes": 518911,
+      "sha256": "1423f4292e55b4e9324c33c1e81a6b510a26f291d69707ac2a1ad25d32c0e32c"
+    },
+    {
+      "path": "Rebuild/fonts/OpenSans-Light.ttf",
+      "bytes": 222412,
+      "sha256": "cf5f5184c1441a1660aa52526328e9d5c2793e77b6d8d3a3ad654bdb07ab8424"
+    },
+    {
+      "path": "Rebuild/fonts/OpenSans-Regular.ttf",
+      "bytes": 217360,
+      "sha256": "e64e508b2aa2880f907e470c4550980ec4c0694d103a43f36150ac3f93189bee"
+    },
+    {
+      "path": "Rebuild/fonts/bchb8a.afm",
+      "bytes": 21626,
+      "sha256": "158df973b139872077e8a130390c8cd265cae1828665268d95534e6ab2c8478a"
+    },
+    {
+      "path": "Rebuild/fonts/bchb8a.pfb",
+      "bytes": 33799,
+      "sha256": "c50fd6e717599f306b8b3261d309c56849f4366771c1983c875eabf46bc2b956"
+    },
+    {
+      "path": "Rebuild/fonts/bchr8a.afm",
+      "bytes": 19764,
+      "sha256": "cba23e7d634e0c519dad78767910c792455b42760275522421c784fe1463b19c"
+    },
+    {
+      "path": "Rebuild/fonts/bchr8a.pfb",
+      "bytes": 34869,
+      "sha256": "8ac5bad34cad9b59b087eebfaf9087c16901b0761f7f9cc538f2f65567fc3959"
+    },
+    {
+      "path": "Rebuild/fonts/bchri8a.afm",
+      "bytes": 19927,
+      "sha256": "f4233e9516bcb2c077d3c55121c593d47f5349908059bce0b1f1d842a6a70a81"
+    },
+    {
+      "path": "Rebuild/fonts/bchri8a.pfb",
+      "bytes": 35118,
+      "sha256": "0c3e189c6a52401c62c9fcde32f453a4dc95836d8c6e03fe8908100d854f3a83"
+    },
+    {
+      "path": "Rebuild/fonts/fonts-open-sans-copyright.txt",
+      "bytes": 1031,
+      "sha256": "94d4b78643f99d7cfa872145b38da578299f401405ca5cba66a5c95bf13933b0"
+    },
+    {
+      "path": "Rebuild/fonts/texlive-fonts-recommended-copyright.txt",
+      "bytes": 33443,
+      "sha256": "d7f9a14c6f223e71df0329ad164351d2188291cc20a385a30c83f21eaa42de61"
+    },
+    {
+      "path": "Rebuild/integrate_book.py",
+      "bytes": 19773,
+      "sha256": "d7b300c367174132c5978d3b3fdf2a35dc5e10908cc8e104eeb6b49b7b492030"
+    },
+    {
+      "path": "Rebuild/qa_book.py",
+      "bytes": 3694,
+      "sha256": "e30606c734f5ee4d3a2c24ff78a20f3ea44245934111cdfb4f30181d6f6199cf"
+    },
+    {
+      "path": "Rebuild/rebuild-verification.json",
+      "bytes": 1511,
+      "sha256": "71f992b9eecf5fe24f0aaf763d0b9f2e5e34cd0bcd6cea92f03788fd0a6653f7"
+    },
+    {
+      "path": "Rebuild/requirements.txt",
+      "bytes": 48,
+      "sha256": "8acc7c85b34610205fd66007fde361e76d0a433a224f9abce82fcb33dd6dcee7"
+    },
+    {
+      "path": "Rebuild/sources-catalogue.json",
+      "bytes": 9680,
+      "sha256": "589fcb89e609aa5a829d4f25ef699aac5e3f2a1dd6bb472bfd62ad139ace84aa"
+    },
+    {
+      "path": "Revision-summary.txt",
+      "bytes": 3325,
+      "sha256": "4632e3f1bbd81f4d114f3dca091fc27e4bdda697ade465158d09205c0564f3ed"
+    },
+    {
+      "path": "Source-catalogue.csv",
+      "bytes": 8729,
+      "sha256": "f3d3148f42fd02f00aa89d62cbc4303a5dadaf31528cd4c52f7af20b4b9d2ae6"
+    },
+    {
+      "path": "Source-catalogue.json",
+      "bytes": 9680,
+      "sha256": "589fcb89e609aa5a829d4f25ef699aac5e3f2a1dd6bb472bfd62ad139ace84aa"
+    },
+    {
+      "path": "Source-images/1910-Grenberg-candidate-crop.jpg",
+      "bytes": 282843,
+      "sha256": "0dcf246e1b4e0f16b0e41c435436e27c99546b6565c4bb4b55ec01e89af9b99c"
+    },
+    {
+      "path": "Source-images/1920-census-visible-source.jpg",
+      "bytes": 892353,
+      "sha256": "ffaddb8465c0d66a5025832faa1a830b9a1cf70bec4c4abcb0a8f1323db68068"
+    },
+    {
+      "path": "Source-images/Edward-Allen-Annette-Harris-1952-original-detail.png",
+      "bytes": 1814591,
+      "sha256": "757755120f650867dc80461f558447166e89d3a753e3eade4b0bc2a8891c8e25"
+    },
+    {
+      "path": "Source-images/Isidor-Adelstein-Edward-Allen-VA-dates-detail.png",
+      "bytes": 55167,
+      "sha256": "6ecf456e2741db560d3225e41d4f0d0d994201860fc3fe60d273d5000b6f5335"
+    },
+    {
+      "path": "Source-images/Isidor-Adelstein-Edward-Allen-VA-name-detail.png",
+      "bytes": 60113,
+      "sha256": "3745dc53e3172502696b75ad112492724e4c6497f0c549c7ee6390cf854a3ec0"
+    },
+    {
+      "path": "Source-images/Pearl-Adelstein-Rose-Alliance-affidavit-1940-displayed-scan.png",
+      "bytes": 932446,
+      "sha256": "8cb216f24af0422f5858f9c05c0b4fb77f2e660904992dd61e957650f943bc6e"
+    },
+    {
+      "path": "Source-images/Pearl-Adelstein-birth-certificate-1940-displayed-scan.png",
+      "bytes": 1118789,
+      "sha256": "9eb3a9e1e687dbb6e406c08502d0b14a5478335500d98e3797987743cbcc6166"
+    },
+    {
+      "path": "Source-images/Rose-Adelstein-Sam-Alliance-1906-original-detail.png",
+      "bytes": 798735,
+      "sha256": "17bd81df4a1a5e868760b2c7401a3c309ed729016103770dd7656956fa2a2ca4"
+    },
+    {
+      "path": "Source-images/Ryndam_1902_Gerschenowitz_candidate_reverse_G63S_original.jpg",
+      "bytes": 1733665,
+      "sha256": "6b959ed33d84685719726990702ae7e74f5da22c15db96756a26522ccb57e406"
+    },
+    {
+      "path": "Source-images/Victor_Garson_1924_naturalization_PGGF_original.jpg",
+      "bytes": 1206194,
+      "sha256": "184e654929085cdb18c147bcdf44f0897efcadb3013ada435f798c300defd6ed"
+    },
+    {
+      "path": "Source-images/Victor_Garson_1924_petition_declaration_PGTZ_original.jpg",
+      "bytes": 1437346,
+      "sha256": "b58ec61c518f0cf6ecdbacc9e9ed2796d509cfcfb01f88de75873853e971b4dd"
+    },
+    {
+      "path": "Source-images/Victor_Garson_Pearl_Adelstein_1916_image1100_original.jpg",
+      "bytes": 1928661,
+      "sha256": "da0a99ddb3d7b4d84d678259e2fc82ce2fcde547f11d4b6414d524d7047f28d6"
+    },
+    {
+      "path": "Source-images/Victor_Gerschenowitz_Ryndam_candidate_1902_G636_original.jpg",
+      "bytes": 1614888,
+      "sha256": "f97a951580d0258731f3e871dd81a9056b7c17372331834601d768408e44cc48"
+    },
+    {
+      "path": "Source-images/act2087-full-crop.jpg",
+      "bytes": 276560,
+      "sha256": "b15943721e78dbc181c415a948236654f51241c1404a39e95d6df0811ac43e63"
+    },
+    {
+      "path": "Source-images/marcus-1958-federal-card-reverse.jpg",
+      "bytes": 213904,
+      "sha256": "ede41a1d110b042480f738d5d6c11951351be13718ea00d6f371c80ff028f107"
+    }
+  ]
+}
