@@ -21,7 +21,7 @@ Originals remain unchanged. Archives are expanded beside their originals; the ar
 
 Git tracks Markdown, extracted text, genealogy data, source code and inventories. PDFs, images, ZIPs, Office files and fonts stay on disk, with checksums, and are ignored as in the Chaikin repository. The disguised ZIP is also ignored; its expanded JSON is tracked. A Git clone alone cannot restore the ignored originals: retain Drive and a local backup.
 
-Completed changes are committed and pushed to [themrsalesforce/warszawski-family-tree](https://github.com/themrsalesforce/warszawski-family-tree). A 15-minute recurring monitor checks stable outside edits and approved inbound Drive changes; see [SYNC.md](SYNC.md) and [AGENTS.md](AGENTS.md). Every commit represents an actual change; an unchanged monitor run creates no commit. Shared materials use the same Drive source IDs as the Chaikin project, while each repository keeps its own family data and history.
+Completed changes are committed and pushed to [themrsalesforce/warszawski-family-tree](https://github.com/themrsalesforce/warszawski-family-tree). Read the project rules and [current handoff](analysis/review-2026-10-02/DEV-HANDOFF.md) when taking over work. Stable outside edits and approved inbound Drive updates are reconciled on demand. The recurring monitor has been removed; see [SYNC.md](SYNC.md) and [AGENTS.md](AGENTS.md). Every commit represents an actual change; an unchanged sync creates no commit. Shared materials use the same Drive source IDs as the Chaikin project, while each repository keeps its own family data and history.
 
 ## Reproduce the import checks
 

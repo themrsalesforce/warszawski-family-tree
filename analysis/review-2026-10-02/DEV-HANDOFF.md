@@ -1,8 +1,12 @@
 # Reprocess the Warszawski edition from the review
 
-The user requests implementation of these proposals after establishing the public, synchronized repository. Work from [themrsalesforce/warszawski-family-tree](https://github.com/themrsalesforce/warszawski-family-tree), fetch current `main`, and follow [AGENTS.md](../../AGENTS.md) and [SYNC.md](../../SYNC.md). Every completed change should have a descriptive commit and ordinary push. Verify local/remote hashes; preserve concurrent edits and published history.
+The user requests a newly reprocessed document implementing these proposals after establishing the public, synchronized repository. Work from [themrsalesforce/warszawski-family-tree](https://github.com/themrsalesforce/warszawski-family-tree), read the project rules and this handoff, inspect status/recent commits, fetch current `main` and fast-forward only when clean and compatible, and follow [AGENTS.md](../../AGENTS.md) and [SYNC.md](../../SYNC.md). Every completed change should have a descriptive commit and ordinary push. Verify local/remote hashes; preserve concurrent edits and published history.
 
 The detailed review was committed as `9c3c448`. Read the [review](REVIEW.md), [condensation plan](CONDENSATION-PLAN.md), [accuracy/source findings](ACCURACY-AND-SOURCES.md), [open items](OPEN-ITEMS.md) and [CSV ledger](open-items.csv). Reprocess the edition using all of them, not only the headline page target.
+
+## Current handoff state
+
+The imported source edition is `Warszawski/05-Print-editions/The-Warszawskis-Coffee-Table-Edition-2026-10-01-Reading-Copy.pdf`, internally updated October 2 with 236 pages. Review outputs are in this directory. No shortened edition has yet been produced. Latest preservation checks pass: 229 unchanged originals, 13 verified external snapshots, 39 unique review items and valid local report links. The last Drive comparison matched all 229 source files. The local asset manifest covers 298 binary files. GitHub contains tracked text/data/code/manifests; retrieve the ignored originals from the existing local folder or the approved Drive sources in SYNC.md before rebuilding. The older editable bundle is incomplete for the current edition, so current production recovery remains the first implementation step.
 
 ## Implementation order
 
@@ -17,6 +21,6 @@ The detailed review was committed as `9c3c448`. Read the [review](REVIEW.md), [c
 
 Keep original binaries local/Drive and preserve their checksums; regular Git does not contain those bytes. Deliver tracked editable/code/data changes and the new production/verification manifests through the public repo. New PDFs/images need a durable artifact destination; do not imply a Git clone contains them. Uploading into Drive needs its own explicit instruction, so use the established artifact delivery mechanism or request a destination if necessary.
 
-Commit each coherent completed change; do not create empty commits or monitoring timestamp churn. The local recurring monitor imports approved inbound Drive changes and synchronizes stable local/remote changes. Shared source folders are the same ones used by the Chaikin repository, but the family repositories remain separate. Avoid editing both live checkouts concurrently.
+Commit each coherent completed change; do not create empty commits or monitoring timestamp churn. The recurring monitor has been removed. Synchronization is on demand under AGENTS.md and SYNC.md; read these project rules at every takeover and preserve unfinished work. Record the source edition, completed changes, checks, output locations, unresolved items and pushed commit in the project folder at the next handoff. Shared source folders are the same ones used by the Chaikin repository, but the family repositories remain separate. Avoid editing both live checkouts concurrently.
 
 Return the produced files/links, actual page count, validated corrections, questions closed with evidence, questions still open and pushed commit hashes. Distinguish an implemented proposal from a recommendation, an available record route from a record actually examined, and a rendered digital proof from a physical proof.
