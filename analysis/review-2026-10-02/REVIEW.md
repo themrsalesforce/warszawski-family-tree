@@ -8,11 +8,12 @@ Keep the family narrative, photographs and readable family charts. Aim for **abo
 
 The most useful next research is the identity bridge from **Victor Gershanovitz/Garson to the candidate Paris birth act**, and the original records resolving **Szyman's Zisl/Joseph patronymic**. Broad searches for unrelated Garson families now have lower value. Pearl's Cleveland birth, her Adelstein parents and Rose's identity already have substantial documentary support in the current book; their old questions should not keep driving research as though nothing had been found.
 
-The local Git repository now follows the Chaikin project's preservation approach. The verified import was committed as `be3484f`. Text, data, scripts and manifests are tracked; originals and expanded binary evidence remain on disk and in Drive with checksums. There is no Git remote. A clone alone does not restore the ignored originals.
+The Git repository follows the Chaikin project's preservation approach. The verified import was committed as `be3484f`. Text, data, scripts and manifests are tracked; originals and expanded binary evidence remain on disk and in Drive with checksums. The subsequent setup adds the [public GitHub remote](https://github.com/themrsalesforce/warszawski-family-tree) and [recurring synchronization](../../SYNC.md). A clone alone does not restore the ignored originals.
 
 ## Deliverables
 
 - [Condensation plan](CONDENSATION-PLAN.md): section budgets, precise cuts and a sample of the proposed editorial treatment.
+- [Developer reprocessing handoff](DEV-HANDOFF.md): implementation order, validation and delivery requirements.
 - [Accuracy and source findings](ACCURACY-AND-SOURCES.md): corrections, unsupported certainty and new source checks.
 - [Open items and closure criteria](OPEN-ITEMS.md): a prioritized research agenda, including questions already answered or superseded.
 - [Machine-readable closure ledger](open-items.csv), [old-question dispositions](question-disposition.csv) and [duplicate-ID resolution map](tree-id-resolution.csv).
