@@ -48,3 +48,7 @@ The final revision and handoff are scoped public text/code/data/manifests. Binar
 ## Closure accounting
 
 The39 review items comprise2 fully implemented structural/qualification items,5 established resolved manuscript/documentary claims,4 partly closed production/source/owner-review items,2 narrowed by the new original,25 still open (including rechecked index/original-record routes), and1 established interview access route. The working tree has16 open broad questions and3 closed broad findings; no new uncle/lost-sister or candidate-family identity is declared closed. Final independent review passed the200-page proof; its last elder-Szyman p53 crosshit was removed and guarded.
+
+## Verified publication
+
+Completed revision commit **`1bb9b71f705118cec63a3b6dd6d87059bab699d9`** was ordinarily pushed to `origin/main`; `git ls-remote origin refs/heads/main` matched that exact local hash. The preceding recovered-source commit is `bf6358576be941d9940c3a4b43dffdc3a9bf59ea`. This final publication record is a separate handoff commit; inspect `git log -1` for its hash. No published history was rewritten. All primary artifacts were saved and round-trip verified before the revision commit.
